@@ -47,7 +47,6 @@
     { "name": "Cat Wu", "handle": "_catwu" },
     { "name": "Thariq", "handle": "trq212" },
     { "name": "Google Labs", "handle": "GoogleLabs" },
-    { "name": "George Mack", "handle": "george__mack" },
     { "name": "Raiza Martin", "handle": "raizamrtn" },
     { "name": "Amjad Masad", "handle": "amasad" },
     { "name": "Guillermo Rauch", "handle": "rauchg" },
@@ -60,9 +59,11 @@
     { "name": "Lulu Cheng Meservey", "handle": "lulumeservey" },
     { "name": "Justine Moore", "handle": "venturetwins" },
     { "name": "Matt Turck", "handle": "mattturck" },
-    { "name": "Julie Zhuo", "handle": "joulee" },
-    { "name": "Gabriel Peters", "handle": "GabrielPeterss4" },
     { "name": "PJ Ace", "handle": "PJaccetturo" },
-    { "name": "Zara Zhang", "handle": "zarazhangrui" }
+    { "name": "Zara Zhang", "handle": "zarazhangrui" },
+    { "name": "Nikunj Kothari", "handle": "nikunj" },
+    { "name": "Peter Steinberger", "handle": "steipete" },
+    { "name": "Dan Shipper", "handle": "danshipper" },
+    { "name": "Aditya Agarwal", "handle": "adityaag" }
   ]
 }
