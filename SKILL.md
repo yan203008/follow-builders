@@ -356,7 +356,7 @@ Read the prompts from the `prompts` field in the JSON:
 - `prompts.summarize_youtube` — how to remix YouTube videos
 - `prompts.translate` — how to translate to Chinese
 
-**Tweets (process first):** The `x` array has builders with tweets. Process one at a time:
+**Tweets (process first):** The `x` array has builder tweets and `x_extra` has personal follows. Process each account:
 1. Use their `bio` field for their role (e.g. bio says "ceo @box" → "Box CEO Aaron Levie")
 2. Summarize their `tweets` using `prompts.summarize_tweets`
 3. Every tweet MUST include its `url` from the JSON

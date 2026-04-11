@@ -30,6 +30,7 @@ const FEED_X_URL = 'https://raw.githubusercontent.com/zarazhangrui/follow-builde
 const FEED_PODCASTS_URL = 'https://raw.githubusercontent.com/yan203008/follow-builders/main/feed-podcasts.json';
 const FEED_BLOGS_URL = 'https://raw.githubusercontent.com/yan203008/follow-builders/main/feed-blogs.json';
 const FEED_YOUTUBE_URL = 'https://raw.githubusercontent.com/yan203008/follow-builders/main/feed-youtube.json';
+const FEED_X_EXTRA_URL = 'https://raw.githubusercontent.com/yan203008/follow-builders/main/feed-x-extra.json';
 
 const PROMPTS_BASE = 'https://raw.githubusercontent.com/yan203008/follow-builders/main/prompts';
 const PROMPT_FILES = [
@@ -75,17 +76,19 @@ async function main() {
   }
 
   // 2. Fetch all feeds
-  const [feedX, feedPodcasts, feedBlogs, feedYoutube] = await Promise.all([
+  const [feedX, feedPodcasts, feedBlogs, feedYoutube, feedXExtra] = await Promise.all([
     fetchJSON(FEED_X_URL),
     fetchJSON(FEED_PODCASTS_URL),
     fetchJSON(FEED_BLOGS_URL),
-    fetchJSON(FEED_YOUTUBE_URL)
+    fetchJSON(FEED_YOUTUBE_URL),
+    fetchJSON(FEED_X_EXTRA_URL)
   ]);
 
   if (!feedX) errors.push('Could not fetch tweet feed');
   if (!feedPodcasts) errors.push('Could not fetch podcast feed');
   if (!feedBlogs) errors.push('Could not fetch blog feed');
   if (!feedYoutube) errors.push('Could not fetch YouTube feed');
+  if (!feedXExtra) errors.push('Could not fetch extra X feed');
 
   // 3. Load prompts with priority: user custom > remote (GitHub) > local default
   //
@@ -141,6 +144,7 @@ async function main() {
     x: feedX?.x || [],
     blogs: feedBlogs?.blogs || [],
     youtube: feedYoutube?.youtube || [],
+    x_extra: feedXExtra?.xExtra || [],
 
     // Stats for the LLM to reference
     stats: {
@@ -150,6 +154,7 @@ async function main() {
       blogPosts: feedBlogs?.blogs?.length || 0,
       youtubeChannels: feedYoutube?.youtube?.length || 0,
       totalVideos: (feedYoutube?.youtube || []).reduce((sum, c) => sum + c.videos.length, 0),
+      xExtraAccounts: feedXExtra?.xExtra?.length || 0,
       feedGeneratedAt: feedX?.generatedAt || feedPodcasts?.generatedAt || feedBlogs?.generatedAt || feedYoutube?.generatedAt || null
     },
 

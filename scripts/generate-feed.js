@@ -23,6 +23,10 @@ const X_API_BASE = 'https://api.x.com/2';
 // Some RSS hosts (notably Substack) block non-browser user agents from cloud IPs.
 // Using a real Chrome UA avoids 403 errors in GitHub Actions.
 const RSS_USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36';
+const RSSHUB_INSTANCES = [
+  'https://rsshub.app',
+  'https://rss.nodeseek.com'
+];
 const TWEET_LOOKBACK_HOURS = 24;
 const PODCAST_LOOKBACK_HOURS = 336; // 14 days — podcasts publish weekly/biweekly, not daily
 const BLOG_LOOKBACK_HOURS = 72;
@@ -691,6 +695,82 @@ async function fetchYouTubeContent(channels, state, errors) {
   return results;
 }
 
+// -- RSSHub X Fetcher (free, no API key) ---------------------------------------
+
+// Fetches tweets for extra X accounts via RSSHub.
+// RSSHub converts X user timelines to RSS. Tries multiple instances for reliability.
+async function fetchXExtraViaRSSHub(accounts, state, errors) {
+  const results = [];
+  const cutoff = new Date(Date.now() - TWEET_LOOKBACK_HOURS * 60 * 60 * 1000);
+
+  for (const account of accounts) {
+    let fetched = false;
+
+    for (const instance of RSSHUB_INSTANCES) {
+      if (fetched) break;
+
+      try {
+        const rssUrl = `${instance}/twitter/user/${account.handle}`;
+        const res = await fetch(rssUrl, {
+          headers: { 'User-Agent': RSS_USER_AGENT },
+          signal: AbortSignal.timeout(15000)
+        });
+
+        if (!res.ok) continue;
+
+        const xml = await res.text();
+
+        // Parse RSS items
+        const itemRegex = /<item>([\s\S]*?)<\/item>/gi;
+        const tweets = [];
+        let itemMatch;
+
+        while ((itemMatch = itemRegex.exec(xml)) !== null && tweets.length < MAX_TWEETS_PER_USER) {
+          const block = itemMatch[1];
+
+          const titleMatch = block.match(/<title><!\[CDATA\[([\s\S]*?)\]\]><\/title>/)
+            || block.match(/<title>([\s\S]*?)<\/title>/);
+          const text = titleMatch ? titleMatch[1].replace(/^RT @[^:]+: /, '').trim() : '';
+
+          const linkMatch = block.match(/<link>([\s\S]*?)<\/link>/);
+          const url = linkMatch ? linkMatch[1].trim() : '';
+
+          const pubMatch = block.match(/<pubDate>([\s\S]*?)<\/pubDate>/);
+          const createdAt = pubMatch ? new Date(pubMatch[1].trim()).toISOString() : null;
+
+          if (!text || !url) continue;
+          if (createdAt && new Date(createdAt) < cutoff) continue;
+          if (state.seenTweets[url]) continue;
+
+          tweets.push({ text, url, createdAt });
+          state.seenTweets[url] = Date.now();
+        }
+
+        if (tweets.length > 0) {
+          results.push({
+            source: 'x_extra',
+            name: account.name,
+            handle: account.handle,
+            bio: '',
+            tweets
+          });
+          fetched = true;
+        }
+      } catch (err) {
+        // Try next instance
+      }
+
+      if (!fetched) await new Promise(r => setTimeout(r, 500));
+    }
+
+    if (!fetched) {
+      errors.push(`RSSHub: Failed to fetch @${account.handle}`);
+    }
+  }
+
+  return results;
+}
+
 // -- Main --------------------------------------------------------------------
 
 async function main() {
@@ -705,7 +785,9 @@ async function main() {
   const runTweets = tweetsOnly || (!podcastsOnly && !blogsOnly && !youtubeOnly);
   const runPodcasts = podcastsOnly || (!tweetsOnly && !blogsOnly && !youtubeOnly);
   const runBlogs = blogsOnly || (!tweetsOnly && !podcastsOnly && !youtubeOnly);
-  const runYoutube = youtubeOnly || (!tweetsOnly && !podcastsOnly && !blogsOnly);
+  const runYoutube = youtubeOnly || (!tweetsOnly && !podcastsOnly && !blogsOnly && !xExtraOnly);
+  const xExtraOnly = args.includes('--x-extra-only');
+  const runXExtra = xExtraOnly || (!tweetsOnly && !podcastsOnly && !blogsOnly && !youtubeOnly);
 
   const xBearerToken = process.env.X_BEARER_TOKEN;
 
@@ -791,6 +873,25 @@ async function main() {
     };
     await writeFile(join(SCRIPT_DIR, '..', 'feed-youtube.json'), JSON.stringify(youtubeFeed, null, 2));
     console.error(`  feed-youtube.json: ${youtubeContent.length} channels, ${totalVideos} videos`);
+  }
+
+  // Fetch extra X accounts via RSSHub (free, no API key)
+  if (runXExtra && sources.x_accounts_extra && sources.x_accounts_extra.length > 0) {
+    console.error('Fetching extra X accounts via RSSHub...');
+    const xExtra = await fetchXExtraViaRSSHub(sources.x_accounts_extra, state, errors);
+    console.error(`  ${xExtra.length} extra accounts with new tweets`);
+
+    const totalExtra = xExtra.reduce((sum, a) => sum + a.tweets.length, 0);
+    const xExtraFeed = {
+      generatedAt: new Date().toISOString(),
+      lookbackHours: TWEET_LOOKBACK_HOURS,
+      xExtra,
+      stats: { xExtraAccounts: xExtra.length, totalExtraTweets: totalExtra },
+      errors: errors.filter(e => e.startsWith('RSSHub')).length > 0
+        ? errors.filter(e => e.startsWith('RSSHub')) : undefined
+    };
+    await writeFile(join(SCRIPT_DIR, '..', 'feed-x-extra.json'), JSON.stringify(xExtraFeed, null, 2));
+    console.error(`  feed-x-extra.json: ${xExtra.length} accounts, ${totalExtra} tweets`);
   }
 
   // Save dedup state
