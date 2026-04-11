@@ -26,7 +26,7 @@ import { homedir } from 'os';
 const USER_DIR = join(homedir(), '.follow-builders');
 const CONFIG_PATH = join(USER_DIR, 'config.json');
 
-const FEED_X_URL = 'https://raw.githubusercontent.com/yan203008/follow-builders/main/feed-x.json';
+const FEED_X_URL = 'https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-x.json';
 const FEED_PODCASTS_URL = 'https://raw.githubusercontent.com/yan203008/follow-builders/main/feed-podcasts.json';
 const FEED_BLOGS_URL = 'https://raw.githubusercontent.com/yan203008/follow-builders/main/feed-blogs.json';
 const FEED_YOUTUBE_URL = 'https://raw.githubusercontent.com/yan203008/follow-builders/main/feed-youtube.json';
