@@ -793,8 +793,8 @@ async function main() {
   const xBearerToken = process.env.X_BEARER_TOKEN;
 
   if (runTweets && !xBearerToken) {
-    console.error('X_BEARER_TOKEN not set');
-    process.exit(1);
+    console.error('X_BEARER_TOKEN not set — skipping X feed');
+    // Don't exit; just skip X tweets, continue with other feeds
   }
 
   const sources = await loadSources();
@@ -802,7 +802,7 @@ async function main() {
   const errors = [];
 
   // Fetch tweets
-  if (runTweets) {
+  if (runTweets && xBearerToken) {
     console.error('Fetching X/Twitter content...');
     const allXAccounts = [...(sources.x_accounts || []), ...(sources.x_accounts_extra || [])];
     const xContent = await fetchXContent(allXAccounts, xBearerToken, state, errors);
