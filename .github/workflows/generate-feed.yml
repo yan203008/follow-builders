@@ -2,7 +2,7 @@ name: Generate Feeds
 
 on:
   schedule:
-    # All feeds (tweets, podcasts, blogs): once daily at 6am UTC
+    # All feeds: once daily at 6am UTC
     - cron: '0 6 * * *'
   workflow_dispatch:
     inputs:
@@ -17,6 +17,7 @@ on:
           - podcasts-only
           - blogs-only
           - youtube-only
+          - x-extra-only
 
 jobs:
   generate:
@@ -29,15 +30,15 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Install dependencies
         run: cd scripts && npm install
 
       - name: Generate feeds
         env:
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
-          POD2TXT_API_KEY: ${{ secrets.POD2TXT_API_KEY }}
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.mode }}" != "all" ]; then
             cd scripts && node generate-feed.js --${{ inputs.mode }}
