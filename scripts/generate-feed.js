@@ -19,7 +19,6 @@ import { join } from 'path';
 
 // -- Constants ---------------------------------------------------------------
 
-const POD2TXT_BASE = 'https://pod2txt.vercel.app/api';
 const X_API_BASE = 'https://api.x.com/2';
 // Some RSS hosts (notably Substack) block non-browser user agents from cloud IPs.
 // Using a real Chrome UA avoids 403 errors in GitHub Actions.
@@ -80,7 +79,7 @@ async function loadSources() {
 // -- Podcast Fetching (RSS + pod2txt) ----------------------------------------
 
 // Parses an RSS feed XML string and returns episode objects with
-// title, publishedAt, guid, and link. RSS feeds list newest first.
+// title, publishedAt, guid, link, and description. RSS feeds list newest first.
 function parseRssFeed(xml) {
   const episodes = [];
   // Match each <item> block in the RSS feed
@@ -107,65 +106,30 @@ function parseRssFeed(xml) {
     const linkMatch = block.match(/<link>([\s\S]*?)<\/link>/);
     const link = linkMatch ? linkMatch[1].trim() : null;
 
+    // Extract description/show notes (prefer content:encoded, then description)
+    const descMatch = block.match(/<content:encoded><!\[CDATA\[([\s\S]*?)\]\]><\/content:encoded>/)
+      || block.match(/<content:encoded>([\s\S]*?)<\/content:encoded>/)
+      || block.match(/<description><!\[CDATA\[([\s\S]*?)\]\]><\/description>/)
+      || block.match(/<description>([\s\S]*?)<\/description>/);
+    const description = descMatch
+      ? descMatch[1].replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim()
+      : '';
+
     if (guid) {
-      episodes.push({ title, guid, publishedAt, link });
+      episodes.push({ title, guid, publishedAt, link, description });
     }
   }
   return episodes;
 }
 
-// Fetches a transcript from pod2txt. The API is async: first request may
-// return "processing", so we poll until "ready" (up to 5 attempts, ~2.5 min).
-async function fetchPod2txtTranscript(rssUrl, guid, apiKey) {
-  const maxAttempts = 5;
-  const pollInterval = 30000; // 30 seconds between polls
-
-  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
-    const res = await fetch(`${POD2TXT_BASE}/transcript`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ feedurl: rssUrl, guid, apikey: apiKey })
-    });
-
-    if (!res.ok) {
-      const text = await res.text().catch(() => '');
-      return { error: `HTTP ${res.status}: ${text}` };
-    }
-
-    const data = await res.json();
-
-    if (data.status === 'ready' && data.url) {
-      // Transcript is ready — fetch the text from the provided URL
-      const txtRes = await fetch(data.url);
-      if (!txtRes.ok) return { error: `Failed to fetch transcript text: HTTP ${txtRes.status}` };
-      const transcript = await txtRes.text();
-      return { transcript };
-    }
-
-    if (data.status === 'processing') {
-      console.error(`      pod2txt: processing (attempt ${attempt}/${maxAttempts}), waiting ${pollInterval / 1000}s...`);
-      if (attempt < maxAttempts) {
-        await new Promise(r => setTimeout(r, pollInterval));
-      }
-      continue;
-    }
-
-    // Unexpected status or error from the API
-    return { error: data.message || `Unexpected status: ${data.status}` };
-  }
-
-  return { error: 'Timed out waiting for transcript processing' };
-}
-
 // Main podcast fetching function. For each podcast:
 // 1. Fetches the RSS feed to discover episodes
 // 2. Filters by lookback window and dedup
-// 3. Fetches transcript via pod2txt for the newest unseen episode
-async function fetchPodcastContent(podcasts, apiKey, state, errors) {
+// 3. Uses RSS description/show notes (no external API needed)
+async function fetchPodcastContent(podcasts, state, errors) {
+  const results = [];
   const cutoff = new Date(Date.now() - PODCAST_LOOKBACK_HOURS * 60 * 60 * 1000);
-  const allCandidates = [];
 
-  // Step 1: Discover episodes from each podcast's RSS feed
   for (const podcast of podcasts) {
     if (!podcast.rssUrl) {
       errors.push(`Podcast: No rssUrl configured for ${podcast.name}`);
@@ -182,11 +146,10 @@ async function fetchPodcastContent(podcasts, apiKey, state, errors) {
           'Cache-Control': 'no-cache',
           'Connection': 'keep-alive'
         },
-        signal: AbortSignal.timeout(30000) // 30 second timeout for large feeds
+        signal: AbortSignal.timeout(30000)
       });
 
       if (!rssRes.ok) {
-        console.error(`  ${podcast.name}: RSS fetch failed — HTTP ${rssRes.status}`);
         errors.push(`Podcast: Failed to fetch RSS for ${podcast.name}: HTTP ${rssRes.status}`);
         continue;
       }
@@ -195,75 +158,34 @@ async function fetchPodcastContent(podcasts, apiKey, state, errors) {
       const episodes = parseRssFeed(rssXml);
       console.error(`  ${podcast.name}: found ${episodes.length} episodes in RSS feed`);
 
-      // Check the 3 most recent episodes, skip already-seen ones
-      for (const episode of episodes.slice(0, 3)) {
-        if (state.seenVideos[episode.guid]) {
-          console.error(`    Skipping "${episode.title}" (already seen)`);
-          continue;
-        }
+      // Take up to 3 newest unseen episodes within the lookback window
+      let added = 0;
+      for (const episode of episodes) {
+        if (added >= 3) break;
+        if (state.seenVideos[episode.guid]) continue;
+        if (episode.publishedAt && new Date(episode.publishedAt) < cutoff) continue;
 
-        console.error(`    Candidate: "${episode.title}" published=${episode.publishedAt || 'unknown'}`);
-        allCandidates.push({ podcast, ...episode });
+        state.seenVideos[episode.guid] = Date.now();
+
+        results.push({
+          source: 'podcast',
+          name: podcast.name,
+          title: episode.title,
+          guid: episode.guid,
+          url: episode.link || podcast.url,
+          publishedAt: episode.publishedAt,
+          description: episode.description
+        });
+        added++;
       }
+
+      console.error(`  ${podcast.name}: added ${added} episode(s)`);
     } catch (err) {
       errors.push(`Podcast: Error processing ${podcast.name}: ${err.message}`);
     }
   }
 
-  console.error(`  Total candidates: ${allCandidates.length}, cutoff: ${cutoff.toISOString()}`);
-
-  // Step 2: Filter by lookback window, sort newest first
-  const withinWindow = allCandidates
-    .filter(v => !v.publishedAt || new Date(v.publishedAt) >= cutoff)
-    .sort((a, b) => {
-      // Newest first; dateless ones go to the end
-      if (a.publishedAt && b.publishedAt) return new Date(b.publishedAt) - new Date(a.publishedAt);
-      if (a.publishedAt) return -1;
-      if (b.publishedAt) return 1;
-      return 0;
-    });
-
-  console.error(`  Within window: ${withinWindow.length} episode(s)`);
-  for (const v of withinWindow) {
-    console.error(`    - "${v.title}" published=${v.publishedAt || 'unknown'}`);
-  }
-
-  // Step 3: Try each candidate until we get a transcript from pod2txt
-  for (const selected of withinWindow) {
-    console.error(`    Fetching transcript for "${selected.title}"...`);
-
-    const result = await fetchPod2txtTranscript(
-      selected.podcast.rssUrl, selected.guid, apiKey
-    );
-
-    // Mark as seen regardless so we don't retry failed episodes daily
-    state.seenVideos[selected.guid] = Date.now();
-
-    if (result.error) {
-      console.error(`    Transcript error: ${result.error} — skipping to next candidate`);
-      errors.push(`Podcast: Transcript error for "${selected.title}": ${result.error}`);
-      continue;
-    }
-
-    if (!result.transcript) {
-      console.error(`    Empty transcript for "${selected.title}" — skipping to next candidate`);
-      continue;
-    }
-
-    console.error(`    Selected: "${selected.title}" (transcript: ${result.transcript.length} chars)`);
-    return [{
-      source: 'podcast',
-      name: selected.podcast.name,
-      title: selected.title,
-      guid: selected.guid,
-      url: selected.podcast.url,
-      publishedAt: selected.publishedAt,
-      transcript: result.transcript
-    }];
-  }
-
-  console.error(`    No candidates had transcripts available`);
-  return [];
+  return results;
 }
 
 // -- X/Twitter Fetching (Official API v2) ------------------------------------
@@ -786,12 +708,7 @@ async function main() {
   const runYoutube = youtubeOnly || (!tweetsOnly && !podcastsOnly && !blogsOnly);
 
   const xBearerToken = process.env.X_BEARER_TOKEN;
-  const pod2txtKey = process.env.POD2TXT_API_KEY;
 
-  if (runPodcasts && !pod2txtKey) {
-    console.error('POD2TXT_API_KEY not set');
-    process.exit(1);
-  }
   if (runTweets && !xBearerToken) {
     console.error('X_BEARER_TOKEN not set');
     process.exit(1);
@@ -824,7 +741,7 @@ async function main() {
   // Fetch podcasts
   if (runPodcasts) {
     console.error('Fetching podcast content (RSS + pod2txt)...');
-    const podcasts = await fetchPodcastContent(sources.podcasts, pod2txtKey, state, errors);
+    const podcasts = await fetchPodcastContent(sources.podcasts, state, errors);
     console.error(`  Found ${podcasts.length} new episodes`);
 
     const podcastFeed = {
