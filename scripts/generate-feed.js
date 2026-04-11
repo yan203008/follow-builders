@@ -107,7 +107,8 @@ function parseRssFeed(xml) {
     const publishedAt = pubDateMatch ? new Date(pubDateMatch[1].trim()).toISOString() : null;
 
     // Extract episode link (for the feed output URL)
-    const linkMatch = block.match(/<link>([\s\S]*?)<\/link>/);
+    // Plain <link>url</link> in RSS items (not atom:link or namespaced variants)
+    const linkMatch = block.match(/<link>([^<]+)<\/link>/);
     const link = linkMatch ? linkMatch[1].trim() : null;
 
     // Extract description/show notes (prefer content:encoded, then description)
