@@ -1,54 +1,8 @@
 {
-  "generatedAt": "2026-04-11T05:17:27.885Z",
+  "generatedAt": "2026-04-11T07:07:54.960Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "The Agentic Economy: How AI Agents Will Transform the Financial System with Circle Co-Founder and CEO Jeremy Allaire",
-      "guid": "bccec4fe-338a-11f1-97c4-b39f93bb2054",
-      "url": "https://www.youtube.com/@NoPriorsPodcast",
-      "publishedAt": "2026-04-09T10:00:00.000Z",
-      "description": "AI agents can already collaborate, but they lack a trustworthy medium in which to store value and execute contracts. Enter Circle’s Arc Blockchain, an economic “operating system” designed for a world where machines drive the real economy. Circle co-founder and CEO Jeremy Allaire joins Elad Gil to dive into the future of programmable money and the agentic economy. Jeremy explains why traditional banking fails to support the needs of AI agents, and how stablecoins like USDC facilitate an internet-native economy. They also discuss the tokenization of real-world assets, the move toward full-reserve banking, and Jeremy’s predictions for double-digit GDP growth as AI and blockchain reach their “broadband moment.” Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @jerallaire | @circle Chapters: 00:00 – Cold Open 00:05 – Jeremy Allaire Introduction 00:21 – Origin Story of Circle 02:11 – Rethinking the Financial System 05:26 – The Role of Stablecoins 09:52 – Use Cases for USDC 11:30 – Programmable Money 12:25 – Blockchain as Operating System 14:37 – The Agentic Economy 17:45 – Arc Blockchain Use Cases 27:00 – Scaling Models and Privacy Tech 30:45 – Securitization of Other Assets Under the Blockchain 34:16 – Prediction Markets 35:09 – Incremental Revenue Through GPU Usage 37:19 – Jeremy’s 10 Year Future Vision 41:12 – AI and GDP 44:00 – Conclusion ]]>"
-    },
-    {
-      "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "Ep 83: Owning the System of Record, AI-Native Org Charts, &amp; Why ITSM is The Most Vulnerable Legacy Category",
-      "guid": "a500d697-6224-4847-86c7-0f5881056733",
-      "url": "https://unsupervised-learning.simplecast.com/episodes/ep-83-owning-the-system-of-record-ai-native-org-charts-why-itsm-is-the-most-vulnerable-legacy-category-fjqR1Bpt",
-      "publishedAt": "2026-04-02T14:05:15.000Z",
-      "description": "Serval is one of the fastest-growing AI-native enterprise software companies right now, and this episode is a rare inside look at the deliberate architectural, go-to-market, and talent decisions behind that growth. Jake Stauch breaks down why he made the contrarian bet to build a full system of record rather than layer on top of existing tools, why ITSM is more vulnerable to AI disruption than CRM, ERP, or HRIS, and how Serval is winning Fortune 500 deals against a $14B incumbent with a fraction of the resources. Beyond the product, Jake gets into the organizational decisions that underpin Serval's velocity — why recruiting is the #1 job of every employee, how to prevent talent bar decay as you scale from 8 to 200 people, and how the role of the manager is shifting as ICs own more scope than ever. Threading it all together is a founder's honest account of what it means to build a horizontal software company when the models are improving, the infrastructure is shifting, and the window to displace a legacy incumbent is open but won't stay open forever. With your co-hosts: @jacobeffron - Partner at Redpoint, Former PM Flatiron Health @patrickachase - Partner at Redpoint, Former ML Engineer LinkedIn @ericabrescia - Former COO Github, Founder Bitnami (acq’d by VMWare) @jordan_segall - Partner at Redpoint"
-    },
-    {
-      "source": "podcast",
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "Anthropic’s Felix Rieseberg: Claude Cowork, Mythos, and the SaaS Extinction",
-      "guid": "6c5e4068-567b-48f6-a407-a2eb9793cfc6",
-      "url": "https://podcasters.spotify.com/pod/show/firstmark/episodes/Anthropics-Felix-Rieseberg-Claude-Cowork--Mythos--and-the-SaaS-Extinction-e3hmmnd",
-      "publishedAt": "2026-04-10T11:30:00.000Z",
-      "description": "Felix Rieseberg leads engineering for Claude Cowork at Anthropic, one of the most important new agentic AI products in the market today. In this episode of The MAD Podcast, Matt Turck sits down with Felix to discuss Anthropic’s newly announced Claude Mythos Preview, why Felix sees it as a genuine step-function change, and what it means when frontier AI starts showing outsized cybersecurity capabilities. The conversation then goes deep on Claude Cowork: how it emerged from Claude Code, what the famous “10-day” story really means, why Anthropic believes AI needs access to the local computer, and how Cowork actually works under the hood. Felix explains why skills are just text files, why memory is often just text files too, and how Anthropic thinks about building trust in AI agents. They also explore some of the biggest questions in AI product design and the future of software: why UX may matter as much as the model itself, why execution is becoming dramatically cheaper, what that means for product management and startups, and why Felix believes taste, alignment, and understanding humans may matter more than ever. (00:00) Intro (01:53) Claude Mythos Preview and the “step-function change” (06:16) Why Anthropic is treating Mythos differently (11:19) The real story behind Claude Cowork’s “10-day” build (12:42) Why Anthropic realized Claude Code needed a non-technical version (15:44) What Claude Cowork actually is (17:03) Under the hood: virtual machines, tools, skills (18:36) Where Cowork’s memory actually lives (19:26) How Cowork connects to files, apps, and the internet (20:45) Why Felix thinks the local computer is under-appreciated (24:49) Trust: how do you get users comfortable with AI agents? (28:45) What UX actually means for AI agents (31:27) Anthropic Cowork&#39;s roadmap is only one month long (34:12) Building 100 prototypes (35:10) If execution is free, what becomes the bottleneck? (37:25) Does it come down to taste? (40:12) The hardest part of building Claude Cowork (41:43) Advice for founders building AI agents (44:21) SaaSpocalypse: what’s left for software startups? (49:30) Where AI agents are going next (51:20) Regulated industries and enterprise adoption (54:15) Hot takes: what&#39;s underrated, overrated, and what Felix would build today"
-    },
-    {
-      "source": "podcast",
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "AI is Already Building AI | Google DeepMind’s Mostafa Dehghani",
-      "guid": "ad1c210a-b17c-47b6-a6e8-6de6b0298df7",
-      "url": "https://podcasters.spotify.com/pod/show/firstmark/episodes/AI-is-Already-Building-AI--Google-DeepMinds-Mostafa-Dehghani-e3ham4n",
-      "publishedAt": "2026-04-02T11:30:00.000Z",
-      "description": "Are we truly on the verge of AI automating its own research and development? In this deep-dive episode of the MAD Podcast, Matt Turck sits down with Mostafa Dehghani, a pioneering AI researcher at Google DeepMind whose work on Universal Transformers and Vision Transformers (ViT) helped lay the groundwork for today&#39;s frontier models. Moving past the hype, Mostafa breaks down the actual mechanics of &quot;thinking in loops&quot; and Recursive Self-Improvement (RSI). He explores the critical bottlenecks holding back true AGI—from evaluation limits and formal verification to the brutal math of long-horizon reliability. Mostafa and Matt also discuss the shift from pre-training to post-training, how Gemini&#39;s Nano Banana 2 processes pixels and text simultaneously, and why the &quot;frozen&quot; nature of today&#39;s models means Continual Learning is the next massive frontier for enterprise AI and data pipelines. (00:00) Intro (01:17) What “loops” in AI actually mean (05:04) Self-improvement as the next chapter of machine learning (07:32) Are Karpathy’s autoresearch agents an early form of AI self-improvement? (08:56) AI building AI: how close are we? (10:02) The biggest bottlenecks: evals, automation, and long horizons (12:36) Can formal verification unlock recursive self-improvement? (14:06) What is model collapse? (15:33) Generalization vs specialization in AI (18:04) What is a specialized model today? (20:57) Could top AI researchers themselves be automated? (24:02) If AI builds AI, does data matter less than compute? (26:22) Post-training vs pre-training: where will progress come from? (28:14) Why pre-training is not dead (29:45) What is continual learning? (31:53) How real is continual learning today? (33:43) Mostafa Dehghani’s background and path into AI (36:13) The story behind Universal Transformers (39:56) How Vision Transformers changed AI (43:47) Gemini, multimodality, and Nano Banana (47:46) Why multimodality helps build a world model (52:44) Why image generation is getting faster and more efficient (54:44) Hot takes (54:53) What the AI field is getting wrong (56:17) Why continual learning is underrated (57:26) Does RAG go away over time? (58:21) What people are too confident about in AI (59:56) If he were starting from scratch today"
-    },
-    {
-      "source": "podcast",
-      "name": "AI & I by Every",
-      "title": "If SaaS Is Dead, Linear Didn't Get the Memo",
-      "guid": "50164965-b53d-42e0-9a49-35010c9e4e1d",
-      "url": "https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/If-SaaS-Is-Dead--Linear-Didnt-Get-the-Memo-e3h8fqj",
-      "publishedAt": "2026-04-01T15:00:00.000Z",
-      "description": "Founded in 2019, Linear is the rare company started pre-ChatGPT to have successfully reinvented itself as an agent-native business. On this episode of AI &amp; I, Dan Shipper sat down with Karri Saarinen, cofounder and CEO of the product management tool, to discuss building a platform where humans and agents develop software together—and why the \"SaaSpocalypse\" isn’t coming for all SaaS companies. If you found this episode interesting, please like, subscribe, comment, and share! To hear more from Dan Shipper: Subscribe to Every: https://every.to/subscribe Follow him on X: https://twitter.com/danshipper Visit https://scl.ai/dialect to learn more about Dialect, a new system from Scale AI. Timestamps: 0:00 Introduction 2:00 Why Linear waited to ship AI features instead of rushing to chatbots 5:06 Linear's agent platform and becoming the system that guides AI agents 7:42 Why \"SaaS is dead\" is a simplistic narrative 12:18 How Linear adopted AI coding tools 17:45 AI's impact on product building workflows—speed versus thoughtfulness 22:18 The value of conceptual work and thinking before shipping 29:30 How AI is reshaping Linear's product strategy 37:18 Demo: Linear's agent skills, shared context, and code review workflow 47:48 The future of product development and the enduring role of human judgment"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 5
+    "podcastEpisodes": 0
   }
 }
