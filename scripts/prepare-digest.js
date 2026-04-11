@@ -29,12 +29,14 @@ const CONFIG_PATH = join(USER_DIR, 'config.json');
 const FEED_X_URL = 'https://raw.githubusercontent.com/yan203008/follow-builders/main/feed-x.json';
 const FEED_PODCASTS_URL = 'https://raw.githubusercontent.com/yan203008/follow-builders/main/feed-podcasts.json';
 const FEED_BLOGS_URL = 'https://raw.githubusercontent.com/yan203008/follow-builders/main/feed-blogs.json';
+const FEED_YOUTUBE_URL = 'https://raw.githubusercontent.com/yan203008/follow-builders/main/feed-youtube.json';
 
 const PROMPTS_BASE = 'https://raw.githubusercontent.com/yan203008/follow-builders/main/prompts';
 const PROMPT_FILES = [
   'summarize-podcast.md',
   'summarize-tweets.md',
   'summarize-blogs.md',
+  'summarize-youtube.md',
   'digest-intro.md',
   'translate.md'
 ];
@@ -72,16 +74,18 @@ async function main() {
     }
   }
 
-  // 2. Fetch all three feeds
-  const [feedX, feedPodcasts, feedBlogs] = await Promise.all([
+  // 2. Fetch all feeds
+  const [feedX, feedPodcasts, feedBlogs, feedYoutube] = await Promise.all([
     fetchJSON(FEED_X_URL),
     fetchJSON(FEED_PODCASTS_URL),
-    fetchJSON(FEED_BLOGS_URL)
+    fetchJSON(FEED_BLOGS_URL),
+    fetchJSON(FEED_YOUTUBE_URL)
   ]);
 
   if (!feedX) errors.push('Could not fetch tweet feed');
   if (!feedPodcasts) errors.push('Could not fetch podcast feed');
   if (!feedBlogs) errors.push('Could not fetch blog feed');
+  if (!feedYoutube) errors.push('Could not fetch YouTube feed');
 
   // 3. Load prompts with priority: user custom > remote (GitHub) > local default
   //
@@ -136,6 +140,7 @@ async function main() {
     podcasts: feedPodcasts?.podcasts || [],
     x: feedX?.x || [],
     blogs: feedBlogs?.blogs || [],
+    youtube: feedYoutube?.youtube || [],
 
     // Stats for the LLM to reference
     stats: {
@@ -143,7 +148,9 @@ async function main() {
       xBuilders: feedX?.x?.length || 0,
       totalTweets: (feedX?.x || []).reduce((sum, a) => sum + a.tweets.length, 0),
       blogPosts: feedBlogs?.blogs?.length || 0,
-      feedGeneratedAt: feedX?.generatedAt || feedPodcasts?.generatedAt || feedBlogs?.generatedAt || null
+      youtubeChannels: feedYoutube?.youtube?.length || 0,
+      totalVideos: (feedYoutube?.youtube || []).reduce((sum, c) => sum + c.videos.length, 0),
+      feedGeneratedAt: feedX?.generatedAt || feedPodcasts?.generatedAt || feedBlogs?.generatedAt || feedYoutube?.generatedAt || null
     },
 
     // Prompts — the LLM reads these and follows the instructions

@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2026-04-11T04:05:31.835Z",
+  "lookbackHours": 48,
+  "youtube": [],
+  "stats": {
+    "youtubeChannels": 0,
+    "totalVideos": 0
+  },
+  "errors": [
+    "YouTube: Error fetching Predictive History: fetch failed",
+    "YouTube: Error fetching Jeff Su: fetch failed",
+    "YouTube: Error fetching Mel Robbins: fetch failed",
+    "YouTube: Error fetching Tina Huang: fetch failed",
+    "YouTube: Error fetching Dan Koe: fetch failed",
+    "YouTube: Error fetching Tim Ferriss: fetch failed",
+    "YouTube: Error fetching Ali Abdaal: fetch failed",
+    "YouTube: Error fetching FearNation 世界苦茶: fetch failed",
+    "YouTube: Error fetching Jay Shetty Podcast: fetch failed",
+    "YouTube: Error fetching Andrew Huberman: fetch failed",
+    "YouTube: Error fetching Chris Williamson: fetch failed",
+    "YouTube: Error fetching How I AI: fetch failed",
+    "YouTube: Error fetching Mark Manson: fetch failed",
+    "YouTube: Error fetching 立党 lidang: fetch failed",
+    "YouTube: Error fetching Codie Sanchez: fetch failed",
+    "YouTube: Error fetching Tascha Labs: fetch failed"
+  ]
+}

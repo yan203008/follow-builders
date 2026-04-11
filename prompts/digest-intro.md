@@ -11,8 +11,9 @@ AI Builders Digest — [Date]
 Then organize content in this order:
 
 1. X / TWITTER section — list each builder with new posts
-2. OFFICIAL BLOGS section — list each blog post from AI company blogs (OpenAI, Anthropic, etc.)
-3. PODCASTS section — list each podcast with new episodes
+2. YOUTUBE VIDEOS section — list each channel with new videos
+3. OFFICIAL BLOGS section — list each blog post from AI company blogs (OpenAI, Anthropic, etc.)
+4. PODCASTS section — list each podcast with new episodes
 
 ## Rules
 
@@ -33,6 +34,12 @@ Then organize content in this order:
   a clickable link to a Telegram user, which is wrong. Instead write handles
   without @ (e.g. "Aaron Levie (levie on X)" or just use their full name)
 - Include the direct link to each tweet from the JSON `url` field
+
+### YouTube video formatting
+- Use the channel name as a sub-header
+- Under each channel, list each new video with its title and summary
+- Include the direct YouTube video URL from the JSON `url` field
+- Do NOT link to the channel page — always link to the specific video
 
 ### Blog post formatting
 - Use the blog name as a section header (e.g. "Anthropic Engineering", "OpenAI News", "Claude Blog")

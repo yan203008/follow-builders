@@ -29,6 +29,8 @@ const PODCAST_LOOKBACK_HOURS = 336; // 14 days — podcasts publish weekly/biwee
 const BLOG_LOOKBACK_HOURS = 72;
 const MAX_TWEETS_PER_USER = 3;
 const MAX_ARTICLES_PER_BLOG = 3;
+const MAX_VIDEOS_PER_CHANNEL = 2;
+const YOUTUBE_LOOKBACK_HOURS = 48;
 
 // State file lives in the repo root so it gets committed by GitHub Actions
 const SCRIPT_DIR = decodeURIComponent(new URL('.', import.meta.url).pathname);
@@ -682,6 +684,91 @@ async function fetchBlogContent(blogs, state, errors) {
   return results;
 }
 
+// -- YouTube Fetching (RSS, no API key needed) --------------------------------
+
+// Parses a YouTube Atom RSS feed. Each <entry> has <title>, <link>,
+// <published>, and <media:group> with <media:description>.
+function parseYouTubeRss(xml) {
+  const videos = [];
+  const entryRegex = /<entry>([\s\S]*?)<\/entry>/gi;
+  let entryMatch;
+  while ((entryMatch = entryRegex.exec(xml)) !== null) {
+    const block = entryMatch[1];
+
+    const titleMatch = block.match(/<title>([\s\S]*?)<\/title>/);
+    const title = titleMatch ? titleMatch[1].trim() : 'Untitled';
+
+    // Atom <link> with rel="alternate" has the video URL
+    const linkMatch = block.match(/<link[^>]*rel="alternate"[^>]*href="([^"]+)"/)
+      || block.match(/<link[^>]*href="([^"]+)"[^>]*rel="alternate"/)
+      || block.match(/<link[^>]*href="([^"]+)"/);
+    const url = linkMatch ? linkMatch[1].trim() : null;
+
+    const publishedMatch = block.match(/<published>([\s\S]*?)<\/published>/);
+    const publishedAt = publishedMatch ? publishedMatch[1].trim() : null;
+
+    // Video description from media:group
+    const descMatch = block.match(/<media:description>([\s\S]*?)<\/media:description>/);
+    const description = descMatch ? descMatch[1].trim() : '';
+
+    if (url) {
+      videos.push({ title, url, publishedAt, description });
+    }
+  }
+  return videos;
+}
+
+async function fetchYouTubeContent(channels, state, errors) {
+  const results = [];
+  const cutoff = new Date(Date.now() - YOUTUBE_LOOKBACK_HOURS * 60 * 60 * 1000);
+
+  for (const channel of channels) {
+    try {
+      const feedUrl = `https://www.youtube.com/feeds/videos.xml?channel_id=${channel.channelId}`;
+      const res = await fetch(feedUrl, {
+        headers: { 'User-Agent': 'FollowBuilders/1.0 (feed aggregator)' },
+        signal: AbortSignal.timeout(15000)
+      });
+
+      if (!res.ok) {
+        errors.push(`YouTube: Failed to fetch ${channel.name}: HTTP ${res.status}`);
+        continue;
+      }
+
+      const xml = await res.text();
+      const videos = parseYouTubeRss(xml);
+
+      const newVideos = [];
+      for (const video of videos) {
+        // Dedup by URL
+        if (state.seenVideos[video.url]) continue;
+        // Filter by lookback window
+        if (video.publishedAt && new Date(video.publishedAt) < cutoff) continue;
+
+        newVideos.push(video);
+        state.seenVideos[video.url] = Date.now();
+        if (newVideos.length >= MAX_VIDEOS_PER_CHANNEL) break;
+      }
+
+      if (newVideos.length === 0) continue;
+
+      results.push({
+        source: 'youtube',
+        name: channel.name,
+        channelId: channel.channelId,
+        videos: newVideos
+      });
+
+      // Small delay to be polite
+      await new Promise(r => setTimeout(r, 300));
+    } catch (err) {
+      errors.push(`YouTube: Error fetching ${channel.name}: ${err.message}`);
+    }
+  }
+
+  return results;
+}
+
 // -- Main --------------------------------------------------------------------
 
 async function main() {
@@ -689,12 +776,14 @@ async function main() {
   const tweetsOnly = args.includes('--tweets-only');
   const podcastsOnly = args.includes('--podcasts-only');
   const blogsOnly = args.includes('--blogs-only');
+  const youtubeOnly = args.includes('--youtube-only');
 
   // If a specific --*-only flag is set, only that feed type runs.
-  // If no flag is set, all three run.
-  const runTweets = tweetsOnly || (!podcastsOnly && !blogsOnly);
-  const runPodcasts = podcastsOnly || (!tweetsOnly && !blogsOnly);
-  const runBlogs = blogsOnly || (!tweetsOnly && !podcastsOnly);
+  // If no flag is set, all run.
+  const runTweets = tweetsOnly || (!podcastsOnly && !blogsOnly && !youtubeOnly);
+  const runPodcasts = podcastsOnly || (!tweetsOnly && !blogsOnly && !youtubeOnly);
+  const runBlogs = blogsOnly || (!tweetsOnly && !podcastsOnly && !youtubeOnly);
+  const runYoutube = youtubeOnly || (!tweetsOnly && !podcastsOnly && !blogsOnly);
 
   const xBearerToken = process.env.X_BEARER_TOKEN;
   const pod2txtKey = process.env.POD2TXT_API_KEY;
@@ -715,7 +804,8 @@ async function main() {
   // Fetch tweets
   if (runTweets) {
     console.error('Fetching X/Twitter content...');
-    const xContent = await fetchXContent(sources.x_accounts, xBearerToken, state, errors);
+    const allXAccounts = [...(sources.x_accounts || []), ...(sources.x_accounts_extra || [])];
+    const xContent = await fetchXContent(allXAccounts, xBearerToken, state, errors);
     console.error(`  Found ${xContent.length} builders with new tweets`);
 
     const totalTweets = xContent.reduce((sum, a) => sum + a.tweets.length, 0);
@@ -765,6 +855,25 @@ async function main() {
     };
     await writeFile(join(SCRIPT_DIR, '..', 'feed-blogs.json'), JSON.stringify(blogFeed, null, 2));
     console.error(`  feed-blogs.json: ${blogContent.length} posts`);
+  }
+
+  // Fetch YouTube
+  if (runYoutube && sources.youtube && sources.youtube.length > 0) {
+    console.error('Fetching YouTube content (RSS)...');
+    const youtubeContent = await fetchYouTubeContent(sources.youtube, state, errors);
+    console.error(`  Found ${youtubeContent.length} channels with new videos`);
+
+    const totalVideos = youtubeContent.reduce((sum, c) => sum + c.videos.length, 0);
+    const youtubeFeed = {
+      generatedAt: new Date().toISOString(),
+      lookbackHours: YOUTUBE_LOOKBACK_HOURS,
+      youtube: youtubeContent,
+      stats: { youtubeChannels: youtubeContent.length, totalVideos },
+      errors: errors.filter(e => e.startsWith('YouTube')).length > 0
+        ? errors.filter(e => e.startsWith('YouTube')) : undefined
+    };
+    await writeFile(join(SCRIPT_DIR, '..', 'feed-youtube.json'), JSON.stringify(youtubeFeed, null, 2));
+    console.error(`  feed-youtube.json: ${youtubeContent.length} channels, ${totalVideos} videos`);
   }
 
   // Save dedup state

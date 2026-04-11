@@ -73,5 +73,32 @@
     { "name": "Aditya Agarwal", "handle": "adityaag" },
     { "name": "Sam Altman", "handle": "sama" },
     { "name": "Claude", "handle": "claudeai" }
+  ],
+  "x_accounts_extra": [
+    { "name": "李继刚", "handle": "lijigang" },
+    { "name": "庞宇", "handle": "pangyusio" },
+    { "name": "PromptLLM", "handle": "PromptLLM" },
+    { "name": "Elon Musk", "handle": "elonmusk" },
+    { "name": "dotey", "handle": "dotey" },
+    { "name": "孙宇晨", "handle": "sunyuchentron" },
+    { "name": "立党", "handle": "lidangzzz" }
+  ],
+  "youtube": [
+    { "name": "Predictive History", "channelId": "UC11aHtNnc5bEPLI4jf6mnYg" },
+    { "name": "Jeff Su", "channelId": "UCwAnu01qlnVg1Ai2AbtTMaA" },
+    { "name": "Mel Robbins", "channelId": "UCQXIM4Pw7NHbJag0aTIBnuQ" },
+    { "name": "Tina Huang", "channelId": "UC2UXDak6o7rBm23k3Vv5dww" },
+    { "name": "Dan Koe", "channelId": "UCWXYDYv5STLk-zoxMP2I1Lw" },
+    { "name": "Tim Ferriss", "channelId": "UCknhTQFgQs6chKlB2eCGRwg" },
+    { "name": "Ali Abdaal", "channelId": "UCoOae5nYA7VqaXzerajD0lg" },
+    { "name": "FearNation 世界苦茶", "channelId": "UCLKsaKMS_5RQuM0wHLp2vVg" },
+    { "name": "Jay Shetty Podcast", "channelId": "UCbk_QsfaFZG6PdQeCvaYXJQ" },
+    { "name": "Andrew Huberman", "channelId": "UC2D2CMWXMOVWx7giW1n3LIg" },
+    { "name": "Chris Williamson", "channelId": "UCIaH-gZIVC432YRjNVvnyCA" },
+    { "name": "How I AI", "channelId": "UCRYY7IEbkHLH_ScJCu9eWDQ" },
+    { "name": "Mark Manson", "channelId": "UC0TnW9acNxqeojxXDMbohcA" },
+    { "name": "立党 lidang", "channelId": "UC4gzU_8MxRDiQrSFOiT79tQ" },
+    { "name": "Codie Sanchez", "channelId": "UC5fI3kxC-ewZ6ZXEYgznM7g" },
+    { "name": "Tascha Labs", "channelId": "UCzuQIjK_VdBFAFOsqILDYnA" }
   ]
 }
