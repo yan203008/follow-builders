@@ -780,14 +780,14 @@ async function main() {
   const podcastsOnly = args.includes('--podcasts-only');
   const blogsOnly = args.includes('--blogs-only');
   const youtubeOnly = args.includes('--youtube-only');
+  const xExtraOnly = args.includes('--x-extra-only');
 
   // If a specific --*-only flag is set, only that feed type runs.
   // If no flag is set, all run.
-  const runTweets = tweetsOnly || (!podcastsOnly && !blogsOnly && !youtubeOnly);
-  const runPodcasts = podcastsOnly || (!tweetsOnly && !blogsOnly && !youtubeOnly);
-  const runBlogs = blogsOnly || (!tweetsOnly && !podcastsOnly && !youtubeOnly);
+  const runTweets = tweetsOnly || (!podcastsOnly && !blogsOnly && !youtubeOnly && !xExtraOnly);
+  const runPodcasts = podcastsOnly || (!tweetsOnly && !blogsOnly && !youtubeOnly && !xExtraOnly);
+  const runBlogs = blogsOnly || (!tweetsOnly && !podcastsOnly && !youtubeOnly && !xExtraOnly);
   const runYoutube = youtubeOnly || (!tweetsOnly && !podcastsOnly && !blogsOnly && !xExtraOnly);
-  const xExtraOnly = args.includes('--x-extra-only');
   const runXExtra = xExtraOnly || (!tweetsOnly && !podcastsOnly && !blogsOnly && !youtubeOnly);
 
   const xBearerToken = process.env.X_BEARER_TOKEN;
