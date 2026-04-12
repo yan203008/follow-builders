@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-04-11T07:07:54.960Z",
+  "generatedAt": "2026-04-12T07:22:37.958Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "Marc Andreessen introspects on The Death of the Browser, Pi + OpenClaw, and Why &quot;This Time Is Different&quot;",
+      "guid": "substack:post:193082940",
+      "url": "https://www.latent.space/p/pmarca",
+      "publishedAt": "2026-04-03T16:57:46.000Z",
+      "description": "Fresh off raising a monster $15B , Marc Andreessen has lived through multiple computing platform shifts firsthand, from Mosaic and Netscape to cofounding A16z. In this episode, Marc joins swyx and Alessio in a16z’s legendary Sand Hill Road office to argue that AI is not just another hype cycle, but the payoff of an “80-year overnight success”: from neural nets and expert systems to transformers, reasoning models, coding, agents, and recursive self-improvement. He lays out why he thinks this moment is different, why AI is finally escaping the old boom-bust pattern, and why the real bottleneck may be less about models than about the messy institutions, incentives, and social systems that struggle to absorb technological change. This episode was a dream come true for us, and many thanks to Erik Torenberg for the assist in setting this up. Full episode on YouTube ! We discuss: * Marc’s long view on AI : from the 1980s AI boom and expert systems to AlexNet, transformers, and why he sees today’s moment as the culmination of decades of compounding technical progress * Why “this time is different” : the jump from LLMs to reasoning, coding, agents, and recursive self-improvement, and why Marc thinks these breakthroughs make AI real in a way prior cycles were not * AI winters vs. “80-year overnight success” : why the field repeatedly swings between utopianism and doom, and why Marc thinks the underlying researchers were mostly right even when the timelines were wrong * Scaling laws, Moore’s Law, and what to build : why he believes AI scaling laws will continue, why the outside world is messier than lab purists assume, and how startups can still create durable value on top of rapidly improving models * The dot-com crash and AI infrastructure risk : Marc’s comparison between today’s AI capex boom and the fiber/data-center overbuild of 2000, plus why he thinks this cycle is different because the buyers are huge cash-rich incumbents and demand is already here * Why old NVIDIA chips may be getting more valuable : the pace of software progress, chronic capacity shortages, and the idea that even current models are “sandbagged” by supply constraints * Open source, edge inference, and the chip bottleneck : why Marc thinks local models, Apple Sili"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
