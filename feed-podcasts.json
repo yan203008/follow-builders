@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-04-13T08:12:33.420Z",
+  "generatedAt": "2026-04-14T07:56:02.967Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "No Priors",
-      "title": "AI for Atoms: How Periodic Labs is Revolutionizing Materials Engineering with Co-Founder Liam Fedus",
-      "guid": "715b6286-2ee2-11f1-9103-d36fcb5d0ecb",
-      "url": "https://www.youtube.com/@NoPriorsPodcast",
-      "publishedAt": "2026-04-03T10:00:00.000Z",
-      "description": "What happens when you apply the scaling laws of large language models to the physical work of atoms? Elad Gil sits down with Liam Fedus, co-founder at Periodic Labs, which is pioneering an AI foundation lab for atoms. Liam discusses how he pivoted from dark matter physics research to the front lines of artificial intelligence, including stints at Google Brain and working on ChatGPT at OpenAI. He talks about how Periodic is connecting massive language models to the physical world to overcome data bottlenecks in material science. Liam also shares how they use language models as an orchestration layer operating alongside specialized neural nets to run closed-loop physical experiments. They also explore the future of AGI and ASI, as well as the role of robotics in lab automation. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @LiamFedus | @periodiclabs Chapters: 00:00 – Cold Open 00:05 – Liam Fedus Introduction 00:39 – Liam’s Background at Google Brain, OpenAI 05:14 – From ChatGPT to Materials and Atoms 06:34 – Training Data in the Physical World 09:52 – Generalization Across Domains 11:31 – Models as an Orchestration Layer 12:48 – Commercialization and Business Model 16:10 – How Periodic’s Success May Shape the Future 17:45 – Multidisciplinary Scaling 19:41 – Capital and Compute 21:12 – Hiring at Periodic 21:44 – Thoughts on AGI and ASI 23:30 – Timeline for Machine-Directed Self-Improvement 25:39 – Automation and Data Generation 27:59 – Why Liam is Excited About the Future of Robotics 29:25 – Conclusion ]]>"
+      "name": "Latent Space",
+      "title": "Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun",
+      "guid": "substack:post:192967759",
+      "url": "https://www.latent.space/p/moonlake",
+      "publishedAt": "2026-04-02T17:55:29.000Z",
+      "description": "We’ve been on a bit of a mini World Models series over the last quarter: from introducing the topic with Yi Tay , to exploring Marble with World Labs’ Fei-Fei Li and Justin Johnson , to previewing World Models learned from massive gaming datasets with General Intuition’s Pim de Witte (who has now written down their approach to World Models with Not Boring), to discussing the Cosmos World Model with with Andrew White of Edison Scientific on our new Science pod, to writing up our own theses on Adversarial World Models . Meanwhile Nvidia , Waymo and Tesla have published their own approaches, Google has released Genie 3 , and Yann LeCun has raised $1B for AMI and published LeWorldModel . Today’s guests have a radically different approach to World Modeling to every player we just mentioned — while Genie 3 is impressive, its many flaws demonstrate the issues with their approach - terrain clipping, noninteractivity (single player, no physics/no objects other than the player move), and maximum of 60 second immersion. Moonlake AI (inspired by the Dreamworks logo ) is the diametric opposite - immediately multiplayer, incredibly interactive, indefinite lifetime, capable of MANY different kinds of world models by simulating environments, predicting outcomes, and planning over long horizons. This is enabled by bootstrapping from game engines and training custom age"
     }
   ],
   "stats": {
