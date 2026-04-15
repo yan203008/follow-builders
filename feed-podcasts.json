@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-04-14T07:56:02.967Z",
+  "generatedAt": "2026-04-15T07:57:14.436Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Latent Space",
-      "title": "Moonlake: Causal World Models should be Multimodal, Interactive, and Efficient — with Chris Manning and Fan-yun Sun",
-      "guid": "substack:post:192967759",
-      "url": "https://www.latent.space/p/moonlake",
-      "publishedAt": "2026-04-02T17:55:29.000Z",
-      "description": "We’ve been on a bit of a mini World Models series over the last quarter: from introducing the topic with Yi Tay , to exploring Marble with World Labs’ Fei-Fei Li and Justin Johnson , to previewing World Models learned from massive gaming datasets with General Intuition’s Pim de Witte (who has now written down their approach to World Models with Not Boring), to discussing the Cosmos World Model with with Andrew White of Edison Scientific on our new Science pod, to writing up our own theses on Adversarial World Models . Meanwhile Nvidia , Waymo and Tesla have published their own approaches, Google has released Genie 3 , and Yann LeCun has raised $1B for AMI and published LeWorldModel . Today’s guests have a radically different approach to World Modeling to every player we just mentioned — while Genie 3 is impressive, its many flaws demonstrate the issues with their approach - terrain clipping, noninteractivity (single player, no physics/no objects other than the player move), and maximum of 60 second immersion. Moonlake AI (inspired by the Dreamworks logo ) is the diametric opposite - immediately multiplayer, incredibly interactive, indefinite lifetime, capable of MANY different kinds of world models by simulating environments, predicting outcomes, and planning over long horizons. This is enabled by bootstrapping from game engines and training custom age"
+      "name": "Training Data",
+      "title": "From SEO to Agent-Led Growth: Profound’s James Cadwallader",
+      "guid": "65d389a8-3765-11f1-a29e-cf3fbe697ce7",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-04-14T09:00:00.000Z",
+      "description": "James Cadwallader, co-founder and CEO of Profound, makes the case that we are living through the biggest platform shift in marketing history. The front door of the internet hasn't changed, but the visitor walking through it has. Where consumers once clicked blue links, AI agents now crawl the web on their behalf, synthesizing answers and steering purchase decisions at scale. James explains why Gemini, ChatGPT, and Claude all recommend brands differently, why mapping AI visibility onto traditional SEO is the wrong instinct, and why the real imperative is to equip a superintelligent agent with original insight it couldn't find anywhere else. He also digs into the dead internet theory – the possibility that human browsing could largely cease within three years – how AI advertising may become the most effective form the world has ever seen, and why agent-led marketing isn't just automation of the old work, but an entirely new capability. Hosted by Sonya Huang, Sequoia Capital ]]>"
     }
   ],
   "stats": {
