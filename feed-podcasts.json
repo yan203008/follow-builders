@@ -1,18 +1,36 @@
 {
-  "generatedAt": "2026-04-15T07:57:14.436Z",
+  "generatedAt": "2026-04-16T07:56:47.385Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Training Data",
-      "title": "From SEO to Agent-Led Growth: Profound’s James Cadwallader",
-      "guid": "65d389a8-3765-11f1-a29e-cf3fbe697ce7",
-      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-04-14T09:00:00.000Z",
-      "description": "James Cadwallader, co-founder and CEO of Profound, makes the case that we are living through the biggest platform shift in marketing history. The front door of the internet hasn't changed, but the visitor walking through it has. Where consumers once clicked blue links, AI agents now crawl the web on their behalf, synthesizing answers and steering purchase decisions at scale. James explains why Gemini, ChatGPT, and Claude all recommend brands differently, why mapping AI visibility onto traditional SEO is the wrong instinct, and why the real imperative is to equip a superintelligent agent with original insight it couldn't find anywhere else. He also digs into the dead internet theory – the possibility that human browsing could largely cease within three years – how AI advertising may become the most effective form the world has ever seen, and why agent-led marketing isn't just automation of the old work, but an entirely new capability. Hosted by Sonya Huang, Sequoia Capital ]]>"
+      "name": "Latent Space",
+      "title": "Notion’s Token Town: 5 Rebuilds, 100+ Tools, MCP vs CLIs and the Software Factory Future — Simon Last &amp; Sarah Sachs of Notion",
+      "guid": "substack:post:194195821",
+      "url": "https://www.latent.space/p/notion",
+      "publishedAt": "2026-04-15T00:31:14.000Z",
+      "description": "For all those who missed out on London, see you in Miami next week! Notion, the knowledge work decacorn , has been building AI tooling since before ChatGPT , with many hits from Q&A in 2023 and unified AI in 2024 and Meeting Notes in 2025 . At the end of their last Make user conference, Ryan Nystrom teased Notion 3.0’s Custom Agents - and they are finally embracing the Agent Lab playbook ! Sarah Sachs and Simon Last of Notion join us for a deep dive into how Notion built Custom Agents, why it took years and multiple rebuilds to get right, and what it means to turn a productivity tool into an agent-native system of record for enterprise work. We go inside the product, engineering, evals, pricing, and org design decisions behind one of the most ambitious AI product efforts in software today — from early failed tool-calling experiments in 2022 to agent harnesses, progressive tool disclosure, meeting notes as data capture, and the long-term vision for software factories and agentic work. We discuss: * Sarah and Simon’s path to launching Notion Custom Agents, and why the feature was rebuilt four or five times before it was ready for production * Why early agent attempts failed: no tool-calling standard, short context windows, unreliable models, and too much complexity exposed to the model * The “Agent Lab” thesis : not just wrapping a model, but understanding how people collaborate and building the right product system around frontier capabilities * How Notion thinks about roadmap timing: not swimming upstream against model limitations, but also building early enough that the product is ready when the models are * Why coding agents feel like the kernel of AGI, and how Notion is thinking about “software factories” made up of agents that spec, code, test, debug, review, and maintain codebases together * How Sarah runs AI engineering at Notion (“<a targe"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "Extreme Harness Engineering for Token Billionaires: 1M LOC, 1B toks/day, 0% human code, 0% human review — Ryan Lopopolo, OpenAI Frontier &amp; Symphony",
+      "guid": "substack:post:193478192",
+      "url": "https://www.latent.space/p/harness-eng",
+      "publishedAt": "2026-04-07T17:14:26.000Z",
+      "description": "We’re proud to release this ahead of Ryan’s keynote at AIE Europe . Hit the bell, get notified when it is live! Attendees: come prepped for Ryan’s AMA with Vibhu after . Move over, context engineering . Now it’s time for Harness engineering and the age of the token billionaires . Ryan Lopopolo of OpenAI is leading that charge, recently publishing a lengthy essay on Harness Eng that has become the talk of the town: In it, Ryan peeled back the curtains on how the recently announced OpenAI Frontier team have become OpenAI’s top Codex users, running a >1m LOC codebase with 0 human written code and, crucially for the Dark Factory fans , no human REVIEWED code before merge . Ryan is admirably evangelical about this, calling it borderline “negligent” if you aren’t using >1B tokens a day ( roughly $2-3k/day in token spend based on market rates and caching assumptions): Over the past five months, they ran an extreme experiment: building and shipping an internal beta product with zero manually written code . Through the experiment, they adopted a different model of engineering work: when the agent failed, instead of prompting it better or to “try harder,” the team would look at “what capability, context, or structure is missing?” The result was Symphony , “a ghost library” and reference Elixir implementation ( by Alex Kotliarskyi ) that sets up a massive system of Codex agents all extensively prompted with the specificity of a proper PRD spec, but without full implementation: The future starts taking shape as one where coding agents stop being copilots and start becoming real teammates anyone can use and Codex is doubling down on that mission with their Superbowl messaging of “you can just build thin"
+    },
+    {
+      "source": "podcast",
+      "name": "AI & I by Every",
+      "title": "The AI Model Built for What LLMs Can't Do",
+      "guid": "106a53c9-d4bf-4534-a3f1-7a38339b46b1",
+      "url": "https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/The-AI-Model-Built-for-What-LLMs-Cant-Do-e3htoru",
+      "publishedAt": "2026-04-15T15:00:00.000Z",
+      "description": "Most AI companies are racing to build bigger LLMs. Eve Bodnia thinks that's the wrong approach. Eve is the founder and CEO of Logical Intelligence, which is developing an alternative to the transformer-based models dominating the industry. Her argument: LLMs’ architecture makes them fundamentally unsuited for some mission-critical tasks. A system that generates output one token at a time, with no ability to inspect its own reasoning mid-process or guarantee its results, shouldn't be trusted to design chips, analyze financial data, or even fly a plane. Her alternative is the energy-based model (EBM), a form of AI rooted in the physics principle of energy minimization, not language prediction. Rather than guessing the next probable word, an EBM maps every possible outcome across a mathematical landscape, where likely states settle into valleys and improbable ones sit on peaks. Dan Shipper talked with Bodnia for AI &amp; I about why she believes LLM progress is plateauing, what it means for AI to actually understand data rather than just pattern-match across it, and how her team is building toward formally verified code generated in plain English—no C++ required. If you found this episode interesting, please like, subscribe, comment, and share! Head to http://granola.ai/every and get 3 months free with the code EVERY To hear more from Dan Shipper: Subscribe to Every: https://every.to/subscribe Follow him on X: https://twitter.com/danshipper Timestamps: 00:00:51 - Introduction 00:02:09 - Why correctness and verifiability matter in AI 00:09:33 - What an energy-based model is 00:14:21 - How EBMs construct energy landscapes to understand data 00:19:00 - Why modeling intelligence through language alone is a flawed approach 00:26:54 - What it means for a model to \"understand\" data 00:37:21 - How EBMs solve the vibe coding problem and enable formally verified code 00:43:21 - Why LLM progress is plateauing 00:49:54 - Mission-critical industries haven't adopted LLMs, and how EBMs could fill that gap"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 3
   }
 }
