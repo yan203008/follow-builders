@@ -1,18 +1,27 @@
 {
-  "generatedAt": "2026-04-17T07:57:32.336Z",
+  "generatedAt": "2026-04-18T07:16:59.249Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "AI & I by Every",
-      "title": "We Gave Every Employee an AI Agent. Here's What Happened.",
-      "guid": "760338f2-8515-4433-9b9b-c68460d84b5b",
-      "url": "https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/We-Gave-Every-Employee-an-AI-Agent--Heres-What-Happened-e3his2h",
-      "publishedAt": "2026-04-08T15:00:00.000Z",
-      "description": "While walking to the office, our COO Brandon Gell had his AI agent call him and go over his emails in his inbox one by one. When he arrived, he opened Gmail and confirmed she&#39;d done everything he&#39;d asked. &quot;My jaw is on the floor,&quot; he messaged me. That was the moment Every got serious about setting up each employee with their own agent. Today, it&#39;s a reality—and it has completely changed how we work. Dan Shipper talked to Every COO Brandon Gell and head of platform Willie Williams for Every&#39;s AI &amp; I about what happens when everyone at a company gets their own AI sidekick. If you found this episode interesting, please like, subscribe, comment, and share! To hear more from Dan Shipper: Subscribe to Every: https://every.to/subscribe Follow him on X: https://twitter.com/danshipper Visit https://scl.ai/dialect to learn more about Dialect, a new system from Scale AI. Timestamps: 00:00 Introduction 00:02:21 How Brandon built Zosia, an AI agent to run his household 00:07:09 Brandon&#39;s aha moment re: using agents for work 00:09:39 What happened when everyone on the team got their own agent 00:12:42 How agents take on their owners&#39; personalities, and why that matters inside an org 00:23:51 Why it&#39;s important for agents to do work in public 00:30:51 What we&#39;re still figuring out when it comes to agent behavior, including memory gaps, group chat etiquette, and the &quot;ant death spiral&quot; problem 00:40:45 How we built Plus One, our hosted OpenClaw product 00:47:27 The cultural shift required to make agents work at scale"
+      "name": "No Priors",
+      "title": "Scaling Global Organizations in the Age of AI with ServiceNow CEO Bill McDermott",
+      "guid": "4255b42e-3a9e-11f1-8eee-179e850fd703",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-04-17T20:44:00.000Z",
+      "description": "Few teens are business owners, but by age 16, Bill McDermott had purchased and was running a local deli. Now he runs leading global technology powerhouse ServiceNow, a company that is defining how the world’s largest organizations transform for the digital age. Sarah Guo sits down with ServiceNow CEO Bill McDermott to discuss his journey from child entrepreneur to CEO, and how he navigates his role as a leader in the age of AI. Bill argues that human connection is still a vital part of being a successful leader, and as such, AI must be used to serve people rather than substitute for ambition. He breaks down the mechanics of hyper-growth, and the art of staying customer-centric at a global scale. They also discuss the future of enterprise software, how generative AI is fundamentally reshaping the labor market, and what founders need to know about building a resilient company culture that survives economic and technological shifts. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @BillRMcDermott | @ServiceNow Chapters: 00:00 – Cold Open 00:50 – Bill McDermott Introduction 01:14 – Lesson from Buying a Deli 07:35 – Leadership in the AI Era 09:41 – How Bill Got Hired at Xerox 15:47 – Can Agency Be Taught? 18:40 – Seeing Change as Opportunity 25:18 – ServiceNow as an AI Control Tower 30:30 – Which SaaS Gets Disrupted? 32:22 – Defining a Platform Business 36:25 – Does AI Decrease Implementation Time? 39:06 – Agents Will Reshape the Workforce 40:59 – Success Signals at ServiceNow 44:07 – Enterprise Attitudes About AI 48:41 – How AI Has Changed Customer Conversations 50:48 – Bill’s Curiosity Beyond ServiceNow 52:29 – Day in the Life of a CEO 57:27 – Conclusion ]]>"
+    },
+    {
+      "source": "podcast",
+      "name": "Unsupervised Learning",
+      "title": "Ep 84: OpenAI’s Chief Scientist on Continual Learning Hype, RL Beyond Code, &amp; Future Alignment Directions",
+      "guid": "8201bfdf-224a-4772-a226-a46968ddf88e",
+      "url": "https://unsupervised-learning.simplecast.com/episodes/ep-84-openais-chief-scientist-on-continual-learning-hype-rl-beyond-code-future-alignment-directions-l43Yra90",
+      "publishedAt": "2026-04-09T13:25:11.000Z",
+      "description": "Jakub Pachocki, OpenAI's Chief Scientist, sits down with Jacob to cover the full arc of where AI research stands today and where it's headed. The conversation spans the explosive growth of coding agents and what it signals about near-term AI capability, the use of math and physics benchmarks as proxies for general intelligence, how reinforcement learning is being extended beyond easily-verified domains toward longer-horizon tasks, and what it means to run a research organization at the precise moment the models themselves are starting to accelerate the research. Jakub shares a candid take on the competitive landscape, why chain-of-thought monitoring is one of the most promising tools in the alignment toolkit, and — with unusual directness — why the concentration of power enabled by highly automated AI organizations is a societal problem that doesn't yet have an obvious solution. (0:00) Intro (1:53) Research Intern Capability Timelines (4:59) Math Breakthroughs (7:59) RL Beyond Verifiable Tasks (12:32) RL vs In-Context (19:01) Allocating Compute Internally (28:18) AI for Science (31:40) Pattern Matching (33:23) Solving the Hardest Math Problems (37:40) Chain of Thought Monitoring (44:33) Generalization and Value Alignment in Models (47:57) Inside OpenAI (51:55) Quickfire With your co-hosts: @jacobeffron - Partner at Redpoint, Former PM Flatiron Health @patrickachase - Partner at Redpoint, Former ML Engineer LinkedIn @ericabrescia - Former COO Github, Founder Bitnami (acq’d by VMWare) @jordan_segall - Partner at Redpoint"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 2
   }
 }
