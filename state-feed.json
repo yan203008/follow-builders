@@ -1,18 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "715b6286-2ee2-11f1-9103-d36fcb5d0ecb": 1776067953201,
-    "https://www.youtube.com/shorts/5yhzuJDcyps": 1776067957244,
-    "https://www.youtube.com/watch?v=Cmddq6WSUUc": 1776067957955,
-    "https://www.youtube.com/shorts/5whcG_Eo_BQ": 1776067958408,
-    "https://www.youtube.com/shorts/SlUW5-8ug1A": 1776067958408,
-    "https://www.youtube.com/shorts/ixa_AsftxNQ": 1776067958806,
-    "https://www.youtube.com/shorts/mjcfAWZbUVA": 1776067958806,
-    "https://www.youtube.com/shorts/osaF8WS3oCk": 1776067959379,
-    "https://www.youtube.com/shorts/GHgoEOPnqCY": 1776067959801,
-    "https://www.youtube.com/watch?v=WTTqwVNqAGs": 1776067960180,
-    "https://www.youtube.com/shorts/02z1qKl9sVA": 1776067960615,
-    "https://www.youtube.com/watch?v=yBefMa8LydA": 1776067960615,
     "substack:post:192967759": 1776153362530,
     "https://www.youtube.com/watch?v=u8YzULGWFXI": 1776153366140,
     "https://www.youtube.com/shorts/UQ-WaKvKXV8": 1776153366528,
@@ -78,10 +66,17 @@
     "https://www.youtube.com/shorts/A_XAPY0jn9U": 1776583647235,
     "https://www.youtube.com/shorts/2Rw1IG7iddM": 1776583647694,
     "https://www.youtube.com/watch?v=IqUOKm0p_yQ": 1776583648094,
-    "https://www.youtube.com/shorts/fn5-wsE7V9k": 1776583648535
+    "https://www.youtube.com/shorts/fn5-wsE7V9k": 1776583648535,
+    "https://www.youtube.com/watch?v=9ANX5tNJll4": 1776673144385,
+    "https://www.youtube.com/shorts/ollszUVTukM": 1776673144776,
+    "https://www.youtube.com/shorts/wABD5ywMyAE": 1776673144776,
+    "https://www.youtube.com/shorts/21FE1UmMRQI": 1776673145320,
+    "https://www.youtube.com/shorts/BvMmnGc63Xc": 1776673145320,
+    "https://www.youtube.com/watch?v=qKkD5hEHkkY": 1776673145828,
+    "https://www.youtube.com/shorts/djtT2IZO08s": 1776673145828,
+    "https://www.youtube.com/shorts/AITh5M2MJLo": 1776673146395
   },
   "seenArticles": {
-    "https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense": 1776067956550,
     "https://claude.com/blog/claude-code-desktop-redesign": 1776239837617,
     "https://www.anthropic.com/engineering/managed-agents": 1776412657669,
     "https://claude.com/blog/claude-managed-agents": 1776412658300,
