@@ -1,16 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "substack:post:192967759": 1776153362530,
-    "https://www.youtube.com/watch?v=u8YzULGWFXI": 1776153366140,
-    "https://www.youtube.com/shorts/UQ-WaKvKXV8": 1776153366528,
-    "https://www.youtube.com/shorts/tDzFa0C2-x4": 1776153366528,
-    "https://www.youtube.com/watch?v=RTPNJgHeZBI": 1776153366835,
-    "https://www.youtube.com/shorts/_fzaiR6nMX0": 1776153367225,
-    "https://www.youtube.com/shorts/fYMjshhGYDg": 1776153367225,
-    "https://www.youtube.com/watch?v=jwGQ9CrqVdA": 1776153367531,
-    "https://www.youtube.com/shorts/Tey04fKqwYA": 1776153367975,
-    "https://www.youtube.com/shorts/Pe7VLO_oDJo": 1776153368470,
     "65d389a8-3765-11f1-a29e-cf3fbe697ce7": 1776239834058,
     "https://www.youtube.com/watch?v=tEchbaV87So": 1776239838742,
     "https://www.youtube.com/shorts/NMGyy_bsa2g": 1776239839111,
@@ -74,13 +64,24 @@
     "https://www.youtube.com/shorts/BvMmnGc63Xc": 1776673145320,
     "https://www.youtube.com/watch?v=qKkD5hEHkkY": 1776673145828,
     "https://www.youtube.com/shorts/djtT2IZO08s": 1776673145828,
-    "https://www.youtube.com/shorts/AITh5M2MJLo": 1776673146395
+    "https://www.youtube.com/shorts/AITh5M2MJLo": 1776673146395,
+    "https://www.youtube.com/watch?v=VyVM3oERNfk": 1776758517561,
+    "https://www.youtube.com/watch?v=Fhh_-iGEKz8": 1776758517561,
+    "https://www.youtube.com/shorts/GepbFdsCvU8": 1776758517990,
+    "https://www.youtube.com/shorts/L1LGPJd8NiE": 1776758517990,
+    "https://www.youtube.com/watch?v=FBgM7jndkLQ": 1776758518298,
+    "https://www.youtube.com/shorts/it9qQ_bZsz4": 1776758518603,
+    "https://www.youtube.com/shorts/6hhIekLy1lU": 1776758518603,
+    "https://www.youtube.com/watch?v=BRDKft0-dUU": 1776758518910,
+    "https://www.youtube.com/shorts/lpbsQZHNF60": 1776758519213,
+    "https://www.youtube.com/shorts/8qaIRoF0Nzo": 1776758519942
   },
   "seenArticles": {
     "https://claude.com/blog/claude-code-desktop-redesign": 1776239837617,
     "https://www.anthropic.com/engineering/managed-agents": 1776412657669,
     "https://claude.com/blog/claude-managed-agents": 1776412658300,
     "https://www.anthropic.com/engineering/infrastructure-noise": 1776583640706,
-    "https://www.anthropic.com/engineering/claude-code-auto-mode": 1776583645019
+    "https://www.anthropic.com/engineering/claude-code-auto-mode": 1776583645019,
+    "https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense": 1776758516078
   }
 }
