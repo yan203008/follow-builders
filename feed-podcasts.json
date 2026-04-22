@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-04-21T08:01:51.420Z",
+  "generatedAt": "2026-04-22T07:58:21.101Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "🔬 Training Transformers to solve 95% failure rate of Cancer Trials — Ron Alfa &amp; Daniel Bear, Noetik",
+      "guid": "substack:post:194810752",
+      "url": "https://www.latent.space/p/noetik",
+      "publishedAt": "2026-04-20T16:17:17.000Z",
+      "description": "Today, we explain this piece of “clickbait” from our guest! TL;DR: 95% of cancer treatments fail to pass clinical trials , but it may be a matching problem — if we better understood what patients have which tumors which will respond to which treatments, success rates improve dramatically and millions of lives can be saved — with the treatments we ALREADY have. See our full episode dropping today: Why Big Pharma is licensing AI Models Tolstoy famously wrote, ‘All healthy cells are alike; each cancer cell is unhappy in its own way.’ Or something like that. Cancer might be the most misunderstood disease out there. It’s not one disease, it’s a family of diseases. Hundreds, maybe thousands, of unique diseases each with its own underlying biology. With this lens, saying you’ll “cure cancer” is like saying you’ll solve legos. We keep hearing AI will cure cancer, but sadly it may not be so easy. Today’s guests — Ron Alfa and Daniel Bear from Noetik — thinks they can use AI to break through a core bottleneck in the treatment development process. GSK recently signed a $50M deal for their technology that also includes an (undisclosed) long-term licensing deals for Noetik’s models like the recently announced TARIO-2 , an autoregressive transformer trained on one of the largest sets of tumor spatial transcriptomics datasets in the world. Whole-plex spatial transcriptomics is the richest way to read a tumor, and approximately ~0% of cancer patients going through standard care ever get one — and TARIO-2 can now predict an ~19,000-gene spatial map from the H&E assay every patient already has. Most big AI plays in BioTech have focused on discovery, and usually result in an in-house development effort (meaning tools companies usually become drug companies). This deal stands out in that it is a software licensing deal, and represents a commitment to a platform rather than a drug . With attention on other software tools for drug development (see the Boltz episode and Isomorphic for example), it is starting to look like the appetite of Pharma for biotech tools has finally started to grow. Why the sudden interest? Cancer is hard Biology is hard, cancer is harder. Bu"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }

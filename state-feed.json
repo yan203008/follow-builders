@@ -1,16 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "65d389a8-3765-11f1-a29e-cf3fbe697ce7": 1776239834058,
-    "https://www.youtube.com/watch?v=tEchbaV87So": 1776239838742,
-    "https://www.youtube.com/shorts/NMGyy_bsa2g": 1776239839111,
-    "https://www.youtube.com/shorts/T35U8Cbt3MQ": 1776239839111,
-    "https://www.youtube.com/shorts/ehc0GlgGmA0": 1776239839489,
-    "https://www.youtube.com/shorts/XkOwvCptjLE": 1776239839489,
-    "https://www.youtube.com/shorts/_xtwd1rsmBc": 1776239839797,
-    "https://www.youtube.com/shorts/XRG0tQaPiDk": 1776239840191,
-    "https://www.youtube.com/watch?v=bImiirBIpsc": 1776239840581,
-    "https://www.youtube.com/shorts/JTnaKed_2o0": 1776239840983,
     "substack:post:194195821": 1776326206911,
     "substack:post:193478192": 1776326206911,
     "106a53c9-d4bf-4534-a3f1-7a38339b46b1": 1776326207385,
@@ -74,10 +64,19 @@
     "https://www.youtube.com/shorts/6hhIekLy1lU": 1776758518603,
     "https://www.youtube.com/watch?v=BRDKft0-dUU": 1776758518910,
     "https://www.youtube.com/shorts/lpbsQZHNF60": 1776758519213,
-    "https://www.youtube.com/shorts/8qaIRoF0Nzo": 1776758519942
+    "https://www.youtube.com/shorts/8qaIRoF0Nzo": 1776758519942,
+    "substack:post:194810752": 1776844700853,
+    "https://www.youtube.com/watch?v=Ts-AA6LQf6I": 1776844706944,
+    "https://www.youtube.com/watch?v=S-P816IKDdg": 1776844707840,
+    "https://www.youtube.com/shorts/hG7G5gx7x94": 1776844708267,
+    "https://www.youtube.com/shorts/WZLQ3pDVcro": 1776844708267,
+    "https://www.youtube.com/shorts/kAimhaKGUPs": 1776844708726,
+    "https://www.youtube.com/shorts/YAw6zsc6Tsc": 1776844708726,
+    "https://www.youtube.com/shorts/e0XNfblfE-c": 1776844709031,
+    "https://www.youtube.com/shorts/tZAJ37-neqU": 1776844709336,
+    "https://www.youtube.com/shorts/7AtTqCWiJvk": 1776844710064
   },
   "seenArticles": {
-    "https://claude.com/blog/claude-code-desktop-redesign": 1776239837617,
     "https://www.anthropic.com/engineering/managed-agents": 1776412657669,
     "https://claude.com/blog/claude-managed-agents": 1776412658300,
     "https://www.anthropic.com/engineering/infrastructure-noise": 1776583640706,
