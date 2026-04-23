@@ -1,18 +1,27 @@
 {
-  "generatedAt": "2026-04-22T07:58:21.101Z",
+  "generatedAt": "2026-04-23T08:03:56.303Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Latent Space",
-      "title": "🔬 Training Transformers to solve 95% failure rate of Cancer Trials — Ron Alfa &amp; Daniel Bear, Noetik",
-      "guid": "substack:post:194810752",
-      "url": "https://www.latent.space/p/noetik",
-      "publishedAt": "2026-04-20T16:17:17.000Z",
-      "description": "Today, we explain this piece of “clickbait” from our guest! TL;DR: 95% of cancer treatments fail to pass clinical trials , but it may be a matching problem — if we better understood what patients have which tumors which will respond to which treatments, success rates improve dramatically and millions of lives can be saved — with the treatments we ALREADY have. See our full episode dropping today: Why Big Pharma is licensing AI Models Tolstoy famously wrote, ‘All healthy cells are alike; each cancer cell is unhappy in its own way.’ Or something like that. Cancer might be the most misunderstood disease out there. It’s not one disease, it’s a family of diseases. Hundreds, maybe thousands, of unique diseases each with its own underlying biology. With this lens, saying you’ll “cure cancer” is like saying you’ll solve legos. We keep hearing AI will cure cancer, but sadly it may not be so easy. Today’s guests — Ron Alfa and Daniel Bear from Noetik — thinks they can use AI to break through a core bottleneck in the treatment development process. GSK recently signed a $50M deal for their technology that also includes an (undisclosed) long-term licensing deals for Noetik’s models like the recently announced TARIO-2 , an autoregressive transformer trained on one of the largest sets of tumor spatial transcriptomics datasets in the world. Whole-plex spatial transcriptomics is the richest way to read a tumor, and approximately ~0% of cancer patients going through standard care ever get one — and TARIO-2 can now predict an ~19,000-gene spatial map from the H&E assay every patient already has. Most big AI plays in BioTech have focused on discovery, and usually result in an in-house development effort (meaning tools companies usually become drug companies). This deal stands out in that it is a software licensing deal, and represents a commitment to a platform rather than a drug . With attention on other software tools for drug development (see the Boltz episode and Isomorphic for example), it is starting to look like the appetite of Pharma for biotech tools has finally started to grow. Why the sudden interest? Cancer is hard Biology is hard, cancer is harder. Bu"
+      "name": "Training Data",
+      "title": "From SEO to Agent-Led Growth: Profound’s James Cadwallader",
+      "guid": "65d389a8-3765-11f1-a29e-cf3fbe697ce7",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-04-14T09:00:00.000Z",
+      "description": "James Cadwallader, co-founder and CEO of Profound, makes the case that we are living through the biggest platform shift in marketing history. The front door of the internet hasn't changed, but the visitor walking through it has. Where consumers once clicked blue links, AI agents now crawl the web on their behalf, synthesizing answers and steering purchase decisions at scale. James explains why Gemini, ChatGPT, and Claude all recommend brands differently, why mapping AI visibility onto traditional SEO is the wrong instinct, and why the real imperative is to equip a superintelligent agent with original insight it couldn't find anywhere else. He also digs into the dead internet theory – the possibility that human browsing could largely cease within three years – how AI advertising may become the most effective form the world has ever seen, and why agent-led marketing isn't just automation of the old work, but an entirely new capability. Hosted by Sonya Huang, Sequoia Capital ]]>"
+    },
+    {
+      "source": "podcast",
+      "name": "AI & I by Every",
+      "title": "The AI Sandwich: Where Humans Excel in an AI World",
+      "guid": "e835fe4d-e084-45e1-93cb-ae88faf71bc4",
+      "url": "https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/The-AI-Sandwich-Where-Humans-Excel-in-an-AI-World-e3ia7ng",
+      "publishedAt": "2026-04-22T18:53:47.000Z",
+      "description": "Most frameworks for working with AI agents assume humans should stay in the loop at every phase. That’s the wrong approach, says Cora general manager Kieran Klaassen . Kieran is the creator of Every&#39;s AI-native engineering methodology, compound engineering. His four-step framework—plan, work, review, compound—rebuilds how engineers work with agents. The insight, worked out with collaborator Trevin Chow, is about when to be in the loop and when to step away and let the model handle it. &quot;LLMs are very good at just following steps, doing deep work, working for hours—days even now,&quot; Kieran says. &quot;That thing is kind of solved.&quot; Kieran and Trevin describe an AI workflow as a sandwich. Agents are the workhorse filling, and humans are the bread, responsible for framing the problem at the start and reviewing the outputs at the end. Every CEO Dan Shipper talked with Kieran for AI &amp; I about why setting the frame of a problem is still hard for agents, why simulated personas won&#39;t replace human judgment, Dan&#39;s bar for AGI—an agent worth running 24/7 with no off switch—and what Kieran&#39;s background as a classical composer taught him about performance, polish, and finding the parts of work that bring you joy. If you found this episode interesting, please like, subscribe, comment, and share! Head to http://granola.ai/every and get 3 months free with the code EVERY To hear more from Dan Shipper: Subscribe to Every: https://every.to/subscribe Follow him on X: https://twitter.com/danshipper Compound engineering plugin: https://github.com/EveryInc/compound-engineering-plugin Compound engineering guide: https://every.to/source-code/compound-engineering-the-definitive-guide Compound engineering camp: https://every.to/source-code/compound-engineering-camp-every-step-from-scratch Discover more resources in the episode Timestamps: 00:00:00 – Introduction and the AI sandwich metaphor 00:02:33 – What compound engineering is and how it’s evolved 00:04:27 – The &quot;work&quot; phase of agentic coding is essentially solved 00:06:27 – Why humans belong at the beginning and the end of an AI workflow 00:11:06 – Dan&#39;s argument for why agents can&#39;t change frames—and how this will keep us employed 00:16:51 – Full automation is a moving target 00:23:21 – Musical composition as a model for human-AI collaboration 00:26:39 – Find your place in an AI-accelerated world by leaning into what brings you joy"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 2
   }
 }

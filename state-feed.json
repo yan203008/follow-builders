@@ -1,20 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "substack:post:194195821": 1776326206911,
-    "substack:post:193478192": 1776326206911,
-    "106a53c9-d4bf-4534-a3f1-7a38339b46b1": 1776326207385,
-    "https://www.youtube.com/watch?v=M-NTwkM3VwM": 1776326210304,
-    "https://www.youtube.com/watch?v=RrueZJQyyEw": 1776326210982,
-    "https://www.youtube.com/watch?v=b6tX60KWtGE": 1776326210982,
-    "https://www.youtube.com/shorts/AcSEVgxuRUs": 1776326211345,
-    "https://www.youtube.com/shorts/11l6YjYzNxw": 1776326211345,
-    "https://www.youtube.com/shorts/N2d2ZW6DJmY": 1776326211742,
-    "https://www.youtube.com/shorts/1IkL-wuDMq0": 1776326211742,
-    "https://www.youtube.com/shorts/Z_kjmSlvU0s": 1776326212051,
-    "https://www.youtube.com/shorts/UwlLAYhZPH0": 1776326212360,
-    "https://www.youtube.com/watch?v=jfh_mmW73ys": 1776326212360,
-    "https://www.youtube.com/shorts/fjf8n6N9LiQ": 1776326212810,
     "760338f2-8515-4433-9b9b-c68460d84b5b": 1776412652336,
     "https://www.youtube.com/shorts/S-D3ILBe2Ng": 1776412659412,
     "https://www.youtube.com/shorts/fttZec0cOpk": 1776412660366,
@@ -74,13 +60,26 @@
     "https://www.youtube.com/shorts/YAw6zsc6Tsc": 1776844708726,
     "https://www.youtube.com/shorts/e0XNfblfE-c": 1776844709031,
     "https://www.youtube.com/shorts/tZAJ37-neqU": 1776844709336,
-    "https://www.youtube.com/shorts/7AtTqCWiJvk": 1776844710064
+    "https://www.youtube.com/shorts/7AtTqCWiJvk": 1776844710064,
+    "65d389a8-3765-11f1-a29e-cf3fbe697ce7": 1776931436089,
+    "e835fe4d-e084-45e1-93cb-ae88faf71bc4": 1776931436303,
+    "https://www.youtube.com/shorts/f1rK6WfCjCQ": 1776931444758,
+    "https://www.youtube.com/watch?v=AGHi_4I3RpU": 1776931445191,
+    "https://www.youtube.com/shorts/y_B6dgKv-kM": 1776931445629,
+    "https://www.youtube.com/shorts/p1T3GFtBBrs": 1776931445629,
+    "https://www.youtube.com/shorts/RXiG1vvGUTk": 1776931446080,
+    "https://www.youtube.com/shorts/x7YvnTq07RM": 1776931446080,
+    "https://www.youtube.com/watch?v=wgPVh9wG6Ok": 1776931446386,
+    "https://www.youtube.com/shorts/dHvFLJhQ4Y8": 1776931446691,
+    "https://www.youtube.com/watch?v=j9KHENEsn0k": 1776931447099,
+    "https://www.youtube.com/shorts/vipW-bD86ts": 1776931447405
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/managed-agents": 1776412657669,
     "https://claude.com/blog/claude-managed-agents": 1776412658300,
     "https://www.anthropic.com/engineering/infrastructure-noise": 1776583640706,
     "https://www.anthropic.com/engineering/claude-code-auto-mode": 1776583645019,
-    "https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense": 1776758516078
+    "https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense": 1776758516078,
+    "https://claude.com/blog/claude-code-desktop-redesign": 1776931443753
   }
 }
