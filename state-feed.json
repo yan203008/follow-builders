@@ -1,18 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "4255b42e-3a9e-11f1-8eee-179e850fd703": 1776496619069,
-    "8201bfdf-224a-4772-a226-a46968ddf88e": 1776496619163,
-    "https://www.youtube.com/watch?v=Xp4GBvKBPww": 1776496620830,
-    "https://www.youtube.com/shorts/YTaRhTRR56E": 1776496621204,
-    "https://www.youtube.com/shorts/znubRaiqoio": 1776496621204,
-    "https://www.youtube.com/shorts/0PPoSfxutbg": 1776496621695,
-    "https://www.youtube.com/shorts/1PSTkpv5Tg4": 1776496621695,
-    "https://www.youtube.com/shorts/1zO0Ok8xABw": 1776496622004,
-    "https://www.youtube.com/shorts/QineF3K5-cA": 1776496622509,
-    "https://www.youtube.com/watch?v=_DwvJFBW_X0": 1776496622888,
-    "https://www.youtube.com/watch?v=aAqIxrNpGSc": 1776496622888,
-    "https://www.youtube.com/shorts/uMie-mG11F0": 1776496623271,
     "bccec4fe-338a-11f1-97c4-b39f93bb2054": 1776583634429,
     "6c5e4068-567b-48f6-a407-a2eb9793cfc6": 1776583634718,
     "https://www.youtube.com/shorts/jxHIw_OA8_I": 1776583645815,
@@ -78,7 +66,17 @@
     "https://www.youtube.com/watch?v=kCMgUvnpzsM": 1777018349735,
     "https://www.youtube.com/shorts/EtCCWZD7-ZE": 1777018349735,
     "https://www.youtube.com/shorts/5cS3xIs1GG4": 1777018350185,
-    "https://www.youtube.com/shorts/7BY5IkxUYks": 1777018350912
+    "https://www.youtube.com/shorts/7BY5IkxUYks": 1777018350912,
+    "https://www.youtube.com/shorts/p1ak5NfWuEA": 1777101992783,
+    "https://www.youtube.com/shorts/1a5xOhqvm-I": 1777101993815,
+    "https://www.youtube.com/shorts/O8sWPk2hQa4": 1777101994358,
+    "https://www.youtube.com/shorts/F8tbvbsYsaM": 1777101994358,
+    "https://www.youtube.com/shorts/9rjLyFOy9bw": 1777101995002,
+    "https://www.youtube.com/shorts/dQs7R84tZ04": 1777101995002,
+    "https://www.youtube.com/shorts/VICLRfvLdh8": 1777101995418,
+    "https://www.youtube.com/shorts/Vu0PJKwk66Y": 1777101995418,
+    "https://www.youtube.com/shorts/6JGT-SpGODc": 1777101995974,
+    "https://www.youtube.com/shorts/fAP382vNiJE": 1777101996677
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/infrastructure-noise": 1776583640706,
@@ -87,6 +85,7 @@
     "https://claude.com/blog/claude-code-desktop-redesign": 1776931443753,
     "https://www.anthropic.com/engineering/april-23-postmortem": 1777018345672,
     "https://claude.com/blog/connectors-for-everyday-life": 1777018346368,
-    "https://claude.com/blog/claude-managed-agents-memory": 1777018346948
+    "https://claude.com/blog/claude-managed-agents-memory": 1777018346948,
+    "https://www.anthropic.com/engineering/managed-agents": 1777101991718
   }
 }

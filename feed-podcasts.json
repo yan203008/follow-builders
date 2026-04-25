@@ -1,45 +1,8 @@
 {
-  "generatedAt": "2026-04-24T08:12:24.250Z",
+  "generatedAt": "2026-04-25T07:26:22.268Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "Notion’s Token Town: 5 Rebuilds, 100+ Tools, MCP vs CLIs and the Software Factory Future — Simon Last &amp; Sarah Sachs of Notion",
-      "guid": "substack:post:194195821",
-      "url": "https://www.latent.space/p/notion",
-      "publishedAt": "2026-04-15T00:31:14.000Z",
-      "description": "For all those who missed out on London, see you in Miami next week! Notion, the knowledge work decacorn , has been building AI tooling since before ChatGPT , with many hits from Q&A in 2023 and unified AI in 2024 and Meeting Notes in 2025 . At the end of their last Make user conference, Ryan Nystrom teased Notion 3.0’s Custom Agents - and they are finally embracing the Agent Lab playbook ! Sarah Sachs and Simon Last of Notion join us for a deep dive into how Notion built Custom Agents, why it took years and multiple rebuilds to get right, and what it means to turn a productivity tool into an agent-native system of record for enterprise work. We go inside the product, engineering, evals, pricing, and org design decisions behind one of the most ambitious AI product efforts in software today — from early failed tool-calling experiments in 2022 to agent harnesses, progressive tool disclosure, meeting notes as data capture, and the long-term vision for software factories and agentic work. We discuss: * Sarah and Simon’s path to launching Notion Custom Agents, and why the feature was rebuilt four or five times before it was ready for production * Why early agent attempts failed: no tool-calling standard, short context windows, unreliable models, and too much complexity exposed to the model * The “Agent Lab” thesis : not just wrapping a model, but understanding how people collaborate and building the right product system around frontier capabilities * How Notion thinks about roadmap timing: not swimming upstream against model limitations, but also building early enough that the product is ready when the models are * Why coding agents feel like the kernel of AGI, and how Notion is thinking about “software factories” made up of agents that spec, code, test, debug, review, and maintain codebases together * How Sarah runs AI engineering at Notion (“<a targe"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "SAP: Bringing the ‘Operating System’ of a Company into the AI Era with CTO Philipp Herzig",
-      "guid": "3c0eeb82-3ed4-11f1-a843-8f60f9c4fd24",
-      "url": "https://www.youtube.com/@NoPriorsPodcast",
-      "publishedAt": "2026-04-23T10:00:00.000Z",
-      "description": "More than fifty years ago, the modern idea of the standard enterprise software was birthed at SAP. Now, after managing companies through technological shifts from the mainframe to mobile, SAP is at the forefront of closing the AI adoption gap for their customers. SAP Chief Technology Officer Philipp Herzig joins Sarah Guo to talk about how SAP has remained a durable end-to-end “operating system” for its more than 400,000 customers from finance to supply chain. Philipp argues that the AI transition in businesses should focus on customer outcomes, UI changes, business processes, and the data layer. He also explains the challenges in enterprise AI adoption, including security, scaling, and data fragmentation, as well as the importance of evals and verifiability. They also discuss SAP’s suite of AI products, limitations of predictive tabular models, how SAP is shifting its pricing models in the AI era, and Philipp’s interest in quantum computing optimization. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @pheartig | @SAP Chapters: 00:00 – Cold Open 00:42 – Philipp Herzig Introduction 01:18 – What SAP Does 02:51 – Why SAP Endures 06:53 – CTO Priorities and AI Push 12:14 – Scaling AI in Enterprise 17:06 – Verifiability and Agent Mining 20:42 – Tool Calling vs. Computer Use 22:11 – Domains Where Agents Deliver Value 24:58 – Limitations of Predictive Tabular Models 29:07 – Barriers to Enterprise Adoption 31:54 – How AI Will ‘Uplevels’ Work 34:03 – How AI Changes SAP’s Pricing Model 36:41 – What Makes a Winner in the AI Era 38:53 – Day in the Life of a CTO 40:08 – Customer Challenges 42:36 – Business Problem of Quantum Computing 46:21 – Conclusion ]]>"
-    },
-    {
-      "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "Ep 85: Has AI Infra Stabilized, FM Vibe Shift, &amp; What&apos;s Next for Coding Agents",
-      "guid": "fa9dc0ee-7aa8-422f-9414-daa79fa0cb10",
-      "url": "https://unsupervised-learning.simplecast.com/episodes/ep-85-has-ai-infra-stabilized-fm-vibe-shift-whats-next-for-coding-agents-IjTaA0mQ",
-      "publishedAt": "2026-04-23T13:00:24.000Z",
-      "description": "This episode is a wide-ranging conversation between Jacob and Swyx (Shawn Wang), an AI engineer, podcaster, and now operator at Cognition, who sits at a uniquely informed intersection of builder, investor, and community organizer in the AI world. The two cover the current state of the AI engineering zeitgeist: from the stabilization of agent infrastructure and the surprising stickiness of Claude Code, to the competitive dynamics of the AI coding wars, the rise of open models, the threat to traditional SaaS, and the frontier questions around world models, memory, and what it actually means for AI to \"understand\" something. The episode is grounded in practitioner-level candor, with Swyx offering real takes from running AIE conferences, working inside Cognition, and thinking deeply about what the next wave of AI-native software development looks like. (0:00) Intro (1:17) What the Top AI Engineers Are Thinking About (2:13) Has AI Infra Finally Stabilized? (6:39) When Does Doing RL In-House Make Sense? (11:26) Why Selling Dev Tools to Agents is Different (17:18) AI Coding Wars (29:04) Consumer AI Plateau (30:22) Codex vs Claude Code (44:52) Future of Open Models With your co-hosts: @jacobeffron - Partner at Redpoint, Former PM Flatiron Health @patrickachase - Partner at Redpoint, Former ML Engineer LinkedIn @ericabrescia - Former COO Github, Founder Bitnami (acq’d by VMWare) @jordan_segall - Partner at Redpoint"
-    },
-    {
-      "source": "podcast",
-      "name": "AI & I by Every",
-      "title": "The AI Model Built for What LLMs Can't Do",
-      "guid": "106a53c9-d4bf-4534-a3f1-7a38339b46b1",
-      "url": "https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/The-AI-Model-Built-for-What-LLMs-Cant-Do-e3htoru",
-      "publishedAt": "2026-04-15T15:00:00.000Z",
-      "description": "Most AI companies are racing to build bigger LLMs. Eve Bodnia thinks that's the wrong approach. Eve is the founder and CEO of Logical Intelligence, which is developing an alternative to the transformer-based models dominating the industry. Her argument: LLMs’ architecture makes them fundamentally unsuited for some mission-critical tasks. A system that generates output one token at a time, with no ability to inspect its own reasoning mid-process or guarantee its results, shouldn't be trusted to design chips, analyze financial data, or even fly a plane. Her alternative is the energy-based model (EBM), a form of AI rooted in the physics principle of energy minimization, not language prediction. Rather than guessing the next probable word, an EBM maps every possible outcome across a mathematical landscape, where likely states settle into valleys and improbable ones sit on peaks. Dan Shipper talked with Bodnia for AI &amp; I about why she believes LLM progress is plateauing, what it means for AI to actually understand data rather than just pattern-match across it, and how her team is building toward formally verified code generated in plain English—no C++ required. If you found this episode interesting, please like, subscribe, comment, and share! Head to http://granola.ai/every and get 3 months free with the code EVERY To hear more from Dan Shipper: Subscribe to Every: https://every.to/subscribe Follow him on X: https://twitter.com/danshipper Timestamps: 00:00:51 - Introduction 00:02:09 - Why correctness and verifiability matter in AI 00:09:33 - What an energy-based model is 00:14:21 - How EBMs construct energy landscapes to understand data 00:19:00 - Why modeling intelligence through language alone is a flawed approach 00:26:54 - What it means for a model to \"understand\" data 00:37:21 - How EBMs solve the vibe coding problem and enable formally verified code 00:43:21 - Why LLM progress is plateauing 00:49:54 - Mission-critical industries haven't adopted LLMs, and how EBMs could fill that gap"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 4
+    "podcastEpisodes": 0
   }
 }
