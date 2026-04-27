@@ -1,14 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "https://www.youtube.com/watch?v=9ANX5tNJll4": 1776673144385,
-    "https://www.youtube.com/shorts/ollszUVTukM": 1776673144776,
-    "https://www.youtube.com/shorts/wABD5ywMyAE": 1776673144776,
-    "https://www.youtube.com/shorts/21FE1UmMRQI": 1776673145320,
-    "https://www.youtube.com/shorts/BvMmnGc63Xc": 1776673145320,
-    "https://www.youtube.com/watch?v=qKkD5hEHkkY": 1776673145828,
-    "https://www.youtube.com/shorts/djtT2IZO08s": 1776673145828,
-    "https://www.youtube.com/shorts/AITh5M2MJLo": 1776673146395,
     "https://www.youtube.com/watch?v=VyVM3oERNfk": 1776758517561,
     "https://www.youtube.com/watch?v=Fhh_-iGEKz8": 1776758517561,
     "https://www.youtube.com/shorts/GepbFdsCvU8": 1776758517990,
@@ -79,7 +71,19 @@
     "https://www.youtube.com/shorts/c6oUlcpNpIw": 1777189607711,
     "https://www.youtube.com/watch?v=HqRjvtWLIdQ": 1777189608139,
     "https://www.youtube.com/watch?v=tR122QB7lFE": 1777189608139,
-    "https://www.youtube.com/shorts/Sj-5NRCUvME": 1777189608505
+    "https://www.youtube.com/shorts/Sj-5NRCUvME": 1777189608505,
+    "https://www.youtube.com/shorts/DWt3zfqtI6g": 1777278873946,
+    "https://www.youtube.com/shorts/XV4eV0wnx-c": 1777278874392,
+    "https://www.youtube.com/shorts/9VD1wHGyauU": 1777278874768,
+    "https://www.youtube.com/shorts/vAjOTC6BYGQ": 1777278874768,
+    "https://www.youtube.com/shorts/uFP7O5KTic0": 1777278875332,
+    "https://www.youtube.com/watch?v=Sj_Cvl6gpKE": 1777278875332,
+    "https://www.youtube.com/shorts/4XFGnSQZ3pE": 1777278875637,
+    "https://www.youtube.com/shorts/TXUEmJGjgIk": 1777278875637,
+    "https://www.youtube.com/watch?v=OngYnjfKqd8": 1777278876045,
+    "https://www.youtube.com/shorts/SQ1ayuJKXK4": 1777278876045,
+    "https://www.youtube.com/shorts/buDpOPJxxgU": 1777278876580,
+    "https://www.youtube.com/watch?v=NyVBWIW6vbk": 1777278876580
   },
   "seenArticles": {
     "https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense": 1776758516078,
@@ -87,6 +91,7 @@
     "https://www.anthropic.com/engineering/april-23-postmortem": 1777018345672,
     "https://claude.com/blog/connectors-for-everyday-life": 1777018346368,
     "https://claude.com/blog/claude-managed-agents-memory": 1777018346948,
-    "https://www.anthropic.com/engineering/managed-agents": 1777101991718
+    "https://www.anthropic.com/engineering/managed-agents": 1777101991718,
+    "https://www.anthropic.com/engineering/claude-code-auto-mode": 1777278873109
   }
 }
