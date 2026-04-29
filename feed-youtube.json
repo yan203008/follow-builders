@@ -1,17 +1,62 @@
 {
-  "generatedAt": "2026-04-28T08:32:46.689Z",
+  "generatedAt": "2026-04-29T08:26:37.441Z",
   "lookbackHours": 48,
   "youtube": [
+    {
+      "source": "youtube",
+      "name": "Predictive History",
+      "channelId": "UC11aHtNnc5bEPLI4jf6mnYg",
+      "videos": [
+        {
+          "title": "Great Books #10:  Dante's Hierarchy of Hell",
+          "url": "https://www.youtube.com/watch?v=wGpdMYa2bME",
+          "publishedAt": "2026-04-29T06:13:15+00:00",
+          "description": "In this Wednesday, April 29, 2026 lecture to his Beijing high school students, Professor Jiang explains how Dante constructed the Inferno.  \n\nNotes and References:\n1.  Dante's Inferno\nhttps://digitaldante.columbia.edu/dante/divine-comedy/"
+        },
+        {
+          "title": "Game Theory #22:  Twilight of the Nation-State",
+          "url": "https://www.youtube.com/watch?v=txgPfnXgzcE",
+          "publishedAt": "2026-04-28T09:38:55+00:00",
+          "description": "In this Tuesday, April 28, 2026 lecture to his Beijing high school students, Professor Jiang explains that 21st century warfare is about turning the civilian population against the state.\n\nNotes and References:\n1.  &quot;The Social Contract&quot; by Jean-Jacques Rousseau"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "Jeff Su",
+      "channelId": "UCwAnu01qlnVg1Ai2AbtTMaA",
+      "videos": [
+        {
+          "title": "Claude Cowork for Beginners: Build Your Own Jarvis",
+          "url": "https://www.youtube.com/watch?v=0_dSWLOHKng",
+          "publishedAt": "2026-04-28T13:00:03+00:00",
+          "description": "✅ Save 40% on Coursera Plus for 3 months - https://imp.i384100.net/c/2464514/3864512/14726\n\n#Claude #Cowork turns Claude from a chatbot into a full operating system for your work (aka an AI Second Brain), but most people have no idea how to actually set it up.\n\nThis video walks you through the exact workspace architecture I use every day, including CLAUDE.md instruction files, persistent memory, a three-level hierarchy of workstations and projects, and real demos of Email HQ, spending trackers, and newsletter drafts that sound like me.\n\n*TIMESTAMPS*\n00:00 Claude Cowork for Beginners\n01:24 How Claude Cowork Works\n03:39 Cowork: 3-Level Hierarchy\n04:58 Level 0: Root Level\n11:01 Level 1: Workstations\n16:17 Growing Your Claude Cowork Workspace\n17:06 Claude Cowork Use Cases\n18:44 Claude Cowork: Pro Tips\n\n*RESOURCES MENTIONED*\nStarter templates and prompt templates - https://www.jeffsu.org/claude-cowork-build-your-own-jarvis/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v203\nFree Cowork Toolkit - https://coworkacademy.ai/toolkit?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v203\nCowork Academy waitlist - https://coworkacademy.ai?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v203\n\n*BUILD A POWERFUL WORKFLOW*\n📈 The Workspace Academy - https://academy.jeffsu.org/workspace-academy?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v203\n✍️ My Notion Command Center - https://www.pressplay.cc/link/s/DE1C4C50\n\n*BE MY FRIEND:*\n📧 Subscribe to my newsletter - https://www.jeffsu.org/newsletter/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=description\n📸 Instagram - https://instagram.com/j.sushie\n🤝 LinkedIn - https://www.linkedin.com/in/jsu05/\n\n*MY FAVORITE GEAR*\n🎬 My YouTube Gear - https://www.jeffsu.org/yt-gear/\n🎒 Everyday Carry - https://www.jeffsu.org/my-edc/"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "Tina Huang",
+      "channelId": "UC2UXDak6o7rBm23k3Vv5dww",
+      "videos": [
+        {
+          "title": "Zero To A Full OpenClaw Setup In 26 Minutes",
+          "url": "https://www.youtube.com/watch?v=oOCN30ulVyo",
+          "publishedAt": "2026-04-28T14:37:13+00:00",
+          "description": "Build your own app with Bolt  👉 https://bolt.new/?utm_medium=social&amp;utm_source=influencer&amp;utm_campaign=V2&amp;utm_content=tinahuang\n\nIn this video I go through my full open claw setup! Please feel free to steal it completely 😉\n\nPrompts: https://docs.google.com/document/d/1cJPzi3j0WioG-PzTZ5eQR7HxzEETLlr2zHRtYvIsUq0/edit?usp=sharing\n\n🐙 Free 28-Day AI Sprint Roadmap - pick your goal to get a clear, day-by-day path forward 👉 https://www.lonelyoctopus.com/ai-sprint-roadmap\n\n🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp\n\n🤝 Business Inquiries: https://tally.so/r/mRDV99\n\n🔗Affiliates\n========================\nMy SQL for data science interviews course (10 full interviews):\nhttps://365datascience.com/learn-sql-for-data-science-interviews/ \n\n365 Data Science: \nhttps://365datascience.pxf.io/WD0za3 (link for 57% discount for their complete data science training)\n\nCheck out StrataScratch for data science interview prep: \nhttps://stratascratch.com/?via=tina\n\n🎥 My filming setup \n========================\n📷 camera: https://amzn.to/3LHbi7N\n🎤 mic: https://amzn.to/3LqoFJb\n🔭 tripod: https://amzn.to/3DkjGHe\n💡 lights: https://amzn.to/3LmOhqk\n\n⏰Timestamps\n========================\n00:00 Intro \n00:50 Hardware Selection \n02:23 Download &amp; Onboarding Wizard \n08:13 Custom Mission Control \n10:05 Discord Setup \n11:53 Build Projects\n16:31 Github \n16:58 Multi Agent Framework \n20:08 Security Check \n20:46 Memory Fixes\n22:32 Advanced Workflows\n\n📲Socials \n========================\ninstagram: https://www.instagram.com/hellotinah/\nlinkedin: https://www.linkedin.com/in/tinaw-h/ \ntiktok: https://www.tiktok.com/@hellotinahuang \ndiscord: https://discord.gg/5mMAtprshX\n\n🎥Other videos you might be interested in\n========================\nHow I consistently study with a full time job:\nhttps://www.youtube.com/watch?v=INymz5VwLmk\n\nHow I would learn to code (if I could start over): \nhttps://www.youtube.com/watch?v=MHPGeQD8TvI&amp;t=84s\n\n🐈‍⬛🐈‍⬛About me \n========================\nHi, my name is Tina and I'm an ex-Meta data scientist turned internet person! \n\n📧Contact\n========================\nyoutube: youtube comments are by far the best way to get a response from me! \nlinkedin: https://www.linkedin.com/in/tinaw-h/ \nemail for business inquiries only: tina@smoothmedia.co\n\n========================\nSome links are affiliate links and I may receive a small portion of sales price at no cost to you. I really appreciate your support in helping improve this channel! :)"
+        }
+      ]
+    },
     {
       "source": "youtube",
       "name": "Ali Abdaal",
       "channelId": "UCoOae5nYA7VqaXzerajD0lg",
       "videos": [
         {
-          "title": "How to Chose Your Next Business Idea",
-          "url": "https://www.youtube.com/shorts/4ZK7Ms4IZ7g",
-          "publishedAt": "2026-04-27T12:03:26+00:00",
-          "description": "Join the Six-Figure Lifestyle Business Masterclass on 4th May: https://go.lifestylebusiness.com/yts260427"
+          "title": "I learned to earn unlimited money",
+          "url": "https://www.youtube.com/shorts/kXenRXelpKs",
+          "publishedAt": "2026-04-28T10:01:11+00:00",
+          "description": "Join the Six-Figure Lifestyle Business Masterclass on 4th May: https://go.lifestylebusiness.com/yts260428"
         }
       ]
     },
@@ -21,10 +66,10 @@
       "channelId": "UCLKsaKMS_5RQuM0wHLp2vVg",
       "videos": [
         {
-          "title": "E235 DeepSeek V4对GPT5.5 : 中国AI短暂的2025黄金时代，真的结束了？ | 透明茶室 • 分析线 | GPT5.5 | R1 | 蒸馏｜算力",
-          "url": "https://www.youtube.com/watch?v=6YMrnOSzNLU",
-          "publishedAt": "2026-04-28T03:00:00+00:00",
-          "description": "00:00 - DeepSeekV4终于发布, 但是...\n02:44 - 为何2025中国AI有大发展, 以及为何已经结束了\n\n[ 欢迎在Patreon支持世界苦茶 ]\nPatreon：https://www.patreon.com/flipradio\n\n[ FR_FN全部服務 ]\n\nA：书籍\n-书籍：在Z-lib搜索“李厚辰”\n或者：请复制链接到浏览器打开：https://we.tl/t-wocLFJjafF\n\nB 视频：\nB1：YTB搜索“世界苦茶”\nB2：YTB搜索“三个水枪手”\n\nC 透明茶室\n「透明茶室」，是周一、四晚上的新闻评论节目，每期40分钟左右，涉及世界苦茶中一条新闻的话题。\n直播：上海时间8PM在Youtube頻道\n\nD 播客：\n在小宇宙、Apple Podcast、Youtube Music、Spotify等平台搜索“翻转电台”\n-翻电RSS：https://anchor.fm/s/141e652c/podcast/rss\n\nE 文本：\n-世界苦茶Newsletter：http://fearnation.club\n看理想专栏：https://shorturl.at/hWluS\n青年志专栏：https://shorturl.at/yea9Q\n歪脑专栏：https://www.wainao.me/wainao-reads/columns/prosperous-but-dusty/\n-文本文章集合Pub：https://flipradio.club/\n-X：https://x.com/Ansel_Flipradio\n\nF 其他：\n-活跃社区DISCORD：https://discord.gg/DfQAVGg8\n-Instagram: bitteradio\n\n© FlipRadio_FearNation Copyright 2026\n要记得敢于去相信，也敢于分享你的相信。"
+          "title": "E235互动部分: GPT-5.5和Claude谁更值得用? / DeepSeek V4为什么没炸场? / AI Cyber会不会攻破防火墙? / OpenAI治理与白领失业风险",
+          "url": "https://www.youtube.com/watch?v=B9lgeSmsAys",
+          "publishedAt": "2026-04-29T01:00:00+00:00",
+          "description": "[ 欢迎在Patreon支持世界苦茶 ]\nPatreon：https://www.patreon.com/flipradio\n\n[ FR_FN全部服務 ]\n\nA：书籍\n-书籍：在Z-lib搜索“李厚辰”\n或者：请复制链接到浏览器打开：https://we.tl/t-wocLFJjafF\n\nB 视频：\nB1：YTB搜索“世界苦茶”\nB2：YTB搜索“三个水枪手”\n\nC 透明茶室\n「透明茶室」，是周一、四晚上的新闻评论节目，每期40分钟左右，涉及世界苦茶中一条新闻的话题。\n直播：上海时间8PM在Youtube頻道\n\nD 播客：\n在小宇宙、Apple Podcast、Youtube Music、Spotify等平台搜索“翻转电台”\n-翻电RSS：https://anchor.fm/s/141e652c/podcast/rss\n\nE 文本：\n-世界苦茶Newsletter：http://fearnation.club\n看理想专栏：https://shorturl.at/hWluS\n青年志专栏：https://shorturl.at/yea9Q\n歪脑专栏：https://www.wainao.me/wainao-reads/columns/prosperous-but-dusty/\n-文本文章集合Pub：https://flipradio.club/\n-X：https://x.com/Ansel_Flipradio\n\nF 其他：\n-活跃社区DISCORD：https://discord.gg/DfQAVGg8\n-Instagram: bitteradio\n\n© FlipRadio_FearNation Copyright 2026\n要记得敢于去相信，也敢于分享你的相信。"
         }
       ]
     },
@@ -34,29 +79,16 @@
       "channelId": "UCbk_QsfaFZG6PdQeCvaYXJQ",
       "videos": [
         {
-          "title": "This could be a great alternative #timferriss",
-          "url": "https://www.youtube.com/shorts/w6rS5U4ru2Q",
-          "publishedAt": "2026-04-28T01:00:54+00:00",
+          "title": "What fascinates you at the moment? #timferriss",
+          "url": "https://www.youtube.com/shorts/WSZobW8Lwpk",
+          "publishedAt": "2026-04-29T01:00:35+00:00",
           "description": "Episode Resources:\n\nhttps://www.instagram.com/jayshetty\nhttps://www.facebook.com/jayshetty/\nhttps://x.com/jayshetty\nhttps://www.linkedin.com/in/shettyjay/\nhttps://www.youtube.com/@JayShettyPodcast\nhttp://jayshetty.me"
         },
         {
-          "title": "TMS is widely available #timferriss",
-          "url": "https://www.youtube.com/shorts/G0jvVytD6PY",
-          "publishedAt": "2026-04-27T17:00:31+00:00",
+          "title": "Doom Scrolling is not helpful #timferriss",
+          "url": "https://www.youtube.com/shorts/AKJ-WVGTNnU",
+          "publishedAt": "2026-04-28T17:00:19+00:00",
           "description": "Episode Resources:\n\nhttps://www.instagram.com/jayshetty\nhttps://www.facebook.com/jayshetty/\nhttps://x.com/jayshetty\nhttps://www.linkedin.com/in/shettyjay/\nhttps://www.youtube.com/@JayShettyPodcast\nhttp://jayshetty.me"
-        }
-      ]
-    },
-    {
-      "source": "youtube",
-      "name": "Andrew Huberman",
-      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
-      "videos": [
-        {
-          "title": "Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway",
-          "url": "https://www.youtube.com/watch?v=sQcS6f2qYoQ",
-          "publishedAt": "2026-04-27T12:01:38+00:00",
-          "description": "Scott Galloway is a professor of marketing at New York University's Stern School of Business. We discuss masculine roles and obligations of past, present and future. We explore which are timeless and which are changing, and positive steps boys and men can take to create meaning and stability in their lives. We cover work, finances, health and relationships to build a grounded, purposeful life. We also discuss tech, social media, alcohol, cannabis and porn. Throughout, we emphasize specific daily practices for building mental, physical and economic resilience, compassion for others, and for navigating key life decisions in every realm.\n\nShow notes: https://go.hubermanlab.com/0OWlXRU\n\nThank you to our sponsors\nAG1: https://drinkag1.com/huberman\nDavid: https://davidprotein.com/huberman\nWealthfront*: https://wealthfront.com/huberman\nFunction: https://functionhealth.com/huberman\nLMNT: https://drinklmnt.com/huberman\n\nHuberman Lab\nInstagram: https://www.instagram.com/hubermanlab \nThreads: https://www.threads.net/@hubermanlab\nX: https://x.com/hubermanlab \nFacebook: https://www.facebook.com/hubermanlab \nTikTok: https://www.tiktok.com/@hubermanlab \nLinkedIn: https://www.linkedin.com/in/andrew-huberman\nWebsite: https://www.hubermanlab.com \nNewsletter: https://www.hubermanlab.com/newsletter\n\nScott Galloway\nAcademic profile: https://www.stern.nyu.edu/faculty/bio/scott-galloway \nNotes on Being a Man (book): https://amzn.to/4sSUJL3\nNo Mercy / No Malice newsletter: https://www.profgmedia.com/s/no-mercy-no-malice \nThe Prof G Pod: https://podcasts.voxmedia.com/show/the-prof-g-pod-with-scott-galloway \nPivot podcast: https://podcasts.voxmedia.com/show/pivot \nSubstack: https://www.profgmedia.com \nOther books: https://amzn.to/42wg4za\nInstagram: https://www.instagram.com/profgalloway\nThreads: https://www.threads.com/@profgalloway\nYouTube: https://www.youtube.com/@TheProfGPod\nTikTok: https://www.tiktok.com/@profgalloway\nLinkedIn: https://www.linkedin.com/in/profgalloway\n\nTimestamps\n00:00:00 Scott Galloway\n00:02:45 Mentoring Young Men\n00:06:16 Positive Masculinity Defined\n00:13:37 Sponsors: David &amp; Wealthfront\n00:16:33 Men &amp; Goals, Role Models, Technology; Relationships\n00:26:34 Elon Musk; Big Tech\n00:31:53 Varying Role Models, Flaws; Criticism, Big Tech &amp; Incendiary Content\n00:43:33 Sponsor: AG1\n00:44:57 Fear, Dating &amp; Rejection, Relationship Dynamics\n00:53:39 Social Media Impacts on Kids; Regulation\n01:06:03 Phone, Dopamine &amp; Pseudo-OCD; Solutions\n01:14:03 Sponsor: Function\n01:15:14 Naval Academy &amp; Lifestyle Protocols, Mandatory National Service\n01:23:08 Alcohol Phones &amp; Professional Considerations\n01:33:43 Drinking Age; Cannabis, THC\n01:37:16 Sponsor: LMNT\n01:38:36 Cannabis; Porn, Addiction\n01:46:14 Anger; Testosterone; Aspirational Masculinity, Toxic Femininity\n01:56:25 Advocating for Young Men, Economic Opportunity, Gerontocracy\n02:04:43 Generation Gaps, Retirement, &quot;Vampire&quot; Generation\n02:10:30 Bet on Unremarkable, Universities &amp; Vocations; Gerontocracy\n02:18:48 Aging; Paying it Forward &amp; Male Mentorship\n02:25:33 Seeking Mentors, Young Men; Acknowledgments\n02:33:13 Zero-Cost Support, YouTube, Spotify &amp; Apple Follow, Reviews &amp; Feedback, Sponsors, Protocols Book, Social Media, Neural Network Newsletter\n\n#hubermanlab #scottgalloway \n\nDisclaimer &amp; Disclosures: https://www.hubermanlab.com/disclaimer"
         }
       ]
     },
@@ -66,29 +98,16 @@
       "channelId": "UCIaH-gZIVC432YRjNVvnyCA",
       "videos": [
         {
-          "title": "Mentalist Makes Chris Williamson Sh*t Himself",
-          "url": "https://www.youtube.com/shorts/SZmEskifNaY",
-          "publishedAt": "2026-04-27T23:00:34+00:00",
-          "description": "Watch the full video here: https://youtu.be/6xdW0bdVkVU?si=-ILfcCMKSl-mbgbR\n\n-\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
+          "title": "Jimmy Carr On Finding Your True Self",
+          "url": "https://www.youtube.com/shorts/CaMl5cWbJOM",
+          "publishedAt": "2026-04-28T23:00:27+00:00",
+          "description": "Watch this video here- https://youtu.be/ms02ezkAcYw?si=sSLaKbZHw9qOzP4D\n\n-\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
         },
         {
-          "title": "The Extreme Crisis of Young Women - Freya India",
-          "url": "https://www.youtube.com/watch?v=VDsihdJGiq0",
-          "publishedAt": "2026-04-27T15:01:00+00:00",
-          "description": "Freya India is a writer and journalist focused on female mental health and modern culture.\n\nWhat’s happening with modern women? By almost every measure, life has improved; more freedom, opportunity, and independence than ever before. So why are many women reporting lower levels of happiness? What’s driving this paradox, and what would actually fix it?\n\nExpect to learn why Freya started writing about women and girls, what young women actually want in 2026, why Gen Z is becoming the generation with the highest rates of sexlessness, how girls think about their emotional lives and struggles, what is happening politically with women, what happened to modern beauty standards, what replaced religion for Gen Z and much more…\n\n-\n\n0:00 The One-Star Controversy Around Freya’s Book\n0:56 How Freya Entered the Debate on Women and Girls\n2:01 Why Women’s Advocates Are Under Fire\n8:30 What Do Women Want in 2026?\n10:48 Are Women Getting What They Want But Not What They Need?\n12:23 Settle Down or Stay Single: The Modern Dilemma\n15:22 Should Social Media Be Banned for Young People?\n17:56 Do Young Women Really Want a Child-Free Life?\n28:30 Are Young Women Turning Against Capitalism?\n30:04 The Harmful Narratives Shaping Modern Sex\n33:37 Are Young Women Porn-Brained?\n38:13 Is It Healthy to Share Everything Online?\n44:26 Is Suicide Rising Among Young Women?\n46:40 Is Social Media Radicalising Young Women?\n50:30 Why 2020 Changed Everything for Women\n53:43 The Rise of Appearance Anxiety Among Women\n59:37 Is “Self-Love” Just Another Marketing Strategy?\n01:03:18 How Filters Distort Our Self-Image\n01:05:47 Have We All Regressed to Mean Teenagers?\n01:10:33 Are Influencers Just Modern-Day Salespeople?\n01:14:15 Is the Internet Teaching Women to Hate Men?\n01:17:40 How Social Media Is Straining Relationships\n01:23:27 Are Women Actually Empathetic to Global Conflicts?\n01:27:17 The Real Reception of Freya’s Book\n01:30:16 Is Divorce Being Glamourised?\n01:35:39 Are Progressive Ideals Internally Contradictory?\n01:41:02 The Harshest Critiques of Freya’s Work\n01:42:45 We Need to Bind Over Love, Not Hatred\n01:46:03 Do Tax Systems Discourage Motherhood?\n01:51:11 Have Women’s Preferences Fundamentally Shifted?\n01:52:42 How Do We Know When the Left Has Gone Too Far?\n01:54:49 Find Out More About Freya\n\n-\n\nGet up to $350 off the Eight Sleep Pod 5 at https://eightsleep.com/modernwisdom\n\nGet 35% off your first subscription on the best supplements from Momentous at https://livemomentous.com/modernwisdom\n\nGet a Free Sample Pack of LMNT’s most popular flavours with your first purchase at https://drinklmnt.com/modernwisdom\n\nGet up to $50 off the RP Hypertrophy App at https://rpstrength.com/modernwisdom\n\n-\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
-        }
-      ]
-    },
-    {
-      "source": "youtube",
-      "name": "How I AI",
-      "channelId": "UCRYY7IEbkHLH_ScJCu9eWDQ",
-      "videos": [
-        {
-          "title": "How a non-technical founder built a $100K ARR meme company | Jason Levin (Memelord CEO)",
-          "url": "https://www.youtube.com/watch?v=6fFnh-xe4gc",
-          "publishedAt": "2026-04-27T12:00:22+00:00",
-          "description": "Jason Levin is the CEO and founder of Memelord, an AI-powered meme creation platform that helps brands and individuals create contextual, trending memes. He started Memelord as a $6.90-per-month newsletter sending subscribers to a Google Slides deck, grew it to $100K ARR on Bubble without hiring engineers, then raised $3M to build it into an API-first product.\n\n*What you’ll learn:*\n1. How Jason grew Memelord from a $6.90/month newsletter to $100K ARR without writing a single line of code\n2. Why “no UX is the best UX” and how agents are becoming Memelord’s primary users\n3. The mandatory vibe-coding rule for his marketing team and how it unlocks unprecedented creativity\n4. Why free tools are the new PDF downloads and how they’ve generated hundreds of thousands of emails\n5. Jason’s hardware hacking projects, including a bedside keyboard that creates Linear tickets without waking his wife\n6. Why AI can be funny (but humans are still funnier) and which model is the funniest\n7. The philosophy of building hyper-personalized software just for yourself\n\n*Brought to you by:*\nWorkOS—Make your app enterprise-ready today: https://workos.com?utm_source=lennys_howiai&amp;utm_medium=podcast&amp;utm_campaign=q22025\nPersona—Trusted identity verification for any use case: https://withpersona.com/lp/howiai\n\n*In this episode, we cover:*\n(00:00) Introduction to Jason Levin and Memelord\n(04:28) Demo: Agentic meme creation with OpenClaw\n(06:55) “No UX is the best UX”—building for an agent-first future\n(08:35) How Memelord started as a $6.90 newsletter with Google Slides\n(12:35) Building to $100K ARR on Bubble with 395 workflows\n(15:20) Demo: Free tools section that generates hundreds of thousands of emails\n(17:59) Why Cursor is perfect for non-technical founders\n(20:20) Let your marketers cook—or watch them leave\n(24:19) Commit graph that shows the vibe-coding inflection point\n(25:25) Tools: Claude, Gemini, Linear, PostHog\n(28:19) Build weird stuff in the real world\n(33:24) Creative AI use cases\n(39:56) Using OpenClaw for calendar analysis\n(43:37) Can AI be funny? Which model is funniest?\n(45:26) Memes are not slop\n(46:45) What Jason doesn’t use AI for\n(48:12) Final thoughts\n\n*Blog &amp; detailed workflow walkthroughs from this episode:*\nHow I AI: Jason Levin’s Workflows for Agentic Memes, Vibe Coding, and Hardware Hacking: https://www.chatprd.ai/how-i-ai/jason-levins-workflows-for-agentic-memes-vibe-coding-and-hardware-hacking\n↳ Build a Custom Bedside Keyboard for Idea Capture with Raspberry Pi and ChatGPT: https://www.chatprd.ai/how-i-ai/workflows/build-a-custom-bedside-keyboard-for-idea-capture-with-raspberry-pi-and-chatgpt\n↳ Build Free Marketing Tools as Lead Magnets Using AI Code Assistants: https://www.chatprd.ai/how-i-ai/workflows/build-free-marketing-tools-as-lead-magnets-using-ai-code-assistants\n↳ Automate Meme Marketing with an AI Agent and OpenClaw: https://www.chatprd.ai/how-i-ai/workflows/automate-meme-marketing-with-an-ai-agent-and-openclaw\n\n*Tools referenced:*\n• Memelord API: https://memelord.com/api\n• Cursor: https://cursor.com/\n• Bubble: https://bubble.io/\n• OpenClaw: https://openclaw.ai\n• Claude: https://claude.ai/\n• ChatGPT: https://chat.openai.com/\n• Gemini: https://gemini.google.com/\n• Grok: https://grok.x.ai/\n• Linear: https://linear.app/\n• PostHog: https://posthog.com/\n• Zapier: https://zapier.com/\n\n*Other references:*\n• Diego Zaks—“The best UX is no UX”: https://x.com/diegozaks/status/1966526522136649980\n• Sam Lessin: https://wlessin.com/\n• “Stop giving me advice”: https://stopgivingmeadvice.com\n• Memelord free tools: https://memelord.com/tools\n\n*Where to find Jason Levin:*\nTwitter: https://twitter.com/iamjasonlevin\nInstagram: https://instagram.com/iamjasonlevin\nLinkedIn: https://www.linkedin.com/in/iamjasonlevin/\nMemelord: https://memelord.com\n\n*Where to find Claire Vo:*\nChatPRD: https://www.chatprd.ai/\nWebsite: https://clairevo.com/\nLinkedIn: https://www.linkedin.com/in/clairevo/\nX: https://x.com/clairevo\n\n_Production and marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email jordan@penname.co._"
+          "title": "The “Stop Nick Shirley Act” is Mind-Blowing",
+          "url": "https://www.youtube.com/watch?v=i7sDgws4wa8",
+          "publishedAt": "2026-04-28T15:01:27+00:00",
+          "description": "Chris, Gary Faust, George Mack &amp; Shaan Puri discuss California's proposed bill, nicknamed the &quot;Stop Nick Shirley Act,&quot; that targets investigative reporters.\n\nGet up to 20% off Timeline powered by Mitopure (now at a lower price) at https://timeline.com/modernwisdom\n\n-\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
         }
       ]
     },
@@ -98,22 +117,15 @@
       "channelId": "UC0TnW9acNxqeojxXDMbohcA",
       "videos": [
         {
-          "title": "The Hardest Part of Self-Improvement",
-          "url": "https://www.youtube.com/shorts/eCHeQ23aaWE",
-          "publishedAt": "2026-04-27T13:01:57+00:00",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "source": "youtube",
-      "name": "立党 lidang",
-      "channelId": "UC4gzU_8MxRDiQrSFOiT79tQ",
-      "videos": [
+          "title": "Your Questions On Manifestation, Confidence, and Getting Over Your Ex, Solved",
+          "url": "https://www.youtube.com/watch?v=2tg_cXqYQXk",
+          "publishedAt": "2026-04-29T08:00:07+00:00",
+          "description": "It's been one year of SOLVED. 20 episodes, 20 million downloads, 3 million YouTube subscribers, and a truly unreasonable number of poop jokes. To celebrate, I sat down with over 200 of your questions and picked the ones that hit the hardest.\n\nWe get into why most people fail at quitting addictions (hint: the problem isn't the feelings, it's that you never planned for them). I explain why, if you have ADHD and can't stop procrastinating, you need to treat yourself like a dog that shits on the carpet. We talk about the real science behind manifestation, why it sort of works but not for the reason TikTok thinks it does. \n\nI break down the difference between trait confidence and state confidence, and why &quot;build evidence&quot; is only half the equation. We cover how to handle panic attacks, getting over a &quot;perfect&quot; ex (spoiler: they're not perfect, and thinking they are is the problem), the uncomfortable truth about self-love, the difference between a boring relationship and being bored in a relationship, the purpose vs. money question, what FIRE retirees never tell you, and what I'd reincarnate as. Plus some big announcements: we're going back to the mega episode format in June, the PDF guides are returning, and our first topic is going to be how to actually change your life.\n\n#solved #purpose #markmanson \n\n• Sign up for my newsletter, Your Next Breakthrough. It will help make you a less awful person: ⁨⁠https://markmanson.net/breakthrough⁩⁠\n• Get clarity on what actually matters. Try Purpose, Mark's AI mentor app that learns your patterns, challenges your blind spots, and helps you take action. Get 7 days free at ⁨⁠https://www.purpose.app⁩⁠\n\nChapters:\n0:00: One-Year Anniversary and Show Announcements\n4:37: Overcoming Addiction and Relapse\n8:18: Procrastination and ADHD\n11:30: The Science of Manifestation\n16:11: Panic Attacks, Siblings, and Getting Over a &quot;Perfect&quot; Ex\n20:18: Self-Love, Gratitude, and Religion\n27:12: Relationships, Purpose, and Money\n36:07: Maladaptive Daydreaming, Personality, and Growing with Friends\n39:59: Nomadic Living, FIRE Retirement, Purpose Anxiety, and Reincarnation\n\nFollow Mark\nMark's IG: ⁠https://www.instagram.com/markmanson⁠\nSolved IG: ⁠https://www.instagram.com/solvedpodcast/⁠\nTwitter: ⁠https://x.com/markmanson⁠\nLinkedIn:⁠ https://www.linkedin.com/in/markmanson/"
+        },
         {
-          "title": "听我的，医生千万别出国找工作！（立党聊天室2小时超长版）",
-          "url": "https://www.youtube.com/watch?v=X_D6Pu49NaA",
-          "publishedAt": "2026-04-28T06:35:14+00:00",
+          "title": "10 Things You Won’t Care About In 10 Years",
+          "url": "https://www.youtube.com/shorts/fV3ah-JTOGY",
+          "publishedAt": "2026-04-28T13:01:23+00:00",
           "description": ""
         }
       ]
@@ -124,17 +136,17 @@
       "channelId": "UC5fI3kxC-ewZ6ZXEYgznM7g",
       "videos": [
         {
-          "title": "Model These 3 to Scale Biz",
-          "url": "https://www.youtube.com/shorts/Ux_LVtW6D1U",
-          "publishedAt": "2026-04-27T17:00:41+00:00",
-          "description": "#codiesanchez #contrarianthinking #scaling #smallbusiness #msml"
+          "title": "Inflation = Investor Edge",
+          "url": "https://www.youtube.com/shorts/lFmQBXPvktA",
+          "publishedAt": "2026-04-28T17:00:59+00:00",
+          "description": "#codiesanchez #contrarianthinking #Investing #Inflation #CPI #WealthBuilding #CashFlow #BusinessBuying #FinancialFreedom #Entrepreneurship #PassiveIncome #MoneyMindset #RealEstateAlternative #SellerFinancing #SmallBusiness #MakeMoney #InvestSmart"
         }
       ]
     }
   ],
   "stats": {
     "youtubeChannels": 9,
-    "totalVideos": 11
+    "totalVideos": 13
   },
   "errors": [
     "YouTube: Failed to fetch Mel Robbins: HTTP 404",
