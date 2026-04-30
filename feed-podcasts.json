@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-04-29T08:26:27.024Z",
+  "generatedAt": "2026-04-30T08:29:19.982Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "🔬 Training Transformers to solve 95% failure rate of Cancer Trials — Ron Alfa &amp; Daniel Bear, Noetik",
+      "guid": "substack:post:194810752",
+      "url": "https://www.latent.space/p/noetik",
+      "publishedAt": "2026-04-20T16:17:17.000Z",
+      "description": "Today, we explain this piece of “clickbait” from our guest! TL;DR: 95% of cancer treatments fail to pass clinical trials , but it may be a matching problem — if we better understood what patients have which tumors which will respond to which treatments, success rates improve dramatically and millions of lives can be saved — with the treatments we ALREADY have. See our full episode dropping today: Why Big Pharma is licensing AI Models Tolstoy famously wrote, ‘All healthy cells are alike; each cancer cell is unhappy in its own way.’ Or something like that. Cancer might be the most misunderstood disease out there. It’s not one disease, it’s a family of diseases. Hundreds, maybe thousands, of unique diseases each with its own underlying biology. With this lens, saying you’ll “cure cancer” is like saying you’ll solve legos. We keep hearing AI will cure cancer, but sadly it may not be so easy. Today’s guests — Ron Alfa and Daniel Bear from Noetik — thinks they can use AI to break through a core bottleneck in the treatment development process. GSK recently signed a $50M deal for their technology that also includes an (undisclosed) long-term licensing deals for Noetik’s models like the recently announced TARIO-2 , an autoregressive transformer trained on one of the largest sets of tumor spatial transcriptomics datasets in the world. Whole-plex spatial transcriptomics is the richest way to read a tumor, and approximately ~0% of cancer patients going through standard care ever get one — and TARIO-2 can now predict an ~19,000-gene spatial map from the H&E assay every patient already has. Most big AI plays in BioTech have focused on discovery, and usually result in an in-house development effort (meaning tools companies usually become drug companies). This deal stands out in that it is a software licensing deal, and represents a commitment to a platform rather than a drug . With attention on other software tools for drug development (see the Boltz episode and Isomorphic for example), it is starting to look like the appetite of Pharma for biotech tools has finally started to grow. Why the sudden interest? Cancer is hard Biology is hard, cancer is harder. Bu"
+    },
+    {
+      "source": "podcast",
+      "name": "AI & I by Every",
+      "title": "How Stripe Is Building for an Agent-native World",
+      "guid": "be50f1ae-8208-4b53-a88b-ff515e10bd7e",
+      "url": "https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/How-Stripe-Is-Building-for-an-Agent-native-World-e3ik5lb",
+      "publishedAt": "2026-04-29T15:23:55.000Z",
+      "description": "Emily Glassberg Sands leads data and AI at Stripe, which processes roughly 2% of global GDP, giving her a bird’s-eye view into how AI is upending the internet economy. Dan Shipper talked with Glassberg Sands for Every&#39;s AI &amp; I about what the data on Stripe&#39;s network actually shows: AI companies are scaling three times faster than the top SaaS cohort of 2018, fraud has moved from the checkout to the full funnel, and agents have started buying things, although mostly low-stakes commodities like Halloween costumes. The conversation covers the new fraud types unique to AI companies, the AI-on-AI arms race between bad actors and fraud detectors, where AI revenue growth is actually coming from, and how Stripe is rebuilding the payments infrastructure for a world where the buyer is an agent.If you found this episode interesting, please like, subscribe, comment, and share!To hear more from Dan Shipper:Subscribe to Every: https://every.to/subscribeFollow him on X: https://twitter.com/danshipperHead to http://granola.ai/every and get 3 months free with the code EVERYTimestamps00:00:45 Introduction00:01:27 New rules for an agent-driven economy00:03:57 Compute theft is the new payment fraud00:10:00 How Stripe expanded fraud detection from checkout to the full customer lifecycle00:19:48 Why AI companies are scaling way faster than top SaaS companies00:23:27 Outcome-based billing is replacing seat-based pricing00:29:57 Where AI spending is coming from00:36:45 How the developer experience changes when agents are the builders00:41:00 The agentic commerce spectrum, from assisted buying to autonomous purchasing00:51:06 Meet Link, a consumer wallet for delegated agent purchasesLinks to resources mentioned in the episode:Emily Glassberg Sands on X: https://x.com/emilygsandsStripe: https://stripe.comStripe Radar: https://stripe.com/radarStripe Link: https://link.comLovable: https://lovable.dev"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 2
   }
 }
