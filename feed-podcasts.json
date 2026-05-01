@@ -1,27 +1,36 @@
 {
-  "generatedAt": "2026-04-30T08:29:19.982Z",
+  "generatedAt": "2026-05-01T08:19:39.725Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Latent Space",
-      "title": "🔬 Training Transformers to solve 95% failure rate of Cancer Trials — Ron Alfa &amp; Daniel Bear, Noetik",
-      "guid": "substack:post:194810752",
-      "url": "https://www.latent.space/p/noetik",
-      "publishedAt": "2026-04-20T16:17:17.000Z",
-      "description": "Today, we explain this piece of “clickbait” from our guest! TL;DR: 95% of cancer treatments fail to pass clinical trials , but it may be a matching problem — if we better understood what patients have which tumors which will respond to which treatments, success rates improve dramatically and millions of lives can be saved — with the treatments we ALREADY have. See our full episode dropping today: Why Big Pharma is licensing AI Models Tolstoy famously wrote, ‘All healthy cells are alike; each cancer cell is unhappy in its own way.’ Or something like that. Cancer might be the most misunderstood disease out there. It’s not one disease, it’s a family of diseases. Hundreds, maybe thousands, of unique diseases each with its own underlying biology. With this lens, saying you’ll “cure cancer” is like saying you’ll solve legos. We keep hearing AI will cure cancer, but sadly it may not be so easy. Today’s guests — Ron Alfa and Daniel Bear from Noetik — thinks they can use AI to break through a core bottleneck in the treatment development process. GSK recently signed a $50M deal for their technology that also includes an (undisclosed) long-term licensing deals for Noetik’s models like the recently announced TARIO-2 , an autoregressive transformer trained on one of the largest sets of tumor spatial transcriptomics datasets in the world. Whole-plex spatial transcriptomics is the richest way to read a tumor, and approximately ~0% of cancer patients going through standard care ever get one — and TARIO-2 can now predict an ~19,000-gene spatial map from the H&E assay every patient already has. Most big AI plays in BioTech have focused on discovery, and usually result in an in-house development effort (meaning tools companies usually become drug companies). This deal stands out in that it is a software licensing deal, and represents a commitment to a platform rather than a drug . With attention on other software tools for drug development (see the Boltz episode and Isomorphic for example), it is starting to look like the appetite of Pharma for biotech tools has finally started to grow. Why the sudden interest? Cancer is hard Biology is hard, cancer is harder. Bu"
+      "name": "Training Data",
+      "title": "Demis Hassabis on Building DeepMind, AlphaFold, and the Final Stretch to AGI",
+      "guid": "d029858c-44b7-11f1-b968-43e05671113c",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-04-30T17:12:00.000Z",
+      "description": "Demis Hassabis, co-founder and CEO of Google DeepMind and 2024 Nobel laureate in chemistry for AlphaFold, joins Sequoia partner Konstantine Buhler at AI Ascent 2026 for a wide-ranging conversation about the path to AGI and what comes after. He explains why he believes AGI is achievable by 2030, why drug discovery could collapse from ten years to days, and why we should think of information, not matter or energy, as the most fundamental substance in the universe. Also: what Einstein would tell us about the limits of today's models, and why the next year or two will be critical for humanity. ]]>"
+    },
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
+      "guid": "90151d98-433c-11f1-93d1-9316de7fe3e7",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-04-30T09:00:00.000Z",
+      "description": "Andrej Karpathy (co-founder of OpenAI, former head of AI at Tesla, and now founder of Eureka Labs) talks with Sequoia partner Stephanie Zhan at AI Ascent 2026 about what's changed in the year since he coined \"vibe coding.\" He explains why he's never felt more behind as a programmer, why agentic engineering is the more serious discipline taking shape on top of vibe coding, and why we should think of LLMs not as animals but as ghosts: jagged, statistical, summoned entities that require a new kind of taste and judgment to direct. He also touches on Software 3.0, the limits of verifiability, and why you can outsource your thinking but never your understanding. ]]>"
     },
     {
       "source": "podcast",
       "name": "AI & I by Every",
-      "title": "How Stripe Is Building for an Agent-native World",
-      "guid": "be50f1ae-8208-4b53-a88b-ff515e10bd7e",
-      "url": "https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/How-Stripe-Is-Building-for-an-Agent-native-World-e3ik5lb",
-      "publishedAt": "2026-04-29T15:23:55.000Z",
-      "description": "Emily Glassberg Sands leads data and AI at Stripe, which processes roughly 2% of global GDP, giving her a bird’s-eye view into how AI is upending the internet economy. Dan Shipper talked with Glassberg Sands for Every&#39;s AI &amp; I about what the data on Stripe&#39;s network actually shows: AI companies are scaling three times faster than the top SaaS cohort of 2018, fraud has moved from the checkout to the full funnel, and agents have started buying things, although mostly low-stakes commodities like Halloween costumes. The conversation covers the new fraud types unique to AI companies, the AI-on-AI arms race between bad actors and fraud detectors, where AI revenue growth is actually coming from, and how Stripe is rebuilding the payments infrastructure for a world where the buyer is an agent.If you found this episode interesting, please like, subscribe, comment, and share!To hear more from Dan Shipper:Subscribe to Every: https://every.to/subscribeFollow him on X: https://twitter.com/danshipperHead to http://granola.ai/every and get 3 months free with the code EVERYTimestamps00:00:45 Introduction00:01:27 New rules for an agent-driven economy00:03:57 Compute theft is the new payment fraud00:10:00 How Stripe expanded fraud detection from checkout to the full customer lifecycle00:19:48 Why AI companies are scaling way faster than top SaaS companies00:23:27 Outcome-based billing is replacing seat-based pricing00:29:57 Where AI spending is coming from00:36:45 How the developer experience changes when agents are the builders00:41:00 The agentic commerce spectrum, from assisted buying to autonomous purchasing00:51:06 Meet Link, a consumer wallet for delegated agent purchasesLinks to resources mentioned in the episode:Emily Glassberg Sands on X: https://x.com/emilygsandsStripe: https://stripe.comStripe Radar: https://stripe.com/radarStripe Link: https://link.comLovable: https://lovable.dev"
+      "title": "The AI Sandwich: Where Humans Excel in an AI World",
+      "guid": "e835fe4d-e084-45e1-93cb-ae88faf71bc4",
+      "url": "https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/The-AI-Sandwich-Where-Humans-Excel-in-an-AI-World-e3ia7ng",
+      "publishedAt": "2026-04-22T18:53:47.000Z",
+      "description": "Most frameworks for working with AI agents assume humans should stay in the loop at every phase. That’s the wrong approach, says Cora general manager Kieran Klaassen . Kieran is the creator of Every&#39;s AI-native engineering methodology, compound engineering. His four-step framework—plan, work, review, compound—rebuilds how engineers work with agents. The insight, worked out with collaborator Trevin Chow, is about when to be in the loop and when to step away and let the model handle it. &quot;LLMs are very good at just following steps, doing deep work, working for hours—days even now,&quot; Kieran says. &quot;That thing is kind of solved.&quot; Kieran and Trevin describe an AI workflow as a sandwich. Agents are the workhorse filling, and humans are the bread, responsible for framing the problem at the start and reviewing the outputs at the end. Every CEO Dan Shipper talked with Kieran for AI &amp; I about why setting the frame of a problem is still hard for agents, why simulated personas won&#39;t replace human judgment, Dan&#39;s bar for AGI—an agent worth running 24/7 with no off switch—and what Kieran&#39;s background as a classical composer taught him about performance, polish, and finding the parts of work that bring you joy. If you found this episode interesting, please like, subscribe, comment, and share! Head to http://granola.ai/every and get 3 months free with the code EVERY To hear more from Dan Shipper: Subscribe to Every: https://every.to/subscribe Follow him on X: https://twitter.com/danshipper Compound engineering plugin: https://github.com/EveryInc/compound-engineering-plugin Compound engineering guide: https://every.to/source-code/compound-engineering-the-definitive-guide Compound engineering camp: https://every.to/source-code/compound-engineering-camp-every-step-from-scratch Discover more resources in the episode Timestamps: 00:00:00 – Introduction and the AI sandwich metaphor 00:02:33 – What compound engineering is and how it’s evolved 00:04:27 – The &quot;work&quot; phase of agentic coding is essentially solved 00:06:27 – Why humans belong at the beginning and the end of an AI workflow 00:11:06 – Dan&#39;s argument for why agents can&#39;t change frames—and how this will keep us employed 00:16:51 – Full automation is a moving target 00:23:21 – Musical composition as a model for human-AI collaboration 00:26:39 – Find your place in an AI-accelerated world by leaning into what brings you joy"
     }
   ],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 3
   }
 }
