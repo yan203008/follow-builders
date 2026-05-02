@@ -1,36 +1,45 @@
 {
-  "generatedAt": "2026-05-01T08:19:39.725Z",
+  "generatedAt": "2026-05-02T07:51:30.795Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Training Data",
-      "title": "Demis Hassabis on Building DeepMind, AlphaFold, and the Final Stretch to AGI",
-      "guid": "d029858c-44b7-11f1-b968-43e05671113c",
+      "title": "OpenAI's Greg Brockman: Why Human Attention Is the New Bottleneck",
+      "guid": "2b60e614-458c-11f1-8407-d363b4cb5860",
       "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-04-30T17:12:00.000Z",
-      "description": "Demis Hassabis, co-founder and CEO of Google DeepMind and 2024 Nobel laureate in chemistry for AlphaFold, joins Sequoia partner Konstantine Buhler at AI Ascent 2026 for a wide-ranging conversation about the path to AGI and what comes after. He explains why he believes AGI is achievable by 2030, why drug discovery could collapse from ten years to days, and why we should think of information, not matter or energy, as the most fundamental substance in the universe. Also: what Einstein would tell us about the limits of today's models, and why the next year or two will be critical for humanity. ]]>"
+      "publishedAt": "2026-05-01T18:32:00.000Z",
+      "description": "Greg Brockman, co-founder and president of OpenAI, joins Sequoia partner Alfred Lin at AI Ascent 2026 for a conversation that spans the full OpenAI stack. He explains why the company will never have enough compute, why he believes we're 80% of the way to AGI, and why the agentic coding tools that wrote 20% of your code last December are now writing 80% of it. Also: why human attention is becoming the scarcest resource in AI-augmented work, and what it might be like to one day run an organization of 100,000 agents. ]]>"
     },
     {
       "source": "podcast",
-      "name": "Training Data",
-      "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
-      "guid": "90151d98-433c-11f1-93d1-9316de7fe3e7",
-      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-04-30T09:00:00.000Z",
-      "description": "Andrej Karpathy (co-founder of OpenAI, former head of AI at Tesla, and now founder of Eureka Labs) talks with Sequoia partner Stephanie Zhan at AI Ascent 2026 about what's changed in the year since he coined \"vibe coding.\" He explains why he's never felt more behind as a programmer, why agentic engineering is the more serious discipline taking shape on top of vibe coding, and why we should think of LLMs not as animals but as ghosts: jagged, statistical, summoned entities that require a new kind of taste and judgment to direct. He also touches on Software 3.0, the limits of verifiability, and why you can outsource your thinking but never your understanding. ]]>"
+      "name": "No Priors",
+      "title": "Baseten CEO Tuhin Srivastava on the AI Inference Crunch, Custom Models, and Building the Inference Cloud",
+      "guid": "e600d2f6-4594-11f1-8bd7-fbfbbecaebaa",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-05-01T19:34:00.000Z",
+      "description": "Baseten CEO and co-founder Tuhin Srivastava sits down with Sarah Guo and Elad Gil to discuss the rapid growth of AI inference demand, Baseten’s 30x growth, and why inference is becoming the strategic “last market.” Tuhin Srivastava argues the application layer will persist because companies with unique user signals can encode value into workflows and post-train specialized models, citing examples like Abridge and support workflows. The conversation covers GPU capacity constraints, Baseten’s multi-cloud fabric across 18 clouds and 90 clusters, long-term contracting dynamics, the importance of the software layer for stickiness, evolving workloads, multichip possibilities, and operational lessons at scale. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @Tuhinone Chapters: 00:31 Baseten growth 01:55 Why the app layer wins 05:57 Serving frontier customers 07:55 Open source model mix 09:21 Chinese models and geopolitics 13:07 Custom inference dominates 14:22 Post training acquisition 17:10 When to invest in custom models 18:35 Supply crunch and data centerse 22:25 Longer GPU Contracts 24:09 What Makes a Winner 26:07 Multi Chip Future 28:19 Runtime Roadmap 31:08 Scaling Edge Cases 33:48 Hiring and Leadership 36:44 Operations Pager Culture 38:19 Efficiency Drives Demand 40:41 Concierge Everything Future 42:34 Conclusion ]]>"
     },
     {
       "source": "podcast",
-      "name": "AI & I by Every",
-      "title": "The AI Sandwich: Where Humans Excel in an AI World",
-      "guid": "e835fe4d-e084-45e1-93cb-ae88faf71bc4",
-      "url": "https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/The-AI-Sandwich-Where-Humans-Excel-in-an-AI-World-e3ia7ng",
-      "publishedAt": "2026-04-22T18:53:47.000Z",
-      "description": "Most frameworks for working with AI agents assume humans should stay in the loop at every phase. That’s the wrong approach, says Cora general manager Kieran Klaassen . Kieran is the creator of Every&#39;s AI-native engineering methodology, compound engineering. His four-step framework—plan, work, review, compound—rebuilds how engineers work with agents. The insight, worked out with collaborator Trevin Chow, is about when to be in the loop and when to step away and let the model handle it. &quot;LLMs are very good at just following steps, doing deep work, working for hours—days even now,&quot; Kieran says. &quot;That thing is kind of solved.&quot; Kieran and Trevin describe an AI workflow as a sandwich. Agents are the workhorse filling, and humans are the bread, responsible for framing the problem at the start and reviewing the outputs at the end. Every CEO Dan Shipper talked with Kieran for AI &amp; I about why setting the frame of a problem is still hard for agents, why simulated personas won&#39;t replace human judgment, Dan&#39;s bar for AGI—an agent worth running 24/7 with no off switch—and what Kieran&#39;s background as a classical composer taught him about performance, polish, and finding the parts of work that bring you joy. If you found this episode interesting, please like, subscribe, comment, and share! Head to http://granola.ai/every and get 3 months free with the code EVERY To hear more from Dan Shipper: Subscribe to Every: https://every.to/subscribe Follow him on X: https://twitter.com/danshipper Compound engineering plugin: https://github.com/EveryInc/compound-engineering-plugin Compound engineering guide: https://every.to/source-code/compound-engineering-the-definitive-guide Compound engineering camp: https://every.to/source-code/compound-engineering-camp-every-step-from-scratch Discover more resources in the episode Timestamps: 00:00:00 – Introduction and the AI sandwich metaphor 00:02:33 – What compound engineering is and how it’s evolved 00:04:27 – The &quot;work&quot; phase of agentic coding is essentially solved 00:06:27 – Why humans belong at the beginning and the end of an AI workflow 00:11:06 – Dan&#39;s argument for why agents can&#39;t change frames—and how this will keep us employed 00:16:51 – Full automation is a moving target 00:23:21 – Musical composition as a model for human-AI collaboration 00:26:39 – Find your place in an AI-accelerated world by leaning into what brings you joy"
+      "name": "No Priors",
+      "title": "SAP: Bringing the ‘Operating System’ of a Company into the AI Era with CTO Philipp Herzig",
+      "guid": "3c0eeb82-3ed4-11f1-a843-8f60f9c4fd24",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-04-23T10:00:00.000Z",
+      "description": "More than fifty years ago, the modern idea of the standard enterprise software was birthed at SAP. Now, after managing companies through technological shifts from the mainframe to mobile, SAP is at the forefront of closing the AI adoption gap for their customers. SAP Chief Technology Officer Philipp Herzig joins Sarah Guo to talk about how SAP has remained a durable end-to-end “operating system” for its more than 400,000 customers from finance to supply chain. Philipp argues that the AI transition in businesses should focus on customer outcomes, UI changes, business processes, and the data layer. He also explains the challenges in enterprise AI adoption, including security, scaling, and data fragmentation, as well as the importance of evals and verifiability. They also discuss SAP’s suite of AI products, limitations of predictive tabular models, how SAP is shifting its pricing models in the AI era, and Philipp’s interest in quantum computing optimization. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @pheartig | @SAP Chapters: 00:00 – Cold Open 00:42 – Philipp Herzig Introduction 01:18 – What SAP Does 02:51 – Why SAP Endures 06:53 – CTO Priorities and AI Push 12:14 – Scaling AI in Enterprise 17:06 – Verifiability and Agent Mining 20:42 – Tool Calling vs. Computer Use 22:11 – Domains Where Agents Deliver Value 24:58 – Limitations of Predictive Tabular Models 29:07 – Barriers to Enterprise Adoption 31:54 – How AI Will ‘Uplevels’ Work 34:03 – How AI Changes SAP’s Pricing Model 36:41 – What Makes a Winner in the AI Era 38:53 – Day in the Life of a CTO 40:08 – Customer Challenges 42:36 – Business Problem of Quantum Computing 46:21 – Conclusion ]]>"
+    },
+    {
+      "source": "podcast",
+      "name": "Unsupervised Learning",
+      "title": "Ep 85: Has AI Infra Stabilized, FM Vibe Shift, &amp; What&apos;s Next for Coding Agents",
+      "guid": "fa9dc0ee-7aa8-422f-9414-daa79fa0cb10",
+      "url": "https://unsupervised-learning.simplecast.com/episodes/ep-85-has-ai-infra-stabilized-fm-vibe-shift-whats-next-for-coding-agents-IjTaA0mQ",
+      "publishedAt": "2026-04-23T13:00:24.000Z",
+      "description": "This episode is a wide-ranging conversation between Jacob and Swyx (Shawn Wang), an AI engineer, podcaster, and now operator at Cognition, who sits at a uniquely informed intersection of builder, investor, and community organizer in the AI world. The two cover the current state of the AI engineering zeitgeist: from the stabilization of agent infrastructure and the surprising stickiness of Claude Code, to the competitive dynamics of the AI coding wars, the rise of open models, the threat to traditional SaaS, and the frontier questions around world models, memory, and what it actually means for AI to \"understand\" something. The episode is grounded in practitioner-level candor, with Swyx offering real takes from running AIE conferences, working inside Cognition, and thinking deeply about what the next wave of AI-native software development looks like. (0:00) Intro (1:17) What the Top AI Engineers Are Thinking About (2:13) Has AI Infra Finally Stabilized? (6:39) When Does Doing RL In-House Make Sense? (11:26) Why Selling Dev Tools to Agents is Different (17:18) AI Coding Wars (29:04) Consumer AI Plateau (30:22) Codex vs Claude Code (44:52) Future of Open Models With your co-hosts: @jacobeffron - Partner at Redpoint, Former PM Flatiron Health @patrickachase - Partner at Redpoint, Former ML Engineer LinkedIn @ericabrescia - Former COO Github, Founder Bitnami (acq’d by VMWare) @jordan_segall - Partner at Redpoint"
     }
   ],
   "stats": {
-    "podcastEpisodes": 3
+    "podcastEpisodes": 4
   }
 }
