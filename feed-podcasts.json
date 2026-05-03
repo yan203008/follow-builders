@@ -1,45 +1,8 @@
 {
-  "generatedAt": "2026-05-02T07:51:30.795Z",
+  "generatedAt": "2026-05-03T08:07:09.910Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "OpenAI's Greg Brockman: Why Human Attention Is the New Bottleneck",
-      "guid": "2b60e614-458c-11f1-8407-d363b4cb5860",
-      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-05-01T18:32:00.000Z",
-      "description": "Greg Brockman, co-founder and president of OpenAI, joins Sequoia partner Alfred Lin at AI Ascent 2026 for a conversation that spans the full OpenAI stack. He explains why the company will never have enough compute, why he believes we're 80% of the way to AGI, and why the agentic coding tools that wrote 20% of your code last December are now writing 80% of it. Also: why human attention is becoming the scarcest resource in AI-augmented work, and what it might be like to one day run an organization of 100,000 agents. ]]>"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Baseten CEO Tuhin Srivastava on the AI Inference Crunch, Custom Models, and Building the Inference Cloud",
-      "guid": "e600d2f6-4594-11f1-8bd7-fbfbbecaebaa",
-      "url": "https://www.youtube.com/@NoPriorsPodcast",
-      "publishedAt": "2026-05-01T19:34:00.000Z",
-      "description": "Baseten CEO and co-founder Tuhin Srivastava sits down with Sarah Guo and Elad Gil to discuss the rapid growth of AI inference demand, Baseten’s 30x growth, and why inference is becoming the strategic “last market.” Tuhin Srivastava argues the application layer will persist because companies with unique user signals can encode value into workflows and post-train specialized models, citing examples like Abridge and support workflows. The conversation covers GPU capacity constraints, Baseten’s multi-cloud fabric across 18 clouds and 90 clusters, long-term contracting dynamics, the importance of the software layer for stickiness, evolving workloads, multichip possibilities, and operational lessons at scale. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @Tuhinone Chapters: 00:31 Baseten growth 01:55 Why the app layer wins 05:57 Serving frontier customers 07:55 Open source model mix 09:21 Chinese models and geopolitics 13:07 Custom inference dominates 14:22 Post training acquisition 17:10 When to invest in custom models 18:35 Supply crunch and data centerse 22:25 Longer GPU Contracts 24:09 What Makes a Winner 26:07 Multi Chip Future 28:19 Runtime Roadmap 31:08 Scaling Edge Cases 33:48 Hiring and Leadership 36:44 Operations Pager Culture 38:19 Efficiency Drives Demand 40:41 Concierge Everything Future 42:34 Conclusion ]]>"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "SAP: Bringing the ‘Operating System’ of a Company into the AI Era with CTO Philipp Herzig",
-      "guid": "3c0eeb82-3ed4-11f1-a843-8f60f9c4fd24",
-      "url": "https://www.youtube.com/@NoPriorsPodcast",
-      "publishedAt": "2026-04-23T10:00:00.000Z",
-      "description": "More than fifty years ago, the modern idea of the standard enterprise software was birthed at SAP. Now, after managing companies through technological shifts from the mainframe to mobile, SAP is at the forefront of closing the AI adoption gap for their customers. SAP Chief Technology Officer Philipp Herzig joins Sarah Guo to talk about how SAP has remained a durable end-to-end “operating system” for its more than 400,000 customers from finance to supply chain. Philipp argues that the AI transition in businesses should focus on customer outcomes, UI changes, business processes, and the data layer. He also explains the challenges in enterprise AI adoption, including security, scaling, and data fragmentation, as well as the importance of evals and verifiability. They also discuss SAP’s suite of AI products, limitations of predictive tabular models, how SAP is shifting its pricing models in the AI era, and Philipp’s interest in quantum computing optimization. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @pheartig | @SAP Chapters: 00:00 – Cold Open 00:42 – Philipp Herzig Introduction 01:18 – What SAP Does 02:51 – Why SAP Endures 06:53 – CTO Priorities and AI Push 12:14 – Scaling AI in Enterprise 17:06 – Verifiability and Agent Mining 20:42 – Tool Calling vs. Computer Use 22:11 – Domains Where Agents Deliver Value 24:58 – Limitations of Predictive Tabular Models 29:07 – Barriers to Enterprise Adoption 31:54 – How AI Will ‘Uplevels’ Work 34:03 – How AI Changes SAP’s Pricing Model 36:41 – What Makes a Winner in the AI Era 38:53 – Day in the Life of a CTO 40:08 – Customer Challenges 42:36 – Business Problem of Quantum Computing 46:21 – Conclusion ]]>"
-    },
-    {
-      "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "Ep 85: Has AI Infra Stabilized, FM Vibe Shift, &amp; What&apos;s Next for Coding Agents",
-      "guid": "fa9dc0ee-7aa8-422f-9414-daa79fa0cb10",
-      "url": "https://unsupervised-learning.simplecast.com/episodes/ep-85-has-ai-infra-stabilized-fm-vibe-shift-whats-next-for-coding-agents-IjTaA0mQ",
-      "publishedAt": "2026-04-23T13:00:24.000Z",
-      "description": "This episode is a wide-ranging conversation between Jacob and Swyx (Shawn Wang), an AI engineer, podcaster, and now operator at Cognition, who sits at a uniquely informed intersection of builder, investor, and community organizer in the AI world. The two cover the current state of the AI engineering zeitgeist: from the stabilization of agent infrastructure and the surprising stickiness of Claude Code, to the competitive dynamics of the AI coding wars, the rise of open models, the threat to traditional SaaS, and the frontier questions around world models, memory, and what it actually means for AI to \"understand\" something. The episode is grounded in practitioner-level candor, with Swyx offering real takes from running AIE conferences, working inside Cognition, and thinking deeply about what the next wave of AI-native software development looks like. (0:00) Intro (1:17) What the Top AI Engineers Are Thinking About (2:13) Has AI Infra Finally Stabilized? (6:39) When Does Doing RL In-House Make Sense? (11:26) Why Selling Dev Tools to Agents is Different (17:18) AI Coding Wars (29:04) Consumer AI Plateau (30:22) Codex vs Claude Code (44:52) Future of Open Models With your co-hosts: @jacobeffron - Partner at Redpoint, Former PM Flatiron Health @patrickachase - Partner at Redpoint, Former ML Engineer LinkedIn @ericabrescia - Former COO Github, Founder Bitnami (acq’d by VMWare) @jordan_segall - Partner at Redpoint"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 4
+    "podcastEpisodes": 0
   }
 }
