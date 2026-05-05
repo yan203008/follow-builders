@@ -1,27 +1,18 @@
 {
-  "generatedAt": "2026-05-04T08:36:36.453Z",
+  "generatedAt": "2026-05-05T08:19:04.807Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Latent Space",
-      "title": "AIE Europe Debrief + Agent Labs Thesis: Unsupervised Learning x Latent Space Crossover Special (2026)",
-      "guid": "substack:post:195264855",
-      "url": "https://www.latent.space/p/unsupervised-learning-2026",
-      "publishedAt": "2026-04-23T19:37:19.000Z",
-      "description": "Today, we check in a year after the first Unsupervised Learning x Latent Space Crossover special to discuss everything that has changed (there is a lot) in the world of AI. This episode was recorded just after AIE Europe , but before the Cursor-xAI deal . Unsupervised Learning is a podcast that interviews the sharpest minds in AI about what’s real today, what will be real in the future and what it means for businesses and the world - helping builders, researchers and founders deconstruct and understand the biggest breakthroughs. Thanks to Jacob and the UL production team for hosting and editing this! Jacob Effron * LinkedIn: https://www.linkedin.com/in/jacobeffron/ * X: https://x.com/jacobeffron Full Episode on Their YouTube We discuss: * swyx’s view from the center of the AI engineering zeitgeist: OpenClaw, harness engineering, context engineering, evals, observability, GPUs, multimodality, and why conference tracks now reveal what matters most in AI * Whether AI infrastructure has finally stabilized: why “skills” may be the minimal viable packaging format for agents, why infra companies have had to reinvent themselves every year, and why application companies have had an easier time surviving model volatility * The vertical vs. horizontal AI startup debate: why application companies can act as the outsourced AI team for enterprises, why some horizontal companies still matter, and why sandboxes may be the clearest reinvention of classic cloud infrastructure for the AI era * The “agent lab” playbook: starting with frontier models, specializing for your domain, then training your own models once you have enough data, workload, and user behavior to justify the cost and latency savings * Why domain-specific model training is real, not just marketing: how companies like Cursor and Cognition can get users to choose their in-house models, and why search, domain specialization, and distillation are becoming more important * Open models, custom chips, and alternative inference infrastructure: why swyx has turned more bullish on open source, why non-NVIDIA hardware is suddenly getting real attention, and why every 10x speedup can unlock new product experiences * What it means to sell to agents instead of humans: why agent experience may mostly just be good developer experience by another name, wh"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "Shopify’s AI Phase Transition: 2026 Usage Explosion, Unlimited Opus-4.6 Token Budget, Tangle, Tangent, SimGym — with Mikhail Parakhin, Shopify CTO",
-      "guid": "substack:post:195067855",
-      "url": "https://www.latent.space/p/shopify",
-      "publishedAt": "2026-04-22T19:33:00.000Z",
-      "description": "Early bird discounts for the San Francisco World’s Fair , the biggest AIE gathering of the year, end today - prices will go up by ~$500 tonight so do please lock in ASAP! From near-universal AI tool adoption inside Shopify to internal systems for ML experimentation, auto-research, customer simulation, and ultra-low-latency search, Mikhail Parakhin joins us for a deep dive into what it actually looks like when a 20-year-old, $200B software company goes all-in on AI . We cover why Shopify has become much more vocal about its internal stack, what changed after the December model-quality inflection , and why the real bottleneck in AI coding is no longer generation , but review, CI/CD, and deployment stability. We also go inside Tangle , Tangent , SimGym , which are three major AI initiatives that Shopify is doing to make experimentation reproducible, optimization automatic, customer behavior simulatable, and search and catalog intelligence faster and cheaper at scale. Along the way, Mikhail explains UCP , Liquid AI , and why token budgets are directionally right but often measured badly, why AI-written code can still increase bugs in production, what makes Shopify’s customer simulation defensible, and what he learned from the Sydney era at Bing . We discuss: * Mikhail’s path from running a major Microsoft business unit spanning Windows, Edge, Bing, and ads to becoming CTO of Shopify * Why Shopify is talking more publicly about AI now, and why staying at the frontier has become necessary for the company * Shopify’s internal AI adoption curve, the December inflection, and why CLI-style tools are rising faster than traditional IDE-based tools * Why Jensen Huang is directionally right on token budgets, but raw token count is still the wrong way to evaluate engineering output * Why the real unlock is not more agents in parallel, but better critique loops, stronger models, and spending more on review than generation * Why AI coding can still lead to more bugs in production even if models write cleaner code on average than humans * Why Shopify built its own PR"
+      "name": "Training Data",
+      "title": "Waymo's Dmitri Dolgov: 20 Million Rides and the Road to Full Autonomy",
+      "guid": "a6ff5c8c-47f4-11f1-a8a5-03b48837c50f",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-05-04T20:05:00.000Z",
+      "description": "Dmitri Dolgov, co-CEO of Waymo, joins Sequoia partner Konstantine Buhler at AI Ascent 2026 to talk about the 20-year arc from the DARPA Grand Challenge to fully autonomous service in eleven cities and counting. He explains how Waymo persisted through every AV hype cycle by treating safety as the non-negotiable foundation, why exponential scaling is finally here (10 of Waymo's 20 million autonomous rides have happened in the last seven months), and how the Waymo Foundation Model — a multimodal world action model that powers the driver, the simulator, and the critic — actually works under the hood. Also: why Waymo is now 13x safer than human drivers, and the moment a Waymo detected a pedestrian behind a city bus by reading the LiDAR returns of their feet. ]]>"
     }
   ],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 1
   }
 }
