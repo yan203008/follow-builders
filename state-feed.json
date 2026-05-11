@@ -1,16 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "substack:post:195264855": 1777883795452,
-    "substack:post:195067855": 1777883795452,
-    "https://www.youtube.com/shorts/jCyhEO3h-Ik": 1777883800730,
-    "https://www.youtube.com/shorts/a0jJj5MsQaE": 1777883801621,
-    "https://www.youtube.com/shorts/2uHJQdkjCtk": 1777883801621,
-    "https://www.youtube.com/shorts/-qfLvuHvEvk": 1777883802325,
-    "https://www.youtube.com/watch?v=LeSi76NhV2Y": 1777883802747,
-    "https://www.youtube.com/watch?v=jbuo8YMX5e8": 1777883802747,
-    "https://www.youtube.com/shorts/XJEJUJUXsLo": 1777883803177,
-    "https://www.youtube.com/watch?v=LDPE3wa9f2k": 1777883803177,
     "a6ff5c8c-47f4-11f1-a8a5-03b48837c50f": 1777969144492,
     "https://www.youtube.com/shorts/465Vc9I4fvc": 1777969146064,
     "https://www.youtube.com/shorts/d7qfcHa4LTY": 1777969146480,
@@ -87,13 +77,23 @@
     "https://www.youtube.com/shorts/9lHuTY2WoeU": 1778400861804,
     "https://www.youtube.com/shorts/fT_wHsOhnD4": 1778400862108,
     "https://www.youtube.com/watch?v=Ma4PdPBj_mg": 1778400862411,
-    "https://www.youtube.com/shorts/PlbtaZr9hPU": 1778400862715
+    "https://www.youtube.com/shorts/PlbtaZr9hPU": 1778400862715,
+    "https://www.youtube.com/watch?v=uGwDuvSqgYI": 1778493048844,
+    "https://www.youtube.com/shorts/wJl8aMWZp3A": 1778493049320,
+    "https://www.youtube.com/shorts/UtgUs9B2pmU": 1778493049320,
+    "https://www.youtube.com/watch?v=kKk3env0Brg": 1778493049625,
+    "https://www.youtube.com/watch?v=Pxwn9R6Plxo": 1778493049625,
+    "https://www.youtube.com/shorts/pshd_dQ1f_4": 1778493050071,
+    "https://www.youtube.com/shorts/RPJHgSqIPyw": 1778493050071,
+    "https://www.youtube.com/shorts/H1NfaJL4JOE": 1778493050381,
+    "https://www.youtube.com/shorts/x2BtGxHbl2Y": 1778493050894
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/claude-code-auto-mode": 1777969145170,
     "https://claude.com/blog/new-in-claude-managed-agents": 1778143306519,
     "https://www.anthropic.com/engineering/april-23-postmortem": 1778400858415,
     "https://claude.com/blog/connectors-for-everyday-life": 1778400859057,
-    "https://claude.com/blog/claude-managed-agents-memory": 1778400859607
+    "https://claude.com/blog/claude-managed-agents-memory": 1778400859607,
+    "https://www.anthropic.com/engineering/managed-agents": 1778493048086
   }
 }

@@ -1,45 +1,8 @@
 {
-  "generatedAt": "2026-05-10T08:14:08.064Z",
+  "generatedAt": "2026-05-11T09:50:47.859Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "OpenAI's Greg Brockman: Why Human Attention Is the New Bottleneck",
-      "guid": "2b60e614-458c-11f1-8407-d363b4cb5860",
-      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-05-01T18:32:00.000Z",
-      "description": "Greg Brockman, co-founder and president of OpenAI, joins Sequoia partner Alfred Lin at AI Ascent 2026 for a conversation that spans the full OpenAI stack. He explains why the company will never have enough compute, why he believes we're 80% of the way to AGI, and why the agentic coding tools that wrote 20% of your code last December are now writing 80% of it. Also: why human attention is becoming the scarcest resource in AI-augmented work, and what it might be like to one day run an organization of 100,000 agents. ]]>"
-    },
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "Demis Hassabis on Building DeepMind, AlphaFold, and the Final Stretch to AGI",
-      "guid": "d029858c-44b7-11f1-b968-43e05671113c",
-      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-04-30T17:12:00.000Z",
-      "description": "Demis Hassabis, co-founder and CEO of Google DeepMind and 2024 Nobel laureate in chemistry for AlphaFold, joins Sequoia partner Konstantine Buhler at AI Ascent 2026 for a wide-ranging conversation about the path to AGI and what comes after. He explains why he believes AGI is achievable by 2030, why drug discovery could collapse from ten years to days, and why we should think of information, not matter or energy, as the most fundamental substance in the universe. Also: what Einstein would tell us about the limits of today's models, and why the next year or two will be critical for humanity. ]]>"
-    },
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
-      "guid": "90151d98-433c-11f1-93d1-9316de7fe3e7",
-      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-04-30T09:00:00.000Z",
-      "description": "Andrej Karpathy (co-founder of OpenAI, former head of AI at Tesla, and now founder of Eureka Labs) talks with Sequoia partner Stephanie Zhan at AI Ascent 2026 about what's changed in the year since he coined \"vibe coding.\" He explains why he's never felt more behind as a programmer, why agentic engineering is the more serious discipline taking shape on top of vibe coding, and why we should think of LLMs not as animals but as ghosts: jagged, statistical, summoned entities that require a new kind of taste and judgment to direct. He also touches on Software 3.0, the limits of verifiability, and why you can outsource your thinking but never your understanding. ]]>"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Baseten CEO Tuhin Srivastava on the AI Inference Crunch, Custom Models, and Building the Inference Cloud",
-      "guid": "e600d2f6-4594-11f1-8bd7-fbfbbecaebaa",
-      "url": "https://www.youtube.com/@NoPriorsPodcast",
-      "publishedAt": "2026-05-01T19:34:00.000Z",
-      "description": "Baseten CEO and co-founder Tuhin Srivastava sits down with Sarah Guo and Elad Gil to discuss the rapid growth of AI inference demand, Baseten’s 30x growth, and why inference is becoming the strategic “last market.” Tuhin Srivastava argues the application layer will persist because companies with unique user signals can encode value into workflows and post-train specialized models, citing examples like Abridge and support workflows. The conversation covers GPU capacity constraints, Baseten’s multi-cloud fabric across 18 clouds and 90 clusters, long-term contracting dynamics, the importance of the software layer for stickiness, evolving workloads, multichip possibilities, and operational lessons at scale. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @Tuhinone Chapters: 00:31 Baseten growth 01:55 Why the app layer wins 05:57 Serving frontier customers 07:55 Open source model mix 09:21 Chinese models and geopolitics 13:07 Custom inference dominates 14:22 Post training acquisition 17:10 When to invest in custom models 18:35 Supply crunch and data centerse 22:25 Longer GPU Contracts 24:09 What Makes a Winner 26:07 Multi Chip Future 28:19 Runtime Roadmap 31:08 Scaling Edge Cases 33:48 Hiring and Leadership 36:44 Operations Pager Culture 38:19 Efficiency Drives Demand 40:41 Concierge Everything Future 42:34 Conclusion ]]>"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 4
+    "podcastEpisodes": 0
   }
 }
