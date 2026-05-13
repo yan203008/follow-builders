@@ -1,17 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "substack:post:196292432": 1778056434982,
-    "d73930f8-47f4-11f1-a018-3b5d50482f68": 1778056435050,
-    "https://www.youtube.com/shorts/ve_y3EI_VeA": 1778056436140,
-    "https://www.youtube.com/shorts/kTn42xGf1v4": 1778056436918,
-    "https://www.youtube.com/shorts/q5wbNxHZJQ8": 1778056436918,
-    "https://www.youtube.com/shorts/zr_t_l5pimg": 1778056437225,
-    "https://www.youtube.com/shorts/o-cfIATWitk": 1778056437225,
-    "https://www.youtube.com/shorts/5yH-VFHmlTg": 1778056437658,
-    "https://www.youtube.com/watch?v=oHJ8NyhSU6g": 1778056437970,
-    "https://www.youtube.com/shorts/djJiBMAw1C0": 1778056437970,
-    "https://www.youtube.com/shorts/gU-vSrna9eA": 1778056438751,
     "substack:post:195677117": 1778143301670,
     "a487dcea-e698-4db2-aa7c-b24986e23e67": 1778143302293,
     "https://www.youtube.com/watch?v=6aNh6sBpqvQ": 1778143307146,
@@ -86,13 +75,26 @@
     "https://www.youtube.com/shorts/8SLSiRj2R6E": 1778575647318,
     "https://www.youtube.com/watch?v=pUHA_jNwuYE": 1778575647701,
     "https://www.youtube.com/shorts/G1AmTsLOPG4": 1778575648011,
-    "https://www.youtube.com/shorts/A1wGutKxOlI": 1778575648546
+    "https://www.youtube.com/shorts/A1wGutKxOlI": 1778575648546,
+    "a6ff5c8c-47f4-11f1-a8a5-03b48837c50f": 1778662283524,
+    "https://www.youtube.com/watch?v=8nsxuB3Vsts": 1778662293458,
+    "https://www.youtube.com/shorts/oBINTHha8Wc": 1778662293833,
+    "https://www.youtube.com/shorts/1ONRHbMRVqk": 1778662294233,
+    "https://www.youtube.com/shorts/wTZfT81oTrs": 1778662294233,
+    "https://www.youtube.com/shorts/12HYqkAXM5w": 1778662294739,
+    "https://www.youtube.com/shorts/712jTlly-8U": 1778662294739,
+    "https://www.youtube.com/shorts/57xD91ZnWQI": 1778662295050,
+    "https://www.youtube.com/shorts/YC0ArKVijYE": 1778662295050,
+    "https://www.youtube.com/shorts/SUzqS3OBEe4": 1778662295355,
+    "https://www.youtube.com/shorts/PRp_7jIvo2w": 1778662295747,
+    "https://www.youtube.com/shorts/iAFpeNPaRrs": 1778662296118
   },
   "seenArticles": {
     "https://claude.com/blog/new-in-claude-managed-agents": 1778143306519,
     "https://www.anthropic.com/engineering/april-23-postmortem": 1778400858415,
     "https://claude.com/blog/connectors-for-everyday-life": 1778400859057,
     "https://claude.com/blog/claude-managed-agents-memory": 1778400859607,
-    "https://www.anthropic.com/engineering/managed-agents": 1778493048086
+    "https://www.anthropic.com/engineering/managed-agents": 1778493048086,
+    "https://www.anthropic.com/engineering/claude-code-auto-mode": 1778662292858
   }
 }
