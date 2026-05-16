@@ -1,18 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "41e0e0de-4a72-11f1-8f25-0bf25b7d3e24": 1778313756032,
-    "2e79dafd-fc16-4887-9e14-85912127706a": 1778313756360,
-    "https://www.youtube.com/shorts/j8jE4UhhMuo": 1778313760198,
-    "https://www.youtube.com/shorts/GYBVh5zlV50": 1778313760198,
-    "https://www.youtube.com/shorts/7n4Momd0Pdc": 1778313760711,
-    "https://www.youtube.com/shorts/UydZwUPmnB0": 1778313760711,
-    "https://www.youtube.com/shorts/1jXLM5GAf0g": 1778313761022,
-    "https://www.youtube.com/shorts/gG5SuN87k0w": 1778313761022,
-    "https://www.youtube.com/shorts/NM4pg0B782s": 1778313761327,
-    "https://www.youtube.com/shorts/js6LuaMNPcM": 1778313761327,
-    "https://www.youtube.com/shorts/69aw6M502VY": 1778313761631,
-    "https://www.youtube.com/shorts/V1AoEqIp_tE": 1778313762116,
     "2b60e614-458c-11f1-8407-d363b4cb5860": 1778400847899,
     "d029858c-44b7-11f1-b968-43e05671113c": 1778400847899,
     "90151d98-433c-11f1-93d1-9316de7fe3e7": 1778400847899,
@@ -89,7 +77,17 @@
     "https://www.youtube.com/shorts/AxBOv6Gg21w": 1778835326900,
     "https://www.youtube.com/shorts/wkIfJ1TzuZo": 1778835327214,
     "https://www.youtube.com/shorts/gdR8-gQRp80": 1778835327628,
-    "https://www.youtube.com/shorts/K2kso2y4Phk": 1778835328072
+    "https://www.youtube.com/shorts/K2kso2y4Phk": 1778835328072,
+    "f351e492-c2ed-4655-a382-cf43fcfea33b": 1778919019908,
+    "14e2c04e-8c47-4582-ae46-65ca96679bfe": 1778919020069,
+    "https://www.youtube.com/shorts/duDgVfn1lCk": 1778919025869,
+    "https://www.youtube.com/watch?v=jfXAn1dgkyw": 1778919026182,
+    "https://www.youtube.com/shorts/x5Hpgcun4jk": 1778919026493,
+    "https://www.youtube.com/shorts/aCQyQshtDV0": 1778919026493,
+    "https://www.youtube.com/shorts/9UhTA_zqoGI": 1778919026949,
+    "https://www.youtube.com/shorts/8IxCPZS5MLc": 1778919026949,
+    "https://www.youtube.com/shorts/aBm0ubDWzdI": 1778919027691,
+    "https://www.youtube.com/shorts/qLQVNnIWwuA": 1778919028016
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/april-23-postmortem": 1778400858415,
