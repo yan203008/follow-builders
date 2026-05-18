@@ -1,27 +1,8 @@
 {
-  "generatedAt": "2026-05-17T08:26:56.972Z",
+  "generatedAt": "2026-05-18T10:15:12.407Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "ElevenLabs' Mati Staniszewski: How Voice Becomes the Interface for Everything",
-      "guid": "41e0e0de-4a72-11f1-8f25-0bf25b7d3e24",
-      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-05-08T17:05:00.000Z",
-      "description": "Mati Staniszewski, co-founder and CEO of ElevenLabs, joins Sequoia partner Andrew Reed at AI Ascent 2026 to talk about how a four-year-old company built a frontier audio AI business with just over 400 people and over $400M in revenue. He explains why audio was overlooked in 2022 when the rest of AI was chasing text and images, why ElevenLabs chose to monetize from day one rather than raise indefinitely, and why he believes voice will be the primary interface for agents, robots, and the next generation of computing. Also: why emotional intelligence is the next frontier in voice, and what happens when one voice agent realizes it's talking to another. ]]>"
-    },
-    {
-      "source": "podcast",
-      "name": "AI & I by Every",
-      "title": "The Secrets of Claude's Platform From the Team Who Built It",
-      "guid": "2e79dafd-fc16-4887-9e14-85912127706a",
-      "url": "https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/The-Secrets-of-Claudes-Platform-From-the-Team-Who-Built-It-e3j3ejd",
-      "publishedAt": "2026-05-08T20:27:01.000Z",
-      "description": "In the future, you’ll be able to accomplish a goal by just giving Claude an outcome and a budget. That’s the direction Anthropic is building in with its new Managed Agents features, announced at this week’s Code with Claude developer event. The basic idea: Claude, wrapped in a computer in the cloud, that you can spin up, scale, and manage as needed. Anthropic is taking on the infrastructure that kills most agent products, and making sure that it scales to meet the needs of agents running 24/7. On this week’s AI &amp; I from @every, I talk with Angela Jiang (@angjiang), head of product for the Claude platform, and Katelyn Lesse (@katelyn_lesse), head of engineering for the Claude platform, about what Anthropic is building and what it takes to make agents reliable in production. If you found this episode interesting, please like, subscribe, comment, and share! To hear more from Dan Shipper: Subscribe to Every: https://every.to/subscribe Follow him on X: https://twitter.com/danshipper Timestamps: 00:01:48 - How the Claude platform evolved from API to agents 00:04:09 - The primitives that make up Claude Managed Agents 00:10:37 - Why the harness and the model are becoming a single unit 00:18:49 - The infrastructure wall that kills most agent projects in production 00:24:49 - Why team agents need a different shape than individual productivity tools 00:26:36 - How Anthropic&#39;s legal team uses an agent to review marketing copy 00:34:24 - Using multi-agent orchestration for advisor strategies, adversarial pairs, and swarms 00:35:50 - How to measure agent success with outcome and budget as the end state 00:39:11 - What the platform looks like a year from now, when Claude writes its own harness"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 0
   }
 }
