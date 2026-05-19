@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-05-18T10:15:12.407Z",
+  "generatedAt": "2026-05-19T09:55:54.098Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "Rebuilding IT From the Ground Up for the AI Age: Serval's Jake Stauch",
+      "guid": "11894f9c-52f7-11f1-a868-f30cc344c1ee",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-05-19T09:00:00.000Z",
+      "description": "Jake Stauch, founder and CEO of Serval, is building a ServiceNow for the AI era. His most contrarian bet is that the product should look like boring old enterprise software, but with unlimited intelligence. Serval's architecture splits work between two agents: an admin agent that uses code generation to spin up workflows from natural language, and a help desk agent that can only act through the tools admins explicitly approve. Jake explains why his team uses OpenAI models for end-user interaction and Anthropic models for code generation, why new model releases sometimes have to be rolled back when prompt tuning breaks, and why he's not worried the foundation labs will come downmarket. He also makes the case for \"fewer, better\" hiring as the only durable moat in a world where products may need to be rebuilt every six months. Hosted by Pat Grady, Sequoia Capital ]]>"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
