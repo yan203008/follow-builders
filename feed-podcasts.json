@@ -1,18 +1,27 @@
 {
-  "generatedAt": "2026-05-19T09:55:54.098Z",
+  "generatedAt": "2026-05-20T09:43:29.948Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Training Data",
-      "title": "Rebuilding IT From the Ground Up for the AI Age: Serval's Jake Stauch",
-      "guid": "11894f9c-52f7-11f1-a868-f30cc344c1ee",
-      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-05-19T09:00:00.000Z",
-      "description": "Jake Stauch, founder and CEO of Serval, is building a ServiceNow for the AI era. His most contrarian bet is that the product should look like boring old enterprise software, but with unlimited intelligence. Serval's architecture splits work between two agents: an admin agent that uses code generation to spin up workflows from natural language, and a help desk agent that can only act through the tools admins explicitly approve. Jake explains why his team uses OpenAI models for end-user interaction and Anthropic models for code generation, why new model releases sometimes have to be rolled back when prompt tuning breaks, and why he's not worried the foundation labs will come downmarket. He also makes the case for \"fewer, better\" hiring as the only durable moat in a world where products may need to be rebuilt every six months. Hosted by Pat Grady, Sequoia Capital ]]>"
+      "name": "Latent Space",
+      "title": "The Next War Is Already Here. The West Isn't Ready. — Yaroslav Azhnyuk, The Fourth Law &amp; Guest Host Noah Smith, Noahpinion",
+      "guid": "substack:post:198200418",
+      "url": "https://www.latent.space/p/the-fourth-law",
+      "publishedAt": "2026-05-18T13:45:32.000Z",
+      "description": "The future of war has been evolving before our eyes in Ukraine, yet the west still plans to fight the last war. In this special episode, guest host Noah Smith ( @noahpinion ) and Brandon Anderson sit down with Yaroslav Azhnyuk ( @YaroslavAzhnyuk ) , a serial tech founder who went from building PetCube to founding The Fourth Law , one of the world’s most advanced AI-guided drone companies. Over two hours we cover the technology, tactics, and geopolitics of drone warfare, and why the modern battlefield has already left the West behind: * Yaroslav’s personal history and the Ukraine war [00:01:04 – 00:14:01] * The modern drone tech stack: why FPV drones are the new god of war, the future of the rifleman, fiber optic vs. AI, five levels of autonomy, and the eight dimensions of the autonomous battlefield [00:14:01 – 01:05:13] * The geopolitics and economics of drones: China’s manufacturing advantage, the drone race, Western defense readiness, countermeasures, and why the gap is widening [01:05:13 – 01:58:57] For those looking for Noah Smith ’s commentary, it really gets going around the 00:51:31 mark. Yaroslav Azhnyuk / The Fourth Law: * X: https://x.com/YaroslavAzhnyuk * LinkedIn: https://www.linkedin.com/in/yaroslavazhnyuk/ * The Fourth Law: https://thefourthlaw.ai Noah Smith : * Substack: Noah Smith * X: https://x.com/noahpinion Timestamps 00:00:00 Cold Open: China’s 4 Billion Drones and the Cameras-to-Explosives Pipeline 00:01:04 Introduction: Brandon, Noah Smith, and Yaroslav Azhnyuk 00:05:41 From Tech Entrepreneur to Defense: PetCube, Brave One, and the D3 Fund 00:10:42 The Ethics of Building Weapons: Dual-Use Technology and the Wolf at the Door 00:14:01 The Tech Stack: Cameras, Autonomy Modules, Interceptors, and a Semiconductor Fab 00:18:47 Fiber Optic vs. AI: The Radio Horizon Problem and $32/km Cable 00:25:32 FPV Drones: The New God of War — 70–80% of Frontline Casu"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Amex Global Business Travel: The World’s First AI Take Private with Long Lake CEO Alexander Taubman",
+      "guid": "20105fae-4c96-11f1-a903-0b1789dff273",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-05-11T10:00:00.000Z",
+      "description": "The world’s first AI-take-private just proved that AI can revolutionize the real economy. Long Lake Management co-founder and CEO Alexander Taubman joins Elad Gil to discuss his firm’s agreement to acquire the legacy platform American Express Global Business Travel (Amex GBT) in a deal valued at $6.3 billion. Alexander explains the mechanics of AI-driven roll-ups, and why Long Lake chooses to acquire and transform businesses rather than simply selling them software. He also talks about how Long Lake’s horizontal AI platform, Nexus, automates workflows across diverse verticals, and how automation through AI not only powers growth for their portfolio companies, but results in both satisfied customers and employees. Plus, they explore Alexander’s vision of Amex GBT as a multi-decade compounding machine. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @alextaubman | @amexgbt Chapters: 00:00 – Alexander Taubman Introduction 00:30 – Long Lake’s Nexus Platform 03:35 – Retention and Talent Flywheel 05:01 – Acquisition vs. Offering Software 06:57 – Building Long Lake’s Founding Team 10:37 – Taking American Express Global Business Travel Private 13:36 – Taking Berkshire Hathaway’s Approach to Management 16:37 – How AI Strategy Makes Long Lake Stand Out 19:32 – AI Makes Services Scale 22:00 – Conclusion ]]>"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 2
   }
 }
