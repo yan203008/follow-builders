@@ -1,21 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "substack:post:196292432": 1778748260920,
-    "beaede5a-4d82-11f1-9272-4f6372b94ca8": 1778748261257,
-    "d73930f8-47f4-11f1-a018-3b5d50482f68": 1778748261257,
-    "6dac87fb-8243-4aa7-b2c4-7f79a78bf4cb": 1778748261597,
-    "https://www.youtube.com/watch?v=BIl5vJn6ohI": 1778748266208,
-    "https://www.youtube.com/watch?v=wjpcm0yOQLY": 1778748267542,
-    "https://www.youtube.com/watch?v=SntHhnuLpDc": 1778748267542,
-    "https://www.youtube.com/watch?v=FKaBkhEjobI": 1778748267970,
-    "https://www.youtube.com/shorts/WrzFoMtcPFE": 1778748268416,
-    "https://www.youtube.com/shorts/8wbH9-0vcMI": 1778748268416,
-    "https://www.youtube.com/shorts/HmzQRdbSwww": 1778748268830,
-    "https://www.youtube.com/watch?v=EaFhlWqhqvw": 1778748269298,
-    "https://www.youtube.com/shorts/yKZtaQwF74Q": 1778748269298,
-    "https://www.youtube.com/shorts/P8Wms6eBg0Q": 1778748269844,
-    "https://www.youtube.com/watch?v=oRpjoHJcX4s": 1778748269844,
     "substack:post:197417280": 1778835318301,
     "0abbdc7e-4cb3-11f1-bb0f-9b67bad2c789": 1778835318769,
     "7beab4e3-0160-43e8-a621-30d13e86d87f": 1778835319171,
@@ -90,7 +75,17 @@
     "https://www.youtube.com/watch?v=Yru-7iow6Zw": 1779270219092,
     "https://www.youtube.com/shorts/6upMHn2Uyco": 1779270219092,
     "https://www.youtube.com/shorts/S_0YGtCYz34": 1779270219582,
-    "https://www.youtube.com/shorts/edLn5CJtBAU": 1779270219582
+    "https://www.youtube.com/shorts/edLn5CJtBAU": 1779270219582,
+    "c045e10e-9d13-499b-a4d0-8945587ba4aa": 1779357173964,
+    "https://www.youtube.com/watch?v=x83HcLWvHI8": 1779357177418,
+    "https://www.youtube.com/shorts/sEYbctQiycI": 1779357177723,
+    "https://www.youtube.com/shorts/3G-gcv0L-q0": 1779357178123,
+    "https://www.youtube.com/shorts/hhqB027RU9Q": 1779357178670,
+    "https://www.youtube.com/shorts/BjdpbVfTtSA": 1779357178670,
+    "https://www.youtube.com/shorts/kspC5YqkW4Y": 1779357179067,
+    "https://www.youtube.com/shorts/Vz_bwGRd6Cw": 1779357179067,
+    "https://www.youtube.com/shorts/-mxQBSCMKVg": 1779357179373,
+    "https://www.youtube.com/shorts/8baAHVxbjn8": 1779357179818
   },
   "seenArticles": {
     "https://claude.com/blog/new-in-claude-managed-agents": 1778835324150,
@@ -98,6 +93,7 @@
     "https://claude.com/blog/connectors-for-everyday-life": 1779099320461,
     "https://claude.com/blog/claude-managed-agents-memory": 1779099321027,
     "https://www.anthropic.com/engineering/managed-agents": 1779184565882,
-    "https://claude.com/blog/claude-managed-agents-updates": 1779184566551
+    "https://claude.com/blog/claude-managed-agents-updates": 1779184566551,
+    "https://www.anthropic.com/engineering/claude-code-auto-mode": 1779357176737
   }
 }
