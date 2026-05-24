@@ -1,16 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "41e0e0de-4a72-11f1-8f25-0bf25b7d3e24": 1779006416450,
-    "2e79dafd-fc16-4887-9e14-85912127706a": 1779006416972,
-    "https://www.youtube.com/shorts/_Pq6s4A5a0E": 1779006422595,
-    "https://www.youtube.com/watch?v=h9xL3SVg7_c": 1779006423075,
-    "https://www.youtube.com/shorts/KwEP7MpfNic": 1779006423491,
-    "https://www.youtube.com/watch?v=8Os_jQJEkDs": 1779006423491,
-    "https://www.youtube.com/shorts/0i_8sfa9bIM": 1779006424182,
-    "https://www.youtube.com/shorts/yTsb7yk7HyU": 1779006424182,
-    "https://www.youtube.com/shorts/Yoh4yYZRJtw": 1779006424887,
-    "https://www.youtube.com/shorts/6x1I6cooryw": 1779006425590,
     "https://www.youtube.com/shorts/5GXM6fB1ZV0": 1779099321932,
     "https://www.youtube.com/shorts/jiizjv8X-6o": 1779099322373,
     "https://www.youtube.com/watch?v=phdJgEXtl0M": 1779099322756,
@@ -89,7 +79,16 @@
     "https://www.youtube.com/shorts/TJ9C-BGWo8A": 1779524730062,
     "https://www.youtube.com/shorts/qevGU6MR1rk": 1779524730367,
     "https://www.youtube.com/watch?v=ZSzrQR16RZ8": 1779524731122,
-    "https://www.youtube.com/shorts/xQXKTjcqVRw": 1779524731425
+    "https://www.youtube.com/shorts/xQXKTjcqVRw": 1779524731425,
+    "substack:post:198688585": 1779611778571,
+    "substack:post:198575235": 1779611778571,
+    "f351e492-c2ed-4655-a382-cf43fcfea33b": 1779611779003,
+    "https://www.youtube.com/shorts/Un2jSprZEXc": 1779611780756,
+    "https://www.youtube.com/shorts/AKfPicqcuWE": 1779611781214,
+    "https://www.youtube.com/shorts/CUuAQhA9qT4": 1779611781214,
+    "https://www.youtube.com/shorts/WYa1gY5g46I": 1779611781528,
+    "https://www.youtube.com/watch?v=w565JVi-jEc": 1779611781961,
+    "https://www.youtube.com/shorts/YXOUn2BLPj4": 1779611782398
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/april-23-postmortem": 1779099319776,
