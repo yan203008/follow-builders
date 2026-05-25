@@ -1,16 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "https://www.youtube.com/shorts/5GXM6fB1ZV0": 1779099321932,
-    "https://www.youtube.com/shorts/jiizjv8X-6o": 1779099322373,
-    "https://www.youtube.com/watch?v=phdJgEXtl0M": 1779099322756,
-    "https://www.youtube.com/watch?v=JtgpbHRW5I8": 1779099322756,
-    "https://www.youtube.com/shorts/vEUEVD8sNjk": 1779099323071,
-    "https://www.youtube.com/shorts/lEpkoORTy-U": 1779099323071,
-    "https://www.youtube.com/shorts/ihEhw5fpPdY": 1779099323484,
-    "https://www.youtube.com/watch?v=yuz9hEESVok": 1779099323484,
-    "https://www.youtube.com/watch?v=68xy0mboQwc": 1779099323889,
-    "https://www.youtube.com/shorts/aKBZGkghjrI": 1779099324274,
     "11894f9c-52f7-11f1-a868-f30cc344c1ee": 1779184553871,
     "https://www.youtube.com/watch?v=gdrPkpXuNks": 1779184567165,
     "https://www.youtube.com/watch?v=dW6pvUx4_jc": 1779184567598,
@@ -88,12 +78,17 @@
     "https://www.youtube.com/shorts/CUuAQhA9qT4": 1779611781214,
     "https://www.youtube.com/shorts/WYa1gY5g46I": 1779611781528,
     "https://www.youtube.com/watch?v=w565JVi-jEc": 1779611781961,
-    "https://www.youtube.com/shorts/YXOUn2BLPj4": 1779611782398
+    "https://www.youtube.com/shorts/YXOUn2BLPj4": 1779611782398,
+    "https://www.youtube.com/watch?v=tu4rU4YD1Jk": 1779704351279,
+    "https://www.youtube.com/shorts/6US2d4l8ZBE": 1779704351749,
+    "https://www.youtube.com/shorts/lR6n1fCcPyc": 1779704351749,
+    "https://www.youtube.com/shorts/OKHvotc4-14": 1779704352388,
+    "https://www.youtube.com/watch?v=B_wR9Ii0TYs": 1779704352388,
+    "https://www.youtube.com/shorts/c9-0X04cUNE": 1779704352851,
+    "https://www.youtube.com/shorts/gF9s2M5HUDY": 1779704353230,
+    "https://www.youtube.com/watch?v=MlvizgRsmoE": 1779704353601
   },
   "seenArticles": {
-    "https://www.anthropic.com/engineering/april-23-postmortem": 1779099319776,
-    "https://claude.com/blog/connectors-for-everyday-life": 1779099320461,
-    "https://claude.com/blog/claude-managed-agents-memory": 1779099321027,
     "https://www.anthropic.com/engineering/managed-agents": 1779184565882,
     "https://claude.com/blog/claude-managed-agents-updates": 1779184566551,
     "https://www.anthropic.com/engineering/claude-code-auto-mode": 1779357176737,
