@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-05-25T10:19:06.309Z",
+  "generatedAt": "2026-05-26T10:05:46.888Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "How Cursor Trained Composer on Fireworks: Distributed Infrastructure for High-Performance RL",
+      "guid": "c85a76ee-3dd8-11f1-8934-37efe54dd294",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-05-26T09:00:00.000Z",
+      "description": "Cursor's Federico Cassano and Fireworks' Dmytro Dzhulgakov explain how they collaborated to build Composer as a specialized foundation model. The core insight: models have finite capacity in their weights, and allocating all those bits to the singular task of software engineering in Cursor frees the model to be both better at the task and far more efficient at inference. Rather than start from pre-training and work up, they took an unconventional top-down approach — mid-training and RL on top of an open-source base to get a useful model into users' hands fast, then specializing the model around real Cursor usage. With Fireworks providing distributed infrastructure, Composer delivers frontier-class coding performance with the speed of a much smaller model. Hosted by Sonya Huang, Sequoia Capital ]]>"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
