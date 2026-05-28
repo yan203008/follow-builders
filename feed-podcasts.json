@@ -1,18 +1,36 @@
 {
-  "generatedAt": "2026-05-27T10:03:44.377Z",
+  "generatedAt": "2026-05-28T10:13:16.318Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Training Data",
-      "title": "Rebuilding IT From the Ground Up for the AI Age: Serval's Jake Stauch",
-      "guid": "11894f9c-52f7-11f1-a868-f30cc344c1ee",
-      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-05-19T09:00:00.000Z",
-      "description": "Jake Stauch, founder and CEO of Serval, is building a ServiceNow for the AI era. His most contrarian bet is that the product should look like boring old enterprise software, but with unlimited intelligence. Serval's architecture splits work between two agents: an admin agent that uses code generation to spin up workflows from natural language, and a help desk agent that can only act through the tools admins explicitly approve. Jake explains why his team uses OpenAI models for end-user interaction and Anthropic models for code generation, why new model releases sometimes have to be rolled back when prompt tuning breaks, and why he's not worried the foundation labs will come downmarket. He also makes the case for \"fewer, better\" hiring as the only durable moat in a world where products may need to be rebuilt every six months. Hosted by Pat Grady, Sequoia Capital ]]>"
+      "name": "Latent Space",
+      "title": "The Autonomous Drone Tech Stack &amp; Economics of Drones — Yaroslav Azhnyuk, The Fourth Law &amp; Guest Host Noah Smith, Noahpinion",
+      "guid": "substack:post:198200418",
+      "url": "https://www.latent.space/p/the-fourth-law",
+      "publishedAt": "2026-05-18T13:45:32.000Z",
+      "description": "The future of war has been evolving before our eyes in Ukraine, yet the west still plans to fight the last war. In this special episode, guest host Noah Smith ( @noahpinion ) and Brandon Anderson sit down with Yaroslav Azhnyuk ( @YaroslavAzhnyuk ) , a serial tech founder who went from building PetCube to founding The Fourth Law , one of the world’s most advanced AI-guided drone companies. Over two hours we cover the technology, tactics, and geopolitics of drone warfare, and why the modern battlefield has already left the West behind: * Yaroslav’s personal history and the Ukraine war [00:01:04 – 00:14:01] * The modern drone tech stack: why FPV drones are the new god of war, the future of the rifleman, fiber optic vs. AI, five levels of autonomy, and the eight dimensions of the autonomous battlefield [00:14:01 – 01:05:13] * The geopolitics and economics of drones: China’s manufacturing advantage, the drone race, Western defense readiness, countermeasures, and why the gap is widening [01:05:13 – 01:58:57] For those looking for Noah Smith ’s commentary, it really gets going around the 00:51:31 mark. Yaroslav Azhnyuk / The Fourth Law: * X: https://x.com/YaroslavAzhnyuk * LinkedIn: https://www.linkedin.com/in/yaroslavazhnyuk/ * The Fourth Law: https://thefourthlaw.ai Noah Smith : * Substack: Noah Smith * X: https://x.com/noahpinion Timestamps 00:00:00 Cold Open: China’s 4 Billion Drones and the Cameras-to-Explosives Pipeline 00:01:04 Introduction: Brandon, Noah Smith, and Yaroslav Azhnyuk 00:05:41 From Tech Entrepreneur to Defense: PetCube, Brave One, and the D3 Fund 00:10:42 The Ethics of Building Weapons: Dual-Use Technology and the Wolf at the Door 00:14:01 The Tech Stack: Cameras, Autonomy Modules, Interceptors, and a Semiconductor Fab 00:18:47 Fiber Optic vs. AI: The Radio Horizon Problem and $32/km Cable 00:25:32 FPV Drones: The New God of War — 70–80% of Frontline Casu"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Building an AI Guardian for Enterprise with Onyx Security CEO Maxim Bar Kogan",
+      "guid": "35b51032-5a1c-11f1-b0f1-075a554a4d6f",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-05-28T10:00:00.000Z",
+      "description": "We are now closer than ever before to living in a world where AI agents are smart enough to run our power grids and manage water supplies. How do we keep them from going rogue? Sarah Guo sits down with Maxim Bar Kogan, founder and CEO of Onyx Securities, to explore the complexities of supervising and securing autonomous agents at the enterprise level. Maxim explains Onyx’s product as an AI control plane, which oversees the permissions and flexible contexts of agents while balancing latency, cost, and reliability. He also discusses how current controls have insufficient context to monitor agent intent, tradeoffs for gradual model rollout, the need for vendor-independent oversight, and Israel’s growing AI and security talent ecosystem. Plus, why Maxim is all-in on AGI. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @maximbarkogan Chapters: 00:00 – Cold Open 00:45 – Maxim Bar Kogan Introduction 01:10 – AutoGPT and Betting on Agent Actions 05:17 – What Onyx Product Does 07:47 – State of Deployment in Large Enterprises 09:58 – Securing Agents 12:45 – Why Proxies Don’t Work 14:11 – Why Onyx Trains Its Own Models 18:38 – Onyx’s Talent Culture 21:24 – Mechanistic Interpretability 23:35 – How Onyx Builds Customer Trust 25:10 – Mitigating Risk at the Foundational Level 27:45 – Phased Rollout of Glasswing and Daybreak 29:11 – Large Enterprise Holdouts 30:46 – Onyx and the Larger AI Security Space 32:36 – Should Labs Address Model Trust and Governance? 36:56 – What Needs to Happen in Security 39:14 – Why Maxim is AGI-Pilled 41:15 – Conclusion ]]>"
+    },
+    {
+      "source": "podcast",
+      "name": "AI & I by Every",
+      "title": "We Automated Everything With AI and Tripled Our Headcount",
+      "guid": "04fabe7b-e886-49d4-a663-879cef0a049a",
+      "url": "https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/We-Automated-Everything-With-AI-and-Tripled-Our-Headcount-e3jvmqf",
+      "publishedAt": "2026-05-27T16:28:59.000Z",
+      "description": "Dan Shipper runs one of the most AI-native companies today. Every has agents embedded in nearly every workflow—“if you swing a stick in our Slack, you&#39;re as likely to hit a human as an agent,” he says. And yet the company has grown from four people to 30 since GPT-3 came out, and is still hiring. Why does Dan believe there&#39;s more human work to do than ever? In a format flip for AI &amp; I, Every&#39;s COO Brandon Gell turns the tables and interviews Dan about his latest essay, “After Automation”—an 8,000-word argument for why rising automation doesn&#39;t eliminate demand for human work, it increases it. The thesis: AI makes yesterday&#39;s expert competence cheap and widely available, which floods every field with output that&#39;s close but not quite right—and that creates more demand for the humans who can take it the rest of the way. Dan talked with Brandon about the paradox at the heart of agent-native work: The more AI can do, the more humans are needed to direct it, refine its output, and decide what matters next. If you found this episode interesting, please like, subscribe, comment, and share! To hear more from Dan Shipper: Subscribe to Every: https://every.to/subscribe Follow him on X: https://twitter.com/danshipper Links to resources mentioned in the episode: “After Automation” by Dan Shipper: https://every.to/chain-of-thought/after-automation Brandon Gell on Every: https://every.to/@brandon_5263 Join the membership for where you live at joinbilt.com/dan Timestamps: 00:00:51 Introduction 00:05:51 The AI paradox: more automation, more human work 00:10:00 How AI makes yesterday&#39;s expert competence cheap 00:18:00 AI can act autonomously but it does not have agency 00:20:39 Why Dan is all in on AGI 00:21:57 AI layoffs are a lie 00:25:42 Ride the models and you&#39;ll be fine 00:35:30 How to use AI as a long-form features editor"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 3
   }
 }
