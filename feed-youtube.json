@@ -1,23 +1,62 @@
 {
-  "generatedAt": "2026-06-04T10:03:37.375Z",
+  "generatedAt": "2026-06-05T10:00:58.296Z",
   "lookbackHours": 48,
   "youtube": [
+    {
+      "source": "youtube",
+      "name": "Tina Huang",
+      "channelId": "UC2UXDak6o7rBm23k3Vv5dww",
+      "videos": [
+        {
+          "title": "Claude Cowork Fundamentals",
+          "url": "https://www.youtube.com/shorts/l1YqN93sN3w",
+          "publishedAt": "2026-06-04T15:02:15+00:00",
+          "description": "🐙 Free 28-Day AI Sprint Roadmap - pick your goal to get a clear, day-by-day path forward 👉 https://www.lonelyoctopus.com/ai-sprint-roadmap\n\n🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "FearNation 世界苦茶",
+      "channelId": "UCLKsaKMS_5RQuM0wHLp2vVg",
+      "videos": [
+        {
+          "title": "E243 火过王志安, 中国第一YT政论节目 : 266万粉丝买的是预言，还是末世焦虑？ | 透明茶室 • 分析线 | predictive history | 帝国衰落 | 政治神学｜时代精神",
+          "url": "https://www.youtube.com/watch?v=9QIfz6QzWgc",
+          "publishedAt": "2026-06-05T03:20:37+00:00",
+          "description": "00:00 - 谁是江学勤：被低估的中文政论第一人\n06:02 - 江学勤的世界观：伊朗预言与&quot;帝国自毁&quot;\n13:06 - 大历史三人组：刘仲敬与 Peter Thiel\n17:28 - 拆解三人：政治神学到底是什么\n32:04 - 晚期文明：今天的时代精神\n39:05 - 落到现实政治：伪救赎、六四与三大特征\n\n[ 欢迎在Patreon支持世界苦茶 ]\nPatreon：https://www.patreon.com/flipradio\n\n[ FR_FN全部服務 ]\nhttps://linktr.ee/fr_fn\n\nA：书籍\n-书籍：在Z-lib搜索“李厚辰”\n或者：请复制链接到浏览器打开：https://we.tl/t-wocLFJjafF\n\nB 视频：\nB1：YTB搜索“世界苦茶”\nB2：YTB搜索“三个水枪手”\n\nC 透明茶室\n「透明茶室」，是周一、四晚上的新闻评论节目，每期40分钟左右，涉及世界苦茶中一条新闻的话题。\n直播：上海时间8PM在Youtube頻道\n\nD 播客：\n在小宇宙、Apple Podcast、Youtube Music、Spotify等平台搜索“翻转电台”\n-翻电RSS：https://anchor.fm/s/141e652c/podcast/rss\n\nE 文本：\n-世界苦茶Newsletter：http://fearnation.club\n看理想专栏：https://shorturl.at/hWluS\n青年志专栏：https://shorturl.at/yea9Q\n歪脑专栏：https://www.wainao.me/wainao-reads/columns/prosperous-but-dusty/\n-文本文章集合Pub：https://flipradio.club/\n-X：https://x.com/Ansel_Flipradio\n\nF 其他：\n-活跃社区DISCORD：https://discord.gg/aQb8bgd5SK\n-Instagram: bitteradio\n\n© FlipRadio_FearNation Copyright 2026\n要记得敢于去相信，也敢于分享你的相信。"
+        }
+      ]
+    },
     {
       "source": "youtube",
       "name": "Jay Shetty Podcast",
       "channelId": "UCbk_QsfaFZG6PdQeCvaYXJQ",
       "videos": [
         {
-          "title": "The value of your time #shorts",
-          "url": "https://www.youtube.com/shorts/7Bas3vA7zQc",
-          "publishedAt": "2026-06-03T20:00:15+00:00",
+          "title": "Rest isn't a reward... it's a requirement #jayshetty #shorts",
+          "url": "https://www.youtube.com/shorts/C6K7lEKKnZ8",
+          "publishedAt": "2026-06-04T20:00:20+00:00",
           "description": "Episode Resources:\n\nhttps://www.instagram.com/jayshetty\nhttps://www.facebook.com/jayshetty/\nhttps://x.com/jayshetty\nhttps://www.linkedin.com/in/shettyjay/\nhttps://www.youtube.com/@JayShettyPodcast\nhttp://jayshetty.me"
         },
         {
-          "title": "Miles Chamley Watson on what makes a good friend",
-          "url": "https://www.youtube.com/shorts/FX9QqIzDgHc",
-          "publishedAt": "2026-06-03T17:00:29+00:00",
+          "title": "THIS is why we avoid silence... #jayshetty #shorts",
+          "url": "https://www.youtube.com/shorts/VzCnzqsZing",
+          "publishedAt": "2026-06-04T17:30:15+00:00",
           "description": "Episode Resources:\n\nhttps://www.instagram.com/jayshetty\nhttps://www.facebook.com/jayshetty/\nhttps://x.com/jayshetty\nhttps://www.linkedin.com/in/shettyjay/\nhttps://www.youtube.com/@JayShettyPodcast\nhttp://jayshetty.me"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "Andrew Huberman",
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "videos": [
+        {
+          "title": "Essentials: Psychedelics &amp; Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
+          "url": "https://www.youtube.com/watch?v=GkG1hMhIQ_Q",
+          "publishedAt": "2026-06-04T12:00:17+00:00",
+          "description": "_In loving memory of Nolan Williams (1982-2025):_ ⁠⁠https://stan.md/3Qle2zp⁠⁠\n\nIn this Huberman Lab Essentials episode, my guest is Dr. Nolan Williams, MD, a triple board-certified psychiatrist and neurologist. We discuss cutting-edge treatments for depression and post-traumatic stress disorder (PTSD), including transcranial magnetic stimulation, neuromodulation, and psychedelic-assisted therapies. We also discuss the neurobiology and therapeutic potential of specific psychedelic compounds, including psilocybin, MDMA, ibogaine, and ayahuasca.\n\nShow notes: https://go.hubermanlab.com/KWwu7p6\n\nHuberman Lab\nInstagram: https://www.instagram.com/hubermanlab \nThreads: https://www.threads.net/@hubermanlab\nX: https://x.com/hubermanlab \nFacebook: https://www.facebook.com/hubermanlab \nTikTok: https://www.tiktok.com/@hubermanlab \nLinkedIn: https://www.linkedin.com/in/andrew-huberman\nWebsite: https://www.hubermanlab.com \nNewsletter: https://www.hubermanlab.com/newsletter\n\nTimestamps\n00:00:00 Nolan Williams\n00:00:26 Depression\n00:02:51 Heart &amp; Mind Connection, Transcranial Magnetic Stimulation (TMS)\n00:05:21 TMS for Depression\n00:07:52 SSRIs &amp; Chemical imbalance, TMS, Psychedelics\n00:13:51 Psilocybin, MDMA, Trauma\n00:16:48 MDMA Clinical Trials &amp; PTSD; Psilocybin &amp; Depression\n00:18:46 Psilocybin, Brain Connectivity &amp; Depression\n00:21:07 Ibogaine, Empathy; Psychedelic Breakthrough &amp; Risk\n00:27:44 Ayahuasca, Behavior Change, Prisoners\n00:31:54 Stanford Accelerated Intelligent Neuromodulation Therapy (SAINT)\n00:35:56 Acknowledgements\n\n#hubermanlab #science \n\nDisclaimer &amp; Disclosures: https://www.hubermanlab.com/disclaimer"
         }
       ]
     },
@@ -27,16 +66,16 @@
       "channelId": "UCIaH-gZIVC432YRjNVvnyCA",
       "videos": [
         {
-          "title": "Will AI Ruin Our World?",
-          "url": "https://www.youtube.com/shorts/-RvzE2JBaFc",
-          "publishedAt": "2026-06-03T23:24:07+00:00",
-          "description": "Watch the full episode here- https://youtu.be/NufB1LL_rCU?si=IHuQREAaldnOsBq7\n-\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
+          "title": "Stop Performing For Others",
+          "url": "https://www.youtube.com/shorts/x-_r5DXPMO4",
+          "publishedAt": "2026-06-05T01:06:37+00:00",
+          "description": "Watch the full episode here- https://youtu.be/sBwtELpwVl4?si=xqA79YXVAeHgxryy\n-\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
         },
         {
-          "title": "What Makes Men Want To Change",
-          "url": "https://www.youtube.com/shorts/HMUK72FoQmM",
-          "publishedAt": "2026-06-03T19:32:16+00:00",
-          "description": "Get access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
+          "title": "The Michel Thomas Method",
+          "url": "https://www.youtube.com/shorts/tJESh3HQ4hw",
+          "publishedAt": "2026-06-04T19:38:54+00:00",
+          "description": "Watch the full episode here- https://youtu.be/3sK49MecCCY?si=jeSr-JiEyGU48hGI\n-\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
         }
       ]
     },
@@ -46,16 +85,10 @@
       "channelId": "UCRYY7IEbkHLH_ScJCu9eWDQ",
       "videos": [
         {
-          "title": "Creating anthropomorphic animals with Gemini and HIggsfield",
-          "url": "https://www.youtube.com/shorts/oGVrEhlIMP8",
-          "publishedAt": "2026-06-03T14:30:39+00:00",
-          "description": "#higgsfieldai #gemini #motionvideoai #videoai #googlegemini"
-        },
-        {
-          "title": "I cloned myself with Gemini Omni in 15 minutes (and it's terrifyingly good)",
-          "url": "https://www.youtube.com/watch?v=UNZczH0gpHc",
-          "publishedAt": "2026-06-03T12:00:23+00:00",
-          "description": "In this experimental episode, I document my real-time attempt to create an AI avatar of myself using Google Flow and the new Gemini Omni video generation model. I walk through the entire process—from scanning my face with my phone to generating a complete one-minute hype video for the podcast, all in about 15 minutes.\n\n*What you’ll learn:*\n1. How to create an AI avatar using Google Flow in under five minutes\n2. Why video AI tools unlock creative possibilities for people with zero video production skills\n3. The step-by-step process of generating a full storyboard using AI as your creative producer\n4. How to use character consistency features to generate multiple video scenes with the same avatar\n5. The uncanny-valley moments you’ll encounter when your AI clone doesn’t quite nail emotions or physics\n6. How to stitch together AI-generated scenes into a complete video using built-in editing tools\n\n*Brought to you by:*\nMerge—Connective infrastructure for production AI: https://www.merge.dev/howiai\nJira Product Discovery—Prioritize with insights, build with confidence: https://atlassian.com/howiai\n\n*In this episode, we cover:*\n(00:00) Getting started with Google Flow and Gemini Omni\n(01:38) The avatar creation process: scanning and photo capture\n(02:55) Using Flow to brainstorm a hype video storyboard\n(06:59) Generating the first video scene with the avatar\n(08:41) Troubleshooting: accidentally generating images instead of videos\n(09:32) Generating all seven scenes for the complete video\n(11:37) Reviewing the avatar videos\n(13:13) Stitching the videos together in the browser-based editor\n(14:32) The complete How I AI hype video\n(15:32) What worked and what didn’t\n(19:04) Final thoughts\n\n*Blog &amp; detailed workflow walkthroughs from this episode:*\n How I Built an AI Avatar and Hype Video in 15 Minutes with Google Flow: https://www.chatprd.ai/how-i-ai/ai-avatar-video-in-15-minutes-with-google-omni-flow\n↳ How to Create a Promotional Video with an AI Creative Director:  https://www.chatprd.ai/how-i-ai/workflows/how-to-create-a-promotional-video-with-an-ai-creative-director\n↳ How to Create a Personalized AI Avatar with Google Flow:  https://www.chatprd.ai/how-i-ai/workflows/how-to-create-a-personalized-ai-avatar-with-google-flow\n\n*Tools referenced:*\n• Google Flow: https://labs.google/fx/tools/flow\n• Gemini Omni: https://gemini.google/overview/video-generation/\n• Veo 3: https://deepmind.google/technologies/veo/\n\n*Where to find Claire Vo:*\nChatPRD: https://www.chatprd.ai/\nWebsite: https://clairevo.com/\nLinkedIn: https://www.linkedin.com/in/clairevo/\nX: https://x.com/clairevo\n\n_Production and marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email jordan@penname.co._"
+          "title": "Google Omni made this hype video in less than 15 minutes",
+          "url": "https://www.youtube.com/shorts/brJ_mHPgK14",
+          "publishedAt": "2026-06-04T18:33:42+00:00",
+          "description": "#googleai #gemini #geminiomni #omni #aivideo #aipodcast"
         }
       ]
     },
@@ -65,10 +98,10 @@
       "channelId": "UC0TnW9acNxqeojxXDMbohcA",
       "videos": [
         {
-          "title": "The Real Reason I Wrote a Book About Hope",
-          "url": "https://www.youtube.com/shorts/P5AKpaAc6aY",
-          "publishedAt": "2026-06-03T13:00:19+00:00",
-          "description": "The real reason I wrote a book about hope after writing one about not giving a fuck was because I was falling apart."
+          "title": "How To Choose A Partner",
+          "url": "https://www.youtube.com/shorts/fKcOYg2i-Sk",
+          "publishedAt": "2026-06-04T13:00:13+00:00",
+          "description": "When you're selecting a partner you're also choosing a whole lifestyle not only a person."
         }
       ]
     },
@@ -78,23 +111,17 @@
       "channelId": "UC5fI3kxC-ewZ6ZXEYgznM7g",
       "videos": [
         {
-          "title": "How to Buy a Business with Other Peoples Money",
-          "url": "https://www.youtube.com/watch?v=CSE-cZ-X87o",
-          "publishedAt": "2026-06-04T00:12:12+00:00",
-          "description": "You don't need a pile of cash to buy a business. Most deals get done with creative financing.\nJoin me at Main Street Millionaire Live on June 18. For Small Business Week, I'm offering my lowest ticket price yet → https://contrarianthinking.biz/ytlive-msml26\nGrab your ticket before June 3rd and get:\nA shot at a VIP upgrade\nYour question answered live on June 3rd (reply to your confirmation email with a video or voice note)\nI'll show you exactly how buyers structure deals without emptying their savings.\nEnter to win → https://info.contrarianthinking.co/live-giveaway (must be present to collect)\nWant a reminder - add this event here -  https://evt.to/85l5yytkprv0\n-----------------------------------------------------\nHi... I'm Codie.\n\nIf we haven't met, I build and buy businesses and help you make money. I used to work on Wall Street and in Private Equity for too many years. Then I realized I'd rather YOU AND I own our businesses locally instead. So I built up Main Street Holding Company, Contrarian Thinking Capital &amp; Co. Now, we own and grow dozens of businesses. My mission is to create 100,000 business owners and help 1 million of us build profitable businesses. I hope you’re one.\nHere's what I know for sure... those who say it's impossible should get out of the way of those of you who are doing it!! ❤️\n\n-----------------------------------------------------\n\nThe BE AN ADULT SECTION 🤗\nAll content on the Codie Sanchez YouTube channel reflects my own opinions and should NOT be taken as legal advice, financial advice, or investment advice. Please seek out the guidance of professionally trained and licensed individuals before making any decisions. Some links in the description may be affiliate links. Copyright © Contrarian Thinking LLC 2026.\n\n\nGiveaway Official Rules\nNo purchase necessary.\nSponsor: Contrarian Thinking.\nOpen to legal residents of the U.S. who are 18 years or older at time of entry. Void where prohibited.\nGiveaway Period:\nBegins June 3rd, 2026 at 5:30 p.m. CST and ends approximately June 3rd, 2026 at 7:00 p.m. CST.\nHow to Enter:\nDuring the live stream on YouTube, you may enter the raffle by submitting your email address (via the entry form/link provided) to be included for the prize drawing. No purchase or payment is required to enter or to win.\nPrize(s):\nMerchandise from the “Contrarian Thinking” brand.\nTickets (valued at approximately $197 each) to the “Main Street Millionaire Live&quot; event.\nWinner Selection &amp; Notification:\nOne or more winners (as specified during the live) will be randomly selected from all eligible entries. Odds of winning depend on the number of entries received. Winner(s) will be announced live during the stream and notified via email.\nGeneral Conditions:\nThe entry method is identical for all participants and there is no purchase required.\nSponsor disclaims any affiliation with or endorsement by YouTube.\nWinners are responsible for any taxes or fees associated with acceptance of the prize. In the U.S., non‑cash prizes must be reported as income at their fair market value.\nThe value of the prize(s) will be treated as taxable income to the winner(s) for federal tax purposes.\nIn Texas, a “raffle” (which requires purchase) is strictly regulated and usually limited to charitable organizations. This promotion is structured as a sweepstakes (free entry) and not a raffle.\nBy entering, participants agree to comply with these official rules and the decisions of the Sponsor, which are final and binding.\nEligibility &amp; Restrictions:\nEntrants must be 18 or older and a legal U.S. resident.\nEmployees of the Sponsor (and their immediate family/household) are not eligible to win.\nOne entry per person/email unless otherwise specified.\nPrize Transferability &amp; Substitution:\nPrizes are non‑transferable and cannot be substituted for cash, except at Sponsor’s discretion. If the advertised prize becomes unavailable, a prize of equal or greater value may be awarded.\nPrivacy:\nBy entering, you consent to the collection and use of your email for the purposes of administering the giveaway and sending the surprise discount code. Sponsor will not sell or share your personal data beyond these purposes.\nMiscellaneous:\nThese rules are governed by the laws of the State of Texas and the United States where applicable.\nThe Sponsor reserves the right to cancel or modify the giveaway if fraud, technical failures, or other causes beyond Sponsor’s control corrupt the integrity of the promotion.\nSponsor is not responsible for any typographical or printing errors.\n\nBy entering the giveaway, participants consent to the collection and use of their email address for the following purposes:\nEvent updates and communications\nNotification of giveaway results\nFuture announcements, opportunities, or content from the Sponsor\nWe respect your privacy and will not sell or share your personal information with third parties. Your data will only be used as stated above."
-        },
-        {
-          "title": "Do You Have A Job Or A Business?",
-          "url": "https://www.youtube.com/shorts/kWY4R7Re8t8",
-          "publishedAt": "2026-06-03T18:05:41+00:00",
-          "description": "#codiesanchez #contrarianthinking #smallbusiness #ownership #msml"
+          "title": "Ranking the best investments for 2026",
+          "url": "https://www.youtube.com/shorts/5zVOuxP7b88",
+          "publishedAt": "2026-06-04T21:04:54+00:00",
+          "description": ""
         }
       ]
     }
   ],
   "stats": {
-    "youtubeChannels": 5,
-    "totalVideos": 9
+    "youtubeChannels": 8,
+    "totalVideos": 10
   },
   "errors": [
     "YouTube: Failed to fetch Mel Robbins: HTTP 404",
