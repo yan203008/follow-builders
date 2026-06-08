@@ -1,36 +1,8 @@
 {
-  "generatedAt": "2026-06-07T09:22:54.414Z",
+  "generatedAt": "2026-06-08T11:06:47.509Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "The Age of Async Agents — Cognition's Walden Yan &amp; OpenInspect's Cole Murray",
-      "guid": "substack:post:199607874",
-      "url": "https://www.latent.space/p/cognition",
-      "publishedAt": "2026-05-28T18:41:24.000Z",
-      "description": "The new AIEWF website is live! CFPs close in 2 days and we will run our first New Engineer Orientation this weekend, get your tickets booked ASAP as they -will- sell out. Take the AI Engineering Survey and get >$2k in credits and free AIE WF tickets ! One of the central tensions in the agents industry is that even while there are major decacorn agent labs like Sierra, Decagon, Notion and Cursor being built up, it is also true that it has never been easier to DIY agents, with a plethora of agent frameworks like LangGraph and Pydantic and Flue , and managed agents from Anthropic and Gemini and Amazon . There has been a wave of companies building their own background agents from Shopify to Stripe to Paradigm to Razorpay , and even Cognition’s friends Ramp have built their own coding agent with other friend Modal . You’d think Cognition might feel a bit threatened, but they’re not - even after all this, they were way oversubscribed for the $1B Series D they just announced: Walden Yan , coiner of context engineering and Chief Product Officer/Cofounder of Cognition, invited OpenInspect’s Cole Murray to talk about why the Devin is in the Details . Full conversation <a target=\""
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "🔬ESM: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
-      "guid": "substack:post:199487836",
-      "url": "https://www.latent.space/p/esmfold2",
-      "publishedAt": "2026-05-27T17:46:16.000Z",
-      "description": "Editor’s note: In our first BioHub pod with Priscilla and Mark they discussed their acquisition of EvoScale , led by Alex Rives , who is now Head of Science at BioHub. With ESM-1 they trained language models on millions of protein sequences drawn from across life, with a simple “next token” objective: predict the amino acids that have been randomly masked out, based on the context of the rest of the sequence. But they soon found that these models also learned biological structure and function, including properties the model had never been explicitly shown AND that this ability scales predictably with compute , leading to ESM2 and ESM3 . Today, Alex announced ESMFold 2, an open scientific engine to power prediction, design, and discovery across protein biology. Building on Cryo-EM data (discussed in the CZI pod), ESMFold2 reports state of the art performance on protein interactions, especially antibodies, a critical modality for therapeutics, and evidence that inference time scaling is also working across five targets in cancer and immunology . In a nod to that other famous AI x protein folding project, they are also releasing an atlas of 6.8 billion proteins, and 1.1 billion predicted structures, which you can play around with on their website . We are honored to work with them for this huge release! One of the refrains we’ve heard on the Science pod has been that protein folding, materials design, cellular biology, etc. are very different problems from Language Modeling. They definitely are. Yet Alex Rives and the ESM team at BioHub just released a preprint and model , demonstrating that vanilla BERT-like transformer models trained on sufficiently large and diverse data sets can beat specialized models like AlphaFold3 on some of the hardest protein-related problems. Andrew White had a great segment in our first LS-Science episode that explained how mind blowing AlphaFold2 was when it was released in 2020: it suddenly solved problems on a GPU on your desktop that <a ta"
-    },
-    {
-      "source": "podcast",
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "State of Enterprise AI 2026: Aaron Levie on Tokenmaxxing, Rise of Headless, and AI-Proofing Your Job",
-      "guid": "95f646e5-46fd-46f7-9272-3f642141d7bd",
-      "url": "https://podcasters.spotify.com/pod/show/firstmark/episodes/State-of-Enterprise-AI-2026-Aaron-Levie-on-Tokenmaxxing--Rise-of-Headless--and-AI-Proofing-Your-Job-e3k0gsp",
-      "publishedAt": "2026-05-28T11:30:00.000Z",
-      "description": "Aaron Levie, co-founder and CEO of Box, returns to the MAD Podcast with the clearest read in tech on what AI is actually doing inside the world&#39;s largest enterprises right now - not the hype version, the real one. After hundreds of Fortune 500 CIO conversations this year, Aaron explains why we&#39;re still in &quot;day one&quot; of the agent era, why one badly written agent run can now cost $1,000 in compute, and why progress at the AI labs is paradoxically slowing enterprise deployment. We get into the token cost shock now reshaping IT budgets, why coding agents have reached escape velocity while the rest of knowledge work hasn&#39;t, the rise of headless software and what replaces per-seat pricing, the emergence of the forward-deployed engineer as the hottest job in tech, why Aaron thinks the AI doomers are wrong about jobs, and where startups can still win as the labs move up the stack. (00:00) Intro (01:18) Silicon Valley engineering vs. everyone else (05:35) Are enterprise CIOs actually bullish on AI? (08:51) Tokenmaxxing &amp; why your AI bill is about to explode (11:34) The myth of falling token costs and AI spend escaping IT budgets (17:37) The $5B startup hiding in AI compute (18:14) The mosaic of models inside every enterprise (21:28) Why coding works and the rest of knowledge work doesn&#39;t (25:53) The Bob and Sally problem: access control breaks agents (30:31) Will enterprise AI really take 10 years to roll out? (32:24) The capability overhang: why faster models slow diffusion (34:23) Data is the bottleneck (it always was) (39:02) The rise of internal forward-deployed engineers (41:23) Why the AI doomers are wrong about jobs (43:43) Headless software is inevitable (46:14) What replaces per-seat pricing (47:37) How Box itself is going headless (49:42) How the org chart actually evolves (1:00:33) Future-proofing yourself as an enterprise employee (1:06:40) Are we all just going to work for OpenAI and Anthropic? (1:07:11) Where startups can still win as the labs move up"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 3
+    "podcastEpisodes": 0
   }
 }
