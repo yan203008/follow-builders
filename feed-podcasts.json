@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-06-09T09:54:34.331Z",
+  "generatedAt": "2026-06-10T10:11:44.499Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "LIVE: Jensen Huang on Building the Dynamo of the Intelligence Age",
+      "guid": "0fae4dc4-6456-11f1-9180-3f07b7c1bee8",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-06-10T09:00:00.000Z",
+      "description": "Jensen Huang, founder and CEO of NVIDIA, makes the case that computing is undergoing its biggest shift in 60 years: from retrieval, where data centers store files we look up, to generation, where every word, image, and video is produced in real time and customized for whoever is asking. He explains why NVIDIA's AI factories are the dynamos of this era: machines that take in electrons and send out tokens of intelligence, just as Siemens' dynamo once turned motion into electricity. Jensen frames intelligence as the third force to \"cocoon\" the planet after electricity and the internet. He describes the five-layer cake of AI investment—energy, chips, infrastructure, models, applications—and dismantles the fear that AI will erase jobs, using radiology and software engineering to show how automation raised labor demand instead of killing it. His bottom line: you won't lose your job to AI, but you might lose it to someone who uses AI. Hosted by Konstantine Buhler, Sequoia Capital ]]>"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
