@@ -1,18 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "substack:post:200614482": 1780653653874,
-    "19ae4fac-acd5-40bf-b6a7-168292c2c275": 1780653654339,
-    "https://www.youtube.com/shorts/l1YqN93sN3w": 1780653654871,
-    "https://www.youtube.com/watch?v=9QIfz6QzWgc": 1780653655470,
-    "https://www.youtube.com/shorts/C6K7lEKKnZ8": 1780653655843,
-    "https://www.youtube.com/shorts/VzCnzqsZing": 1780653655843,
-    "https://www.youtube.com/watch?v=GkG1hMhIQ_Q": 1780653656236,
-    "https://www.youtube.com/shorts/x-_r5DXPMO4": 1780653656541,
-    "https://www.youtube.com/shorts/tJESh3HQ4hw": 1780653656541,
-    "https://www.youtube.com/shorts/brJ_mHPgK14": 1780653656846,
-    "https://www.youtube.com/shorts/fKcOYg2i-Sk": 1780653657316,
-    "https://www.youtube.com/shorts/5zVOuxP7b88": 1780653657926,
     "35b51032-5a1c-11f1-b0f1-075a554a4d6f": 1780735197593,
     "04fabe7b-e886-49d4-a663-879cef0a049a": 1780735197728,
     "https://www.youtube.com/shorts/yyH6aGiTmE4": 1780735203881,
@@ -85,10 +73,31 @@
     "https://www.youtube.com/shorts/kEIVKZbPfVw": 1781174762965,
     "https://www.youtube.com/shorts/AIvZGMltg-A": 1781174762965,
     "https://www.youtube.com/shorts/A7stFwbsL_k": 1781174763431,
-    "https://www.youtube.com/shorts/txoKwzJ5_lo": 1781174763431
+    "https://www.youtube.com/shorts/txoKwzJ5_lo": 1781174763431,
+    "substack:post:199994886": 1781259697127,
+    "substack:post:200432443": 1781259697127,
+    "substack:post:200249307": 1781259697127,
+    "0c2c7d0c-5fc8-11f1-84fd-97552ff30f86": 1781259697247,
+    "10556d62-a6f5-44a2-aae6-0cb62f28313b": 1781259697392,
+    "39522bf7-c802-4596-a9bc-2f1b28b51c39": 1781259697510,
+    "https://www.youtube.com/shorts/VODVJ-0oLCw": 1781259715885,
+    "https://www.youtube.com/watch?v=0j3SW7R40SU": 1781259715885,
+    "https://www.youtube.com/shorts/iLCxpB8Eg4c": 1781259716360,
+    "https://www.youtube.com/shorts/wgXw1uV-uzE": 1781259716360,
+    "https://www.youtube.com/watch?v=RTgJSQtvo88": 1781259716670,
+    "https://www.youtube.com/shorts/w77Jy8F8AKc": 1781259717107,
+    "https://www.youtube.com/shorts/TfvVTElYo7g": 1781259717107,
+    "https://www.youtube.com/shorts/Z5xfKb0701I": 1781259717416,
+    "https://www.youtube.com/shorts/6lY5eT-VWaI": 1781259717844,
+    "https://www.youtube.com/shorts/JEFoEz-9mUg": 1781259718335,
+    "https://www.youtube.com/shorts/MFrDztSaFy8": 1781259718335
   },
   "seenArticles": {
     "https://claude.com/blog/new-in-claude-managed-agents": 1780916816954,
-    "https://claude.com/blog/claude-for-foundation-models": 1780998880456
+    "https://claude.com/blog/claude-for-foundation-models": 1780998880456,
+    "https://www.anthropic.com/engineering/how-we-contain-claude": 1781259703019,
+    "https://www.anthropic.com/engineering/april-23-postmortem": 1781259708516,
+    "https://www.anthropic.com/engineering/managed-agents": 1781259714351,
+    "https://claude.com/blog/claude-managed-agents-updates": 1781259715061
   }
 }
