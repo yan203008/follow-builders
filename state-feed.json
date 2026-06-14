@@ -1,18 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "substack:post:199607874": 1780824174182,
-    "substack:post:199487836": 1780824174182,
-    "95f646e5-46fd-46f7-9272-3f642141d7bd": 1780824174392,
-    "https://www.youtube.com/shorts/4fPJUE8vHeM": 1780824179554,
-    "https://www.youtube.com/shorts/na_qyJ01XwY": 1780824179554,
-    "https://www.youtube.com/shorts/sNz4k5BQg30": 1780824180361,
-    "https://www.youtube.com/shorts/KI2hZx6few0": 1780824180801,
-    "https://www.youtube.com/watch?v=OqyO8VbWpkA": 1780824180801,
-    "https://www.youtube.com/shorts/W2W5glG7rwM": 1780824181110,
-    "https://www.youtube.com/shorts/Q-sCVH1FKRU": 1780824181110,
-    "https://www.youtube.com/shorts/pMkM3eXc-9E": 1780824181416,
-    "https://www.youtube.com/shorts/0zkbu4jedZM": 1780824181843,
     "https://www.youtube.com/watch?v=kFH4AujWqtI": 1780916817480,
     "https://www.youtube.com/shorts/SaVehcXEPZ0": 1780916817827,
     "https://www.youtube.com/shorts/9MoI57125pk": 1780916818180,
@@ -89,7 +77,17 @@
     "https://www.youtube.com/shorts/ZVQsCKX5SEo": 1781342635145,
     "https://www.youtube.com/watch?v=JW2dMHgH-FY": 1781342635909,
     "https://www.youtube.com/shorts/TNCZfar1FaI": 1781342636355,
-    "https://www.youtube.com/shorts/XcOQZEMW1ik": 1781342636355
+    "https://www.youtube.com/shorts/XcOQZEMW1ik": 1781342636355,
+    "https://www.youtube.com/watch?v=xUG-nSlD8H4": 1781430231146,
+    "https://www.youtube.com/watch?v=5Bg9DfXqyfM": 1781430231147,
+    "https://www.youtube.com/watch?v=FBHhmqBs894": 1781430231637,
+    "https://www.youtube.com/shorts/Wpktv0iUlAo": 1781430231995,
+    "https://www.youtube.com/shorts/hpPQM5jMn-g": 1781430232566,
+    "https://www.youtube.com/watch?v=wZqQKXgb3m0": 1781430232566,
+    "https://www.youtube.com/shorts/n7bfAM89nKg": 1781430232876,
+    "https://www.youtube.com/shorts/-up5meJQ2l0": 1781430232876,
+    "https://www.youtube.com/shorts/TgsccRZ6qGo": 1781430233268,
+    "https://www.youtube.com/shorts/Uto7vcB2n4E": 1781430233825
   },
   "seenArticles": {
     "https://claude.com/blog/new-in-claude-managed-agents": 1780916816954,

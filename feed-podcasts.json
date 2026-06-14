@@ -1,36 +1,8 @@
 {
-  "generatedAt": "2026-06-13T09:23:48.038Z",
+  "generatedAt": "2026-06-14T09:43:50.581Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs",
-      "guid": "substack:post:200614482",
-      "url": "https://www.latent.space/p/andon",
-      "publishedAt": "2026-06-04T20:39:18.000Z",
-      "description": "The new AIEWF website is live! Get your tickets booked ASAP as they -will- sell out. Take the AI Engineering Survey and get >$2k in credits and free AIE WF tickets ! Most industry benchmarks compress intelligence and reasoning ability into scores. SWE-Bench Pro , MMLU , Humanity’s Last Exam , etc. These metrics are useful, but don’t always represent the full extent of how a model performs in the real world . Some of the most interesting evals today look less like exams and more like operating businesses in the real world. One of which is Vending Bench . In Anthropic’s Mythos Preview System Card , Andon was the only third party eval to get their own section, observing increasingly concerning aggressive behavior: You don’t know what a model is capable of doing in the real world unless you actually give it inventory, a wallet, tools, customers, competitors, humans, & some time. More often than not, it’ll surprise you how much a model is capable of and in doing so, also reveal unexpected behavior : deception , context collapse, emergent coordination, & bizarre negotiation behavior. While an inflection point in personal agents came post-OpenClaw after full file access with bypass permissions became the norm, it is yet to come for agents in the real-world. However Andon Market , an actual in person store fully run and managed by AI, is paving the way for what is possible. Full Video Pod From Claude trying to call the FBI over a $2/day vending machine charge to AI agents forming price cartels , hiring human employees, running physical stores, and writing existential robot musicals, Andon Labs is stress-testing what happens when frontier models stop being chatbots and start acting in the real world. In this episode, Andon Labs cofounders Lukas Petersson and Axel Backlund join swyx and Vibhu to unpack the strange, funny, and genuinely concerning edge cases that emerge when agents run businesses over long horizons. We go deep on Vending-Bench , <a target=\"_blank\" href=\"https://www.anthropic.com"
-    },
-    {
-      "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "AI Vibe Check: Lab Wars, Why APIs Might Vanish &amp; Future Predictions",
-      "guid": "dbb5e4ba-4a75-4107-b2e2-3d2b7c90dd36",
-      "url": "https://unsupervised-learning.simplecast.com/episodes/ai-vibe-check-lab-wars-why-apis-might-vanish-future-predictions-sr_Mp2pR",
-      "publishedAt": "2026-06-12T12:51:00.000Z",
-      "description": "Six months after their last roundup, Jacob sits down with Ari Morcos (Datology AI CEO, former Meta AI researcher) and Rob Toews (Radical Ventures partner, Forbes AI columnist) to take stock of an AI landscape that has shifted dramatically: coding agents crossing the long-time-horizon threshold has turned engineers into managers of agents, near-frontier open weight AI looks like it may be disappearing as Meta and the Chinese labs pull back, and Anthropic's restrictions on its newly released Fable model have its biggest supporters questioning whether safety framing is masking competitive positioning. The conversation runs through the full state of the lab wars, including Rob doubling down on his Sam Altman ouster prediction and the Bret Taylor succession theory, why Google's structural advantages remain intact despite falling behind on coding, what xAI's Cursor acquisition is really for, and Ari's claim that compute constraints could push labs to suspend their APIs entirely. The back half digs into the physical bottlenecks underneath it all, from atom and x-ray lithography startups challenging ASML to H100 prices reversing their decline, before closing with predictions: recursive self-improvement is closer than it was six months ago but slower than the takeoff narratives suggest, robotics is nearing its GPT-3 moment, and Anthropic's next chapter may be life sciences. (0:00) Intro (1:40) Coding Agents Cross a Threshold (3:29) Is Open-Weight AI in Retreat? (7:37) Cost Crunch & Scaffolding (12:13) The \"Apps Are Cooked\" Debate (16:37) Sam Altman Under Scrutiny (19:44) Anthropic's Fable Backlash (23:24) How Big a Step Change Is Fable? (26:50) What's Going On at Google? (33:20) Could the APIs Go Away? (34:11) Breaking the Semiconductor Bottleneck (35:42) Beyond EUV: Atom & X-Ray Lithography (37:23) Implications of a Compute Shortage (40:20) Do Alt Chips Actually Help? (43:43) SpaceX, xAI & the Cursor Acquisition (48:50) How Close Are We to RSI? (52:21) Quickfire &nbsp; With your host:&nbsp;&nbsp; @jacobeffron&nbsp;&nbsp; - Managing Director at Redpoint"
-    },
-    {
-      "source": "podcast",
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "OpenAI's Dan Roberts: Why AI Can Now Make Discoveries",
-      "guid": "19ae4fac-acd5-40bf-b6a7-168292c2c275",
-      "url": "https://podcasters.spotify.com/pod/show/firstmark/episodes/OpenAIs-Dan-Roberts-Why-AI-Can-Now-Make-Discoveries-e3ka0se",
-      "publishedAt": "2026-06-04T12:30:00.000Z",
-      "description": "Are we witnessing the first real signs of AI becoming a scientist? In this episode of The MAD Podcast, Matt Turck sits down with Dan Roberts, lead of the Foundations of Reinforcement Learning team at OpenAI, to explore one of the biggest shifts happening in AI: the rise of reasoning models, test-time compute, and reinforcement learning as engines of scientific discovery. Dan brings a rare perspective - from theoretical physics, black holes, quantum information, and deep learning theory - to explain how models are learning to “think,” why language may be such a powerful foundation for intelligence, what recent AI math breakthroughs really mean, and whether we are beginning to see AI systems that can contribute to science itself. (00:00) Intro: AI's wild week in mathematics (01:21) What OpenAI's Foundations of RL team does (03:08) Dan's journey: from black holes and quantum gravity to frontier AI (07:04) Are AI systems becoming useful for real science? (08:21) The AI math moment: Erdős, OpenAI, DeepMind, and Anthropic (08:52) Why the OpenAI result was an act of exploration (10:25) OpenAI vs. DeepMind: informal reasoning vs. formal proof (12:13) RL 101: learning by doing, not just watching (15:10) Why reinforcement learning works (15:58) How RL breaks: sparse feedback and long-horizon tasks (17:03) RLHF: how human feedback shaped early language models (18:48) Move 37, self-play, and the search for novel strategies (22:16) Explore vs. exploit in scientific discovery (24:49) Why RL may now be \"the cake,\" not the cherry on top (25:46) Why RL started working with large language models (27:29) Is RL \"sucking supervision through a straw\"? (28:47) Why language may be the grounding layer for intelligence (31:46) A contrarian take on the Bitter Lesson (32:41) What test-time compute actually is (34:50) How RL gives models the ability to think (35:40) Verifiable rewards, math, coding, and the messy real world (38:00) What physics can teach us about AI (42:08) Is there a thermodynamics of AI? (43:08) From Erdős problems to Einstein-level AI (45:16) Is AI already doing original science? (45:51) How far are we from AI automating AI research? (47:41) Why Dan is excited about the future of science"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 3
+    "podcastEpisodes": 0
   }
 }
