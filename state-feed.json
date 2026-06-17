@@ -1,19 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "0fae4dc4-6456-11f1-9180-3f07b7c1bee8": 1781086304169,
-    "https://www.youtube.com/watch?v=msFxQ7OYPj8": 1781086309927,
-    "https://www.youtube.com/shorts/nW3VObYzcI8": 1781086310618,
-    "https://www.youtube.com/watch?v=ipCcKnvHHUM": 1781086311052,
-    "https://www.youtube.com/shorts/lNe9TbkY6Iw": 1781086311468,
-    "https://www.youtube.com/shorts/C_tJ6s_aDXo": 1781086311468,
-    "https://www.youtube.com/shorts/jWEfLjsAG5M": 1781086311953,
-    "https://www.youtube.com/shorts/C_iVl0hE6T0": 1781086311953,
-    "https://www.youtube.com/watch?v=IREnr4I89Ho": 1781086312257,
-    "https://www.youtube.com/shorts/jJcyDO_XAGg": 1781086312257,
-    "https://www.youtube.com/watch?v=H1bKw_b93d0": 1781086312690,
-    "https://www.youtube.com/shorts/f4e2Dr-51iA": 1781086313434,
-    "https://www.youtube.com/watch?v=nSlZZ7TxNM8": 1781086313434,
     "substack:post:200078058": 1781174757580,
     "c8ac5d90-6517-11f1-83d7-d3b49f07aa8f": 1781174758007,
     "245db97c-5de8-11f1-beb7-d7c1b176fe75": 1781174758007,
@@ -96,13 +83,24 @@
     "https://www.youtube.com/watch?v=78fzvH_e4ic": 1781608862840,
     "https://www.youtube.com/shorts/vnYwGLfow2c": 1781608862840,
     "https://www.youtube.com/shorts/WaN5X8_iGDc": 1781608863541,
-    "https://www.youtube.com/shorts/OFLdkNurde0": 1781608863541
+    "https://www.youtube.com/shorts/OFLdkNurde0": 1781608863541,
+    "https://www.youtube.com/watch?v=7AG3EMDvKT0": 1781694364986,
+    "https://www.youtube.com/shorts/g-MIUNhb9cY": 1781694365720,
+    "https://www.youtube.com/watch?v=GvApI61kvEk": 1781694366116,
+    "https://www.youtube.com/shorts/MNAC-dTRG_k": 1781694366500,
+    "https://www.youtube.com/shorts/Qwqo6_IO22Y": 1781694366500,
+    "https://www.youtube.com/shorts/3cIn4A1sw5I": 1781694366921,
+    "https://www.youtube.com/shorts/2fgDwJm-APk": 1781694366921,
+    "https://www.youtube.com/shorts/ko8lHuUKtCI": 1781694367344,
+    "https://www.youtube.com/shorts/AdqMwhdBB40": 1781694367763,
+    "https://www.youtube.com/shorts/6dA1qsxbVRo": 1781694367763
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1781259703019,
     "https://www.anthropic.com/engineering/april-23-postmortem": 1781259708516,
     "https://www.anthropic.com/engineering/managed-agents": 1781259714351,
     "https://claude.com/blog/claude-managed-agents-updates": 1781259715061,
-    "https://claude.com/blog/new-in-claude-managed-agents": 1781608859454
+    "https://claude.com/blog/new-in-claude-managed-agents": 1781608859454,
+    "https://claude.com/blog/claude-for-foundation-models": 1781694364313
   }
 }

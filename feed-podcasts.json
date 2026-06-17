@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-06-16T11:20:58.413Z",
+  "generatedAt": "2026-06-17T11:06:02.058Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "Simulating Humans at Scale: Simile's Joon Sung Park",
-      "guid": "e2c76d2e-68ea-11f1-b835-0fa4c8d306ac",
-      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-06-16T09:00:00.000Z",
-      "description": "The race to build superintelligence is producing models that keep getting better at objective problems, but not at behaving like actual people. Joon Sung Park, founder and CEO of Simile and creator of Stanford's \"Smallville\" generative agents study, argues that simulating human society requires a fundamentally different kind of model. He frames today's frontier models as the \"CPU of intelligence\"—rational, superhuman at problems with right answers—and Simile as creating the \"GPU of intelligence,\" built to encode the diversity of people's values, preferences, and tastes. It simulated 1,000 Americans and predicted their behavior 85% as accurately as people reproduce their own answers. CVS uses it for concept testing; some customers simulate their own earnings calls. Joon's larger bet: a \"CERN of human society\" that could one day model bank runs, climate cooperation, or the early signals of a collapsing democracy. Hosted by Sonya Huang, Sequoia Capital ]]>"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   }
 }
