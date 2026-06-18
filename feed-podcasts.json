@@ -1,8 +1,45 @@
 {
-  "generatedAt": "2026-06-17T11:06:02.058Z",
+  "generatedAt": "2026-06-18T10:37:52.123Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
+      "guid": "substack:post:202058620",
+      "url": "https://www.latent.space/p/radical-ai",
+      "publishedAt": "2026-06-17T17:58:06.000Z",
+      "description": "On the Science pod, we’ve been covering a lot of the ground on how AI is revolutionizing STEM, but one of our favorite off the record topics since our launch is which field is harder to accelerate: math , bio , or physics ? Today we’re back in Materials Science land with Radical — Unlike biological molecules that can be represented (and predicted!) by token strings, the success of materials involve many more macro complex variables like supply chains, microstructures, and manufacturing processes . If you recall the LK99 drama of 2023 , while the basic ingredients were known, part of the confusion came from the lack of disclosure around manufacturing, and therefore defeated reproducibility. There is probably no \"one-shot\" model capable of designing a material that works perfectly at scale. How Radical is accelerating materials discovery >10x the pace of DARPA/GE MACH Joseph Krause is a materials scientist through and through. And after spending his career watching industries stall out waiting for better materials, he founded Radical AI to do something about it. We recently sat down with Joseph to talk about Radical AI , materials discovery, self-driving labs, and the future of AI science. Joseph did not sugar coat anything: accelerating the materials discovery pipeline is a hard problem. But it’s one that he strongly believes we need to invest in, for the future of consumer products, aerospace, computing, and defense, and get them into every day use: “We count it as a discovery when you pick up your phone and there’s a new material sitting inside of it.” How does Joseph plan on accelerating the rate of discovery? To understand this, it’s important to understand why this is such a hard problem in the first place. The first thing to keep in mind is that the material that is manufactured is far more than a chemical formula going into it. The process of mixing, annealing, growing, or generating the final material can result in wildly different outcomes. The entire materials discovery process, both from early discovery to large scale manufacturing, needs to be understood and characterized. The Self-Driving Lab This philosophy has grown into a key insight at Radical AI: The construction of the self-driving lab. This lab is one that is not just automated, b"
+    },
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "LIVE: Jensen Huang on Building the Dynamo of the Intelligence Age",
+      "guid": "0fae4dc4-6456-11f1-9180-3f07b7c1bee8",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-06-10T09:00:00.000Z",
+      "description": "Jensen Huang, founder and CEO of NVIDIA, makes the case that computing is undergoing its biggest shift in 60 years: from retrieval, where data centers store files we look up, to generation, where every word, image, and video is produced in real time and customized for whoever is asking. He explains why NVIDIA's AI factories are the dynamos of this era: machines that take in electrons and send out tokens of intelligence, just as Siemens' dynamo once turned motion into electricity. Jensen frames intelligence as the third force to \"cocoon\" the planet after electricity and the internet. He describes the five-layer cake of AI investment—energy, chips, infrastructure, models, applications—and dismantles the fear that AI will erase jobs, using radiology and software engineering to show how automation raised labor demand instead of killing it. His bottom line: you won't lose your job to AI, but you might lose it to someone who uses AI. Hosted by Konstantine Buhler, Sequoia Capital ]]>"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan",
+      "guid": "a66948ce-6ab7-11f1-8901-5f20f0cddb6d",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-06-18T10:00:00.000Z",
+      "description": "At 66 years old, instead of heading towards retirement, former Cadence CEO and legendary investor Lip Bu Tan decided to take on the hardest job in tech: turning Intel around. Elad Gil and Sarah Guo sit down with Intel CEO Lip Bu Tan to talk about why he took the job and what “saving” Intel actually looks like. Tan explains how his experience in startup culture informed his decisions to drive Intel’s culture towards faster decisions, focus on customer satisfaction, and engineer accountability. He also discusses his strategy to strengthen Intel’s balance sheet by welcoming investments from Jensen Huang’s Nvidia, Softbank, and the US government. Tan also shares his product roadmap that centers the CPU for agentic AI and inference, the collaboration with Elon Musk on Terafab, his investing framework for semiconductors, and his views on how AI is reshaping design and operations at, as he puts it, a ‘legacy spreadsheet’ tech company. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @LipBuTan1 | @intel Chapters: 00:00 – Cold Open 01:01 – Lip Bu Tan Introduction 01:24 – Why Lip Bu Took the Reins at Intel 03:00 – Fixing Culture 04:08 – Intel’s 10-Year Vision 07:57 – Working with Elon Musk on Terafab 09:59 – Shifting Supply Chain for Semiconductors 15:34 – Limits to Scaling and Packaging 18:30 – Physical Limits to Engineering and Design 20:33 – Challenges in Semiconductor Investing 26:29 – Lessons from Cadence 28:02 – Scaling and Investment Decisions 32:03 – Rethinking Teams in AI Era 34:31 – Industrial Policy and Funding 37:25 – What Investors Misunderstand About Intel 41:10 – Where Compute Will Live 44:59 – Conclusion ]]>"
+    },
+    {
+      "source": "podcast",
+      "name": "AI & I by Every",
+      "title": "GitHub’s COO Explains Why AI Hasn’t Replaced Developers",
+      "guid": "a7d1fb70-81db-44be-92b8-e46db37a1532",
+      "url": "https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/GitHubs-COO-Explains-Why-AI-Hasnt-Replaced-Developers-e3ktu6s",
+      "publishedAt": "2026-06-17T15:58:16.000Z",
+      "description": "Last year, there were 1 billion commits on GitHub. This year, Kyle Daigle expects that number to exceed 14 billion, a two-component explosion caused by more humans—and their agents—issuing pull requests. In March alone, 17 million pull requests on GitHub were created by agents. Daigle is the COO of GitHub and Microsoft’s chief marketing officer for developer products. He’s been at GitHub for 13 years, and is paying close attention to how AI is expanding the platform’s user base. Along with agents, legal, sales, and marketing professionals are building apps with the GitHub Copilot app. The line between developer and non-developer is disappearing. On this episode of AI &amp; I, guest host Mike Taylor sat down with Daigle at Microsoft Build to discuss how GitHub is building infrastructure for an agent-native world: agentic code review, model routers that automatically select the right model for the task, and a philosophy that the most durable advantage in this market is developer choice. If you found this episode interesting, please like, subscribe, comment, and share! Want even more? To hear more from Mike Taylor: Subscribe to Every: https://every.to/subscribe Follow him on X: https://x.com/hammer_mt Timestamps for YouTube: 00:00:52: Introduction 00:03:27: The agentic PR flood 00:04:33: GitHub&#39;s approach to helping open-source maintainers manage the surge 00:06:15: What 14 billion commits means for code quality 00:08:03: Moving from per-seat licensing to usage-based pricing 00:09:45: Kyle&#39;s dual role as GitHub COO and Microsoft&#39;s chief marketing officer for developers 00:13:03: Developer choice as competitive moat 00:14:57: How to balance dogfooding your own tools with staying honest about the competition 00:19:45: Hill climbing, frontier tuning, and solving the model-routing problem 00:24:45: Kyle&#39;s agentic communication hack Links to resources mentioned in the episode: Kyle Daigle on X: https://x.com/kdaigle Mike Taylor on Every: https://every.to/@mike_2114 Mike’s piece on building an AI version of Kyle Daigle: https://every.to/also-true-for-humans/i-interviewed-an-ai-version-of-github-s-coo-then-spoke-to-the-real-one GitHub Copilot: https://github.com/features/copilot"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 4
   }
 }
