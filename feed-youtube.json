@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T09:26:17.530Z",
+  "generatedAt": "2026-06-21T09:56:44.797Z",
   "lookbackHours": 48,
   "youtube": [
     {
@@ -8,29 +8,42 @@
       "channelId": "UC11aHtNnc5bEPLI4jf6mnYg",
       "videos": [
         {
-          "title": "Dante Livestream #6 (Sunday, June 21 10AM)",
-          "url": "https://www.youtube.com/watch?v=0y_GezhRJr0",
-          "publishedAt": "2026-06-20T07:15:02+00:00",
+          "title": "Dante Livestream #7 (Monday, June 22 10AM)",
+          "url": "https://www.youtube.com/watch?v=Qod_GuAmObc",
+          "publishedAt": "2026-06-21T07:03:19+00:00",
+          "description": ""
+        },
+        {
+          "title": "Dante #5",
+          "url": "https://www.youtube.com/watch?v=xPxEi5Zm0G4",
+          "publishedAt": "2026-06-20T11:08:16+00:00",
           "description": ""
         }
       ]
     },
     {
       "source": "youtube",
-      "name": "Jay Shetty Podcast",
-      "channelId": "UCbk_QsfaFZG6PdQeCvaYXJQ",
+      "name": "Ali Abdaal",
+      "channelId": "UCoOae5nYA7VqaXzerajD0lg",
       "videos": [
         {
-          "title": "Do it anyway... #jayshetty #shorts",
-          "url": "https://www.youtube.com/shorts/tOVPh_6DBDo",
-          "publishedAt": "2026-06-19T15:00:24+00:00",
-          "description": "Episode Resources:\n\nhttps://www.instagram.com/jayshetty\nhttps://www.facebook.com/jayshetty/\nhttps://x.com/jayshetty\nhttps://www.linkedin.com/in/shettyjay/\nhttps://www.youtube.com/@JayShettyPodcast\nhttp://jayshetty.me"
-        },
+          "title": "How to Trick Your Brain Into Spending Less",
+          "url": "https://www.youtube.com/shorts/kV2HSEUypzM",
+          "publishedAt": "2026-06-20T10:00:17+00:00",
+          "description": "Learn how to be financially free (free workshop): https://go.lifestylebusiness.com/yts260620"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "FearNation 世界苦茶",
+      "channelId": "UCLKsaKMS_5RQuM0wHLp2vVg",
+      "videos": [
         {
-          "title": "5 Things I Did To Stop Wasting My Evenings After Work",
-          "url": "https://www.youtube.com/watch?v=-yy3aBtYd2c",
-          "publishedAt": "2026-06-19T13:00:10+00:00",
-          "description": "We often tell ourselves that we’ll start pursuing our goals when we have more time, more energy, or more motivation. But the truth is that lasting change is usually built in the small pockets of time we already have. In this episode, Jay explores how the hours after work can directly shape our lives, revealing why so many people feel stuck despite having big dreams for themselves.\n\nThrough practical insights and personal stories, Jay shares how to break free from autopilot routines, overcome decision fatigue, and create evenings that leave you feeling fulfilled rather than depleted. He reminds us that success is rarely the result of one dramatic decision, but of consistent choices that align with the person we want to become. The life you imagine for yourself may be closer than you think, it starts with how you spend today.\n\nIn this episode, you'll learn:\nHow to Reclaim Your Evenings\nHow to Break the After-Work Autopilot\nHow to Batch Tasks and Save Time\nHow to Build Energy Instead of Draining It\nHow to Turn Small Actions Into Big Results\nHow to Use Your 5-to-9 to Change Your Life\n\nYou don't need a perfect plan, endless motivation, or extra hours in the day to start moving your life forward. Real change is often built through small decisions made consistently, especially on the ordinary days when no one is watching.\n\nWith Love and Gratitude,\nJay Shetty\n\nJAY’S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\nJoin 900,000+ readers discovering how small daily shifts create big life change with my free newsletter. Subscribe here: https://news.jayshetty.me/subscribe \n\nCheck out our Apple subscription to unlock bonus content of On Purpose! https://lnk.to/JayShettyPodcast \n\nWhat We Discuss:\n00:00 Intro\n01:19 Spending Your 5-9 Wrong\n04:12 Shift #1: Change Your First Habit After Work\n06:31 Shift #2: Batch Small Tasks to Avoid Getting Overwhelmed\n07:48 Shift #3: Stop Waiting to Feel Good Before Taking Action \n10:55 Shift #4: Give Yourself One Meaningful Goal Each Night\n12:48 Shift #5: Build Evenings That Help Regain Your Energy\n15:49 Make the Right Choices to Spend Your Evenings Right\n20:49 Positively Impact Your Future Years\n23:04 Work for the Things You Care About\n\nEpisode Resources:\n\nhttps://www.instagram.com/jayshetty\nhttps://www.facebook.com/jayshetty/\nhttps://x.com/jayshetty\nhttps://www.linkedin.com/in/shettyjay/\nhttps://www.youtube.com/@JayShettyPodcast\nhttp://jayshetty.me"
+          "title": "E246 互动部分: 习近平为什么死活不肯提振内需? / AI 和基建能不能接住中国经济 / 外贸崩了对中国到底是好是坏 / 体制内会不会再来一次大下岗",
+          "url": "https://www.youtube.com/watch?v=f7uB6ja6Gr0",
+          "publishedAt": "2026-06-20T12:00:05+00:00",
+          "description": "00:00 - 出海逻辑与「什么在勉强接住中国经济」：AI、基建、转移支付与地方债\n08:59 - 习近平为什么不救经济：从经济光明论到数据急跌的决策弧线\n17:40 - 外贸崩了是好是坏、分配缺位与人口的时间窗（兼与日本泡沫对比）\n32:24 - 不肯提振内需的权力逻辑、一带一路与「这套模式能不能维持」\n54:44 - 东南亚车厂政治（吉利/宝腾）与李光耀对中国的判断\n1:09:07 - 体制内会不会再大下岗、出口退税该不该取消、习近平的「既要又要」\n\n[ 欢迎在Patreon支持世界苦茶 ]\nPatreon：https://www.patreon.com/flipradio\n\n[ FR_FN全部服務 ]\nhttps://linktr.ee/fr_fn\n\nA：书籍\n-书籍：在Z-lib搜索“李厚辰”\n或者：请复制链接到浏览器打开：https://we.tl/t-wocLFJjafF\n\nB 视频：\nB1：YTB搜索“世界苦茶”\nB2：YTB搜索“三个水枪手”\n\nC 透明茶室\n「透明茶室」，是周一、四晚上的新闻评论节目，每期40分钟左右，涉及世界苦茶中一条新闻的话题。\n直播：上海时间8PM在Youtube頻道\n\nD 播客：\n在小宇宙、Apple Podcast、Youtube Music、Spotify等平台搜索“翻转电台”\n-翻电RSS：https://anchor.fm/s/141e652c/podcast/rss\n\nE 文本：\n-世界苦茶Newsletter：http://fearnation.club\n看理想专栏：https://shorturl.at/hWluS\n青年志专栏：https://shorturl.at/yea9Q\n歪脑专栏：https://www.wainao.me/wainao-reads/columns/prosperous-but-dusty/\n-文本文章集合Pub：https://flipradio.club/\n-X：https://x.com/Ansel_Flipradio\n\nF 其他：\n-活跃社区DISCORD：https://discord.gg/aQb8bgd5SK\n-Instagram: bitteradio\n\n© FlipRadio_FearNation Copyright 2026\n要记得敢于去相信，也敢于分享你的相信。"
         }
       ]
     },
@@ -40,16 +53,16 @@
       "channelId": "UCIaH-gZIVC432YRjNVvnyCA",
       "videos": [
         {
-          "title": "Why Leaving The Military Is So Hard",
-          "url": "https://www.youtube.com/shorts/O8AcnnSIwVU",
-          "publishedAt": "2026-06-20T02:34:17+00:00",
-          "description": "Watch the full episode here - https://youtu.be/4rHHpI5XSow?si=4rsX1iWzvnfcODt-\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
+          "title": "Why Was Sigmund Freud So Weird?",
+          "url": "https://www.youtube.com/shorts/NqDyDfx2pR8",
+          "publishedAt": "2026-06-20T23:00:35+00:00",
+          "description": "Watch the full episode here - https://youtu.be/Nn1ezadJrxo?si=4Jr14Ianxall2egS\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
         },
         {
-          "title": "British Or American Shadow Force?",
-          "url": "https://www.youtube.com/shorts/4rag_b0twjw",
-          "publishedAt": "2026-06-19T20:30:37+00:00",
-          "description": "Get access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
+          "title": "What Most People Get Wrong About Navy SEALs",
+          "url": "https://www.youtube.com/shorts/NO9aRPL0WoY",
+          "publishedAt": "2026-06-20T19:00:01+00:00",
+          "description": "Watch the full episode here - https://youtu.be/4rHHpI5XSow?si=4rsX1iWzvnfcODt-\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
         }
       ]
     },
@@ -59,10 +72,10 @@
       "channelId": "UCRYY7IEbkHLH_ScJCu9eWDQ",
       "videos": [
         {
-          "title": "Stop Prompting. Start Looping.",
-          "url": "https://www.youtube.com/shorts/yJPXFBSmZp0",
-          "publishedAt": "2026-06-19T13:00:33+00:00",
-          "description": "The reason &quot;loops&quot; sound intimidating is that the hype cycle turned a basic automation concept into something mystical. Heartbeats, crons, and webhooks have been around forever."
+          "title": "My Loop System That Replaced 40 PRs of Manual Babysitting",
+          "url": "https://www.youtube.com/shorts/z7yPBgWnTsI",
+          "publishedAt": "2026-06-20T11:00:09+00:00",
+          "description": "If the success criteria is vague or the validation threshold is too thin, the agent will keep running and keep charging without meaningful progress."
         }
       ]
     },
@@ -72,10 +85,23 @@
       "channelId": "UC0TnW9acNxqeojxXDMbohcA",
       "videos": [
         {
-          "title": "6 Tactics Narcissists Use to Pull You Back In",
-          "url": "https://www.youtube.com/shorts/4fiCuUHQwa0",
-          "publishedAt": "2026-06-19T22:59:16+00:00",
-          "description": "For six months, your needs were unreasonable. The moment you leave, you're suddenly the most important person they've ever met."
+          "title": "10 Years of Dating Advice in 1 Minute",
+          "url": "https://www.youtube.com/shorts/KeWuhqOB6XU",
+          "publishedAt": "2026-06-20T17:17:41+00:00",
+          "description": "The relationship felt perfect. The chemistry was incredible. The red flags were visible from space. Amazing what the human brain can ignore when it's lonely."
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "立党 lidang",
+      "channelId": "UC4gzU_8MxRDiQrSFOiT79tQ",
+      "videos": [
+        {
+          "title": "立党直播023  哈工大院士班6年本硕博直接毕业 臭骂高考学生和家长",
+          "url": "https://www.youtube.com/watch?v=hOOkm5pTviY",
+          "publishedAt": "2026-06-20T19:38:27+00:00",
+          "description": ""
         }
       ]
     },
@@ -85,23 +111,23 @@
       "channelId": "UC5fI3kxC-ewZ6ZXEYgznM7g",
       "videos": [
         {
-          "title": "He dropped out of school to start a company",
-          "url": "https://www.youtube.com/shorts/NZh7IJUAZzs",
-          "publishedAt": "2026-06-19T20:36:17+00:00",
+          "title": "The Most Expensive Sentence In Business",
+          "url": "https://www.youtube.com/shorts/G8VPhRkxW38",
+          "publishedAt": "2026-06-20T22:00:08+00:00",
           "description": ""
         },
         {
-          "title": "When God Gives You A Business Idea, He Isn't Looking At Your Bank Account",
-          "url": "https://www.youtube.com/shorts/VHS6V7vrXfQ",
-          "publishedAt": "2026-06-19T15:42:28+00:00",
+          "title": "Don't Have All Of The Answers",
+          "url": "https://www.youtube.com/shorts/8vy4ufCIVj8",
+          "publishedAt": "2026-06-20T19:00:34+00:00",
           "description": ""
         }
       ]
     }
   ],
   "stats": {
-    "youtubeChannels": 6,
-    "totalVideos": 9
+    "youtubeChannels": 8,
+    "totalVideos": 11
   },
   "errors": [
     "YouTube: Failed to fetch Mel Robbins: HTTP 404",
