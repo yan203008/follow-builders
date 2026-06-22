@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-06-21T09:56:40.630Z",
+  "generatedAt": "2026-06-22T12:13:31.719Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "AI Vibe Check: Lab Wars, Why APIs Might Vanish &amp; Future Predictions",
-      "guid": "dbb5e4ba-4a75-4107-b2e2-3d2b7c90dd36",
-      "url": "https://unsupervised-learning.simplecast.com/episodes/ai-vibe-check-lab-wars-why-apis-might-vanish-future-predictions-sr_Mp2pR",
-      "publishedAt": "2026-06-12T12:51:00.000Z",
-      "description": "Six months after their last roundup, Jacob sits down with Ari Morcos (Datology AI CEO, former Meta AI researcher) and Rob Toews (Radical Ventures partner, Forbes AI columnist) to take stock of an AI landscape that has shifted dramatically: coding agents crossing the long-time-horizon threshold has turned engineers into managers of agents, near-frontier open weight AI looks like it may be disappearing as Meta and the Chinese labs pull back, and Anthropic's restrictions on its newly released Fable model have its biggest supporters questioning whether safety framing is masking competitive positioning. The conversation runs through the full state of the lab wars, including Rob doubling down on his Sam Altman ouster prediction and the Bret Taylor succession theory, why Google's structural advantages remain intact despite falling behind on coding, what xAI's Cursor acquisition is really for, and Ari's claim that compute constraints could push labs to suspend their APIs entirely. The back half digs into the physical bottlenecks underneath it all, from atom and x-ray lithography startups challenging ASML to H100 prices reversing their decline, before closing with predictions: recursive self-improvement is closer than it was six months ago but slower than the takeoff narratives suggest, robotics is nearing its GPT-3 moment, and Anthropic's next chapter may be life sciences. (0:00) Intro (1:40) Coding Agents Cross a Threshold (3:29) Is Open-Weight AI in Retreat? (7:37) Cost Crunch & Scaffolding (12:13) The \"Apps Are Cooked\" Debate (16:37) Sam Altman Under Scrutiny (19:44) Anthropic's Fable Backlash (23:24) How Big a Step Change Is Fable? (26:50) What's Going On at Google? (33:20) Could the APIs Go Away? (34:11) Breaking the Semiconductor Bottleneck (35:42) Beyond EUV: Atom & X-Ray Lithography (37:23) Implications of a Compute Shortage (40:20) Do Alt Chips Actually Help? (43:43) SpaceX, xAI & the Cursor Acquisition (48:50) How Close Are We to RSI? (52:21) Quickfire &nbsp; With your host:&nbsp;&nbsp; @jacobeffron&nbsp;&nbsp; - Managing Director at Redpoint"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   }
 }
