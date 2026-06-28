@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-27T08:42:27.177Z",
+  "generatedAt": "2026-06-28T09:18:00.738Z",
   "lookbackHours": 48,
   "youtube": [
     {
       "source": "youtube",
-      "name": "Predictive History",
-      "channelId": "UC11aHtNnc5bEPLI4jf6mnYg",
+      "name": "Tina Huang",
+      "channelId": "UC2UXDak6o7rBm23k3Vv5dww",
       "videos": [
         {
-          "title": "Dante #11: Purgatory Cantos 15-25",
-          "url": "https://www.youtube.com/watch?v=oR3EOW52WCc",
-          "publishedAt": "2026-06-26T13:09:18+00:00",
-          "description": ""
+          "title": "3 OpenClaw Setup That Will 10x Your Output",
+          "url": "https://www.youtube.com/shorts/tB_i4nTShxA",
+          "publishedAt": "2026-06-27T15:00:23+00:00",
+          "description": "Three OpenClaw setups that will change how much you can get done, and I'll drop the exact prompts so you can set these up yourself.\n\nQuick reminder before anything, only do this if you understand how permissions and security work. OpenClaw is powerful, and you want to know what you're handing it access to. \n\nFirst — Custom Mission Control. This is your home base. Instead of OpenClaw being a general-purpose agent, you set it up with a specific mission - your goals, your priorities, your workflows, your preferences. Think of it like onboarding a new team member, except you write the onboarding doc yourself. The more specific you are about how you work and what matters, the more useful every single interaction becomes. This one setup changes everything downstream.\n\nSecond — Discord Setup. You connect OpenClaw to your Discord, and it becomes an active participant in your server, monitoring channels, flagging things that need your attention, and executing tasks based on what's happening in real time. If your team lives in Discord, this turns OpenClaw from a tool you go to into something that's already in the room with you.\n\nThird — Multi-Agent Framework. Instead of one agent doing everything, you set up multiple specialized agents that each handle a specific type of task - one for research, one for file management, one for communications and they work in parallel. The output you can get from a well-structured multi-agent setup is genuinely hard to believe until you see it running.\n\nAll three of these prompts are linked in the video description, grab them and try it yourself.\n\nWhich setup are you starting with? Drop it in the comments 👇"
         }
       ]
     },
@@ -21,10 +21,23 @@
       "channelId": "UCoOae5nYA7VqaXzerajD0lg",
       "videos": [
         {
-          "title": "The biggest myth in sales",
-          "url": "https://www.youtube.com/shorts/Pb7Q1cUZfmc",
-          "publishedAt": "2026-06-26T10:00:32+00:00",
-          "description": "Learn how to be financially free (free workshop): https://go.lifestylebusiness.com/yts260626"
+          "title": "The biggest myth in money &amp; business",
+          "url": "https://www.youtube.com/shorts/9_mA8B9NlSI",
+          "publishedAt": "2026-06-27T10:00:03+00:00",
+          "description": "Learn how to be financially free (free workshop): https://go.lifestylebusiness.com/yts260627"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "FearNation 世界苦茶",
+      "channelId": "UCLKsaKMS_5RQuM0wHLp2vVg",
+      "videos": [
+        {
+          "title": "E248 互动部分：四个月停摆会击穿县城中产吗？／习近平为什么非连任不可？／雅江水电站为何突然成了禁词？／&quot;正确政绩观&quot;是甩锅术还是党内换届工程？",
+          "url": "https://www.youtube.com/watch?v=QTdYDx8BaJE",
+          "publishedAt": "2026-06-28T01:00:35+00:00",
+          "description": "00:00 - 四个月停摆与&quot;正确政绩观&quot;：政府投资骤降的冲击波\n09:41 - 习近平为何连任：红二代、家天下与&quot;西朝鲜&quot;为何不可能\n18:44 - 摊派式税收、远洋捕捞与算不清的真实失业率\n24:29 - 电力装备里的怪事：雅江禁言、国企垄断与逆全球化\n31:28 - 基建熄火是结构性的：农民工返乡、房价与中产的麻木\n38:55 - &quot;正确政绩观&quot;大辩论：甩锅术还是党内换届工程？（兼谈体制内信仰与伊朗对比收尾）\n\n[ 欢迎在Patreon支持世界苦茶 ]\nPatreon：https://www.patreon.com/flipradio\n\n[ FR_FN全部服務 ]\nhttps://linktr.ee/fr_fn\n\nA：书籍\n-书籍：在Z-lib搜索“李厚辰”\n或者：请复制链接到浏览器打开：https://we.tl/t-wocLFJjafF\n\nB 视频：\nB1：YTB搜索“世界苦茶”\nB2：YTB搜索“三个水枪手”\n\nC 透明茶室\n「透明茶室」，是周一、四晚上的新闻评论节目，每期40分钟左右，涉及世界苦茶中一条新闻的话题。\n直播：上海时间8PM在Youtube頻道\n\nD 播客：\n在小宇宙、Apple Podcast、Youtube Music、Spotify等平台搜索“翻转电台”\n-翻电RSS：https://anchor.fm/s/141e652c/podcast/rss\n\nE 文本：\n-世界苦茶Newsletter：http://fearnation.club\n看理想专栏：https://shorturl.at/hWluS\n青年志专栏：https://shorturl.at/yea9Q\n歪脑专栏：https://www.wainao.me/wainao-reads/columns/prosperous-but-dusty/\n-文本文章集合Pub：https://flipradio.club/\n-X：https://x.com/Ansel_Flipradio\n\nF 其他：\n-活跃社区DISCORD：https://discord.gg/aQb8bgd5SK\n-Instagram: bitteradio\n\n© FlipRadio_FearNation Copyright 2026\n要记得敢于去相信，也敢于分享你的相信。"
         }
       ]
     },
@@ -34,16 +47,10 @@
       "channelId": "UCbk_QsfaFZG6PdQeCvaYXJQ",
       "videos": [
         {
-          "title": "The biggest mistaje we make after a breakup #jayshetty #shorts",
-          "url": "https://www.youtube.com/shorts/pdD1qocpAls",
-          "publishedAt": "2026-06-26T19:00:28+00:00",
-          "description": "Episode Resources:\n\nhttps://www.instagram.com/jayshetty\nhttps://www.facebook.com/jayshetty/\nhttps://x.com/jayshetty\nhttps://www.linkedin.com/in/shettyjay/\nhttps://www.youtube.com/@JayShettyPodcast\nhttp://jayshetty.me"
-        },
-        {
-          "title": "When they show you their true colors... #jayshetty #shorts",
-          "url": "https://www.youtube.com/shorts/waAX_Gke2Zg",
-          "publishedAt": "2026-06-26T15:00:22+00:00",
-          "description": "Episode Resources:\n\nhttps://www.instagram.com/jayshetty\nhttps://www.facebook.com/jayshetty/\nhttps://x.com/jayshetty\nhttps://www.linkedin.com/in/shettyjay/\nhttps://www.youtube.com/@JayShettyPodcast\nhttp://jayshetty.me"
+          "title": "Give Me 30 Minutes and You Will Have Closure You Need",
+          "url": "https://www.youtube.com/watch?v=iSS9XP-UnRA",
+          "publishedAt": "2026-06-26T13:00:20+00:00",
+          "description": "Some endings hurt because they leave us with unanswered questions. After a breakup, it’s natural to search for reasons, replay memories, and hope for one final conversation that will make everything make sense. In this episode, Jay explores why closure is often misunderstood and how the answers we seek from someone else rarely bring the peace we’re hoping for. True healing begins when we stop waiting for another person to explain our pain and start turning inward instead.\n\nJay shares a powerful perspective on heartbreak: closure is not something we receive, it’s something we create. Through acceptance, self-reflection, and intentional healing, we can transform loss into growth. Rather than centering our lives around what ended, we learn to rebuild around who we are becoming. The goal isn’t to erase the past, it’s to emerge from it with greater self-awareness, stronger boundaries, and a deeper trust in ourselves.\n\nIn this episode you'll learn:\nHow to Heal Through No Contact\nHow to Rebuild Yourself After Heartbreak\nHow to Separate Facts From Feelings\nHow to Stop Romanticizing Your Ex\nHow to Turn Heartbreak Into Growth\nHow to Measure Healing the Right Way\n\nHeartbreak has a way of convincing us that healing is somewhere in the future, waiting behind the perfect explanation, apology, or final conversation. But growth often begins the moment we stop chasing what we cannot control and start caring for what we can.\n\nWith Love and Gratitude,\nJay Shetty\n\nJAY’S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\nJoin 900,000+ readers discovering how small daily shifts create big life change with my free newsletter. Subscribe here: https://news.jayshetty.me/subscribe \n\nCheck out our Apple subscription to unlock bonus content of On Purpose! https://lnk.to/JayShettyPodcast \n\nWhat We Discuss:\n00:00 Intro\n01:46 Why More Answers Create More Questions\n05:52 The Power of No Contact After a Breakup\n08:44 Why Real Closure Comes From Within\n15:17 The Best Way to Find Closure\n18:45 The Biggest Mistake People Make After a Breakup\n20:55 It's Okay to Hold Contradictory Feelings\n23:56 Measure Healing in a New Way \n\nEpisode Resources:\n\nhttps://www.instagram.com/jayshetty\nhttps://www.facebook.com/jayshetty/\nhttps://x.com/jayshetty\nhttps://www.linkedin.com/in/shettyjay/\nhttps://www.youtube.com/@JayShettyPodcast\nhttp://jayshetty.me"
         }
       ]
     },
@@ -53,16 +60,16 @@
       "channelId": "UCIaH-gZIVC432YRjNVvnyCA",
       "videos": [
         {
-          "title": "Is AI Making Us Worse Thinkers?",
-          "url": "https://www.youtube.com/shorts/VcUz77-lVOQ",
-          "publishedAt": "2026-06-27T00:13:52+00:00",
-          "description": "Watch the full episode here - https://youtu.be/Qefc9vNyxHU?si=RFyMdCoIjO1_D_s2\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
+          "title": "Why Was Sigmund Freud So Weird?",
+          "url": "https://www.youtube.com/shorts/QOZSUip_8nM",
+          "publishedAt": "2026-06-27T23:00:27+00:00",
+          "description": "Watch the full episode here - https://youtu.be/kCRGasHlPP8?si=x5xwYaxOOdb0f7oW\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
         },
         {
-          "title": "What Happens When Kids Grow Up With AI Friends?",
-          "url": "https://www.youtube.com/shorts/qwNNiym3djs",
-          "publishedAt": "2026-06-26T19:39:08+00:00",
-          "description": "Watch the full episode here - https://youtu.be/Qefc9vNyxHU?si=RFyMdCoIjO1_D_s2\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
+          "title": "What Most People Get Wrong About Navy SEALs",
+          "url": "https://www.youtube.com/shorts/IU5qkAMefJA",
+          "publishedAt": "2026-06-27T19:00:39+00:00",
+          "description": "Watch the full episode here - https://youtu.be/4rHHpI5XSow?si=DxbibTwV2T5QS9hw\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
         }
       ]
     },
@@ -72,10 +79,10 @@
       "channelId": "UCRYY7IEbkHLH_ScJCu9eWDQ",
       "videos": [
         {
-          "title": "GLM 5.2 on design tasks",
-          "url": "https://www.youtube.com/shorts/GAb0aSUst54",
-          "publishedAt": "2026-06-26T13:45:15+00:00",
-          "description": "It has real design taste, which is rarer than you'd expect. For design work anchored to an existing design system or a design doc, GLM 5.2 is worth putting in the rotation."
+          "title": "GLM 5.2 on long-running autonomous tasks",
+          "url": "https://www.youtube.com/shorts/xmlyiCexm-g",
+          "publishedAt": "2026-06-27T13:30:11+00:00",
+          "description": "Running for 45 minutes against real Sentry errors and Vercel logs, it correctly queried both sources, asked me to re-auth when needed, and produced a prioritized dark-mode bug-fix dashboard I'm actually going to ship from. The catch: it had sustained trouble writing React and TypeScript before self-correcting."
         }
       ]
     },
@@ -85,10 +92,10 @@
       "channelId": "UC0TnW9acNxqeojxXDMbohcA",
       "videos": [
         {
-          "title": "Why You Don't Do What You Know You Should",
-          "url": "https://www.youtube.com/shorts/3jlZMySg5xw",
-          "publishedAt": "2026-06-26T13:00:18+00:00",
-          "description": "But knowing isn’t the issue. The gap between intention and action is almost always emotional, not intellectual.\n\nWatch the full episode to find out which one is keeping you stuck: https://open.spotify.com/episode/6vgdtETFrsxnazLmJaobAE?si=k3i3ll9JQlmxHnmbexBWlA\n\n#PersonalGrowth #SelfImprovement #Solved #Shorts"
+          "title": "The Biggest Reason People Fail to Change",
+          "url": "https://www.youtube.com/shorts/bu30b_kSgCE",
+          "publishedAt": "2026-06-27T13:00:20+00:00",
+          "description": "Feelings don’t just influence behavior—they drive it. What we do is usually decided by what we’re willing to feel in the moment, not what we logically agree with later.\n\n\nWatch the full episode to find out which one is keeping you stuck: https://open.spotify.com/episode/6vgdtETFrsxnazLmJaobAE?si=k3i3ll9JQlmxHnmbexBWlA\n\n#PersonalGrowth #SelfImprovement #Solved #Shorts"
         }
       ]
     },
@@ -98,9 +105,9 @@
       "channelId": "UC4gzU_8MxRDiQrSFOiT79tQ",
       "videos": [
         {
-          "title": "立党直播027 高考填报志愿 大结局",
-          "url": "https://www.youtube.com/watch?v=1K_O8-RyZ_c",
-          "publishedAt": "2026-06-27T02:07:11+00:00",
+          "title": "立党直播028 臭骂高考生和家长整整7个小时",
+          "url": "https://www.youtube.com/watch?v=T-eIvAPXB3M",
+          "publishedAt": "2026-06-27T20:06:26+00:00",
           "description": ""
         }
       ]
@@ -111,16 +118,16 @@
       "channelId": "UC5fI3kxC-ewZ6ZXEYgznM7g",
       "videos": [
         {
-          "title": "The Hidden Opportunity Behind The World Cup",
-          "url": "https://www.youtube.com/shorts/KsU5RQDVq38",
-          "publishedAt": "2026-06-26T17:37:40+00:00",
+          "title": "7 phrases that quietly end every money conversation in your marriage.",
+          "url": "https://www.youtube.com/shorts/ITLXwrGBGoo",
+          "publishedAt": "2026-06-27T17:00:26+00:00",
           "description": ""
         }
       ]
     }
   ],
   "stats": {
-    "youtubeChannels": 8,
+    "youtubeChannels": 9,
     "totalVideos": 10
   },
   "errors": [
