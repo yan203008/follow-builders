@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-06-30T09:49:17.414Z",
+  "generatedAt": "2026-07-01T09:58:15.003Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Training Data",
-      "title": "Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis",
-      "guid": "fb9d2daa-719d-11f1-9e13-9f44da352371",
-      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-06-30T09:00:00.000Z",
-      "description": "Dylan Patel, founder of SemiAnalysis, argues the biggest gains in AI don't come from faster chips, they come from software-hardware co-design. Optimizing the model, the kernels, and the silicon together turns a 2x here and a 2x there into 100x. He explains why DeepSeek's experts were shaped for Nvidia's Hopper (and why TPUs struggle to run it), why OpenAI's sparser models and Anthropic's denser ones pull them toward different hardware, and why the so-called CUDA moat was never really about CUDA. Dylan breaks down InferenceX, his living benchmark that runs the latest models on over $50M of donated hardware daily, tracking a roughly 60x annual drop in cost per unit of quality. He makes the case that inference will be a bigger market than oil, that the compute crunch persists because models expand the value of useful work faster than compute grows, and why Jensen Huang is bankrolling neoclouds to engineer a multipolar world. Hosted by Shaun Maguire and Sonya Huang, Sequoia Capital ]]>"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   }
 }
