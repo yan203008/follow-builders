@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-07-01T09:58:15.003Z",
+  "generatedAt": "2026-07-02T09:20:44.053Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "AI & I by Every",
+      "title": "The AI Workflows Behind Every's Consulting Team",
+      "guid": "3a41b0c9-9f64-41b5-b88e-6b3dfce609b5",
+      "url": "https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/The-AI-Workflows-Behind-Everys-Consulting-Team-e3lh60h",
+      "publishedAt": "2026-07-01T15:57:56.000Z",
+      "description": "Natalia Quintero joined Every as head of consulting with a mandate to bring AI into the workflows of executives at hedge funds, private equity firms, and tech companies. She is also a recent Codex convert—someone who spent months resisting the tool before Dan Shipper’s daily pestering finally got her to try it. Natalia encountered Codex as a non-technical builder who had learned to navigate file systems and folder structures in Claude Code through sheer effort. She’s now used Codex to do everything from automate her CRM setup to build a portal to manage her father’s medical care. Dan talked with Natalia for AI &amp; I about what it looks like to go from non-technical to building software with Codex, why Every still uses software-as-a-service products from Attio and Asana instead of vibe coding their own tools, and where she thinks AI agents like Every’s internal Claudie employee require human managers. If you found this episode interesting, please like, subscribe, comment, and share! To hear more from Dan Shipper: Subscribe to Every: https://every.to/subscribe Follow him on X: https://twitter.com/danshipper Timestamps: 00:01:05 Introduction 00:02:35 How Natalia manages Claudie, the consulting team&#39;s AI project manager 00:04:55 Why the consulting team still pays for SaaS products 00:11:47 Codex as a game changer 00:14:55 Building personalized learning guides and illustrated explainers with AI 00:21:40 Inside Natalia&#39;s AI-powered email triage system 00:26:44 The shift from knowledge work as sculpting to knowledge work as gardening 00:28:57 Using Codex to one-shot a custom CRM 00:33:16 Using Codex to build an app that coordinates her father&#39;s medical care Links to resources mentioned in the episode: Natalia Quintero on X: https://x.com/NataliaZarina Asana (project management): https://asana.com Every Consulting: https://every.to/consulting Go to attio.com/every and get 15% off your first year."
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
