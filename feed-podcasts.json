@@ -1,36 +1,8 @@
 {
-  "generatedAt": "2026-07-05T09:12:06.731Z",
+  "generatedAt": "2026-07-06T10:47:23.364Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
-      "guid": "substack:post:203293676",
-      "url": "https://www.latent.space/p/databricks",
-      "publishedAt": "2026-06-24T18:53:16.000Z",
-      "description": "We’re excited to have Databricks join us at AIEWF , among hundreds of the top companies in the AI Engineer ecosystem. LS subscribers can use their discount to get past the late bird pricing and access over $50k in sponsor offers ! Everyone is still talking about Satya’s Frontier Ecosystems post , but few have actually built a ( now $175 billion ) frontier ecosystem and cloud like our guests today. From open-sourcing the layer above coding agents to rethinking databases for the agent era, Databricks cofounders Matei Zaharia and Reynold Xin are pushing the company beyond the lakehouse into a full data-and-AI operating system. In this episode, Matei and Reynold join swyx at the 2026 Data + AI Summit to unpack Omnigent , LTAP , Lakebase , agent security , open formats, Mosaic , and why databases may matter more than ever once AI agents start doing real work. We go deep on Omnigent : Databricks’ open-source meta-harness for combining, controlling, and sharing agents across Claude Code, Codex, Cursor, Pi, custom agents, and internal tools . Matei explains why coding agents and enterprise agents run into the same problems: portability, collaboration, session history, security, spend controls, and the need for a common API above every harness. Then Reynold walks through Databricks’ database dream: why CDC is brittle enough to joke that it means “continuous data corruption,” why HTAP has been the holy grail of database engineering , and why Databricks thinks LTAP gets most of the benefits by unifying the storage layer instead of collapsing every query engine. We also cover Databricks’ infrastructure scale , the culture behind rapid prototyping , the difference between tech and enterprise customers, Databricks v"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Really Big Test-Time Compute in AI Changes Benchmarks, Safety and Research with OpenAI Research Scientist Noam Brown",
-      "guid": "32e4b7a0-7118-11f1-a100-bf8895cb33ba",
-      "url": "https://www.youtube.com/@NoPriorsPodcast",
-      "publishedAt": "2026-06-26T10:13:00.000Z",
-      "description": "When a new AI model drops, it’s judged based on a static benchmark grid that doesn’t account for how long the model is allowed to think. How then should we measure a model’s true capability? OpenAI research scientist Noam Brown returns to talk with Sarah Guo about his latest essay on why the AI industry’s traditional benchmark grids are broken, and how large-scale test-time compute is fundamentally changing how models are evaluated. Noam explains how, if properly scaffolded, today’s models can reason for weeks or even months on complex tasks. He also discusses real-world implications of test-time compute, from building poker solver bots to disproving legendary math conjectures. Together, they also unpack the large gaps in current AI safety frameworks, explore the bottlenecks for recursive self-improvement, and look ahead at the future of multi-agent collaboration and global knowledge sharing. Read more: Implications of Large-Scale Test-Time Compute Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @polynoamial | @OpenAI Chapters: 00:00 – Cold Open 00:43 – Noam Brown Introduction 01:23 – Why Benchmarks Are Broken 04:19 – Compute Budgets and Projections 05:34 – How Long Should Models Think? 06:47 – Benchmark-Maxxing 08:34 – Using Poker Bots as Evals 11:26 – Safety Evals When Model Capability Scales With Budget 14:41 – Release Cycle vs. Agent Runtime 17:06 – Latent Model Capability 20:59 – Limits on Recursive Self-Improvement 27:09 – Large-Scale Multi-Agent Coordination 29:11 – Competition at the Frontier 31:51 – Breaking the Benchmark Grid Equilibrium 33:29 – Why Benchmarks Should be Evaluated by Cost 36:18 – Conclusion ]]>"
-    },
-    {
-      "source": "podcast",
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "Cloudflare CEO: The Internet's Business Model Is Dead",
-      "guid": "5ae96ad9-5cee-4cda-ad01-8edea9dfbc0a",
-      "url": "https://podcasters.spotify.com/pod/show/firstmark/episodes/Cloudflare-CEO-The-Internets-Business-Model-Is-Dead-e3l8mt1",
-      "publishedAt": "2026-06-25T11:30:00.000Z",
-      "description": "Cloudflare CEO and co-founder Matthew Prince joins Matt Turck for a wide-ranging and fascinating conversation about what happens when the Internet is no longer mostly used by humans, but by bots, AI agents and machines. Matthew explains why Cloudflare now sees automated traffic overtaking human traffic online, why agents could create a massive explosion in Internet traffic, and why the old web business model built around clicks, ads, and pageviews may be breaking. We also go deep on what Cloudflare actually does, how it built one of the world’s most important Internet networks, why products like Workers, AI Gateway, edge inference, Durable Objects, sandboxes, and agent security matter, and how Cloudflare is reorganizing itself for the AI era. Along the way, Matthew shares wild Cloudflare origin stories involving hacker kids, human rights groups, cricket in Pakistan, root servers, Eurovision, JPMorgan, and the strange paths that led Cloudflare from scrappy startup to critical Internet infrastructure. (00:00) — Cold open (00:34) — Intro (01:27) — The moment bots passed humans online (04:05) — \"Agent,\" \"bot,\" \"crawler\" — what they really mean (05:28) — Why your AI agent visits 5,000 sites to do one thing (06:27) — The internet's business model is breaking (06:52) — What happens to \"brands\" when machines do the buying (08:11) — What Cloudflare actually does, explained simply (10:29) — Hackers, human rights groups &amp; an accidental product-market fit (13:37) — Building a global network (and the Telecom Pakistan cricket story) (21:10) — One hacker, from Turkish escort sites to Eurovision to JP Morgan (30:54) — Fundraising, VCs &amp; an unlikely founding team (37:06) — How Cloudflare became an AI infrastructure company (40:24) — Cloudflare Workers and why the edge wins for inference (44:30) — AI Gateway: auditing, guardrails &amp; runaway costs (47:05) — Why agents need a new kind of compute (52:13) — A \"Log4j every week\": security in the agentic era (56:03) — Inside Cloudflare: 241 billion tokens and \"Cloudflare OS\" (01:05:02) — Builders, sellers — and \"measurers\" (01:06:30) — The decision Matthew thinks every company will face (01:11:09) — What to do if AI is coming for your job (01:13:56) — Content Independence Day &amp; the new economics of the web (01:18:27) — Pay-per-crawl, micropayments &amp; out-scaling Visa (01:20:20) — A better internet: Spotify, local news &amp; \"holes in the cheese\""
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 3
+    "podcastEpisodes": 0
   }
 }
