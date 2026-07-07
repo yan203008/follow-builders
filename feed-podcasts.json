@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-07-06T10:47:23.364Z",
+  "generatedAt": "2026-07-07T09:50:54.177Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "Inside Zipline's Autonomous System: 140M Miles, Zero Incidents",
+      "guid": "02ef4faa-797a-11f1-8ba5-9f03cb2e87c8",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-07-07T09:00:00.000Z",
+      "description": "The largest commercial autonomous system on earth isn't a robotaxi fleet — it's Zipline, which has flown 140 million autonomous miles with zero safety incidents. Co-founder Keller Rinaudo Cliffton and Eric Watson, who leads systems engineering and safety, explain why the drone itself is only 15% of the solution. The rest spans inventory management, air traffic integration, and engineering systems such as a dual flight computer failover protocol that recently saved a delivery mid-flight. They trace Zipline's path from launching blood delivery in Rwanda in 2016 (when drone delivery was illegal in the US) to a 51% reduction in maternal mortality in that country, a $550 million commercial diplomacy partnership with the State Department, and a cost curve that fell from $300 per delivery to $12. Zipline is now racing toward a million deliveries a day, and a quiet inflection point when autonomous delivery becomes cheaper than sending a car. Hosted by Alfred Lin and Pat Grady, Sequoia Capital ]]>"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
