@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-07T09:50:54.177Z",
+  "generatedAt": "2026-07-08T08:36:29.023Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Training Data",
-      "title": "Inside Zipline's Autonomous System: 140M Miles, Zero Incidents",
-      "guid": "02ef4faa-797a-11f1-8ba5-9f03cb2e87c8",
+      "title": "Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis",
+      "guid": "fb9d2daa-719d-11f1-9e13-9f44da352371",
       "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-07-07T09:00:00.000Z",
-      "description": "The largest commercial autonomous system on earth isn't a robotaxi fleet — it's Zipline, which has flown 140 million autonomous miles with zero safety incidents. Co-founder Keller Rinaudo Cliffton and Eric Watson, who leads systems engineering and safety, explain why the drone itself is only 15% of the solution. The rest spans inventory management, air traffic integration, and engineering systems such as a dual flight computer failover protocol that recently saved a delivery mid-flight. They trace Zipline's path from launching blood delivery in Rwanda in 2016 (when drone delivery was illegal in the US) to a 51% reduction in maternal mortality in that country, a $550 million commercial diplomacy partnership with the State Department, and a cost curve that fell from $300 per delivery to $12. Zipline is now racing toward a million deliveries a day, and a quiet inflection point when autonomous delivery becomes cheaper than sending a car. Hosted by Alfred Lin and Pat Grady, Sequoia Capital ]]>"
+      "publishedAt": "2026-06-30T09:00:00.000Z",
+      "description": "Dylan Patel, founder of SemiAnalysis, argues the biggest gains in AI don't come from faster chips, they come from software-hardware co-design. Optimizing the model, the kernels, and the silicon together turns a 2x here and a 2x there into 100x. He explains why DeepSeek's experts were shaped for Nvidia's Hopper (and why TPUs struggle to run it), why OpenAI's sparser models and Anthropic's denser ones pull them toward different hardware, and why the so-called CUDA moat was never really about CUDA. Dylan breaks down InferenceX, his living benchmark that runs the latest models on over $50M of donated hardware daily, tracking a roughly 60x annual drop in cost per unit of quality. He makes the case that inference will be a bigger market than oil, that the compute crunch persists because models expand the value of useful work faster than compute grows, and why Jensen Huang is bankrolling neoclouds to engineer a multipolar world. Hosted by Shaun Maguire and Sonya Huang, Sequoia Capital ]]>"
     }
   ],
   "stats": {
