@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-07-14T08:16:25.092Z",
+  "generatedAt": "2026-07-15T08:22:06.766Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "Anthropic's Katelyn Lesse &amp; Angela Jiang: Building an Ecosystem, not a Walled Garden",
+      "guid": "e80c1332-7efe-11f1-aad6-934cf71a1d19",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-07-14T09:00:00.000Z",
+      "description": "Katelyn Lesse and Angela Jiang lead the team building Anthropic's developer platform - the layer that both outside builders and Anthropic's own products run on top of. Angela frames the platform as a three-layer stack: knowledge, execution, and coordination. She argues the real leverage is what’s at the top: \"strategies,\" or meta-harnesses that give each token a different job, from advising to executing to reflecting to memory. On the question of open ecosystem vs. walled garden, they say they aren't precious about owning the stack. Katelyn points to Anthropic's self-hosted sandboxes with partners like Modal, Vercel, and Cloudflare. Whether the work runs on Anthropic's infrastructure or someone else's, what really matters to them is that the architecture is sound. The deeper bet is standards: they hand skills and MCP to the whole industry, build connectors on the MCP spec, and help agents (Claude and non-Claude) work together. The one place they stay closed is model routing: they argue harnesses should be tuned to a model family, so they're designing for Claude rather than routing across models. Angela's frame for the ecosystem bet is electricity: transformative only because everyone could plug in, and no company wired it alone. Hosted by Sonya Huang and Lauren Reeder, Sequoia Capital 00:00 Introduction 01:49 Two North Stars 02:27 External Builders And Primitives 03:54 What To Externalize 06:00 From Messages To Agents 08:19 Managed Agents Adoption 09:07 Three Layer Cake 10:22 Execution Harnesses Explained 11:09 Coordination Strategies Roadmap 12:13 Ecosystem Standards And Safety 15:39 Open Ecosystem Not Walled 17:12 Vertical Products And Form Factors 22:26 Claude Tag Under The Hood 26:04 Harness Best Practices 38:13 Token Costs And Whats Next ]]>"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }

@@ -1,15 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "02ef4faa-797a-11f1-8ba5-9f03cb2e87c8": 1783417853808,
-    "https://www.youtube.com/shorts/q_h_QtKvyww": 1783417862870,
-    "https://www.youtube.com/watch?v=9fCGS4w-z0w": 1783417862870,
-    "https://www.youtube.com/watch?v=n_qKxNcMvtM": 1783417863181,
-    "https://www.youtube.com/shorts/ThUAS9sAOBY": 1783417863715,
-    "https://www.youtube.com/shorts/otmpxcZKGD8": 1783417863715,
-    "https://www.youtube.com/watch?v=KtmaWUVdnx4": 1783417864026,
-    "https://www.youtube.com/shorts/rphz_bQa4fM": 1783417864768,
-    "https://www.youtube.com/shorts/baULeizFKS4": 1783417864768,
     "fb9d2daa-719d-11f1-9e13-9f44da352371": 1783499788643,
     "https://www.youtube.com/watch?v=W_wW6AFrqQo": 1783499795647,
     "https://www.youtube.com/shorts/aYY_gKCVmtI": 1783499796297,
@@ -74,10 +65,17 @@
     "https://www.youtube.com/shorts/KkIiSmyFBmM": 1784016990252,
     "https://www.youtube.com/shorts/Fxix3Rknd8M": 1784016990252,
     "https://www.youtube.com/watch?v=dAQsmhAiews": 1784016990727,
-    "https://www.youtube.com/shorts/QXxE7GeUnO0": 1784016991033
+    "https://www.youtube.com/shorts/QXxE7GeUnO0": 1784016991033,
+    "e80c1332-7efe-11f1-aad6-934cf71a1d19": 1784103726502,
+    "https://www.youtube.com/shorts/io1DNipR2x4": 1784103732442,
+    "https://www.youtube.com/watch?v=UKnQxjAaNN4": 1784103732442,
+    "https://www.youtube.com/shorts/s8kVO5kGTbs": 1784103732905,
+    "https://www.youtube.com/shorts/Xz9yoKKiMXg": 1784103732905,
+    "https://www.youtube.com/shorts/vFqcZXZn8uo": 1784103733211,
+    "https://www.youtube.com/shorts/49KJhQsjRq8": 1784103733615,
+    "https://www.youtube.com/shorts/SnGkIgl2Za8": 1784103734129
   },
   "seenArticles": {
-    "https://claude.com/blog/artifacts-in-claude-code": 1783417861874,
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1783499791234,
     "https://www.anthropic.com/engineering/april-23-postmortem": 1783499792654,
     "https://www.anthropic.com/engineering/managed-agents": 1783499794309,
