@@ -1,18 +1,27 @@
 {
-  "generatedAt": "2026-07-15T08:22:06.766Z",
+  "generatedAt": "2026-07-16T08:21:16.470Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Training Data",
-      "title": "Anthropic's Katelyn Lesse &amp; Angela Jiang: Building an Ecosystem, not a Walled Garden",
-      "guid": "e80c1332-7efe-11f1-aad6-934cf71a1d19",
+      "title": "Inside Zipline's Autonomous System: 140M Miles, Zero Incidents",
+      "guid": "02ef4faa-797a-11f1-8ba5-9f03cb2e87c8",
       "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-07-14T09:00:00.000Z",
-      "description": "Katelyn Lesse and Angela Jiang lead the team building Anthropic's developer platform - the layer that both outside builders and Anthropic's own products run on top of. Angela frames the platform as a three-layer stack: knowledge, execution, and coordination. She argues the real leverage is what’s at the top: \"strategies,\" or meta-harnesses that give each token a different job, from advising to executing to reflecting to memory. On the question of open ecosystem vs. walled garden, they say they aren't precious about owning the stack. Katelyn points to Anthropic's self-hosted sandboxes with partners like Modal, Vercel, and Cloudflare. Whether the work runs on Anthropic's infrastructure or someone else's, what really matters to them is that the architecture is sound. The deeper bet is standards: they hand skills and MCP to the whole industry, build connectors on the MCP spec, and help agents (Claude and non-Claude) work together. The one place they stay closed is model routing: they argue harnesses should be tuned to a model family, so they're designing for Claude rather than routing across models. Angela's frame for the ecosystem bet is electricity: transformative only because everyone could plug in, and no company wired it alone. Hosted by Sonya Huang and Lauren Reeder, Sequoia Capital 00:00 Introduction 01:49 Two North Stars 02:27 External Builders And Primitives 03:54 What To Externalize 06:00 From Messages To Agents 08:19 Managed Agents Adoption 09:07 Three Layer Cake 10:22 Execution Harnesses Explained 11:09 Coordination Strategies Roadmap 12:13 Ecosystem Standards And Safety 15:39 Open Ecosystem Not Walled 17:12 Vertical Products And Form Factors 22:26 Claude Tag Under The Hood 26:04 Harness Best Practices 38:13 Token Costs And Whats Next ]]>"
+      "publishedAt": "2026-07-07T09:00:00.000Z",
+      "description": "The largest commercial autonomous system on earth isn't a robotaxi fleet — it's Zipline, which has flown 140 million autonomous miles with zero safety incidents. Co-founder Keller Rinaudo Cliffton and Eric Watson, who leads systems engineering and safety, explain why the drone itself is only 15% of the solution. The rest spans inventory management, air traffic integration, and engineering systems such as a dual flight computer failover protocol that recently saved a delivery mid-flight. They trace Zipline's path from launching blood delivery in Rwanda in 2016 (when drone delivery was illegal in the US) to a 51% reduction in maternal mortality in that country, a $550 million commercial diplomacy partnership with the State Department, and a cost curve that fell from $300 per delivery to $12. Zipline is now racing toward a million deliveries a day, and a quiet inflection point when autonomous delivery becomes cheaper than sending a car. Hosted by Alfred Lin and Pat Grady, Sequoia Capital ]]>"
+    },
+    {
+      "source": "podcast",
+      "name": "AI & I by Every",
+      "title": "The Founder of a $1.5B AI Company on What Comes After the First Wave of AI Apps",
+      "guid": "91e9a3bc-f51c-4e02-ba84-d7440834a0e4",
+      "url": "https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/The-Founder-of-a-1-5B-AI-Company-on-What-Comes-After-the-First-Wave-of-AI-Apps-e3m47gg",
+      "publishedAt": "2026-07-15T15:08:19.000Z",
+      "description": "“Running a startup is a knife fight whether things are going well or not,” says Chris Pedregal, cofounder and CEO of Granola. Granola recently raised a $125 million series C round at a $1.5 billion valuation on the strength of its AI meeting notetaker. That valuation hasn’t made Pedregal complacent. Granola built its name as the first to make good AI meeting notes, but Notion, OpenAI, and Zoom have all since released their own versions. Pedregal isn’t rattled—he never thought meeting notes were the real prize. The bigger fight, he says, is over “what interface we use for work, and what work looks like in an AI-native world.” That’s why Granola is betting on owning the entire meeting workflow: preparing people for a call, helping them act on it afterward, and making that context available to whatever agent—Claude, Codex, or anything else—people bring to the table. Over the next few months, the company plans to push hard on its API and MCP to make that possible. Dan Shipper talked with Pedregal for AI &amp; I about why Granola pre-generates millions of meeting briefs, most of which go unopened, what “bring your own agent” software could look like, and why Pedregal still thinks “easy come, easy go” about Granola’s own success. If you found this episode interesting, please like, subscribe, comment, and share. More from Dan Shipper: Subscribe to Every: https://every.to/subscribe Follow him on X: https://twitter.com/danshipper Timestamps: 00:00:59 Introduction 00:01:57 Why starting a company feels like a knife fight 00:04:33 Granola&#39;s counterintuitive view on competition 00:10:44 Dan&#39;s &quot;pirate and architect&quot; framework for structuring early-stage product teams 00:13:09 How Granola&#39;s &quot;shaping&quot; and &quot;validation&quot; phases work for building new features 00:18:17 Why Dan lives almost entirely inside Codex 00:24:40 The case for &quot;Codex-native apps&quot; 00:35:37 Granola&#39;s &quot;handrail&quot; philosophy 00:38:12 Why Granola is betting on owning meeting-adjacent context instead of competing as a general agent 00:44:19 What a transcript alone can never capture Episode resources: Chris Pedregal on X: https://twitter.com/cjpedregal Granola on X: https://twitter.com/meetgranola Granola: https://granola.ai Granola hits $1.5B valuation (TechCrunch): https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/ Go to https://attio.com/every and get 15% off your first year."
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 2
   }
 }
