@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-07-21T08:36:03.516Z",
+  "generatedAt": "2026-07-22T08:35:26.852Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "🔬Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang &amp; Ci Chu, Chief Discovery Officer &amp; Chief AI Scientist)",
+      "guid": "substack:post:207941607",
+      "url": "https://www.latent.space/p/xaira",
+      "publishedAt": "2026-07-21T19:34:06.000Z",
+      "description": "Bet on information If test loss flatlines after 1.5B parameters while training loss continues to drop as you scale, that tells you that your model is limited by the amount of information in your data. Training on a single, smallish data set exposed an information gap: the 3.1B model falls off the scaling trend. Neither parameters nor compute will improve performance past this wall. For predicting changes to gene expression, you need more information rich data . This is what Chu and Bo’s teams have done, and here is what ~30x the information buys you: Now we can scale with parameters and training compute! We don’t know how much this effort costed, but we can guess that data collection experiments and infrastructure was a few tens of millions, and compute + headcount + research was a few million. The budget looks like a RL rollout budget, rather than a data rich pre-training one. We were lucky enough to have the two central figures in this story on our podcast. Taking the lead from Ci Chu and Bo Wang, Xaira Therapeutics is betting that information rich data is the key to AI-driven drug development. Chu was recently promoted to Chief Discovery Officer and Bo to Chief AI Scientist, underscoring just how strategic Xaira considers this bet. Reverse engineering the human cell If you had to figure out how a human cell works, what would you do? A good place to start might be by documenting what genes are expressed (e.g. what RNA is floating around) in different kinds of cells, in different circumstances. That is CELLxGENE , a database of 168M cells built by Chan Zuckerberg Institute that maps each cell to a count of how many times 20K-30K genes were detected in that cell, plus detailed metadata about every cell . A ~4 trillion-entry matrix. If the Protein Data Bank (PDB) unlocked structural biology models ( Boltz Episode , ESM/BioHub Episode ), CELLxGENE has done the same thing for Virtual Cell models. Like PDB, CELLxGENE has inspired a zoo of AI models of RNA expression; so much so that RNA expression models have become synonymous with Virtual Cell models. Bo Wang built one of the most influential, scGPT , that became the starting point for Xaira’s new model. RNA expression ≠ Virtual Cell Models traine"
+    },
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "Factory's Matan Grinberg: The Coming ‘Dark Factory’ Where Software Builds Itself",
+      "guid": "8b31e580-845b-11f1-850d-e78291a15e5d",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-07-21T09:00:00.000Z",
+      "description": "Factory started building fully autonomous coding agents in April 2023, two years before enterprises were ready. Matan Grinberg now says this is indistinguishable from being wrong. The Factory co-founder and CEO explains how the company survived its \"journey in the desert,\" including the decision to hand nearly all of its revenue back to customers when the product wasn't making developers obsessed. Matan makes the contrarian technical case that a model-agnostic harness beats the model-and-harness co-design that labs like OpenAI and Anthropic favor, because exposing a harness to many models keeps it from overfitting to any single one. He argues open-weight models like GLM will capture the majority of tokens by staying one generation behind the frontier at a fraction of the cost, and that CIOs will soon justify every incremental token the way they justify headcount. Looking ahead, he predicts 90% of coding tokens will run asynchronously—the \"dark factory\" where software builds itself. Hosted by Sonya Huang and Pat Grady, Sequoia Capital ]]>"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 2
   }
 }
