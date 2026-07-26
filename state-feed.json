@@ -1,20 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "substack:post:205716015": 1784449547809,
-    "18a5d0ce-73e6-11f1-80e0-175857be9792": 1784449548119,
-    "0a7f6d2c-3838-4a70-9c66-7b2d9d783409": 1784449548364,
-    "00c607bd-504b-44f5-818d-e4ad7d8dc2a8": 1784449548485,
-    "85aa2fe0-7c35-413e-9d30-e877439f0fd3": 1784449548523,
-    "https://www.youtube.com/watch?v=E7QKiRnw0M8": 1784449552695,
-    "https://www.youtube.com/watch?v=QzABze7eQNw": 1784449553861,
-    "https://www.youtube.com/shorts/m05ImM8FBH0": 1784449554290,
-    "https://www.youtube.com/watch?v=cVsepqYjXQM": 1784449554290,
-    "https://www.youtube.com/shorts/VUe__ceg2zI": 1784449554794,
-    "https://www.youtube.com/watch?v=s-ofhaOwNBA": 1784449555256,
-    "https://www.youtube.com/watch?v=3U1IHoS1U3M": 1784449555256,
-    "https://www.youtube.com/shorts/4Z81FybcppA": 1784449555711,
-    "https://www.youtube.com/shorts/dhBPd81IOfk": 1784449555711,
     "https://www.youtube.com/watch?v=A9Sr-4c-3Tg": 1784539410548,
     "https://www.youtube.com/watch?v=9pK-P8mem-4": 1784539412024,
     "https://www.youtube.com/shorts/dLeUy2qb7Io": 1784539412661,
@@ -78,7 +64,15 @@
     "https://www.youtube.com/shorts/0m5iWnxZ0fU": 1784967162018,
     "https://www.youtube.com/watch?v=YylKXYyee6w": 1784967162417,
     "https://www.youtube.com/shorts/A3-J_yYEtSw": 1784967162723,
-    "https://www.youtube.com/shorts/INm9tif8T24": 1784967162723
+    "https://www.youtube.com/shorts/INm9tif8T24": 1784967162723,
+    "https://www.youtube.com/watch?v=0kDo5XQ1kuo": 1785054767820,
+    "https://www.youtube.com/shorts/6firfDgg6gU": 1785054768131,
+    "https://www.youtube.com/shorts/u_Ai83-5_o8": 1785054768131,
+    "https://www.youtube.com/shorts/G1SzEsoVTDM": 1785054768561,
+    "https://www.youtube.com/shorts/FLoNTd_RuWY": 1785054768866,
+    "https://www.youtube.com/watch?v=QndMhblQayg": 1785054769172,
+    "https://www.youtube.com/shorts/3UBmQj0Nps8": 1785054769477,
+    "https://www.youtube.com/shorts/j_arjM5JqsU": 1785054769477
   },
   "seenArticles": {
     "https://claude.com/blog/claude-for-foundation-models": 1784709327554,
