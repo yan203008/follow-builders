@@ -1,16 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "https://www.youtube.com/watch?v=5_N84t1rUU0": 1784622964714,
-    "https://www.youtube.com/watch?v=7AAezayi7Js": 1784622965434,
-    "https://www.youtube.com/watch?v=auyxBo2nn80": 1784622965880,
-    "https://www.youtube.com/shorts/AUB8_s7l54s": 1784622965880,
-    "https://www.youtube.com/watch?v=bPd9NnOzx78": 1784622966191,
-    "https://www.youtube.com/shorts/JzScfo9u5C8": 1784622966661,
-    "https://www.youtube.com/shorts/IktB1UrxBKE": 1784622966661,
-    "https://www.youtube.com/watch?v=1_jlukb7gm4": 1784622966971,
-    "https://www.youtube.com/shorts/_cm83B1Q6Ew": 1784622967279,
-    "https://www.youtube.com/watch?v=ABmTsb9u7OA": 1784622967718,
     "substack:post:207941607": 1784709326432,
     "8b31e580-845b-11f1-850d-e78291a15e5d": 1784709326587,
     "https://www.youtube.com/watch?v=VeWf0l4ci6Y": 1784709328171,
@@ -74,7 +64,18 @@
     "https://www.youtube.com/shorts/SKbXRm1PMhs": 1785146378804,
     "https://www.youtube.com/shorts/_EX6XTldCcE": 1785146379309,
     "https://www.youtube.com/watch?v=QiQCKLRsqHM": 1785146379309,
-    "https://www.youtube.com/shorts/0RZ5O0S-k0s": 1785146379640
+    "https://www.youtube.com/shorts/0RZ5O0S-k0s": 1785146379640,
+    "https://www.youtube.com/shorts/lH-L59Gi8mQ": 1785228119939,
+    "https://www.youtube.com/watch?v=KCjwU4XYBL8": 1785228120244,
+    "https://www.youtube.com/watch?v=Zb-bhG36fGA": 1785228120638,
+    "https://www.youtube.com/watch?v=6W5aGWEFiDM": 1785228121070,
+    "https://www.youtube.com/watch?v=ssP31IenzYA": 1785228121374,
+    "https://www.youtube.com/shorts/50FTSqcxKJs": 1785228121678,
+    "https://www.youtube.com/shorts/GLZTywoyNog": 1785228121678,
+    "https://www.youtube.com/watch?v=KCGKb3huDsY": 1785228121983,
+    "https://www.youtube.com/shorts/2KMrsuM16SI": 1785228121983,
+    "https://www.youtube.com/shorts/SwwBrtO3Sd8": 1785228122413,
+    "https://www.youtube.com/shorts/WMKeChL8-os": 1785228122839
   },
   "seenArticles": {
     "https://claude.com/blog/claude-for-foundation-models": 1784709327554,
