@@ -73,13 +73,26 @@
     "https://www.youtube.com/shorts/Hx0FIId44ac": 1785314860853,
     "https://www.youtube.com/shorts/jsXJWoJQKbA": 1785314861251,
     "https://www.youtube.com/shorts/y29LG8W9nqg": 1785314861750,
-    "https://www.youtube.com/shorts/8rA_paCkkSU": 1785314861750
+    "https://www.youtube.com/shorts/8rA_paCkkSU": 1785314861750,
+    "substack:post:207941607": 1785400479331,
+    "feef20f0-8a05-11f1-beda-77fe6808cfdf": 1785400479451,
+    "8b31e580-845b-11f1-850d-e78291a15e5d": 1785400479451,
+    "6676e79c-2984-4653-8a01-2e6431797287": 1785400479837,
+    "https://www.youtube.com/watch?v=mg_BuWqSL9A": 1785400482509,
+    "https://www.youtube.com/watch?v=fqKGoxSQxbw": 1785400482509,
+    "https://www.youtube.com/shorts/h3YYG29C1mo": 1785400483350,
+    "https://www.youtube.com/shorts/IKOHf608_c8": 1785400483350,
+    "https://www.youtube.com/shorts/lsSunsXJoP4": 1785400483783,
+    "https://www.youtube.com/shorts/Wa66mR5wEh4": 1785400484343,
+    "https://www.youtube.com/shorts/hbCc8pr-Mrc": 1785400485013,
+    "https://www.youtube.com/shorts/3ct6ZB519VI": 1785400485013
   },
   "seenArticles": {
     "https://claude.com/blog/artifacts-in-claude-code": 1784881994896,
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1784967157927,
     "https://www.anthropic.com/engineering/april-23-postmortem": 1784967158529,
     "https://www.anthropic.com/engineering/managed-agents": 1784967159123,
-    "https://claude.com/blog/claude-managed-agents-updates": 1784967159714
+    "https://claude.com/blog/claude-managed-agents-updates": 1784967159714,
+    "https://claude.com/blog/claude-for-foundation-models": 1785400480502
   }
 }
