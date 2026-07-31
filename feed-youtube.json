@@ -1,23 +1,62 @@
 {
-  "generatedAt": "2026-07-30T08:34:45.514Z",
+  "generatedAt": "2026-07-31T08:55:51.491Z",
   "lookbackHours": 48,
   "youtube": [
+    {
+      "source": "youtube",
+      "name": "Ali Abdaal",
+      "channelId": "UCoOae5nYA7VqaXzerajD0lg",
+      "videos": [
+        {
+          "title": "Meet the team member we never talk about",
+          "url": "https://www.youtube.com/shorts/6XONgUfvoBo",
+          "publishedAt": "2026-07-30T13:09:41+00:00",
+          "description": "Our team had a role that nobody could fill.\n\nWe needed someone who could pull data across all our apps, chase team members for numbers they weren't submitting, and handle all the operational stuff that just piles up. Basically do the boring work no one else wanted to do 😅\n\nSo we hired Viktor. Viktor is an AI employee that lives inside our Slack account, which makes it ridiculously easy for anyone on the team to message him with whatever they need.\n\nOn day one, Nicole our social media manager asked Viktor to create carousel templates for Instagram, and we've been using them ever since. He also set up a weekly briefing that pulls data from all our social media and YouTube into a nice report.\n\nOwen asked him to pull pipeline stats for our Lifestyle Business Academy applicants so we can see applications vs interviews at a glance.\n\nAll of it comes directly through Slack, where the team already spends their time. I'd been trying for months to get my team to actually use AI tools for work. But Viktor felt less like a chatbot and more like an actual employee, and that's when usage skyrocketed.\n\nIf you'd like to give Viktor a go for free, use the link below to get $100 of free work credit. No credit card needed 🙌\n\nLink: ref.viktor.com/vik-aa-jul-reel"
+        }
+      ]
+    },
     {
       "source": "youtube",
       "name": "FearNation 世界苦茶",
       "channelId": "UCLKsaKMS_5RQuM0wHLp2vVg",
       "videos": [
         {
-          "title": "E253互动部分: AI到底有没有泡沫? / AI的产值上限就是居民可支配收入 / 哪些白领工作已经被干掉了 / 开源模型会输出中国的意识形态吗",
-          "url": "https://www.youtube.com/watch?v=mg_BuWqSL9A",
-          "publishedAt": "2026-07-30T07:21:17+00:00",
-          "description": "00:00 - 单靠语言模型能不能做出AGI／从提示词工程到&quot;工程化&quot;\n16:03 - 中国AI还剩什么牌／AI到底有没有泡沫\n28:30 - 习近平的AI中国梦会不会碎／开源模型的意识形态输出\n39:02 - Harness该不该做，哪些白领工作已经被干掉\n48:54 - self as agent、订阅怎么选／MOE激活量与训练算力之争\n1:00:35 - 缺卡体感、本地部署与agent memory管理"
+          "title": "E254 伊朗战争重启：唯一自洽的解法是地面登陆 | 透明茶室 • 分析线 | 霍尔木兹海峡 | 内塔尼亚胡 | 停火备忘录｜南部海岸",
+          "url": "https://www.youtube.com/watch?v=Yukb3xuc9l8",
+          "publishedAt": "2026-07-31T01:04:52+00:00",
+          "description": "00:00 - 一个月时间线：停火备忘录如何撕毁\n05:40 - 核与海峡：美伊不可调和的两个矛盾\n13:00 - 双方对赌：赌经济崩溃，还是赌弹药耗尽\n18:11 - 中俄微操：曼德海峡通航与 400 枚防空导弹\n22:28 - 六月备忘录错在哪：协议为何签不回来\n25:35 - 以色列变量与唯一自洽的解法\n\n[ 欢迎在Patreon支持世界苦茶 ]\nPatreon：https://www.patreon.com/flipradio\n\n[ FR_FN全部服務 ]\nhttps://linktr.ee/fr_fn\n\nA：书籍\n-书籍：在Z-lib搜索“李厚辰”\n或者：请复制链接到浏览器打开：https://we.tl/t-wocLFJjafF\n\nB 视频：\nB1：YTB搜索“世界苦茶”\nB2：YTB搜索“三个水枪手”\n\nC 透明茶室\n「透明茶室」，是周一、四晚上的新闻评论节目，每期40分钟左右，涉及世界苦茶中一条新闻的话题。\n直播：上海时间8PM在Youtube頻道\n\nD 播客：\n在小宇宙、Apple Podcast、Youtube Music、Spotify等平台搜索“翻转电台”\n-翻电RSS：https://anchor.fm/s/141e652c/podcast/rss\n\nE 文本：\n-世界苦茶Newsletter：http://fearnation.club\n看理想专栏：https://shorturl.at/hWluS\n青年志专栏：https://shorturl.at/yea9Q\n歪脑专栏：https://www.wainao.me/wainao-reads/columns/prosperous-but-dusty/\n-文本文章集合Pub：https://flipradio.club/\n-X：https://x.com/Ansel_Flipradio\n\nF 其他：\n-活跃社区DISCORD：https://discord.gg/aQb8bgd5SK\n-Instagram: bitteradio\n\n© FlipRadio_FearNation Copyright 2026\n要记得敢于去相信，也敢于分享你的相信。"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "Jay Shetty Podcast",
+      "channelId": "UCbk_QsfaFZG6PdQeCvaYXJQ",
+      "videos": [
+        {
+          "title": "High Achievers Manifest Using Science NOT Luck | Emily McDonald",
+          "url": "https://www.youtube.com/watch?v=n9icCt8sLzk",
+          "publishedAt": "2026-07-30T15:30:15+00:00",
+          "description": "You're not stuck because you're lazy.\n\nYour brain is doing exactly what it was built to do, keep you inside what's already safe and familiar.\n\nIn this clip, Emily Mcdonald and Jay Shetty break down the three reasons people procrastinate, and why none of them are about willpower.\n\nShe explains the part of your brain that writes the story of who you are, why it quietly blocks any goal that doesn't match that story, and the study on kittens raised in a dark room that changed how she thinks about what we can and can't see in our own lives.\n\nLearn about the three-step process she used to rewire what she believed she already deserved, and why the thing you desperately want is the thing you're least likely to get.\n\nJAY'S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\nJoin 900,000+ readers discovering how small daily shifts create big life change with my free newsletter. Subscribe https://news.jayshetty.me/subscribe\n\nChapters\n0:00 — Why feeling stuck is your biology working\n0:56 — The three reasons people procrastinate\n1:12 — The part of your brain writing your story\n2:24 — Pretending you're asleep until you are\n2:57 — Be careful with the labels you give yourself\n3:20 — Being afraid of your own success\n3:46 — Get specific about your fears, not your goals\n4:11 — Take it all the way to the end\n5:14 — Delusional-level risks\n5:37 — Cheap dopamine\n6:18 — Withhold the reward until the task is done\n7:22 — Why scrolling at night steals tomorrow's motivation\n8:56 — Discipline as looking out for future you\n9:39 — Why &quot;good job&quot; out loud actually works\n10:23 — Why wanting it too badly blocks it\n11:02 — The incubation effect\n12:09 — The kittens who couldn't see table legs\n14:41 — Step one: name the feeling, not the thing\n16:05 — The reasons you already have to feel that way\n17:11 — What you can give yourself today\n18:04 — What happened two months later\n\nWatch the FULL episode on Netflix &amp; Spotify 🎙️\nNetflix - https://dub.sh/QaUsKeD\nSpotify - https://dub.sh/axUXylv\n\nFull Episode With Emily Mcdonald:\nhttps://youtu.be/cUbe6HbFncE\n\nEpisode Resources:\nhttps://www.emonthebrain.com/\nhttps://www.youtube.com/channel/UCq1SlvOJUkkRA0aAFnIW_4A\nhttps://www.instagram.com/emonthebrain\nhttps://www.tiktok.com/@emonthebrain\nhttps://www.linkedin.com/in/emonthebrain/"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "Andrew Huberman",
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "videos": [
+        {
+          "title": "My book Protocols releases September 15th",
+          "url": "https://www.youtube.com/shorts/vmRWUqkTtKA",
+          "publishedAt": "2026-07-30T16:07:03+00:00",
+          "description": "Protocols releases September 15, 2026 from @simonandschuster and can be pre-ordered now: https://protocolsbook.com\n\nIt's seven chapters, each covering a different set of health protocols and the science behind them.\n\nThe book is designed so you can read it start to finish, or navigate easily to the science and tools most important for your specific needs and wishes.\n\nI include several studies (and their implications) released just this year, so it's very up to date.\n\nThere is also a story woven in throughout.\n\nThere is an audio version available as well, and I read it.\n\nAnd the book is available in multiple languages at the link above.\n\nI'm super excited to share PROTOCOLS with all of you!\n\nThank you for your interest in science!"
         },
         {
-          "title": "[透明茶室 257] 打伊朗要到底打到什么时候？你不知道，Trump也未必知道",
-          "url": "https://www.youtube.com/watch?v=fqKGoxSQxbw",
-          "publishedAt": "2026-07-30T06:03:41+00:00",
-          "description": "美国到底要干嘛？"
+          "title": "Essentials: How to Become Resilient, Forge Your Identity &amp; Lead Others | Jocko Willink",
+          "url": "https://www.youtube.com/watch?v=lxDf8uEypJU",
+          "publishedAt": "2026-07-30T12:00:03+00:00",
+          "description": "In this Huberman Lab Essentials episode, my guest is Jocko Willink, a retired U.S. Navy SEAL officer, author and host of the Jocko Podcast. We discuss why discipline, rather than motivation, is the reliable driver of daily action, and how taking action is the most effective way to move through adversity, loss and setbacks. We also discuss how exercise generates energy, the leader’s role as a counterweight to team morale, and detachment as a trainable skill for widening perspective and making better decisions under stress.\n\nShow notes: https://go.hubermanlab.com/NwgtCRz\n\nWatch more Huberman Lab Essentials: https://youtube.com/playlist?list=PLPNW_gerXa4OGNy1yE-W9IX-tPu-tJa7S&amp;si=a1_sA7rUT-fE0OM5\n\nFollow Huberman Lab\nWebsite: https://www.hubermanlab.com \nInstagram: https://www.instagram.com/hubermanlab \nThreads: https://www.threads.net/@hubermanlab\nX: https://x.com/hubermanlab \nFacebook: https://www.facebook.com/hubermanlab \nTikTok: https://www.tiktok.com/@hubermanlab \nLinkedIn: https://www.linkedin.com/in/andrew-huberman\nWebsite: https://www.hubermanlab.com \n\nTimestamps\n00:00:00 Jocko Willink\n00:00:23 Discipline, Impact &amp; Autonomy in the Military\n00:02:40 Energy, Waking Up, Alarm Clock &amp; Debate\n00:04:12 Tool: Exercise for Energy; Eating, Fasting &amp; Mental Clarity\n00:05:45 Tool: High-Intensity Exercise, Peak Mentality\n00:06:31 Winning &amp; Losing, SEAL Selection, BUD/S, Resilience\n00:08:34 Leadership, Morale &amp; Mob Mentality; Tool: Detach &amp; Correct\n00:10:38 Loss, Grief; Tool: Action as a Cure for Adversity\n00:12:17 Parenting &amp; Success; Tool: Be the Counterweight, Balance\n00:14:54 Sense of Self, Hardcore Music, DIY Attitude &amp; Dissent\n00:17:42 Motivation as an Emotion, Discipline\n00:18:31 Tool: Move Toward Problems; Indirect Approach &amp; Conflict\n00:20:00 Meditation, Detachment &amp; Teaching Young Leaders\n00:21:33 Depression, Storm Clouds &amp; Losing Perspective\n00:23:54 Tool: Detachment, Oil Rig Story, Field of View\n00:28:19 Tools: Take a Step Back, Slow Breathing &amp; Widen Field of View\n00:29:19 Tools: Chin Up, Hands Down, Listening; Relationships\n00:31:32 Tool: Deliberate Discomfort &amp; Training Resiliency\n00:32:04 Acknowledgements\n\n#hubermanlab #hubermanlabpodcast #jockowillink \n\nDisclaimer &amp; Disclosures: https://www.hubermanlab.com/disclaimer"
         }
       ]
     },
@@ -27,15 +66,15 @@
       "channelId": "UCIaH-gZIVC432YRjNVvnyCA",
       "videos": [
         {
-          "title": "The Reality Of Growing Up With Autism",
-          "url": "https://www.youtube.com/shorts/h3YYG29C1mo",
-          "publishedAt": "2026-07-29T21:22:14+00:00",
-          "description": "Watch the full episode here - https://youtu.be/07-9w9bZOkQ?si=r2v4qLdRNeFis6tu\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
+          "title": "The World Syndrome Effecting People With Autism",
+          "url": "https://www.youtube.com/shorts/chKZXgudDWM",
+          "publishedAt": "2026-07-31T01:00:29+00:00",
+          "description": "Watch the full episode here - https://youtu.be/07-9w9bZOkQ?si=0Bxjwbs9OCBQwae2\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
         },
         {
-          "title": "The Elimination Of Alternatives",
-          "url": "https://www.youtube.com/shorts/IKOHf608_c8",
-          "publishedAt": "2026-07-29T16:00:12+00:00",
+          "title": "What Used To Make A Man Acceptable Now Makes You Extraordinary",
+          "url": "https://www.youtube.com/shorts/8_p4zXTmqlU",
+          "publishedAt": "2026-07-30T20:56:02+00:00",
           "description": "Get access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spoti.fi/2LSimPn or Apple Podcasts - https://apple.co/2MNqIgw\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
         }
       ]
@@ -46,10 +85,10 @@
       "channelId": "UCRYY7IEbkHLH_ScJCu9eWDQ",
       "videos": [
         {
-          "title": "Opus 5: I love it, I hate it",
-          "url": "https://www.youtube.com/shorts/lsSunsXJoP4",
-          "publishedAt": "2026-07-29T12:00:32+00:00",
-          "description": "Opus 5 is timid, apologetic, and deeply human-dependent"
+          "title": "Opus 5: too timid?",
+          "url": "https://www.youtube.com/shorts/r7PtX1JuUcE",
+          "publishedAt": "2026-07-30T13:45:33+00:00",
+          "description": "In real coding sessions it refused to touch a one-line merge conflict because it was &quot;someone else's branch,&quot; asked sub-agents to flag tasks for human review, and consistently deferred decisions rather than making them. Claire had to repeat &quot;just do it&quot; more times than she could count"
         }
       ]
     },
@@ -59,10 +98,10 @@
       "channelId": "UC0TnW9acNxqeojxXDMbohcA",
       "videos": [
         {
-          "title": "Maturity Is Cringe Now",
-          "url": "https://www.youtube.com/shorts/Wa66mR5wEh4",
-          "publishedAt": "2026-07-29T15:00:09+00:00",
-          "description": "Somewhere along the way, self-control started looking like weakness instead of the rare skill it actually is. We spend years learning to manage our impulses and then live in a culture that treats managing them as selling out."
+          "title": "Why People Keep Undervaluing You",
+          "url": "https://www.youtube.com/shorts/i3jXW3aejW0",
+          "publishedAt": "2026-07-30T13:00:28+00:00",
+          "description": "Treating yourself as a transaction means constantly exchanging your time and energy for the minimum someone is willing to give back. Treating yourself as an investment means being selective about where you put yourself and why."
         }
       ]
     },
@@ -72,23 +111,23 @@
       "channelId": "UC5fI3kxC-ewZ6ZXEYgznM7g",
       "videos": [
         {
-          "title": "We Suffer More In Imagination Than Reality",
-          "url": "https://www.youtube.com/shorts/hbCc8pr-Mrc",
-          "publishedAt": "2026-07-29T21:00:39+00:00",
+          "title": "When You Know You Need To Make A Change",
+          "url": "https://www.youtube.com/shorts/uLjUZkZ2xu0",
+          "publishedAt": "2026-07-30T21:00:31+00:00",
           "description": ""
         },
         {
-          "title": "When You Doubt Yourself, Remember Someone Is Watching",
-          "url": "https://www.youtube.com/shorts/3ct6ZB519VI",
-          "publishedAt": "2026-07-29T17:11:29+00:00",
+          "title": "I Lit $250k On Fire",
+          "url": "https://www.youtube.com/shorts/1RK2if1nGKU",
+          "publishedAt": "2026-07-30T18:25:50+00:00",
           "description": ""
         }
       ]
     }
   ],
   "stats": {
-    "youtubeChannels": 5,
-    "totalVideos": 8
+    "youtubeChannels": 8,
+    "totalVideos": 11
   },
   "errors": [
     "YouTube: Failed to fetch Mel Robbins: HTTP 404",
