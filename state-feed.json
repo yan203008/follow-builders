@@ -1,14 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "https://www.youtube.com/watch?v=0kDo5XQ1kuo": 1785054767820,
-    "https://www.youtube.com/shorts/6firfDgg6gU": 1785054768131,
-    "https://www.youtube.com/shorts/u_Ai83-5_o8": 1785054768131,
-    "https://www.youtube.com/shorts/G1SzEsoVTDM": 1785054768561,
-    "https://www.youtube.com/shorts/FLoNTd_RuWY": 1785054768866,
-    "https://www.youtube.com/watch?v=QndMhblQayg": 1785054769172,
-    "https://www.youtube.com/shorts/3UBmQj0Nps8": 1785054769477,
-    "https://www.youtube.com/shorts/j_arjM5JqsU": 1785054769477,
     "https://www.youtube.com/watch?v=sbmP6i-MChk": 1785146377619,
     "https://www.youtube.com/shorts/VFCfvlJ2g3c": 1785146378135,
     "https://www.youtube.com/watch?v=gRtY4ZEQI5A": 1785146378451,
@@ -84,7 +76,15 @@
     "https://www.youtube.com/shorts/sKXLRHgB-jg": 1785659388693,
     "https://www.youtube.com/shorts/JcSHnYzWZUc": 1785659389185,
     "https://www.youtube.com/shorts/XlGlWcSX_1Y": 1785659389826,
-    "https://www.youtube.com/shorts/XAZXGV5beGA": 1785659389826
+    "https://www.youtube.com/shorts/XAZXGV5beGA": 1785659389826,
+    "https://www.youtube.com/shorts/EGxtXr_Dyzs": 1785750867579,
+    "https://www.youtube.com/watch?v=baIVJDFMUoQ": 1785750868756,
+    "https://www.youtube.com/shorts/sagFXKyEFFI": 1785750869312,
+    "https://www.youtube.com/shorts/WtFSGG-vYPw": 1785750869312,
+    "https://www.youtube.com/shorts/78pzlxDCt2g": 1785750869815,
+    "https://www.youtube.com/watch?v=s-icJTAc5gQ": 1785750869815,
+    "https://www.youtube.com/shorts/7tfwaKP7F3o": 1785750870598,
+    "https://www.youtube.com/shorts/Dl2skuruXFQ": 1785750870598
   },
   "seenArticles": {
     "https://claude.com/blog/claude-for-foundation-models": 1785400480502,
