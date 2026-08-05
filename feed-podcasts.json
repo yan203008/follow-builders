@@ -1,27 +1,18 @@
 {
-  "generatedAt": "2026-08-04T08:45:19.669Z",
+  "generatedAt": "2026-08-05T08:42:28.195Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Latent Space",
-      "title": "The Inference Engineering Masterclass — Philip Kiely &amp; Ali Taha, Baseten",
-      "guid": "substack:post:209198968",
-      "url": "https://www.latent.space/p/inference-eng",
-      "publishedAt": "2026-08-03T21:44:03.000Z",
-      "description": "We first covered Baseten last year when DeepSeek mania was at peak hype. Now they have raised a monster $13B round and become one of the new cohort of AI Infra decacorns that are (with Nvidia, Intel, and the semis complex) chief beneficiaries of the Inference Inflection . We return to Baseten at the peak of the 2026 edition of Open Weights debate . Ali has published a viral breakdown of Kimi K3 : And since you last saw him, Philip has spoken at AI Engineer and written the definitive book on Inference Engineering spotted all over SF: Three years ago, inference engineering barely existed as a category. Today, it is one of the most critical disciplines in AI. Inference engineering inherently tackles a different question than standard model training: “How do you turn those weights from training into a product that is fast, reliable, and affordable at scale?” Focusing on these creates an entirely new optimization problem. In one recent GLM-5.2 experiment, quantizing more of the model actually preserved its benchmark quality while increasing throughput by 20% , because the errors introduced in different layers could cancel each other out. Inference is no longer just the final step after training. It is becoming its own engineering discipline, with its own research problems, infrastructure, and increasingly specialized roles. In this episode, Baseten’s Philip Kiely and Ali Taha join swyx and Vibhu to explain what actually happens after a new open model is released and what it takes to turn “we generated a token” into a fast, reliable, production-ready API. We go deep on cache-aware routing, disaggregated prefill and decode, quantization, speculative decoding, KV-cache movement , model parallelism, GPU kernels, and the race to make frontier models up to 10× faster. Philip and Ali explain why inference optimizations can still produce gains of 20%, 100%, or even 200% ; how quantization errors can cancel one another out; why identical weights can behave differently across clusters; and how Baseten grafted a Kimi vision encoder onto GLM-5.2 without changing the underlying language"
-    },
-    {
-      "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "AI Vibe Check: Chinese Open Models, Distillation &amp; The Hugging Face Breach",
-      "guid": "d31dbc32-c9fa-434f-945f-3a2156527207",
-      "url": "https://unsupervised-learning.simplecast.com/episodes/ai-vibe-check-chinese-open-models-distillation-the-hugging-face-breach-GcKLYFVG",
-      "publishedAt": "2026-08-03T12:55:21.000Z",
-      "description": "In this installment of their recurring roundtable, Jacob, Ari, and Rob dig into the accelerating Chinese open-source model race, debating whether Kimi K3 has actually closed the gap with the US frontier or just looks like it has, and whether distillation fully explains China's progress. That opens into the messier fight over open-weight models generally, with the group dissecting the backlash against Anthropic's stance and asking whether powerful open models are inherently dangerous or actually a necessary part of collective defense. They connect this directly to the Fable ban episode as a possible preview of a coming frontier-model licensing regime, then turn to the OpenAI and Hugging Face security incident as a landmark, publicly legible moment of autonomous AI causing real-world harm. From there the conversation shifts to business strategy: how much value are companies actually handing over to frontier labs by building on their APIs, and what does the Grok and Cursor data advantage really tell us about the future value of real-world usage data versus purchased training data. They close with a rapid-fire tour of the news cycle, covering SSI's mysterious $5B raise, the rumored Stripe and OpenRouter acquisition, Google's continued underperformance despite structural advantages, and OpenAI's leadership speculation, plus a reflection on venture's swing back toward deep tech and physical infrastructure. (0:00) Intro (2:41) China's Open Source Models Catch Up (7:42) Does Distillation Explain China's Rise? (13:54) The Geopolitical Risk of Chinese AI Models (20:28) Should the Government Restrict Open Models? (22:06) What Are the Labs Really Learning From You? (29:22) Future of Government Regulation (40:50) The OpenAI-Hugging Face Hack (47:59) Grok, Cursor, and the Value of Real Data (56:52) SSI and OpenRouter (1:02:52) Venture Capital's Return to Deep Tech (1:05:16) Quickfire &nbsp; With your host:&nbsp;&nbsp; @jacobeffron&nbsp;&nbsp; - Managing Director at Redpoint"
+      "name": "Training Data",
+      "title": "Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem",
+      "guid": "00198340-89dd-11f1-8519-5f4366a34437",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-08-04T09:00:00.000Z",
+      "description": "Most people treat biology as a bespoke, messy science. Josh Meier and Matt McPartlon, co-founders of Chai Discovery, treat it as an engineering problem. They make the case that drug design obeys the bitter lesson: scale data, models, and compute, and the model can learn what a hand-built pipeline simply couldn't capture. The results are concrete: Chai-2 pushed de novo antibody design from a sub 0.1% hit rate to 16%, turning a needle-in-a-haystack search into something more like designing a key to fit a lock. Josh argues, counterintuitively, that biology is more verifiable than code, and explains why the goal should be more lab experiments, not fewer. Their bet: a design suite that collapses drug discovery from nine months to nine days, and arms the pharma industry rather than competing with it. Hosted by Pat Grady and Sonali Singh, Sequoia Capital 00:00 Introduction 01:52 From Discovery to Design 03:25 Protein AI Breakthroughs Timeline 06:04 Why Start in 2024 10:13 Diffusion Models Intuition 11:41 Building the Avengers Team 15:22 Hit Rates and Scaling Laws 25:01 Molecular CAD Vision 25:24 Faster Design Loops 26:32 Future Drug Discovery 28:37 Platform Business Model 31:14 Partnering Reality Check 33:44 Data Flywheel Explained 37:16 Staying Ahead at Scale 39:44 Culture and What's Next ]]>"
     }
   ],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 1
   }
 }
