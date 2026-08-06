@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-05T08:42:28.195Z",
+  "generatedAt": "2026-08-06T08:44:19.935Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Training Data",
-      "title": "Chai Discovery's Bitter Lesson: Drug Design Is Another Scaling Problem",
-      "guid": "00198340-89dd-11f1-8519-5f4366a34437",
-      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-08-04T09:00:00.000Z",
-      "description": "Most people treat biology as a bespoke, messy science. Josh Meier and Matt McPartlon, co-founders of Chai Discovery, treat it as an engineering problem. They make the case that drug design obeys the bitter lesson: scale data, models, and compute, and the model can learn what a hand-built pipeline simply couldn't capture. The results are concrete: Chai-2 pushed de novo antibody design from a sub 0.1% hit rate to 16%, turning a needle-in-a-haystack search into something more like designing a key to fit a lock. Josh argues, counterintuitively, that biology is more verifiable than code, and explains why the goal should be more lab experiments, not fewer. Their bet: a design suite that collapses drug discovery from nine months to nine days, and arms the pharma industry rather than competing with it. Hosted by Pat Grady and Sonali Singh, Sequoia Capital 00:00 Introduction 01:52 From Discovery to Design 03:25 Protein AI Breakthroughs Timeline 06:04 Why Start in 2024 10:13 Diffusion Models Intuition 11:41 Building the Avengers Team 15:22 Hit Rates and Scaling Laws 25:01 Molecular CAD Vision 25:24 Faster Design Loops 26:32 Future Drug Discovery 28:37 Platform Business Model 31:14 Partnering Reality Check 33:44 Data Flywheel Explained 37:16 Staying Ahead at Scale 39:44 Culture and What's Next ]]>"
+      "name": "AI & I by Every",
+      "title": "Why the Next Hit AI Product Will Be Social Why the Next Hit AI Product Will Be Social (Best of the Pod)",
+      "guid": "057b66e4-a02c-4c68-b10c-899c17f9c2d3",
+      "url": "https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/Why-the-Next-Hit-AI-Product-Will-Be-Social-Why-the-Next-Hit-AI-Product-Will-Be-Social-Best-of-the-Pod-e3mvbld",
+      "publishedAt": "2026-08-05T16:02:13.000Z",
+      "description": "Most consumer AI so far has been single-player: you and a chatbot, alone. Benchmark partner Sarah Tavel, one of Pinterest's first 30 employees, is betting that's about to change. She's looking for a product genius who can build an AI product with social DNA: status, network effects, and multiplayer dynamics. That'll enable users of ChatGPT and other models to learn from how others use AI and level up. On this week’s AI &amp; I, Dan Shipper revisits his conversation with Sarah. They talk about why technical founders dominate the early days of a platform shift while product-minded founders win later, what ChatGPT is still missing, and what separates a founder's real network effect from a slide with a flywheel diagram. If you found this episode interesting, please like, subscribe, comment, and share! To hear more from Dan Shipper: Subscribe to Every: https://every.to/subscribe Follow him on X: https://twitter.com/danshipper Timestamps for YouTube: 0:00 Start 1:10 Introduction 2:26 Why the future of consumer AI belongs to founders with product intuition 11:09 What Sarah sees as ChatGPT's biggest weakness 18:45 How Sarah would design a consumer AI app with social DNA 24:10 The kind of founders Sarah invests in 28:33 How to know if your startup's network effects are real 35:40 What's catching Sarah's eye beyond AI 40:41 How AI will change the way top venture capitalists invest Links to resources mentioned in the episode: Sarah Tavel on X: https://x.com/sarahtavel Benchmark: https://benchmark.com Agentio (marketplace for YouTube creators and brands): https://agentio.com/ Chainalysis: https://chainalysis.com The Five Temptations of a CEO by Patrick Lencioni: https://www.amazon.com/dp/B007BZBRB8 Thinking in Bets by Annie Duke: https://www.amazon.com/dp/B0HBBW23PM"
     }
   ],
   "stats": {
