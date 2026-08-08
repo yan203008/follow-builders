@@ -1,18 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "ec2ad161-8e87-4bd2-9e20-9f6af72518d9": 1785488146098,
-    "https://www.youtube.com/shorts/6XONgUfvoBo": 1785488147722,
-    "https://www.youtube.com/watch?v=Yukb3xuc9l8": 1785488148131,
-    "https://www.youtube.com/watch?v=n9icCt8sLzk": 1785488148544,
-    "https://www.youtube.com/shorts/vmRWUqkTtKA": 1785488148961,
-    "https://www.youtube.com/watch?v=lxDf8uEypJU": 1785488148961,
-    "https://www.youtube.com/shorts/chKZXgudDWM": 1785488149390,
-    "https://www.youtube.com/shorts/8_p4zXTmqlU": 1785488149390,
-    "https://www.youtube.com/shorts/r7PtX1JuUcE": 1785488149821,
-    "https://www.youtube.com/shorts/i3jXW3aejW0": 1785488150306,
-    "https://www.youtube.com/shorts/uLjUZkZ2xu0": 1785488151068,
-    "https://www.youtube.com/shorts/1RK2if1nGKU": 1785488151068,
     "substack:post:208082176": 1785572808844,
     "db17d1d8-8c79-11f1-9e05-6bb27aab1f6f": 1785572809016,
     "67540c92-8640-11f1-8f2a-e322343e668d": 1785572809016,
@@ -95,7 +83,16 @@
     "https://www.youtube.com/watch?v=KhOqxe18E0I": 1786087386053,
     "https://www.youtube.com/watch?v=T6kdPjHDShU": 1786087386053,
     "https://www.youtube.com/shorts/Kg4JzX63vmI": 1786087386501,
-    "https://www.youtube.com/shorts/LA51_x1jV_g": 1786087386501
+    "https://www.youtube.com/shorts/LA51_x1jV_g": 1786087386501,
+    "46bf55be-0a24-4c88-8412-d43b0f4309cf": 1786172417389,
+    "https://www.youtube.com/shorts/vyQV0GDwJ1Y": 1786172417839,
+    "https://www.youtube.com/shorts/aNV6zcqWpCg": 1786172418754,
+    "https://www.youtube.com/shorts/HkO1Ljxoias": 1786172418755,
+    "https://www.youtube.com/shorts/Bop3CJdF960": 1786172419190,
+    "https://www.youtube.com/shorts/TxkrsNrcqXQ": 1786172419606,
+    "https://www.youtube.com/watch?v=O5C5cmEVdps": 1786172419997,
+    "https://www.youtube.com/shorts/pNg3GVIIftI": 1786172420520,
+    "https://www.youtube.com/shorts/dP5omcCJ7Yg": 1786172420520
   },
   "seenArticles": {
     "https://claude.com/blog/artifacts-in-claude-code": 1785572809539,
