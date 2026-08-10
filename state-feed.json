@@ -1,14 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "https://www.youtube.com/watch?v=UXNrVUfCyLU": 1785659387813,
-    "https://www.youtube.com/shorts/agUV7cIGfJc": 1785659388231,
-    "https://www.youtube.com/shorts/xcw8DQcXFOw": 1785659388231,
-    "https://www.youtube.com/shorts/JmKmkvEAd8k": 1785659388693,
-    "https://www.youtube.com/shorts/sKXLRHgB-jg": 1785659388693,
-    "https://www.youtube.com/shorts/JcSHnYzWZUc": 1785659389185,
-    "https://www.youtube.com/shorts/XlGlWcSX_1Y": 1785659389826,
-    "https://www.youtube.com/shorts/XAZXGV5beGA": 1785659389826,
     "https://www.youtube.com/shorts/EGxtXr_Dyzs": 1785750867579,
     "https://www.youtube.com/watch?v=baIVJDFMUoQ": 1785750868756,
     "https://www.youtube.com/shorts/sagFXKyEFFI": 1785750869312,
@@ -86,13 +78,20 @@
     "https://www.youtube.com/shorts/w0hWzoo0opE": 1786258978311,
     "https://www.youtube.com/watch?v=DkZyonBS3Rg": 1786258978688,
     "https://www.youtube.com/shorts/4uwfC0zJZqw": 1786258979128,
-    "https://www.youtube.com/shorts/NPzQU0ohX-E": 1786258979128
+    "https://www.youtube.com/shorts/NPzQU0ohX-E": 1786258979128,
+    "db17d1d8-8c79-11f1-9e05-6bb27aab1f6f": 1786348165200,
+    "863550d0-f44f-4411-be36-4f629a92426c": 1786348165317,
+    "https://www.youtube.com/watch?v=dbDpegaaxvo": 1786348166951,
+    "https://www.youtube.com/watch?v=k-Dsg7qsUak": 1786348167563,
+    "https://www.youtube.com/shorts/a0Qq6pgEQxg": 1786348167966,
+    "https://www.youtube.com/shorts/NwQDsCB6Nkg": 1786348167966,
+    "https://www.youtube.com/shorts/MReIEoyTDB8": 1786348168352,
+    "https://www.youtube.com/shorts/B0vqA0Q-YcU": 1786348168728,
+    "https://www.youtube.com/watch?v=gMynmU0owYc": 1786348168728,
+    "https://www.youtube.com/watch?v=NsSglQVbqjw": 1786348169103
   },
   "seenArticles": {
-    "https://www.anthropic.com/engineering/how-we-contain-claude": 1785659383561,
-    "https://www.anthropic.com/engineering/april-23-postmortem": 1785659384181,
-    "https://www.anthropic.com/engineering/managed-agents": 1785659384804,
-    "https://claude.com/blog/claude-managed-agents-updates": 1785659385506,
-    "https://claude.com/blog/claude-for-foundation-models": 1786087381949
+    "https://claude.com/blog/claude-for-foundation-models": 1786087381949,
+    "https://claude.com/blog/artifacts-in-claude-code": 1786348165791
   }
 }
