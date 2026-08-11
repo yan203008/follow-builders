@@ -1,27 +1,8 @@
 {
-  "generatedAt": "2026-08-10T07:49:25.413Z",
+  "generatedAt": "2026-08-11T07:14:41.932Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Building an Autonomous Enterprise for Real-World Services with Netic Founder Melisa Tokmak",
-      "guid": "db17d1d8-8c79-11f1-9e05-6bb27aab1f6f",
-      "url": "https://www.youtube.com/@NoPriorsPodcast",
-      "publishedAt": "2026-07-31T10:00:00.000Z",
-      "description": "When your AC fails in a heatwave, you don’t want a busy signal; you need a solution. Netic founder and CEO Melisa Tokmak joins host Elad Gil to explain how Netic’s autonomous AI platform acts as an intermediary between companies and customers, deploying agents to instantly handle essential services, from emergency home repairs to hospitality to pet care. Melisa describes the complexity of these real-world workloads, which have traditionally relied on large human support teams, and how over 70% of Netic’s customers interact first with AI. She also talks about the reasoning behind building a scalable product company rather than an AI roll-up, why she believes robotics will not catch up in these industries in the near future, why she doesn’t view large frontier labs as competitive threats, and how private equity’s playbook has shifted toward measurable ROI in the AI-era. Plus, why Melisa is optimistic about the impact AI will have on education. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @netic_AI | @melisatokmak Chapters: 00:00 – Melisa Tokmak Introduction 00:32 – What Netic Builds 03:53 – Automating Workflows for Essential Services 06:26 – Building a Service vs. AI Roll-Up 10:38 – AI for the Real World Timeline 12:56 – Can Big Labs Compete? 15:35 – Modern Founder Mindset 19:09 – Screening for Agency 22:25 – Five Year Vision 23:53 – Selling to Slow Industries 27:23 – How Private Equity Approached AI 31:14 – What Excites Melisa About the Future of AI 34:27 – Conclusion ]]>"
-    },
-    {
-      "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "Ep 92: xAI Co-Founder Unpacks the Future of Model Development",
-      "guid": "863550d0-f44f-4411-be36-4f629a92426c",
-      "url": "https://unsupervised-learning.simplecast.com/episodes/ep-92-xai-co-founder-unpacks-the-future-of-model-development-EkxoGcDL",
-      "publishedAt": "2026-07-31T15:15:49.000Z",
-      "description": "Igor Babuschkin, co-founder of River AI and formerly a co-founder of xAI, joins to unpack a career that spans nearly every major AI lab: he led the StarCraft and AlphaCode work at DeepMind, joined OpenAI's reasoning team years before o1 shipped, and co-founded xAI, where he helped stand up the Colossus data center in roughly 120 days and reflects candidly on what it's actually like working with Elon Musk day to day, plus what the Cursor acquisition actually unlocked for Grok's coding models. He also discusses why he left xAI to start River AI, the three bets behind it, and why he's betting on local hardware, not just software, for personal AI. On the enterprise side, he tackles whether companies will actually train their own models or if it's just a cost play, and makes the case that proprietary labs like OpenAI and Anthropic are facing a real business squeeze. He's skeptical that stacking specialized RL domains generalizes the way pre-training scale did, and is candid about the uncomfortable reality that today's frontier open-weight models are almost entirely Chinese. He closes on what's actually needed to push model progress beyond coding into non-verifiable domains, and the broader implications of where AI is headed next. (0:00) Intro (1:17) Writing Fiction on Where AI Is Headed (4:46) Cracking Agents Beyond Coding (10:29) Why Igor Left to Start River (12:22) River's Three Big Bets (18:06) Weights vs. Memory: The Personalization Debate (22:04) Should Enterprises Train Their Own Models? (25:10) Are Proprietary Labs Losing Their Edge? (32:16) The China Open-Source Problem (44:19) The Elon Call That Started xAI (50:18) Thoughts on Cursor Acquisition (52:16) What's Actually Bottlenecking AI (56:55) Humans, Machines, and Staying Relevant (1:01:29) Igor's Odds This All Goes Well &nbsp; With your host:&nbsp;&nbsp; @jacobeffron&nbsp;&nbsp; - Managing Director at Redpoint"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 0
   }
 }
