@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-08-11T07:14:41.932Z",
+  "generatedAt": "2026-08-12T07:38:51.951Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "🔬The BioAI Phase Shift - Matthew McPartlon &amp; Neil Patil, Chai Discovery",
+      "guid": "substack:post:209779219",
+      "url": "https://www.latent.space/p/chai-discovery",
+      "publishedAt": "2026-08-11T21:03:50.000Z",
+      "description": "This January, four big AI × Pharma tools deals were announced at the huge JPM Pharma conference that takes over San Francisco every year. OpenAI-backed Chai Discovery ( now worth $4B ) was somehow at the heart despite being all of 2 years old. The Science team is proud to bring you the first podcast with cofounder Matt McPartlon and product lead Neil Patil to tell the full story! Editor’s note: not to be confused with Chai AI , which was another top pod of ours. Pharma suddenly doing big AI tools deals For the non-pharma people, JPM is JP Morgan’s annual conference for pharma deal-making that takes over San Francisco for a week in January with hundreds of side events, etc. It’s a big thing. Tools deals for pharma are also a big (new) thing: companies that start as AI for Pharma usually end up building their own drug pipelines instead, and the reason is something like this: convincing pharma to use your tool requires proof that your tool works. Proof means good targets, maybe with good clinical validation. If you have that, then it’s easier to raise money (with a known, if long path to commercialization) or sell (e.g payment in biobucks) for a specific target than it is to sell to lots of companies on a promise that it will work across their portfolios. The “we’ll just partner / build our own drug” optionality proved to be the only good path up until January. What changed? In short, the tools got good enough for drug design teams to trust. Good-enough-to-trust unlocks the ability to scale discovery: get more, better candidates into the lab and animal trials faster. More screening for toxicity, better delivery, etc. This means that what you push to the clinic is more likely to succeed. Tools also unlock new capabilities: mechanisms that are very hard or impossible to develop using lab-based discovery. Designing an antibody that precisely triggers a very specific molecular cascade takes many years of trial and error. Designing bi-specific antibodies (that bind to two different proteins) is similarly difficult. Good design tools can unlock this. RJ: The fact that the quality of the model has jumped means you’re enabling things you just plain couldn’t do. So it’s a step change. It’s not an efficiency argument at all, or not so much. Matt: Yeah, exactly. It’s kind of interesting, ev"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
