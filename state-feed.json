@@ -1,15 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "ec2ad161-8e87-4bd2-9e20-9f6af72518d9": 1786258976269,
-    "https://www.youtube.com/watch?v=1G4JLqFdNHs": 1786258977218,
-    "https://www.youtube.com/shorts/3_7idh_L0lo": 1786258977531,
-    "https://www.youtube.com/shorts/DHQCHiePyqM": 1786258977531,
-    "https://www.youtube.com/shorts/h2C5UZGgUHs": 1786258977928,
-    "https://www.youtube.com/shorts/w0hWzoo0opE": 1786258978311,
-    "https://www.youtube.com/watch?v=DkZyonBS3Rg": 1786258978688,
-    "https://www.youtube.com/shorts/4uwfC0zJZqw": 1786258979128,
-    "https://www.youtube.com/shorts/NPzQU0ohX-E": 1786258979128,
     "db17d1d8-8c79-11f1-9e05-6bb27aab1f6f": 1786348165200,
     "863550d0-f44f-4411-be36-4f629a92426c": 1786348165317,
     "https://www.youtube.com/watch?v=dbDpegaaxvo": 1786348166951,
@@ -74,7 +65,19 @@
     "https://www.youtube.com/shorts/lqDequfrdD4": 1786862814172,
     "https://www.youtube.com/watch?v=wmUAR-mAe1s": 1786862814609,
     "https://www.youtube.com/shorts/rhVs040GUX8": 1786862814915,
-    "https://www.youtube.com/shorts/q92YvMw6P04": 1786862814915
+    "https://www.youtube.com/shorts/q92YvMw6P04": 1786862814915,
+    "46bf55be-0a24-4c88-8412-d43b0f4309cf": 1786950214308,
+    "https://www.youtube.com/watch?v=5rDMq-5_xkM": 1786950214694,
+    "https://www.youtube.com/watch?v=R6lWAZMkrUk": 1786950215334,
+    "https://www.youtube.com/watch?v=ZpDHCtuyTmQ": 1786950215785,
+    "https://www.youtube.com/shorts/XmUVbu5BgiI": 1786950216092,
+    "https://www.youtube.com/shorts/Y6K7C_0BdKg": 1786950216504,
+    "https://www.youtube.com/shorts/CGtyDqOAw_g": 1786950216504,
+    "https://www.youtube.com/shorts/sb08mknDyMI": 1786950216816,
+    "https://www.youtube.com/watch?v=kHr3RrRTGBw": 1786950216816,
+    "https://www.youtube.com/watch?v=LM2IQqjJMmM": 1786950217252,
+    "https://www.youtube.com/watch?v=wLjRqx12LSM": 1786950217252,
+    "https://www.youtube.com/shorts/_RPnU3uzEUE": 1786950217558
   },
   "seenArticles": {
     "https://claude.com/blog/artifacts-in-claude-code": 1786348165791,
