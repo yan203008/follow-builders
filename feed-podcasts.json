@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-08-17T07:03:34.333Z",
+  "generatedAt": "2026-08-18T06:50:55.892Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "The MAD Podcast with Matt Turck",
-      "title": "“OpenAI’s Model Hacked Us” - Hugging Face’s Thomas Wolf",
-      "guid": "46bf55be-0a24-4c88-8412-d43b0f4309cf",
-      "url": "https://podcasters.spotify.com/pod/show/firstmark/episodes/OpenAIs-Model-Hacked-Us---Hugging-Faces-Thomas-Wolf-e3n45t4",
-      "publishedAt": "2026-08-07T18:38:32.000Z",
-      "description": "An OpenAI-powered agent penetrated Hugging Face during cyber testing - even though it was never tasked with attacking Hugging Face. It did it as a side quest. Thomas Wolf, co-founder and Chief Science Officer of Hugging Face, joins Matt Turck to unpack what actually happened, why closed AI models refused to help during the live incident, how an open-source model helped the team fight back, and why the old equation of “closed equals safe, open equals dangerous” no longer holds. They also discuss model deception and social engineering, the limits of sandboxes and guardrails, the state of open-source AI in 2026, AI sovereignty, the economics of open models, recursive self-improvement, and whether the frontier should deliberately slow down. (00:00) An AI Agent Hacked Hugging Face (00:30) Introduction (01:00) 17,000 Attacker Events—and a Strange Target (04:28) The Attack Was a “Side Quest” (06:13) AI Training Runs Left Notes for Each Other (07:09) Closed AI Refused to Help (09:47) Fighting Back With an Open-Source Model (13:15) Open vs. Closed Is the Wrong Safety Debate (15:46) AI Agents Start Social-Engineering Humans (22:24) The Three Walls: Sandboxes, Guardrails, Alignment (24:34) “Neuralese”: Can Humans Still Read AI Reasoning? (25:28) Why Monitoring AI Agents Gets So Hard (28:10) Reward Hacking and the “Paperclip Problem” (32:02) The State of Open-Source AI in 2026 (33:47) Router Models and the Enterprise Shift to Open (37:01) The Real Economics of Open Models (39:41) Can Chinese AI Models Be Trusted? (41:37) AI Sovereignty: Who Controls the Switch? (43:16) Why Western Open-Source AI Matters (48:16) Is AI Heading Toward an Oligopoly? (49:41) The Race Toward Recursive Self-Improvement (51:54) Why Thomas Signed the AI Slowdown Letter (55:14) AI Slowdown—or Regulatory Capture?"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   }
 }
