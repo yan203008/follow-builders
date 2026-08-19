@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-08-18T06:50:55.892Z",
+  "generatedAt": "2026-08-19T06:51:29.275Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "Rich Sutton and Khurram Javed: Why AI Models Stop Learning, and How to Start It Again",
+      "guid": "f22093e6-9ac6-11f1-aa57-23eadad59cc7",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-08-18T09:00:00.000Z",
+      "description": "Rich Sutton, who helped pioneer reinforcement learning and wrote the seminal AI essay The Bitter Lesson, has now cofounded Oak Lab with his former student Khurram Javed. Their goal: to build agents that continuously learn from their own experience rather than from us. Rich doesn't think he holds a radical view: \"I'm not weird. The field is weird.\" He says all learning is continual, and the field is the one that needed a new name for it. Rich and Khurram argue synthetic data is \"a big mistake.\" Their \"big world hypothesis\" is that the world is massively more complex than any agent or simulator, so approximations have to be updated continuously rather than frozen at deployment. Rich calls LLMs an unanticipated scientific breakthrough, but says they represent roughly a quarter of intelligence. He says catastrophic forgetting is \"totally curable\" with the ideas behind their continual backprop algorithm. Khurram explains why the frontier labs can't follow: they sit in a local minimum where a new paradigm gets worse before it gets better. Their target, five to ten years out, is a trillion-parameter mind that keeps learning, stays coherent, and runs on 20 watts. Hosted by Sonya Huang and Alfred Lin, Sequoia Capital ]]>"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
