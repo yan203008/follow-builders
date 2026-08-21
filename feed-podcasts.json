@@ -1,18 +1,27 @@
 {
-  "generatedAt": "2026-08-20T06:53:26.694Z",
+  "generatedAt": "2026-08-21T06:54:27.342Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "AI & I by Every",
-      "title": "The AI Alien Companion App That's Bringing In $4M a Year (Best of the Pod)",
-      "guid": "94dc3da6-f190-42cf-96e7-2ccdf8a9ca35",
-      "url": "https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/The-AI-Alien-Companion-App-Thats-Bringing-In-4M-a-Year-Best-of-the-Pod-e3nimh7",
-      "publishedAt": "2026-08-19T15:16:46.000Z",
-      "description": "LLMs are a new medium for storytelling.That’s according to the creators of Portola, the company behind Tolan: an embodied AI companion that lives on its own planet and chats to you with a distinct personality. In 2025, Portola's founder and CEO Quinten Farmer and Head of Story Eliot Peper joined Dan Shipper to explain how they’re building this new medium from scratch. Their aim is to help users go from overwhelmed to grounded through conversations with Tolan that feel personal and spontaneous, not scripted. On this week’s AI &amp; I, Dan revisits his conversation with Quinten and Eliot. They discuss why response time is everything for voice-based AI interfaces, how Portola designs AI personalities users will click with, and why character-driven AI could become a new computing interface. If you found this episode interesting, please like, subscribe, comment, and share!To hear more from Dan Shipper:Subscribe to Every: https://every.to/subscribeFollow him on X: https://twitter.com/danshipperGo to https://attio.com/every and get 15% off your first year.Timestamps: 00:01:30 - Introduction 00:04:07 - Talking to the Portola CEO's Tolan, Clarence 00:09:11 - How Portola went from building software for kids to AI companions 00:23:40 - Why response time is everything for voice-based AI interfaces 00:29:54 - Tolans don't use scripted prompts—they're taught to improvise 00:37:23 - How to know which AI personalities your users will click with 00:42:27 - Developing the character traits of an AI companion 00:49:48 - What does it mean to build technology that makes us flourish 01:01:10 - How Portola evaluates whether Tolans are resonating with users 01:11:01 - Inside Portola's viral growth strategy"
+      "name": "Latent Space",
+      "title": "🔬The BioAI Phase Shift - Matthew McPartlon &amp; Neil Patil, Chai Discovery",
+      "guid": "substack:post:209779219",
+      "url": "https://www.latent.space/p/chai-discovery",
+      "publishedAt": "2026-08-11T21:03:50.000Z",
+      "description": "This January, four big AI × Pharma tools deals were announced at the huge JPM Pharma conference that takes over San Francisco every year. OpenAI-backed Chai Discovery ( now worth $4B ) was somehow at the heart despite being all of 2 years old. The Science team is proud to bring you the first podcast with cofounder Matt McPartlon and product lead Neil Patil to tell the full story! Editor’s note: not to be confused with Chai AI , which was another top pod of ours. Pharma suddenly doing big AI tools deals For the non-pharma people, JPM is JP Morgan’s annual conference for pharma deal-making that takes over San Francisco for a week in January with hundreds of side events, etc. It’s a big thing. Tools deals for pharma are also a big (new) thing: companies that start as AI for Pharma usually end up building their own drug pipelines instead, and the reason is something like this: convincing pharma to use your tool requires proof that your tool works. Proof means good targets, maybe with good clinical validation. If you have that, then it’s easier to raise money (with a known, if long path to commercialization) or sell (e.g payment in biobucks) for a specific target than it is to sell to lots of companies on a promise that it will work across their portfolios. The “we’ll just partner / build our own drug” optionality proved to be the only good path up until January. What changed? In short, the tools got good enough for drug design teams to trust. Good-enough-to-trust unlocks the ability to scale discovery: get more, better candidates into the lab and animal trials faster. More screening for toxicity, better delivery, etc. This means that what you push to the clinic is more likely to succeed. Tools also unlock new capabilities: mechanisms that are very hard or impossible to develop using lab-based discovery. Designing an antibody that precisely triggers a very specific molecular cascade takes many years of trial and error. Designing bi-specific antibodies (that bind to two different proteins) is similarly difficult. Good design tools can unlock this. RJ: The fact that the quality of the model has jumped means you’re enabling things you just plain couldn’t do. So it’s a step change. It’s not an efficiency argument at all, or not so much. Matt: Yeah, exactly. It’s kind of interesting, ev"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "From Restoring Sight to Reimagining the Brain, with Max Hodak",
+      "guid": "8ec6281a-9c1a-11f1-b9ab-fb1fa4061363",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-08-20T10:00:00.000Z",
+      "description": "Max Hodak, co-founder and CEO of Science Corporation, joins Sarah Guo to discuss the future of vision, brain-computer interfaces, and the human experience. Max explains how Science’s PRIMA retinal implant could restore functional vision for people who have lost their sight, and why treating the brain as a computational system could unlock new approaches to medicine. They explore the broader potential of neural devices, from restoring lost capabilities to expanding human potential, as well as deeper questions around identity, consciousness, and whether the human experience can persist as our biological hardware changes. Max also shares Science’s long-term vision for reducing the fragility of the human condition by repairing, replacing, and ultimately upgrading parts of ourselves. Finally, he discusses the surprising parallels between AI models and biological brains, and why AI may offer a powerful new lens for understanding intelligence. Chapters : 00:00 – Cold Open Trailer 01:40 – Max Hodak Introduction 02:00 – Science Corporation Overview and Origin 02:53 – A Revolutionary Solve for Blindness&nbsp; 06:32 – Scope of Timeline and Engineer Cost 09:10 – Clinic Trial Process 09:45 - The Response from Clinicians 12:21 – Broader Biotech Landscape 14:59 – Brain’s Relationship to Senses 17:35 – The Study of Consciousness&nbsp; 19:50 – Investments in Brain Computer Interface 22:10 – Fertile Ways to Study Neuroscience 24:46 – Biotech Expansion for Science Corporation 27:50 – What Success Looks Like in Neuroscience and Tech 29:06 - Goals Within Human Preservation vs. Adaptation&nbsp; 30:25 – Conclusion ]]>"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 2
   }
 }

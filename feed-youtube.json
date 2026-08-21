@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T06:53:30.339Z",
+  "generatedAt": "2026-08-21T06:54:29.951Z",
   "lookbackHours": 48,
   "youtube": [],
   "stats": {
@@ -7,11 +7,11 @@
     "totalVideos": 0
   },
   "errors": [
-    "YouTube: Failed to fetch Predictive History: HTTP 404",
-    "YouTube: Failed to fetch Jeff Su: HTTP 404",
+    "YouTube: Failed to fetch Predictive History: HTTP 500",
+    "YouTube: Failed to fetch Jeff Su: HTTP 500",
     "YouTube: Failed to fetch Mel Robbins: HTTP 404",
     "YouTube: Failed to fetch Tina Huang: HTTP 404",
-    "YouTube: Failed to fetch Dan Koe: HTTP 404",
+    "YouTube: Failed to fetch Dan Koe: HTTP 500",
     "YouTube: Failed to fetch Tim Ferriss: HTTP 404",
     "YouTube: Failed to fetch Ali Abdaal: HTTP 404",
     "YouTube: Failed to fetch FearNation 世界苦茶: HTTP 404",
@@ -20,8 +20,8 @@
     "YouTube: Failed to fetch Chris Williamson: HTTP 404",
     "YouTube: Failed to fetch How I AI: HTTP 404",
     "YouTube: Failed to fetch Mark Manson: HTTP 404",
-    "YouTube: Failed to fetch 立党 lidang: HTTP 500",
-    "YouTube: Failed to fetch Codie Sanchez: HTTP 404",
+    "YouTube: Failed to fetch 立党 lidang: HTTP 404",
+    "YouTube: Failed to fetch Codie Sanchez: HTTP 500",
     "YouTube: Failed to fetch Tascha Labs: HTTP 404"
   ]
 }
