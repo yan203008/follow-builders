@@ -1,19 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "00198340-89dd-11f1-8519-5f4366a34437": 1786693105991,
-    "2f8edaf4-9698-11f1-bdc1-eb068382bf86": 1786693106037,
-    "https://www.youtube.com/watch?v=j_-9a3SM_I8": 1786693107989,
-    "https://www.youtube.com/watch?v=wbuPQPu-03Y": 1786693108297,
-    "https://www.youtube.com/shorts/1o3PEDCLuFM": 1786693108604,
-    "https://www.youtube.com/watch?v=ka2GKBfviic": 1786693108604,
-    "https://www.youtube.com/shorts/0wDuvDFV7Fc": 1786693109083,
-    "https://www.youtube.com/shorts/-oNl5WGGImU": 1786693109505,
-    "https://www.youtube.com/shorts/xdQQY5_Dv3U": 1786693110139,
-    "https://www.youtube.com/shorts/UsMwM66i5z0": 1786693110139,
-    "17b96322-915c-11f1-aad7-53d361bc6996": 1786776321958,
-    "94e24e7c-48b4-4b72-ba0a-355f50c2441a": 1786776322455,
-    "057b66e4-a02c-4c68-b10c-899c17f9c2d3": 1786776322478,
     "https://www.youtube.com/watch?v=fEMHMd7fovM": 1786862812376,
     "https://www.youtube.com/shorts/waDtXRCShCg": 1786862812376,
     "https://www.youtube.com/watch?v=C7Yu7JdiG_Y": 1786862812926,
@@ -40,10 +27,11 @@
     "f22093e6-9ac6-11f1-aa57-23eadad59cc7": 1787122289070,
     "94dc3da6-f190-42cf-96e7-2ccdf8a9ca35": 1787208806694,
     "substack:post:209779219": 1787295266412,
-    "8ec6281a-9c1a-11f1-b9ab-fb1fa4061363": 1787295266832
+    "8ec6281a-9c1a-11f1-b9ab-fb1fa4061363": 1787295266832,
+    "substack:post:212197985": 1787381261711,
+    "7f04c744-6cb4-48c2-a0f9-1a3a46e0137c": 1787381262246
   },
   "seenArticles": {
-    "https://claude.com/blog/claude-for-foundation-models": 1786776322819,
     "https://claude.com/blog/artifacts-in-claude-code": 1787122289669,
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1787208806947,
     "https://www.anthropic.com/engineering/april-23-postmortem": 1787208807751,
