@@ -1,18 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "46bf55be-0a24-4c88-8412-d43b0f4309cf": 1786950214308,
-    "https://www.youtube.com/watch?v=5rDMq-5_xkM": 1786950214694,
-    "https://www.youtube.com/watch?v=R6lWAZMkrUk": 1786950215334,
-    "https://www.youtube.com/watch?v=ZpDHCtuyTmQ": 1786950215785,
-    "https://www.youtube.com/shorts/XmUVbu5BgiI": 1786950216092,
-    "https://www.youtube.com/shorts/Y6K7C_0BdKg": 1786950216504,
-    "https://www.youtube.com/shorts/CGtyDqOAw_g": 1786950216504,
-    "https://www.youtube.com/shorts/sb08mknDyMI": 1786950216816,
-    "https://www.youtube.com/watch?v=kHr3RrRTGBw": 1786950216816,
-    "https://www.youtube.com/watch?v=LM2IQqjJMmM": 1786950217252,
-    "https://www.youtube.com/watch?v=wLjRqx12LSM": 1786950217252,
-    "https://www.youtube.com/shorts/_RPnU3uzEUE": 1786950217558,
     "f22093e6-9ac6-11f1-aa57-23eadad59cc7": 1787122289070,
     "94dc3da6-f190-42cf-96e7-2ccdf8a9ca35": 1787208806694,
     "substack:post:209779219": 1787295266412,
@@ -29,7 +17,14 @@
     "https://www.youtube.com/watch?v=9C5AE38q930": 1787467723239,
     "https://www.youtube.com/watch?v=Im-TfpBPgTs": 1787467723239,
     "https://www.youtube.com/shorts/GJNar46RLDk": 1787467723548,
-    "https://www.youtube.com/shorts/O3lHBmD5PkM": 1787467723548
+    "https://www.youtube.com/shorts/O3lHBmD5PkM": 1787467723548,
+    "https://www.youtube.com/watch?v=cYP5Hc-ypOM": 1787555206289,
+    "https://www.youtube.com/shorts/CVMWEg8gmsM": 1787555206682,
+    "https://www.youtube.com/shorts/2r1Dotzw6kM": 1787555206682,
+    "https://www.youtube.com/shorts/fvhKGpifRC8": 1787555206987,
+    "https://www.youtube.com/shorts/Oo0haaag7m4": 1787555207379,
+    "https://www.youtube.com/watch?v=cp2X0ihF4Zg": 1787555207379,
+    "https://www.youtube.com/watch?v=0grJ4da1fCA": 1787555207776
   },
   "seenArticles": {
     "https://claude.com/blog/artifacts-in-claude-code": 1787122289669,

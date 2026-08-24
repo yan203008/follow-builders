@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-08-23T06:48:38.633Z",
+  "generatedAt": "2026-08-24T07:06:45.403Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "What Chess.com Teaches US About Superhuman Capabilities, with CEO Erik Allebest",
-      "guid": "2f8edaf4-9698-11f1-bdc1-eb068382bf86",
-      "url": "https://www.youtube.com/@NoPriorsPodcast",
-      "publishedAt": "2026-08-13T17:29:00.000Z",
-      "description": "In a world of infinite gaming and entertainment possibilities, how does a centuries-old game stay so popular? Chess.com co-founder and CEO Erik Allebest joins Sarah Guo to explain how the evolution of technology has kept people coming back to chess, even when machines can beat us at the game. Erik talks about how the desire to build a MySpace-like community for chess led to the purchase of a domain name from a bankruptcy sale back in 2005, and scaled into a community with 10 million daily active users and 250 million total registered members. He also discusses the growth of the cultural relevance of chess, how investments from private equity firms General Atlantic and CVC helped grow and strengthen their platform, and how Chess.com is leveraging AI both within the business itself and to make a better product for its community. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @chesscom | @erikallebest Chapters: 00:00 – Cold Open Trailer 01:05 – Erik Allebest Introduction 01:48 – Chess.com Today 02:57 – Buying and Scaling Chess.com&nbsp; 06:29 – Competition and Growth 11:52 – Chess and Cultural Relevance 14:32 – Private Equity Investment 19:31 – Playing Games Amid Evolving Tech 25:09 – Tech, Skill Distribution, and Expertise 28:40 – Chess and Cheating 31:20 – What Makes Chess Special 33:17 – Chess.com Future Vision 34:54 – Founder Advice 36:48 – AGI/ASI Predictions 40:02 – AI Investments at Chess.com&nbsp; 42:13 – How AI May Change Product at Chess.com 43:27 – Poker Rating Algorithms 46:07 – Conclusion ]]>"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   }
 }
