@@ -1,7 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "f22093e6-9ac6-11f1-aa57-23eadad59cc7": 1787122289070,
     "94dc3da6-f190-42cf-96e7-2ccdf8a9ca35": 1787208806694,
     "substack:post:209779219": 1787295266412,
     "8ec6281a-9c1a-11f1-b9ab-fb1fa4061363": 1787295266832,
@@ -24,10 +23,16 @@
     "https://www.youtube.com/shorts/fvhKGpifRC8": 1787555206987,
     "https://www.youtube.com/shorts/Oo0haaag7m4": 1787555207379,
     "https://www.youtube.com/watch?v=cp2X0ihF4Zg": 1787555207379,
-    "https://www.youtube.com/watch?v=0grJ4da1fCA": 1787555207776
+    "https://www.youtube.com/watch?v=0grJ4da1fCA": 1787555207776,
+    "2e1d938c-9fed-11f1-b924-cf663b124449": 1787727359093,
+    "https://www.youtube.com/shorts/TsU00pg6dmY": 1787727360246,
+    "https://www.youtube.com/watch?v=butCyO_LccY": 1787727360791,
+    "https://www.youtube.com/shorts/eVdcrG125_A": 1787727360791,
+    "https://www.youtube.com/watch?v=58-k4F7-AoA": 1787727361097,
+    "https://www.youtube.com/shorts/yU8Rs7xY-z0": 1787727361941,
+    "https://www.youtube.com/shorts/xyZ4bUYDuxI": 1787727361941
   },
   "seenArticles": {
-    "https://claude.com/blog/artifacts-in-claude-code": 1787122289669,
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1787208806947,
     "https://www.anthropic.com/engineering/april-23-postmortem": 1787208807751,
     "https://www.anthropic.com/engineering/managed-agents": 1787208808336,

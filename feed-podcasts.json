@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-08-25T06:55:22.434Z",
+  "generatedAt": "2026-08-26T06:55:59.316Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "Parallel’s Parag Agrawal: Building a New Web for AI Agents",
+      "guid": "2e1d938c-9fed-11f1-b924-cf663b124449",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-08-25T09:00:00.000Z",
+      "description": "Parag Agrawal is making a bet that goes against two decades of web search: agents will query the web a thousand times more than humans ever have, and the infrastructure built around human clicks is wrong for them. The former Twitter CEO, now founder and CEO of Parallel Web Systems, explains why Parallel treats human click data as a bug and trains on agent feedback instead. He unpacks the counterintuitive choice to ship a search agent before a search engine, building an index incrementally, and how the new Turbo product cut agentic search to 200 milliseconds. But the problem Parag keeps returning to is economic: the ad-supported internet collapses when agents show up instead of people. His fix draws on Shapley values to pay content owners for the value their pages provide agents, with real dollars reaching publishers, he predicts, within 12 to 24 months. Hosted by Sonya Huang and Andrew Reed, Sequoia Capital ]]>"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
