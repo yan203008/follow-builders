@@ -1,8 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "substack:post:212197985": 1787381261711,
-    "7f04c744-6cb4-48c2-a0f9-1a3a46e0137c": 1787381262246,
     "2f8edaf4-9698-11f1-bdc1-eb068382bf86": 1787467717889,
     "https://www.youtube.com/watch?v=Z1HWDoSaC5Q": 1787467721046,
     "https://www.youtube.com/watch?v=lAnnY7P-vFU": 1787467721546,
@@ -55,7 +53,13 @@
     "https://www.youtube.com/shorts/BHrGRNg8g6M": 1787941519531,
     "https://www.youtube.com/shorts/tFVqBqCVbXU": 1787941520232,
     "https://www.youtube.com/shorts/gOKx7gT4XkY": 1787941520951,
-    "https://www.youtube.com/shorts/YNF-2PEZRYQ": 1787941520951
+    "https://www.youtube.com/shorts/YNF-2PEZRYQ": 1787941520951,
+    "8ec6281a-9c1a-11f1-b9ab-fb1fa4061363": 1788006700568,
+    "https://www.youtube.com/shorts/9MFQBFUnzxY": 1788006702085,
+    "https://www.youtube.com/shorts/p6pB_OsPA4A": 1788006702085,
+    "https://www.youtube.com/watch?v=ej8xMoCPYQg": 1788006702515,
+    "https://www.youtube.com/shorts/Vegu-ph8eYg": 1788006702821,
+    "https://www.youtube.com/shorts/R7D6HocLKrE": 1788006702821
   },
   "seenArticles": {
     "https://claude.com/blog/claude-for-foundation-models": 1787467719186,
