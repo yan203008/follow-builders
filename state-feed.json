@@ -1,17 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "2f8edaf4-9698-11f1-bdc1-eb068382bf86": 1787467717889,
-    "https://www.youtube.com/watch?v=Z1HWDoSaC5Q": 1787467721046,
-    "https://www.youtube.com/watch?v=lAnnY7P-vFU": 1787467721546,
-    "https://www.youtube.com/shorts/w44x3qGb330": 1787467722008,
-    "https://www.youtube.com/shorts/QJEZ62krWws": 1787467722008,
-    "https://www.youtube.com/shorts/zw9yxsMZCZc": 1787467722469,
-    "https://www.youtube.com/shorts/3Pwku4yThyA": 1787467722779,
-    "https://www.youtube.com/watch?v=9C5AE38q930": 1787467723239,
-    "https://www.youtube.com/watch?v=Im-TfpBPgTs": 1787467723239,
-    "https://www.youtube.com/shorts/GJNar46RLDk": 1787467723548,
-    "https://www.youtube.com/shorts/O3lHBmD5PkM": 1787467723548,
     "https://www.youtube.com/watch?v=cYP5Hc-ypOM": 1787555206289,
     "https://www.youtube.com/shorts/CVMWEg8gmsM": 1787555206682,
     "https://www.youtube.com/shorts/2r1Dotzw6kM": 1787555206682,
@@ -59,10 +48,17 @@
     "https://www.youtube.com/shorts/p6pB_OsPA4A": 1788006702085,
     "https://www.youtube.com/watch?v=ej8xMoCPYQg": 1788006702515,
     "https://www.youtube.com/shorts/Vegu-ph8eYg": 1788006702821,
-    "https://www.youtube.com/shorts/R7D6HocLKrE": 1788006702821
+    "https://www.youtube.com/shorts/R7D6HocLKrE": 1788006702821,
+    "substack:post:212197985": 1788089812123,
+    "https://www.youtube.com/watch?v=NMYQt25otes": 1788089813257,
+    "https://www.youtube.com/watch?v=yqssCwU0eFI": 1788089813893,
+    "https://www.youtube.com/shorts/bJ0mMRiNCxI": 1788089814204,
+    "https://www.youtube.com/shorts/JJsCeh79FxA": 1788089814204,
+    "https://www.youtube.com/shorts/LcomhBQNmyE": 1788089814703,
+    "https://www.youtube.com/watch?v=4mJzXmHFBDM": 1788089815074,
+    "https://www.youtube.com/shorts/Zj0XSGm8N-8": 1788089815380
   },
   "seenArticles": {
-    "https://claude.com/blog/claude-for-foundation-models": 1787467719186,
     "https://claude.com/blog/claude-in-chrome-generally-available": 1787851787847,
     "https://claude.com/blog/cowork-built-in-browser": 1787851788452,
     "https://claude.com/blog/artifacts-in-claude-code": 1787851789033,
