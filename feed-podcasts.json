@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-08-30T11:36:52.663Z",
+  "generatedAt": "2026-08-31T13:13:02.661Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
-      "guid": "substack:post:212197985",
-      "url": "https://www.latent.space/p/simile",
-      "publishedAt": "2026-08-21T23:37:38.000Z",
-      "description": "When we first dicsussed the Summer of Simulative AI in 2024 we knew it would be a brief summer, but it has recently come back with a vengeance with SimGym in April and now Simile AI’s $2B Series B , backed by GreenOaks and Index Ventures with prominent backers like Fei-Fei Li and Andrej Karpathy, running tens of millions of simulations for Fortune 100 clients like CVS and 85–99% accuracy vs human focus groups. Time to catch up on why this Second Summer of simulation is working! From creating Smallville , the landmark 2023 paper on Generative Agents that showed AI characters could remember, plan, socialize, and develop emergent behaviors , to now building foundation models of human behavior, Joon Sung Park is trying to answer a much bigger question: what if we could simulate the world before making decisions in it? In this episode, the Simile co-founder and CEO joins us to unpack the path from generative agents to digital twins, why today’s frontier models still fail to capture how humans actually behave, and what it would take to eventually simulate all 8 billion people on Earth. We go deep on Simile’s approach to modeling human behavior : long-form interviews, observational and transaction data, randomized controlled trials, population-level and individual-level models, and post-training on the causal mechanisms behind why people make decisions. Joon explains how his research created digital twins that reproduced human behavior and attitudes 85% as accurately as people reproduced their own responses , why models optimized to be rational can be bad simulations of irrational humans, and why understanding “social physics” may require changing model weights rather than simply prompting frontier LLMs. We also explore the much larger ambition behind simulation : testing products and policies before deploying them, finding counterintuitive paths toward desired outcomes, modeling emergent behavior across entire societies, and potentially tackling problems like climate change , democratic instability, and UBI . Joon reflects on scaling laws for simulation , the economics of data-center-scale simulated worlds , the connection to Thomas Schelling and psychohistory, why simulation is surp"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   }
 }
