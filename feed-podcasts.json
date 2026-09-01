@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-08-31T13:13:02.661Z",
+  "generatedAt": "2026-09-01T11:24:05.269Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph",
+      "guid": "2361fcb0-a56c-11f1-bcee-5b403a4e1902",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-09-01T09:00:00.000Z",
+      "description": "Most public safety technology companies grow by collecting more data. Peregrine inverted the model: no sensors, no new data, a business built on connecting the data and information cities already own. Co-founders Nick Noone and Ben Rudolph received more than two dozen no's before San Pablo PD let them in the door in February 2018. Today, Peregrine powers law enforcement, emergency medical services, fire and rescue, and other services in more than 400 cities and communities globally. Nick and Ben explain their north star for data sovereignty, and discuss how Peregrine's philosophy and privacy-first approach to data access and ownership preserves individual privacy and cities' sovereignty. They walk through how AI and long-horizon agents are being deployed: a cold case agent that reproduced an exoneration detectives had reached by hand, a Wisconsin county that placed a suspect using cell records buried in 300GB of evidence, identifying threats to a synagogue, root-causing an escalation in weather-related incidents, and more. 00:00 Introduction 02:07 What Forward Deployed Engineering Means 03:58 What Silicon Valley Gets Wrong 05:23 UNHCR, Dimagi And Downstream Data Problems 08:25 Why Cities, Why Safety 10:45 Two Dozen Nos And San Pablo PD 14:19 Building Through Defund The Police 18:16 The Inversion Of The Collection Model 21:20 Data Ownership And Governance 22:57 From Nice Search To Deep Analysis 29:59 Agents Writing The Integrations 31:45 The Cold Case Agent 35:02 The Anti-Network-Effect Proposition 38:40 Facial Recognition And Hard Decisions 40:48 Technology For The Underdogs 42:54 Trusting The Individual Contributor 48:50 Ten Thousand Cities ]]>"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
