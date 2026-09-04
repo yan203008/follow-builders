@@ -1,36 +1,18 @@
 {
-  "generatedAt": "2026-09-03T10:56:48.624Z",
+  "generatedAt": "2026-09-04T10:59:00.198Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Training Data",
-      "title": "Parallel’s Parag Agrawal: Building a New Web for AI Agents",
-      "guid": "2e1d938c-9fed-11f1-b924-cf663b124449",
-      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-08-25T09:00:00.000Z",
-      "description": "Parag Agrawal is making a bet that goes against two decades of web search: agents will query the web a thousand times more than humans ever have, and the infrastructure built around human clicks is wrong for them. The former Twitter CEO, now founder and CEO of Parallel Web Systems, explains why Parallel treats human click data as a bug and trains on agent feedback instead. He unpacks the counterintuitive choice to ship a search agent before a search engine, building an index incrementally, and how the new Turbo product cut agentic search to 200 milliseconds. But the problem Parag keeps returning to is economic: the ad-supported internet collapses when agents show up instead of people. His fix draws on Shapley values to pay content owners for the value their pages provide agents, with real dollars reaching publishers, he predicts, within 12 to 24 months. Hosted by Sonya Huang and Andrew Reed, Sequoia Capital 00:00 Introduction 03:25 What Is Web Search 05:17 Why Start a New Index 07:52 Search Agents First 10:17 Not a Neolab 13:14 Agents vs Google Search 19:38 Inside the Search Stack 28:59 Search Multipliers With Agents 30:21 Meeting Prep Agent Workflows 31:46 Quality Cost Latency And Turbo 32:42 Are Agents Overtaking Humans 34:28 Ads Model Meets Agent Web 37:20 New Incentives For Content 40:48 Shapley Values Attribution 47:46 Parallel Web And Future Vision ]]>"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Redefining Chip Architecture with Arm CEO Rene Haas",
-      "guid": "8476d0dc-a726-11f1-86e6-bbc25e1787ef",
-      "url": "https://www.youtube.com/@NoPriorsPodcast",
-      "publishedAt": "2026-09-03T10:00:00.000Z",
-      "description": "From data center orchestrators to AGI and robotics, CPUs remain the heart of modern computing. Arm CEO Rene Haas joins Elad Gil and Sarah Guo to explore how Arm is positioned at the epicenter of AI-driven demands for compute. Rene explains Arm’s position in the chip supply chain, and how Arm transitioned from an IP licensing model to producing physical chips like the Arm AGI CPU for Meta. He also discusses bottlenecks in hardware supply chains, SoftBank’s ecosystem and capital strategy, why US semiconductor manufacturing independence is critical, the future of robotics, and why CPUs remain crucial for executing AI workloads. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @renehaas237 | @Arm Chapters: 00:00 – Cold Open Trailer 00:49 – Rene Haas Introduction 01:14 – Arm and Chip Supply Chain 02:37 – Shift from IP to Manufacturing CPUs 04:23 – CPU IP and Customers 06:55 – AI Adoption at Arm 10:15 – Changes in Chip Time to Market 13:27 – Data Center Buildout Bottleneck 15:13 – Softbank Leverage and Capital Strategy 17:43 – Softbank Portfolio Overview 20:13 – Robotics Opportunities for Arm 24:49 – US Manufacturing Protectionism 28:59 – Data Center Backlash 32:30 – Arm Outlook 33:31 – CPU Opportunity 37:06 – Conclusion ]]>"
-    },
-    {
-      "source": "podcast",
-      "name": "AI & I by Every",
-      "title": "How a Professional Writer Writes With AI",
-      "guid": "fbf77f76-0a17-4230-80fb-fd56e514eb13",
-      "url": "https://podcasters.spotify.com/pod/show/how-do-you-use-chat-gpt/episodes/How-a-Professional-Writer-Writes-With-AI-e3o825r",
-      "publishedAt": "2026-09-02T15:01:40.000Z",
-      "description": "Two years ago, Katie Parrott was laid off from a crypto firm and couldn’t afford a career coach—so she turned to a $20-a-month ChatGPT subscription instead. The Every staff writer’s habit of feeding AI good context eventually became compound writing, a codified system for brainstorming, drafting, and editing with AI. Today, that system is a plugin any writer can use. On this week’s AI &amp; I, Natalia Quintero talks with Katie about turning good ingredients into good writing, borrowing the taste of writers she admires, and why AI helped her fall back in love with the page. If you found this episode interesting, please like, subscribe, comment, and share! To hear more from Natalia Quintero: Subscribe to Every: https://every.to/subscribe Follow her on X: @NataliaZarina Timestamps for YouTube: 0:00 Start0:49 Introduction1:21 How Katie went from being laid off to using ChatGPT as a career coach8:06 Turning AI into a “content agency of one”10:59 Building the context files and style guides that make AI outputs useful14:15 What makes a Claude project actually work21:18 How AI helped with a mental health crisis and “computer errands”27:03 Katie’s career coach, now a fully autonomous Codex project32:27 What compounding means, and building the Compound Writing plugin38:00 Borrowing Vonnegut, Hitchcock, and Sorkin as AI editing skills44:49 Katie’s thesis: education and access will matter more than ever Links to resources mentioned in the episode: Katie Parrott on X: @kplikethebird Compound writing plugin: ⁠https://github.com/EveryInc/compound-writing Compound engineering plugin (Kieran Klassen): github.com/EveryInc/compound-engineering-plugin Parrott’s companion piece on compound writing: https://every.to/guides/compound-writing Parrott, “I Hired ChatGPT as My Career Coach”: every.to/working-overtime/i-hired-chatgpt-as-my-career-coach Parrott, “AI Turned Me Into a Content Agency of One”: every.to/working-overtime/ai-turned-me-into-a-content-agency-of-one"
+      "name": "Unsupervised Learning",
+      "title": "Ep 93: CEO of Redwood Research Buck Shlegeris on OpenAI/HuggingFace Revelations, Fixing AI Safety &amp; Takeover Odds",
+      "guid": "1d32d6b0-5dc8-454d-ae10-d56ee76393db",
+      "url": "https://unsupervised-learning.simplecast.com/episodes/ep-93-ceo-of-redwood-research-buck-shlegeris-on-openai-huggingface-revelations-fixing-ai-safety-takeover-odds-DNfeOb2r",
+      "publishedAt": "2026-09-03T13:03:11.000Z",
+      "description": "Jacob sits down with Buck Shlegeris, CEO of Redwood Research, one of the organizations that led the independent investigation into OpenAI/Hugging Face's incident. They dig into the incident itself, Buck's reactions to it, and what he believes it reveals about the state of where we are today. &nbsp; (0:00) Intro (1:02) Buck's initial reaction upon first reading the report (2:37) How fast the AIs actually solved the \"hack\" (3:59) Why the AIs cheated in the first place (10:28) How this might have played out differently with human scorers (19:00) The most unexpected behaviors in the report (25:06) Buck's actual odds on a full AI takeover (27:33) Buck's proposed path forward for better alignment (36:19) Which criticisms of the report Buck agrees with, and which he doesn't (48:11) Can AI models even be trusted to evaluate each other? Jacob is an AI investor at Redpoint Ventures. He's led Redpoint's investments in companies like Abridge, Physical Intelligence &amp; Legora. Follow Jacob on Twitter (@jacobeffron). On Unsupervised Learning we probe the sharpest minds in AI in search for the truth about what's real today, what will be real in the future and what it all means for businesses and the world. If you're a builder, researcher or investor navigating the AI world, this podcast will help you deconstruct and understand the most important breakthroughs and see a clearer picture of reality. Subscribe to this show to stay up to date on our latest episodes."
     }
   ],
   "stats": {
-    "podcastEpisodes": 3
+    "podcastEpisodes": 1
   }
 }
