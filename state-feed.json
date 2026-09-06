@@ -1,12 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "8ec6281a-9c1a-11f1-b9ab-fb1fa4061363": 1788006700568,
-    "https://www.youtube.com/shorts/9MFQBFUnzxY": 1788006702085,
-    "https://www.youtube.com/shorts/p6pB_OsPA4A": 1788006702085,
-    "https://www.youtube.com/watch?v=ej8xMoCPYQg": 1788006702515,
-    "https://www.youtube.com/shorts/Vegu-ph8eYg": 1788006702821,
-    "https://www.youtube.com/shorts/R7D6HocLKrE": 1788006702821,
     "substack:post:212197985": 1788089812123,
     "https://www.youtube.com/watch?v=NMYQt25otes": 1788089813257,
     "https://www.youtube.com/watch?v=yqssCwU0eFI": 1788089813893,
@@ -88,11 +82,22 @@
     "https://www.youtube.com/shorts/DoaVAlJOqAw": 1788603496003,
     "https://www.youtube.com/watch?v=cnTCm_VahnY": 1788603496417,
     "https://www.youtube.com/shorts/WlZ4MvPQSKQ": 1788603496837,
-    "https://www.youtube.com/shorts/rdIkpE0VSto": 1788603496837
+    "https://www.youtube.com/shorts/rdIkpE0VSto": 1788603496837,
+    "https://www.youtube.com/watch?v=kz5niTICw1U": 1788691061062,
+    "https://www.youtube.com/shorts/gGSHee8BWkA": 1788691061478,
+    "https://www.youtube.com/shorts/73F6gyg5xwo": 1788691061478,
+    "https://www.youtube.com/shorts/pduLBpM3WbE": 1788691061888,
+    "https://www.youtube.com/shorts/u324v4oBzf0": 1788691061888,
+    "https://www.youtube.com/shorts/nKoYlNb1bj4": 1788691062277,
+    "https://www.youtube.com/shorts/fq6nXIePbiI": 1788691062766,
+    "https://www.youtube.com/shorts/lBdk1OjUZlY": 1788691062766
   },
   "seenArticles": {
     "https://claude.com/blog/claude-in-chrome-generally-available": 1788603490944,
     "https://claude.com/blog/cowork-built-in-browser": 1788603491487,
-    "https://claude.com/blog/artifacts-in-claude-code": 1788603492031
+    "https://claude.com/blog/artifacts-in-claude-code": 1788603492031,
+    "https://www.anthropic.com/engineering/how-we-contain-claude": 1788691058606,
+    "https://www.anthropic.com/engineering/april-23-postmortem": 1788691059188,
+    "https://www.anthropic.com/engineering/managed-agents": 1788691059781
   }
 }
