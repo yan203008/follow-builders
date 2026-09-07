@@ -1,14 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "substack:post:212197985": 1788089812123,
-    "https://www.youtube.com/watch?v=NMYQt25otes": 1788089813257,
-    "https://www.youtube.com/watch?v=yqssCwU0eFI": 1788089813893,
-    "https://www.youtube.com/shorts/bJ0mMRiNCxI": 1788089814204,
-    "https://www.youtube.com/shorts/JJsCeh79FxA": 1788089814204,
-    "https://www.youtube.com/shorts/LcomhBQNmyE": 1788089814703,
-    "https://www.youtube.com/watch?v=4mJzXmHFBDM": 1788089815074,
-    "https://www.youtube.com/shorts/Zj0XSGm8N-8": 1788089815380,
     "https://www.youtube.com/shorts/pw8Bt97U6fk": 1788181983616,
     "https://www.youtube.com/watch?v=GgjUwWcmDhg": 1788181984411,
     "https://www.youtube.com/watch?v=Uzoe1RYVjiA": 1788181984883,
@@ -90,7 +82,14 @@
     "https://www.youtube.com/shorts/u324v4oBzf0": 1788691061888,
     "https://www.youtube.com/shorts/nKoYlNb1bj4": 1788691062277,
     "https://www.youtube.com/shorts/fq6nXIePbiI": 1788691062766,
-    "https://www.youtube.com/shorts/lBdk1OjUZlY": 1788691062766
+    "https://www.youtube.com/shorts/lBdk1OjUZlY": 1788691062766,
+    "https://www.youtube.com/watch?v=q7rck18yPE4": 1788782635207,
+    "https://www.youtube.com/shorts/fjT_dZ8KdfY": 1788782635669,
+    "https://www.youtube.com/watch?v=wOtNDXOypQg": 1788782635669,
+    "https://www.youtube.com/shorts/9GLmrLW8BT4": 1788782636120,
+    "https://www.youtube.com/shorts/vH5ZUJ4H6kU": 1788782636627,
+    "https://www.youtube.com/watch?v=yHA6nEYfwKo": 1788782637063,
+    "https://www.youtube.com/watch?v=8wbjlHuLGA8": 1788782637646
   },
   "seenArticles": {
     "https://claude.com/blog/claude-in-chrome-generally-available": 1788603490944,
