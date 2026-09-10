@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-09-09T11:01:41.566Z",
+  "generatedAt": "2026-09-10T10:58:21.651Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "Making Cities Awesome: Peregrine’s Nick Noone &amp; Ben Rudolph",
+      "guid": "2361fcb0-a56c-11f1-bcee-5b403a4e1902",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-09-01T09:00:00.000Z",
+      "description": "Most public safety technology companies grow by collecting more data. Peregrine inverted the model: no sensors, no new data, a business built on connecting the data and information cities already own. Co-founders Nick Noone and Ben Rudolph received more than two dozen no's before San Pablo PD let them in the door in February 2018. Today, Peregrine powers law enforcement, emergency medical services, fire and rescue, and other services in more than 400 cities and communities globally. Nick and Ben explain their north star for data sovereignty, and discuss how Peregrine's philosophy and privacy-first approach to data access and ownership preserves individual privacy and cities' sovereignty. They walk through how AI and long-horizon agents are being deployed: a cold case agent that reproduced an exoneration detectives had reached by hand, a Wisconsin county that placed a suspect using cell records buried in 300GB of evidence, identifying threats to a synagogue, root-causing an escalation in weather-related incidents, and more. 00:00 Introduction 02:07 What Forward Deployed Engineering Means 03:58 What Silicon Valley Gets Wrong 05:23 UNHCR, Dimagi And Downstream Data Problems 08:25 Why Cities, Why Safety 10:45 Two Dozen Nos And San Pablo PD 14:19 Building Through Defund The Police 18:16 The Inversion Of The Collection Model 21:20 Data Ownership And Governance 22:57 From Nice Search To Deep Analysis 29:59 Agents Writing The Integrations 31:45 The Cold Case Agent 35:02 The Anti-Network-Effect Proposition 38:40 Facial Recognition And Hard Decisions 40:48 Technology For The Underdogs 42:54 Trusting The Individual Contributor 48:50 Ten Thousand Cities ]]>"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong",
+      "guid": "2ecd3b38-aca0-11f1-b6c4-13e4bbce7d30",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-09-10T10:00:00.000Z",
+      "description": "From the tokenization of real-world assets to funding research on anti-aging therapeutics, Coinbase co-founder and CEO Brian Armstrong is focused on solving meta-problems for the benefit of society. Brian joins Elad Gil this episode to discuss the intersections of artificial intelligence, crypto rails, and biotechnology. He details Coinbase’s vision for agentic finance, as well as how Coinbase is becoming the ‘Everything Exchange’, which includes tokenized real-world stocks, stablecoin payment adoption, and prediction markets. Brian also introduces his new venture, New Limit, a company founded to tackle longevity through epigenetic reprogramming, and outlines initial therapeutic programs and the roadmap toward clinical trials.&nbsp;&nbsp; Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @brian_armstrong | @Coinbase Chapters: 00:00 – Cold Open Trailer 00:45 – Brian Armstrong Introduction 01:13 – Coinbase and the Everything Exchange 05:52 – Agentic Commerce 10:00 – AI and Crypto 10:49 – AI Inside Coinbase 15:39 – Productivity and Company Size 17:26 – The Everything Exchange and Tokenization 20:53 – Prediction Markets 23:15 – Introducing New Limit 34:17 – Looking Forward Five Years 40:24 – Special Economic Zones 44:26 – Conclusion ]]>"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 2
   }
 }
