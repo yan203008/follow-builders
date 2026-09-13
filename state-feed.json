@@ -1,14 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "https://www.youtube.com/watch?v=kz5niTICw1U": 1788691061062,
-    "https://www.youtube.com/shorts/gGSHee8BWkA": 1788691061478,
-    "https://www.youtube.com/shorts/73F6gyg5xwo": 1788691061478,
-    "https://www.youtube.com/shorts/pduLBpM3WbE": 1788691061888,
-    "https://www.youtube.com/shorts/u324v4oBzf0": 1788691061888,
-    "https://www.youtube.com/shorts/nKoYlNb1bj4": 1788691062277,
-    "https://www.youtube.com/shorts/fq6nXIePbiI": 1788691062766,
-    "https://www.youtube.com/shorts/lBdk1OjUZlY": 1788691062766,
     "https://www.youtube.com/watch?v=q7rck18yPE4": 1788782635207,
     "https://www.youtube.com/shorts/fjT_dZ8KdfY": 1788782635669,
     "https://www.youtube.com/watch?v=wOtNDXOypQg": 1788782635669,
@@ -71,11 +63,21 @@
     "https://www.youtube.com/shorts/VnAMO2dV3aY": 1789208641835,
     "https://www.youtube.com/shorts/Pt9v9Sf11KY": 1789208642238,
     "https://www.youtube.com/shorts/VSIFIopq2Xg": 1789208642751,
-    "https://www.youtube.com/shorts/9M8znJw6k5Q": 1789208642751
+    "https://www.youtube.com/shorts/9M8znJw6k5Q": 1789208642751,
+    "1d32d6b0-5dc8-454d-ae10-d56ee76393db": 1789298796377,
+    "https://www.youtube.com/shorts/GEp0fyNZgcU": 1789298799046,
+    "https://www.youtube.com/watch?v=S66J5tqBrR0": 1789298799046,
+    "https://www.youtube.com/shorts/84StzdsSZ3s": 1789298799713,
+    "https://www.youtube.com/shorts/T7vtLCw6TJw": 1789298799713,
+    "https://www.youtube.com/shorts/NiVnf8cWTwk": 1789298800323,
+    "https://www.youtube.com/watch?v=q2jiBm8gHSE": 1789298800751,
+    "https://www.youtube.com/watch?v=BzSc754ozJ0": 1789298800751,
+    "https://www.youtube.com/shorts/V3NMXy4mCA4": 1789298801056,
+    "https://www.youtube.com/shorts/dHbX1C2IC1Y": 1789298801056
   },
   "seenArticles": {
-    "https://www.anthropic.com/engineering/how-we-contain-claude": 1788691058606,
-    "https://www.anthropic.com/engineering/april-23-postmortem": 1788691059188,
-    "https://www.anthropic.com/engineering/managed-agents": 1788691059781
+    "https://claude.com/blog/claude-in-chrome-generally-available": 1789298796718,
+    "https://claude.com/blog/cowork-built-in-browser": 1789298797262,
+    "https://claude.com/blog/artifacts-in-claude-code": 1789298797815
   }
 }

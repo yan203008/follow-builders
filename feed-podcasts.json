@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-09-12T10:24:00.321Z",
+  "generatedAt": "2026-09-13T11:26:36.454Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Unsupervised Learning",
+      "title": "Ep 93: CEO of Redwood Research Buck Shlegeris on OpenAI/HuggingFace Revelations, Fixing AI Safety &amp; Takeover Odds",
+      "guid": "1d32d6b0-5dc8-454d-ae10-d56ee76393db",
+      "url": "https://unsupervised-learning.simplecast.com/episodes/ep-93-ceo-of-redwood-research-buck-shlegeris-on-openai-huggingface-revelations-fixing-ai-safety-takeover-odds-DNfeOb2r",
+      "publishedAt": "2026-09-03T13:03:11.000Z",
+      "description": "Jacob sits down with Buck Shlegeris, CEO of Redwood Research, one of the organizations that led the independent investigation into OpenAI/Hugging Face's incident. They dig into the incident itself, Buck's reactions to it, and what he believes it reveals about the state of where we are today. &nbsp; (0:00) Intro (1:02) Buck's initial reaction upon first reading the report (2:37) How fast the AIs actually solved the \"hack\" (3:59) Why the AIs cheated in the first place (10:28) How this might have played out differently with human scorers (19:00) The most unexpected behaviors in the report (25:06) Buck's actual odds on a full AI takeover (27:33) Buck's proposed path forward for better alignment (36:19) Which criticisms of the report Buck agrees with, and which he doesn't (48:11) Can AI models even be trusted to evaluate each other? Jacob is an AI investor at Redpoint Ventures. He's led Redpoint's investments in companies like Abridge, Physical Intelligence &amp; Legora. Follow Jacob on Twitter (@jacobeffron). On Unsupervised Learning we probe the sharpest minds in AI in search for the truth about what's real today, what will be real in the future and what it all means for businesses and the world. If you're a builder, researcher or investor navigating the AI world, this podcast will help you deconstruct and understand the most important breakthroughs and see a clearer picture of reality. Subscribe to this show to stay up to date on our latest episodes."
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
