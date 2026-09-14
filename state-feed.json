@@ -1,13 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "https://www.youtube.com/watch?v=q7rck18yPE4": 1788782635207,
-    "https://www.youtube.com/shorts/fjT_dZ8KdfY": 1788782635669,
-    "https://www.youtube.com/watch?v=wOtNDXOypQg": 1788782635669,
-    "https://www.youtube.com/shorts/9GLmrLW8BT4": 1788782636120,
-    "https://www.youtube.com/shorts/vH5ZUJ4H6kU": 1788782636627,
-    "https://www.youtube.com/watch?v=yHA6nEYfwKo": 1788782637063,
-    "https://www.youtube.com/watch?v=8wbjlHuLGA8": 1788782637646,
     "https://www.youtube.com/watch?v=CzDTaLqozlQ": 1788865030949,
     "https://www.youtube.com/shorts/yB1q9bsqDhw": 1788865031585,
     "https://www.youtube.com/shorts/kErr4N8MG30": 1788865031585,
@@ -73,11 +66,23 @@
     "https://www.youtube.com/watch?v=q2jiBm8gHSE": 1789298800751,
     "https://www.youtube.com/watch?v=BzSc754ozJ0": 1789298800751,
     "https://www.youtube.com/shorts/V3NMXy4mCA4": 1789298801056,
-    "https://www.youtube.com/shorts/dHbX1C2IC1Y": 1789298801056
+    "https://www.youtube.com/shorts/dHbX1C2IC1Y": 1789298801056,
+    "https://www.youtube.com/shorts/hOi9fX-mEmY": 1789388354539,
+    "https://www.youtube.com/watch?v=Gk2ArbsrZwE": 1789388354846,
+    "https://www.youtube.com/shorts/PBGhAWVTqnw": 1789388355151,
+    "https://www.youtube.com/shorts/QjmWNrq4mBU": 1789388355151,
+    "https://www.youtube.com/watch?v=zJEHbvT5_Yg": 1789388355707,
+    "https://www.youtube.com/shorts/w5z5WKBAMZ0": 1789388356013,
+    "https://www.youtube.com/watch?v=gFKS1t1tyUI": 1789388356013,
+    "https://www.youtube.com/watch?v=c7hrCtGSPRQ": 1789388356320,
+    "https://www.youtube.com/watch?v=mnhhwBiFshA": 1789388356766
   },
   "seenArticles": {
     "https://claude.com/blog/claude-in-chrome-generally-available": 1789298796718,
     "https://claude.com/blog/cowork-built-in-browser": 1789298797262,
-    "https://claude.com/blog/artifacts-in-claude-code": 1789298797815
+    "https://claude.com/blog/artifacts-in-claude-code": 1789298797815,
+    "https://www.anthropic.com/engineering/how-we-contain-claude": 1789388351512,
+    "https://www.anthropic.com/engineering/april-23-postmortem": 1789388352171,
+    "https://www.anthropic.com/engineering/managed-agents": 1789388352797
   }
 }
