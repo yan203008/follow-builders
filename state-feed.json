@@ -1,16 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "https://www.youtube.com/watch?v=cuAMeWShlDw": 1788951702729,
-    "https://www.youtube.com/shorts/1PyYezqpnoY": 1788951703164,
-    "https://www.youtube.com/watch?v=_Ac4IUbVlRg": 1788951703164,
-    "https://www.youtube.com/shorts/IXG_m-TVHkM": 1788951703478,
-    "https://www.youtube.com/shorts/WtYzFJi8c6k": 1788951703478,
-    "https://www.youtube.com/shorts/6xFQ0C3arE0": 1788951703875,
-    "https://www.youtube.com/watch?v=15z1-j689jU": 1788951704353,
-    "https://www.youtube.com/shorts/Cz6aKR2fq3Y": 1788951704353,
-    "https://www.youtube.com/shorts/XsBeJS__7-o": 1788951704774,
-    "https://www.youtube.com/shorts/S2gmVyxL1Tk": 1788951704774,
     "2361fcb0-a56c-11f1-bcee-5b403a4e1902": 1789037901501,
     "2ecd3b38-aca0-11f1-b6c4-13e4bbce7d30": 1789037901528,
     "https://www.youtube.com/watch?v=_nPsYueR5nQ": 1789037902771,
@@ -75,7 +65,18 @@
     "https://www.youtube.com/shorts/jcx-pm5QJpA": 1789471570498,
     "https://www.youtube.com/shorts/Dj-wF6PZJxk": 1789471570498,
     "https://www.youtube.com/shorts/DXjfVpEDFYU": 1789471571057,
-    "https://www.youtube.com/shorts/X9YkBGwQeXU": 1789471571057
+    "https://www.youtube.com/shorts/X9YkBGwQeXU": 1789471571057,
+    "https://www.youtube.com/watch?v=hcuT_mpeTxo": 1789557126809,
+    "https://www.youtube.com/watch?v=N1Fm4JYae1I": 1789557127230,
+    "https://www.youtube.com/shorts/w8vKuoW58qY": 1789557127662,
+    "https://www.youtube.com/shorts/j7nV8BRqMMs": 1789557128557,
+    "https://www.youtube.com/shorts/kNNo9084Qkg": 1789557128557,
+    "https://www.youtube.com/shorts/xLZ1x0-K4hw": 1789557128892,
+    "https://www.youtube.com/shorts/Va4CgnLtacs": 1789557128892,
+    "https://www.youtube.com/watch?v=e4EE71qghZ8": 1789557129478,
+    "https://www.youtube.com/shorts/OPZg1zTaSX0": 1789557129478,
+    "https://www.youtube.com/shorts/R5Pn995Gbok": 1789557129953,
+    "https://www.youtube.com/shorts/k2rrfW2Px2w": 1789557129953
   },
   "seenArticles": {
     "https://claude.com/blog/claude-in-chrome-generally-available": 1789298796718,
@@ -83,6 +84,7 @@
     "https://claude.com/blog/artifacts-in-claude-code": 1789298797815,
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1789388351512,
     "https://www.anthropic.com/engineering/april-23-postmortem": 1789388352171,
-    "https://www.anthropic.com/engineering/managed-agents": 1789388352797
+    "https://www.anthropic.com/engineering/managed-agents": 1789388352797,
+    "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs": 1789557126232
   }
 }
