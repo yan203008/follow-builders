@@ -1,61 +1,22 @@
 {
-  "generatedAt": "2026-09-16T11:12:10.371Z",
+  "generatedAt": "2026-09-17T11:20:23.004Z",
   "lookbackHours": 48,
   "youtube": [
-    {
-      "source": "youtube",
-      "name": "Predictive History",
-      "channelId": "UC11aHtNnc5bEPLI4jf6mnYg",
-      "videos": [
-        {
-          "title": "Global Meet-Up #5 (Toronto):  Canada's Corporate Re-Structuring",
-          "url": "https://www.youtube.com/watch?v=hcuT_mpeTxo",
-          "publishedAt": "2026-09-15T19:42:50+00:00",
-          "description": "On Saturday, September 5, 2026, Professor Jiang was in Toronto, Ontario to lecture on the US-Canada Trade War.\n\nThanks to Cathy Tie for organizing, and Tim Gabor for filming and editing."
-        }
-      ]
-    },
-    {
-      "source": "youtube",
-      "name": "Jeff Su",
-      "channelId": "UCwAnu01qlnVg1Ai2AbtTMaA",
-      "videos": [
-        {
-          "title": "Write a Killer Résumé in the AI Era: 5 New Rules!",
-          "url": "https://www.youtube.com/watch?v=N1Fm4JYae1I",
-          "publishedAt": "2026-09-15T13:00:20+00:00",
-          "description": "📨 Get 1% better at AI every week - https://www.jeffsu.org/newsletter/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v210\n\nFinding reliable #résumé advice was already hard enough, and now employers use #AI to screen applications. I break down research covering more than 4,000 hiring managers and nearly 2 million applications to show which résumé tips matter when AI is involved on both sides of hiring.\n\nYou'll learn how to make an #ATS-friendly résumé, tailor your experience to a job description without keyword stuffing, and use AI to turn rough notes into achievement bullets you can defend. We'll also cover what hiring managers actually want to see when you list AI skills.\n\n*TIMESTAMPS*\n00:00 Résumé Guide for the AI Era\n00:37 Top 5 Key Takeaways\n02:17 Rule 1: Make Sure AI can Read your Résumé\n03:44 Rule 2: Make Your Fit Obvious\n06:09 Rule 3: Know Where AI Should Stop\n08:37 Rule 4: Prove Your Impact with Numbers\n10:34 Rule 5: Prove Your AI Skills\n12:29 Your Résumé Checklist in the AI Era\n\n*RESOURCES MENTIONED*\nWritten guide + prompts - https://www.jeffsu.org/resume-ai-era-guide/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v210\n\n*BUILD A POWERFUL WORKFLOW*\n✅ The Cowork Academy - https://coworkacademy.ai/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v**XXX**\nAI Memory guide - https://www.jeffsu.org/ai-memory-explained/?\n📈 The Workspace Academy - https://academy.jeffsu.org/workspace-academy?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v**XXX**\n✍️ My Notion Command Center - https://www.pressplay.cc/link/s/DE1C4C50\n\n*BE MY FRIEND:*\n📧 Subscribe to my newsletter - https://www.jeffsu.org/newsletter/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=description\n📸 Instagram - https://instagram.com/j.sushie\n🤝 LinkedIn - https://www.linkedin.com/in/jsu05/\n\n*MY FAVORITE GEAR*\n🎬 My YouTube Gear - https://www.jeffsu.org/yt-gear/\n🎒 Everyday Carry - https://www.jeffsu.org/my-edc/"
-        }
-      ]
-    },
-    {
-      "source": "youtube",
-      "name": "Tina Huang",
-      "channelId": "UC2UXDak6o7rBm23k3Vv5dww",
-      "videos": [
-        {
-          "title": "Replacing Salesforce",
-          "url": "https://www.youtube.com/shorts/w8vKuoW58qY",
-          "publishedAt": "2026-09-15T18:02:36+00:00",
-          "description": "The dashboard is not the hard part. Anyone can build a dashboard. The hard part is building something a security team will actually approve for enterprise use. We replaced Salesforce for a client: 600k rows of live data in Snowflake, custom CRM, deployed in their own AWS VPC, data never leaves, security scanning on every publish. That's what enterprise actually looks like. Link below 👇\n\n#superblockspartner"
-        }
-      ]
-    },
     {
       "source": "youtube",
       "name": "Jay Shetty Podcast",
       "channelId": "UCbk_QsfaFZG6PdQeCvaYXJQ",
       "videos": [
         {
-          "title": "Scientists gave 200 married couples a voodoo doll of their spouse",
-          "url": "https://www.youtube.com/shorts/j7nV8BRqMMs",
-          "publishedAt": "2026-09-16T08:00:17+00:00",
+          "title": "Rick Rubin on why instant feedback kills creativity",
+          "url": "https://www.youtube.com/shorts/IOCMVQnXDMg",
+          "publishedAt": "2026-09-17T08:00:30+00:00",
           "description": "Watch the FULL episode today on Netflix &amp; Spotify 🎙️"
         },
         {
-          "title": "Ten good things, then one bad thing",
-          "url": "https://www.youtube.com/shorts/kNNo9084Qkg",
-          "publishedAt": "2026-09-15T16:00:06+00:00",
+          "title": "Rick Rubin on the book 8 publishers turned down",
+          "url": "https://www.youtube.com/shorts/OFKPVIQESek",
+          "publishedAt": "2026-09-16T16:00:20+00:00",
           "description": "Watch the FULL episode today on Netflix &amp; Spotify 🎙️"
         }
       ]
@@ -66,16 +27,35 @@
       "channelId": "UCIaH-gZIVC432YRjNVvnyCA",
       "videos": [
         {
-          "title": "How Does Nicotine Help You Focus?",
-          "url": "https://www.youtube.com/shorts/xLZ1x0-K4hw",
-          "publishedAt": "2026-09-16T01:08:27+00:00",
-          "description": "Watch the full episode here - https://youtu.be/8son5OkbC90?si=49v_l4w_1I27dFvs\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spotify.modernwisdom.com or Apple Podcasts - https://apple.modernwisdom.com\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
+          "title": "How To Feel Your Best Every Single Day",
+          "url": "https://www.youtube.com/shorts/C-BMoO9QRqY",
+          "publishedAt": "2026-09-16T22:00:34+00:00",
+          "description": "Watch the full episode here - https://youtu.be/8son5OkbC90?si=49v_l4w_1I27dFvs\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spotify.modernwisdom.com or Apple Podcasts - https://apple.modernwisdom.com\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
         },
         {
-          "title": "Allow Yourself To Feel Success",
-          "url": "https://www.youtube.com/shorts/Va4CgnLtacs",
-          "publishedAt": "2026-09-15T21:00:03+00:00",
-          "description": "Get access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spotify.modernwisdom.com or Apple Podcasts - https://apple.modernwisdom.com\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
+          "title": "You Have Control Of Your Life",
+          "url": "https://www.youtube.com/shorts/xWxBAIbQwYY",
+          "publishedAt": "2026-09-16T17:00:08+00:00",
+          "description": "-\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spotify.modernwisdom.com or Apple Podcasts - https://apple.modernwisdom.com\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "How I AI",
+      "channelId": "UCRYY7IEbkHLH_ScJCu9eWDQ",
+      "videos": [
+        {
+          "title": "Muse beat OpenClaw and Codex on design",
+          "url": "https://www.youtube.com/shorts/_4Xd_zwx6-s",
+          "publishedAt": "2026-09-16T16:30:05+00:00",
+          "description": "The morning newsletter PDF was a genuine one-shot design. That's the bar for what personal agents should actually do.\n\nWatch the full episode on How I AI.\n\n#howiai #metamuse #muse #museagent"
+        },
+        {
+          "title": "Muse gets AI agent UX right",
+          "url": "https://www.youtube.com/watch?v=2UwemqPkJSQ",
+          "publishedAt": "2026-09-16T12:00:29+00:00",
+          "description": "I spent a few hours putting Meta’s Muse, its new personal AI agent, through a real first-pass test: onboarding, calendar management, goal setting, a one-shot family morning newsletter, browser-based shopping, and the animated avatar that honestly surprised me.\n\n*What you’ll learn:*\n1. Why Muse is the best-designed personal agent I’ve tested, and what specifically made it feel that way\n2. The one-shot family PDF Muse produced that Claude and Codex never quite nailed\n3. How Muse’s permission model works, and why it’s different from every other agent I’ve used\n4. Why I set up a sleep training goal in Muse, and what it revealed about agent tone\n5. The activity feed feature I immediately wished Codex and Claude Code had\n6. Where Muse failed, and what it says about the limits of this category right now\n7. The animated avatar decision that showed me what top-of-craft AI product design actually looks like\n\n*Brought to you by:*\nOptimizely—Your AI agent orchestration platform for marketing and digital teams: https://www.optimizely.com/howIAI\nOpenArt—An all-in-one AI creation platform for images, videos, music, audio, and more: https://openart.ai/suite/chat?utm_source=online&amp;utm_medium=influencer&amp;utm_campaign=infl-howiai-ga-na-acq-web\n\n*In this episode, we cover:*\n(00:00) What Muse is and who it’s actually built for\n(04:41) Signing in and the onboarding flow\n(07:16) The activity feed and its task lineage\n(08:24) First real task: managing the family calendar and deleting soccer practice\n(09:48) Requesting a morning newsletter PDF\n(14:29) The personalized news feed and how I set it up\n(16:05) The “Ideas” feature as an out-of-the-box prompt library\n(17:10) Setting up personal goals (water, shoes, and sleep training)\n(21:40) Library: documents, websites, images, videos, and podcasts\n(23:11) Quick recap and what I love\n(23:56) Activity feed design deep dive: tool calls and step-by-step lineage\n(25:18) How Muse handles permissions\n(26:12) The animated avatar: Polly becomes Slime, the teal dragon\n(29:34) Browser use test: shopping for New Balance 9060s (not great)\n(31:15) Browser use test 2: buying IMAX tickets for The Odyssey (much better)\n(33:34) TL;DR and what I’ll actually use Muse for going forward\n\n*Tools referenced:*\n• Muse: https://muse.ai/\n• Stripe Link (payment method featured in Muse): https://link.com\n• 1Password (future Muse integration mentioned): https://1password.com\n• OpenClaw (Claire’s previous personal agent setup): https://openclaw.ai/\n• Grok Bot (Grok-based agent from prior stack): https://x.ai/news/introducing-grok-bot\n• Codex (OpenAI coding agent, comparison point): https://openai.com/codex\n• NotebookLM (Google, comparison to Muse’s podcast generation): https://notebooklm.google.com\n\n*Where to find Claire Vo:*\nChatPRD: https://www.chatprd.ai/\nWebsite: https://clairevo.com/\nLinkedIn: https://www.linkedin.com/in/clairevo/\nX: https://x.com/clairevo\n\n_Production and marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email jordan@penname.co._"
         }
       ]
     },
@@ -85,16 +65,16 @@
       "channelId": "UC0TnW9acNxqeojxXDMbohcA",
       "videos": [
         {
-          "title": "Why Keeping Your Options Open Backfires",
-          "url": "https://www.youtube.com/watch?v=e4EE71qghZ8",
-          "publishedAt": "2026-09-16T08:00:09+00:00",
-          "description": "Surfshark: Go to https://surfshark.com/solvedpod or use code SOLVEDPOD at checkout to get 4 extra months of Surfshark! AG1: For a limited time, save 20% on your first subscription order of AG1 Next Gen or AG1 Pro at https://manson.deals/ag1\n\nCasanova had more adventures than anyone in recorded history. He escaped an inescapable prison, ran France's first lottery, slept with over 120 women, and met Voltaire, the Pope, and Benjamin Franklin. He also died broke, alone, and forgotten in a small castle in present-day Slovakia. We use his life as the cautionary tale of what Kierkegaard called the aesthetic stage, where novelty becomes an addiction and every open door is another reason to never walk through one. We talk about the paradox of choice, why your brain is hardwired to hoard options even when it costs you, and Mark's own years as a digital nomad who eventually realized that the more he explored, the less satisfied he became.\n\nCHAPTERS\n\n00:00:00 The Trap of Finding Yourself Through Exploration\n00:01:16 Casanova: The Aesthetic Life Taken to Its Extreme\n00:04:29 The Aesthetic Stage: When Novelty Becomes a Prison\n00:07:39 Five Predictions Kierkegaard Got Right About Modern Life\n00:09:35 The Paradox of Choice and Why More Options Make Us Miserable\n00:15:40 When Everything Becomes Equally Boring: The Diminishing Returns of Novelty\n00:27:44 The Evolutionary Mismatch: Our Ancient Brains in a World of Abundance\n00:32:00 The Additive Bias: Why We Always Think We Need More\n00:36:09 The Decline of Institutions and the Loneliness Epidemic\n00:38:31 The Dip: Why Most People Quit Right Before the Breakthrough\n00:51:16 Mark's Journey Out of the Aesthetic Life\n01:00:28 The Soft Skills Nobody Teaches You: Building Community and Roots\n01:02:23 Casanova's Tragic End: A Life of Experiences, Not a Life\n01:04:58 Exiting the Aesthetic Life: The Path to Ethical Commitment\n\n⇨ Sign up for my newsletter, Your Next Breakthrough. It will help make you a less awful person: https://go.markmanson.net/cdi1xzha\n\n⇨ Get clarity on what actually matters. Try Purpose, Mark's AI mentor app that learns your patterns, challenges your blind spots, and helps you take action. Get started at https://go.markmanson.net/217i5ys5\n\nFOLLOW MARK\nMark's IG: ⁠https://www.instagram.com/markmanson⁠\nSolved IG: ⁠https://www.instagram.com/solvedpodcast/⁠\nTwitter: ⁠https://x.com/markmanson⁠\nLinkedIn: ⁠https://www.linkedin.com/in/markmanson/⁠\n\n#casanova #paradoxofchoice #optionality #digitalnomad #selfhelp #markmanson #solved"
+          "title": "Why Purpose Always Beats Pleasure",
+          "url": "https://www.youtube.com/shorts/4Es6Bh6SOxg",
+          "publishedAt": "2026-09-16T17:00:10+00:00",
+          "description": "A vacation, a drink, a new phone all fade fast. While a skill, a marriage, a craft get richer with repetition. Count how much of your week runs on the first list."
         },
         {
-          "title": "How to Get the F*ck Over It",
-          "url": "https://www.youtube.com/shorts/OPZg1zTaSX0",
-          "publishedAt": "2026-09-15T17:00:07+00:00",
-          "description": "You don’t “get over it” by pretending it didn’t hurt. You get over it by refusing to let one shitty chapter become the title of the whole damn book."
+          "title": "Why Your Brain Lies to You (To Protect You)",
+          "url": "https://www.youtube.com/shorts/KzP8pliBLv8",
+          "publishedAt": "2026-09-16T13:00:19+00:00",
+          "description": "Your brain is constantly editing reality behind your back.\nIt exaggerates the future to give you hope, softens the past to help you cope, and reframes the present when reality hurts. Sometimes, a little self-deception is how we survive the truth."
         }
       ]
     },
@@ -104,23 +84,23 @@
       "channelId": "UC5fI3kxC-ewZ6ZXEYgznM7g",
       "videos": [
         {
-          "title": "This Is For People Who Are Obsessed",
-          "url": "https://www.youtube.com/shorts/R5Pn995Gbok",
-          "publishedAt": "2026-09-15T21:00:36+00:00",
+          "title": "Be Delusional",
+          "url": "https://www.youtube.com/shorts/-27NUuugwXc",
+          "publishedAt": "2026-09-16T22:04:20+00:00",
           "description": ""
         },
         {
-          "title": "Fast And Wrong Is Better Than Undecided",
-          "url": "https://www.youtube.com/shorts/k2rrfW2Px2w",
-          "publishedAt": "2026-09-15T18:13:49+00:00",
+          "title": "How To Get People To Do What You Need",
+          "url": "https://www.youtube.com/shorts/W49XejU9NEw",
+          "publishedAt": "2026-09-16T17:43:36+00:00",
           "description": ""
         }
       ]
     }
   ],
   "stats": {
-    "youtubeChannels": 7,
-    "totalVideos": 11
+    "youtubeChannels": 5,
+    "totalVideos": 10
   },
   "errors": [
     "YouTube: Failed to fetch Mel Robbins: HTTP 404",
