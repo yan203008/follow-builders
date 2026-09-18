@@ -1,23 +1,62 @@
 {
-  "generatedAt": "2026-09-17T11:20:23.004Z",
+  "generatedAt": "2026-09-18T10:54:29.547Z",
   "lookbackHours": 48,
   "youtube": [
+    {
+      "source": "youtube",
+      "name": "Tina Huang",
+      "channelId": "UC2UXDak6o7rBm23k3Vv5dww",
+      "videos": [
+        {
+          "title": "Obsidian in 24 Minutes",
+          "url": "https://www.youtube.com/watch?v=4Hvkv_I8QDE",
+          "publishedAt": "2026-09-17T12:26:56+00:00",
+          "description": "Try out GenMail by Genspark for free 👉 https://www.genspark.ai/?utm_source=yt&amp;utm_campaign=tinahuang02\n\nIn this video I go through Obsidian and its 3 levels of integration with AI. \n\n📚 Get the complete resource document: https://resource.lonelyoctopus.com/signup/obsidian-in-24-minutes/\n\n💜 Registration to Hermes Workshop now open!: https://www.lonelyoctopus.com/hermes-workshop-2026\n\n🐙 Free 28-Day AI Sprint Roadmap - pick your goal to get a clear, day-by-day path forward 👉 https://www.lonelyoctopus.com/ai-sprint-roadmap\n\n🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp\n\n🤝 Business Inquiries: https://tally.so/r/mRDV99\n\n🖱️Links mentioned in video\n========================\n\n🔗Affiliates\n========================\nMy SQL for data science interviews course (10 full interviews):\nhttps://365datascience.com/learn-sql-for-data-science-interviews/ \n\n365 Data Science: \nhttps://365datascience.pxf.io/WD0za3 (link for 57% discount for their complete data science training)\n\nCheck out StrataScratch for data science interview prep: \nhttps://stratascratch.com/?via=tina\n\n🎥 My filming setup \n========================\n📷 camera: https://amzn.to/3LHbi7N\n🎤 mic: https://amzn.to/3LqoFJb\n🔭 tripod: https://amzn.to/3DkjGHe\n💡 lights: https://amzn.to/3LmOhqk\n\n⏰Timestamps\n========================\n00:00 Intro \n01:19 Obsidian Major Features\n06:39 AI Second Brain \n12:22 AI Database\n16:30 LLM Wiki\n24:15 Quiz\n\n📲Socials \n========================\ninstagram: https://www.instagram.com/hellotinah/\nlinkedin: https://www.linkedin.com/in/tinaw-h/ \ntiktok: https://www.tiktok.com/@hellotinahuang \ndiscord: https://discord.gg/5mMAtprshX\n\n🎥Other videos you might be interested in\n========================\nHow I consistently study with a full time job:\nhttps://www.youtube.com/watch?v=INymz5VwLmk\n\nHow I would learn to code (if I could start over): \nhttps://www.youtube.com/watch?v=MHPGeQD8TvI&amp;t=84s\n\n🐈‍⬛🐈‍⬛About me \n========================\nHi, my name is Tina and I'm an ex-Meta data scientist turned internet person! \n\n📧Contact\n========================\nyoutube: youtube comments are by far the best way to get a response from me! \nlinkedin: https://www.linkedin.com/in/tinaw-h/ \nemail for business inquiries only: tina@smoothmedia.co\n\n========================\nSome links are affiliate links and I may receive a small portion of sales price at no cost to you. I really appreciate your support in helping improve this channel! :)"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "Ali Abdaal",
+      "channelId": "UCoOae5nYA7VqaXzerajD0lg",
+      "videos": [
+        {
+          "title": "I used to think meditation was pointless…",
+          "url": "https://www.youtube.com/shorts/7wR41pLPoy0",
+          "publishedAt": "2026-09-17T23:30:01+00:00",
+          "description": "I used to think meditation was pointless…\n\nBut a few years ago, I finally tried the 28-day course on the Waking Up app, and it completely changed how I view my mind and focus.\n\nOur quality of life is determined by our attention, not our external circumstances.\n\nIf you want to try it out, I’ve got a special 14-day free trial link for you👇\n\nhttps://www.wakingup.com/aliabdaal \n\n#ad"
+        }
+      ]
+    },
     {
       "source": "youtube",
       "name": "Jay Shetty Podcast",
       "channelId": "UCbk_QsfaFZG6PdQeCvaYXJQ",
       "videos": [
         {
-          "title": "Rick Rubin on why instant feedback kills creativity",
-          "url": "https://www.youtube.com/shorts/IOCMVQnXDMg",
-          "publishedAt": "2026-09-17T08:00:30+00:00",
+          "title": "Esther Perel: there is no love without the fear of loss",
+          "url": "https://www.youtube.com/shorts/IJtVsjFgtWI",
+          "publishedAt": "2026-09-18T08:00:03+00:00",
           "description": "Watch the FULL episode today on Netflix &amp; Spotify 🎙️"
         },
         {
-          "title": "Rick Rubin on the book 8 publishers turned down",
-          "url": "https://www.youtube.com/shorts/OFKPVIQESek",
-          "publishedAt": "2026-09-16T16:00:20+00:00",
+          "title": "Alex Hormozi: investing is the LAST thing you do",
+          "url": "https://www.youtube.com/shorts/0eI-CffT6T4",
+          "publishedAt": "2026-09-17T16:00:11+00:00",
           "description": "Watch the FULL episode today on Netflix &amp; Spotify 🎙️"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "Andrew Huberman",
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "videos": [
+        {
+          "title": "Essentials: How to Assess &amp; Improve All Aspects of Your Fitness | Dr. Andy Galpin",
+          "url": "https://www.youtube.com/watch?v=VjaPWC4VPPU",
+          "publishedAt": "2026-09-17T12:00:35+00:00",
+          "description": "In this Huberman Lab Essentials episode, my guest is Dr. Andy Galpin, PhD, an exercise physiologist. We revisit the first episode of his Huberman Lab Guest Series to discuss the nine major components of physical fitness and how to assess your abilities. We explain practical tests for movement quality, power, strength, muscle mass and endurance, including grip strength, push-ups and VO2 max. We also discuss how to organize fitness testing, track progress and identify which areas to prioritize in your training to support long-term health and performance.\n\nShow notes: https://go.hubermanlab.com/7sgI40w\n\nHuberman Lab\nWebsite: https://www.hubermanlab.com \nInstagram: https://www.instagram.com/hubermanlab \nThreads: https://www.threads.net/@hubermanlab\nX: https://x.com/hubermanlab \nFacebook: https://www.facebook.com/hubermanlab \nTikTok: https://www.tiktok.com/@hubermanlab \nLinkedIn: https://www.linkedin.com/in/andrew-huberman\n\nDr. Andy Galpin\nX: https://www.instagram.com/drandygalpin\nInstagram: https://www.instagram.com/drandygalpin\nFacebook: https://www.facebook.com/andy.galpin.1\nLinkedIn: https://www.linkedin.com/in/andy-galpin-a90a2b262\nThreads: https://www.threads.com/@drandygalpin\nTikTok: https://www.tiktok.com/@drandygalpin\n\nTimestamps\n00:00:00 Andy Galpin\n00:00:44 Fitness Goals, Appearance &amp; Performance\n00:02:32 Nine Components of Physical Fitness\n00:06:03 Movement Skill, Tool: Assessing Movement Quality\n00:09:53 Speed Testing\n00:10:15 Power, Tool: Standing Broad Jump\n00:11:36 Grip Strength, Dynamometers &amp; Dead Hangs\n00:13:35 Lower Body Strength, Leg Extensions &amp; Squat Holds\n00:16:10 Safe Testing, Technique &amp; Consistent Warm-Ups\n00:17:08 Muscle Mass, Body Composition &amp; Fat-Free Mass Index\n00:19:14 Muscular Endurance, Planks &amp; Push-Ups\n00:20:44 Anaerobic Capacity, Maximum Effort Tests\n00:22:18 Maximum Heart Rate &amp; Heart Rate Recovery\n00:23:33 VO2 Max, Running &amp; Walking Tests\n00:25:19 Long-Duration Endurance, Steady-State Exercise &amp; Nasal Breathing\n00:26:20 Testing Frequency, Test Order &amp; Training Priorities\n00:30:38 Acknowledgements\n\n#hubermanlab #hubermanlabpodcast \n\nDisclaimer &amp; Disclosures: https://www.hubermanlab.com/disclaimer"
         }
       ]
     },
@@ -27,16 +66,16 @@
       "channelId": "UCIaH-gZIVC432YRjNVvnyCA",
       "videos": [
         {
-          "title": "How To Feel Your Best Every Single Day",
-          "url": "https://www.youtube.com/shorts/C-BMoO9QRqY",
-          "publishedAt": "2026-09-16T22:00:34+00:00",
-          "description": "Watch the full episode here - https://youtu.be/8son5OkbC90?si=49v_l4w_1I27dFvs\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spotify.modernwisdom.com or Apple Podcasts - https://apple.modernwisdom.com\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
+          "title": "Why You Don't Need To Meditate Anymore",
+          "url": "https://www.youtube.com/shorts/U00Aosfvr0Q",
+          "publishedAt": "2026-09-17T22:00:18+00:00",
+          "description": "Watch the full episode here - https://youtu.be/8son5OkbC90?si=3xCnwsnlRGnUsgKF\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spotify.modernwisdom.com or Apple Podcasts - https://apple.modernwisdom.com\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
         },
         {
-          "title": "You Have Control Of Your Life",
-          "url": "https://www.youtube.com/shorts/xWxBAIbQwYY",
-          "publishedAt": "2026-09-16T17:00:08+00:00",
-          "description": "-\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spotify.modernwisdom.com or Apple Podcasts - https://apple.modernwisdom.com\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
+          "title": "24 days to go.",
+          "url": "https://www.youtube.com/shorts/9ZHsKaPJtlo",
+          "publishedAt": "2026-09-17T17:15:03+00:00",
+          "description": "Get access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spotify.modernwisdom.com or Apple Podcasts - https://apple.modernwisdom.com\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
         }
       ]
     },
@@ -46,16 +85,16 @@
       "channelId": "UCRYY7IEbkHLH_ScJCu9eWDQ",
       "videos": [
         {
-          "title": "Muse beat OpenClaw and Codex on design",
-          "url": "https://www.youtube.com/shorts/_4Xd_zwx6-s",
-          "publishedAt": "2026-09-16T16:30:05+00:00",
-          "description": "The morning newsletter PDF was a genuine one-shot design. That's the bar for what personal agents should actually do.\n\nWatch the full episode on How I AI.\n\n#howiai #metamuse #muse #museagent"
+          "title": "Muse made me a 6-min AI podcast",
+          "url": "https://www.youtube.com/shorts/NVzg0qVyYaY",
+          "publishedAt": "2026-09-17T13:00:16+00:00",
+          "description": "Muse Library generated a ~6-min “Weekend Wire” podcast from my stuff — NotebookLM-style, ready enough to publish toward Spotify/Apple.\n\n#howiai #muse #metamuse #museai"
         },
         {
-          "title": "Muse gets AI agent UX right",
-          "url": "https://www.youtube.com/watch?v=2UwemqPkJSQ",
-          "publishedAt": "2026-09-16T12:00:29+00:00",
-          "description": "I spent a few hours putting Meta’s Muse, its new personal AI agent, through a real first-pass test: onboarding, calendar management, goal setting, a one-shot family morning newsletter, browser-based shopping, and the animated avatar that honestly surprised me.\n\n*What you’ll learn:*\n1. Why Muse is the best-designed personal agent I’ve tested, and what specifically made it feel that way\n2. The one-shot family PDF Muse produced that Claude and Codex never quite nailed\n3. How Muse’s permission model works, and why it’s different from every other agent I’ve used\n4. Why I set up a sleep training goal in Muse, and what it revealed about agent tone\n5. The activity feed feature I immediately wished Codex and Claude Code had\n6. Where Muse failed, and what it says about the limits of this category right now\n7. The animated avatar decision that showed me what top-of-craft AI product design actually looks like\n\n*Brought to you by:*\nOptimizely—Your AI agent orchestration platform for marketing and digital teams: https://www.optimizely.com/howIAI\nOpenArt—An all-in-one AI creation platform for images, videos, music, audio, and more: https://openart.ai/suite/chat?utm_source=online&amp;utm_medium=influencer&amp;utm_campaign=infl-howiai-ga-na-acq-web\n\n*In this episode, we cover:*\n(00:00) What Muse is and who it’s actually built for\n(04:41) Signing in and the onboarding flow\n(07:16) The activity feed and its task lineage\n(08:24) First real task: managing the family calendar and deleting soccer practice\n(09:48) Requesting a morning newsletter PDF\n(14:29) The personalized news feed and how I set it up\n(16:05) The “Ideas” feature as an out-of-the-box prompt library\n(17:10) Setting up personal goals (water, shoes, and sleep training)\n(21:40) Library: documents, websites, images, videos, and podcasts\n(23:11) Quick recap and what I love\n(23:56) Activity feed design deep dive: tool calls and step-by-step lineage\n(25:18) How Muse handles permissions\n(26:12) The animated avatar: Polly becomes Slime, the teal dragon\n(29:34) Browser use test: shopping for New Balance 9060s (not great)\n(31:15) Browser use test 2: buying IMAX tickets for The Odyssey (much better)\n(33:34) TL;DR and what I’ll actually use Muse for going forward\n\n*Tools referenced:*\n• Muse: https://muse.ai/\n• Stripe Link (payment method featured in Muse): https://link.com\n• 1Password (future Muse integration mentioned): https://1password.com\n• OpenClaw (Claire’s previous personal agent setup): https://openclaw.ai/\n• Grok Bot (Grok-based agent from prior stack): https://x.ai/news/introducing-grok-bot\n• Codex (OpenAI coding agent, comparison point): https://openai.com/codex\n• NotebookLM (Google, comparison to Muse’s podcast generation): https://notebooklm.google.com\n\n*Where to find Claire Vo:*\nChatPRD: https://www.chatprd.ai/\nWebsite: https://clairevo.com/\nLinkedIn: https://www.linkedin.com/in/clairevo/\nX: https://x.com/clairevo\n\n_Production and marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email jordan@penname.co._"
+          "title": "Grok Bot sends this design into Figma from my phone",
+          "url": "https://www.youtube.com/shorts/B0MDw3BPTGg",
+          "publishedAt": "2026-09-17T12:00:09+00:00",
+          "description": "From the phone agent: pick a plugin, send the link, and production design lands in Figma.\n\nFull SpaceXAI designer workflow on How I AI.\n\nhttps://www.youtube.com/watch?v=zJEHbvT5_Yg\n\n#HowIAI #GrokBot #FigmaMCP #AIDesign"
         }
       ]
     },
@@ -65,16 +104,29 @@
       "channelId": "UC0TnW9acNxqeojxXDMbohcA",
       "videos": [
         {
-          "title": "Why Purpose Always Beats Pleasure",
-          "url": "https://www.youtube.com/shorts/4Es6Bh6SOxg",
-          "publishedAt": "2026-09-16T17:00:10+00:00",
-          "description": "A vacation, a drink, a new phone all fade fast. While a skill, a marriage, a craft get richer with repetition. Count how much of your week runs on the first list."
+          "title": "10 Ways to Stop Bullsh*tting Yourself",
+          "url": "https://www.youtube.com/shorts/wl7sdiVxhCw",
+          "publishedAt": "2026-09-17T13:00:22+00:00",
+          "description": "Most of the stories we tell ourselves feel like facts. Repeat something enough and eventually it stops sounding like an excuse and starts sounding like an identity. The problem is, you can’t change a story you don’t realize you’re telling yourself."
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "立党 lidang",
+      "channelId": "UC4gzU_8MxRDiQrSFOiT79tQ",
+      "videos": [
+        {
+          "title": "留学中介害死人！美国和中国读大学，到底应该选什么专业？选数学和应用数学真的能转AI吗？计算机（computer science）和计算科学（computing）有何区别？为什么电子机械比数学更好？",
+          "url": "https://www.youtube.com/watch?v=Sf9GHvlcj-M",
+          "publishedAt": "2026-09-18T05:01:06+00:00",
+          "description": ""
         },
         {
-          "title": "Why Your Brain Lies to You (To Protect You)",
-          "url": "https://www.youtube.com/shorts/KzP8pliBLv8",
-          "publishedAt": "2026-09-16T13:00:19+00:00",
-          "description": "Your brain is constantly editing reality behind your back.\nIt exaggerates the future to give you hope, softens the past to help you cope, and reframes the present when reality hurts. Sometimes, a little self-deception is how we survive the truth."
+          "title": "解答世间万物（2小时）：高考500分的二本电子天才，如何破解困境？美国欧洲家庭该如何培养华人二代？东北国企为什么会衰落？日本为什么产业彻底不行了？为什么年轻人千万不要碰教培行业？低学历能学金融吗？",
+          "url": "https://www.youtube.com/watch?v=Ss6AFarVQQM",
+          "publishedAt": "2026-09-18T01:16:52+00:00",
+          "description": ""
         }
       ]
     },
@@ -84,23 +136,23 @@
       "channelId": "UC5fI3kxC-ewZ6ZXEYgznM7g",
       "videos": [
         {
-          "title": "Be Delusional",
-          "url": "https://www.youtube.com/shorts/-27NUuugwXc",
-          "publishedAt": "2026-09-16T22:04:20+00:00",
+          "title": "A message to that one person",
+          "url": "https://www.youtube.com/shorts/WRQhmddvohc",
+          "publishedAt": "2026-09-17T21:00:25+00:00",
           "description": ""
         },
         {
-          "title": "How To Get People To Do What You Need",
-          "url": "https://www.youtube.com/shorts/W49XejU9NEw",
-          "publishedAt": "2026-09-16T17:43:36+00:00",
+          "title": "The life you want isn't going to knock politely.",
+          "url": "https://www.youtube.com/shorts/EYg7LcetHMY",
+          "publishedAt": "2026-09-17T17:00:40+00:00",
           "description": ""
         }
       ]
     }
   ],
   "stats": {
-    "youtubeChannels": 5,
-    "totalVideos": 10
+    "youtubeChannels": 9,
+    "totalVideos": 14
   },
   "errors": [
     "YouTube: Failed to fetch Mel Robbins: HTTP 404",
