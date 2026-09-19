@@ -1,27 +1,8 @@
 {
-  "generatedAt": "2026-09-18T10:54:25.100Z",
+  "generatedAt": "2026-09-19T10:37:20.992Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Why Diffusion Will Win AI Inference with Inception Co-Founder and CEO Stefano Ermon",
-      "guid": "51c4092c-b309-11f1-8603-fb8d30e1277f",
-      "url": "https://www.youtube.com/@NoPriorsPodcast",
-      "publishedAt": "2026-09-18T10:00:00.000Z",
-      "description": "As generative AI hits hardware and latency bottlenecks, Stanford professor, diffusion pioneer, and Inception co-founder and CEO Stefano Ermon is betting on a radical new architecture. Stefano joins Sarah Guo to talk about Inception, and how his team is applying diffusion architecture beyond images and video into discrete text and code generation. Stefano explains the limitations of autoregressive LLMs, as well as why parallel token generation in diffusion models offers superior inference scaling and hardware utilization on standard GPUs. He also shares details about Inception’s Mercury models, real-world voice agent applications, the software stack required to serve diffusion-based models at scale, academia’s role at the frontier of AI innovations, and why the next era of AI competition will be defined by efficiency.&nbsp; Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @StefanoErmon | @_inception_ai Chapters: 00:00 – Stefano Ermon Introduction 00:35 – Research Background 02:54 – Starting Inception 05:59 – Why Diffusion Beats Autoregressive 11:10 – Discrete vs. Continuous Modalities 13:19 – Inception Today 16:45 – Where Speed Wins 17:31 – Inception Customer Base 18:49 – Interaction with Hardware Landscape 19:34 – Inception and the Broader Industry 21:41 – Data Compression and Structure 24:45 – Controllability of Diffusion Modeles 27:25 – Emergent Capabilities at Scale 29:02 – Future Workload Split Between Diffusion vs. Traditional 30:03 – Adoption Challenges 31:44 – Hiring and Team Organization 32:50 – Recursive Self Improvement 34:02 – Resource Allocation 35:10 – Impact of Academia 38:13 – Conclusion ]]>"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Coinbase’s Everything Exchange: Agentic Finance, Stablecoins, and Tokenization with CEO Brian Armstrong",
-      "guid": "2ecd3b38-aca0-11f1-b6c4-13e4bbce7d30",
-      "url": "https://www.youtube.com/@NoPriorsPodcast",
-      "publishedAt": "2026-09-10T10:00:00.000Z",
-      "description": "From the tokenization of real-world assets to funding research on anti-aging therapeutics, Coinbase co-founder and CEO Brian Armstrong is focused on solving meta-problems for the benefit of society. Brian joins Elad Gil this episode to discuss the intersections of artificial intelligence, crypto rails, and biotechnology. He details Coinbase’s vision for agentic finance, as well as how Coinbase is becoming the ‘Everything Exchange’, which includes tokenized real-world stocks, stablecoin payment adoption, and prediction markets. Brian also introduces his new venture, New Limit, a company founded to tackle longevity through epigenetic reprogramming, and outlines initial therapeutic programs and the roadmap toward clinical trials.&nbsp;&nbsp; Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @brian_armstrong | @Coinbase Chapters: 00:00 – Cold Open Trailer 00:45 – Brian Armstrong Introduction 01:13 – Coinbase and the Everything Exchange 05:52 – Agentic Commerce 10:00 – AI and Crypto 10:49 – AI Inside Coinbase 15:39 – Productivity and Company Size 17:26 – The Everything Exchange and Tokenization 20:53 – Prediction Markets 23:15 – Introducing New Limit 34:17 – Looking Forward Five Years 40:24 – Special Economic Zones 44:26 – Conclusion ]]>"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 2
+    "podcastEpisodes": 0
   }
 }
