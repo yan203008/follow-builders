@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-09-19T10:37:20.992Z",
+  "generatedAt": "2026-09-20T11:00:07.077Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "When AI Improves Itself | Richard Socher (Recursive)",
+      "guid": "dc9ebcb5-ad83-4eae-a945-dd1af0de0aad",
+      "url": "https://podcasters.spotify.com/pod/show/firstmark/episodes/When-AI-Improves-Itself--Richard-Socher-Recursive-e3oiodo",
+      "publishedAt": "2026-09-10T11:30:00.000Z",
+      "description": "What happens when AI begins improving itself, and then turns that intelligence toward science? Richard Socher, pioneering AI researcher and CEO and co-founder of Recursive, joins Matt Turck to explore the vision behind his new book, The Eureka Machine. They discuss why scientific progress may be slowing, how large language models can learn the hidden languages of proteins and biology, and why simulations, verifiers and autonomous experiments could unlock superhuman AI capabilities. The conversation covers recursive self-improvement, AI drug discovery and cancer research, hallucination as creativity, virtual cells, self-driving laboratories, agent swarms, the AI Economist, Recursive’s plans, and the compute and data needed to build an AI scientist that never stops learning—and may eventually discover what humans cannot. (00:00) Intro: AI That Improves Itself (00:55) Why Scientific Progress Is Slowing (03:08) The Labyrinth of Human Knowledge (05:59) Can AI Put Science Back Together? (07:57) How LLMs Learn Biology and Proteins (10:56) Next-Token Prediction as a World Model (16:44) Can AI Generate Truly Original Ideas? (17:32) Simulations, Verifiers and Superhuman AI (22:18) The Path to Recursive Self-Improvement (24:49) Why AI Hallucinations Can Drive Discovery (27:42) From Reading Biology to Writing It (31:31) Can AI Accelerate Drug Discovery? (33:31) Will AI Help Cure Cancer? (38:03) AI Breakthroughs in Biology, Energy and Materials (40:19) Will Some Societies Reject AI? (45:07) Building the AI Economist (52:22) The Scientific Data Bottleneck (53:41) The Four Pillars of the Eureka Machine (55:01) Teaching AI the Rules of Reality (57:44) Simulations and Virtual Cells (1:00:40) Self-Driving Robotic Laboratories (1:02:51) Agent Swarms and Open-Ended Discovery (1:04:30) The Compute Bottleneck (1:05:44) Inside Recursive (1:07:33) What Recursive Will Build First (1:10:10) How Do We Define Intelligence? (1:11:32) How Far Can Intelligence Go?"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
