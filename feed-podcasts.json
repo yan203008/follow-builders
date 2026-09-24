@@ -1,8 +1,54 @@
 {
-  "generatedAt": "2026-09-23T11:09:38.662Z",
+  "generatedAt": "2026-09-24T11:25:52.818Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
+      "guid": "substack:post:216723291",
+      "url": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
+      "publishedAt": "2026-09-23T13:27:18.000Z",
+      "description": "The OpenAI → Hugging Face attack has people asking “what else do we need to worry about?” and Anthropic’s filters flag two things: cyber-security and biology. The natural question is: what about bio-security, then? Clem Delangue argues that cyber-warfare defensive capabilities need to be open and to keep pace with frontier models’ attack capabilities Radical Numerics co-founder Eric Nguyen sat down with us and explained why the same models that increase biological capability can also keep defense from falling behind. Building a virus from scratch While he was at Stanford, Eric couldn’t get traction on Genomic Language Models (GLMs) for a long time. Biologists didn’t believe it would work, didn’t think they could verify the output, and didn’t see important applications beyond what they could already do. He kept pushing, eventually helping lead the development of Evo and contributing to Evo 2 at Arc Institute. Those models were later used by a separate Arc/Stanford team to generate entire bacteriophage genomes that were synthesized into functional viruses ! Long context unlocks biological intelligence Early ChatGPT spit out poems and email, and early DNA language models like Evo and Evo-2 could build a genome from scratch. DNA is different, however, from natural language in that it has a very small alphabet (4 characters ACTG) and that its sequences are very long: * 60K for an average human gene * long being up to 2.3M * the whole human genome around 3B. Innovation in long-context models made this possible about 3 years ago (footnote: striped hyena), long before the frontier labs were building 1M+ context models. Now Eric and other AI x Bio luminaries have founded Radical Numerics to build and scale GLMs to tack a wide range of biological problems, extending well beyond generating DNA. Thinking in DNA Their GLMs already do pretty well with RNA and protein because there are clear markers in the DNA sequence for genes (RNA sequences the perform many functions) and specific genes that encode proteins. This means that the models already generalize to multiple “languages,” before even attempting to train in other modalities, such as 3d protein structure, epigenetics and natural language. If a model thinks in the DNA language, maybe it understands the imprint that environment left on different genomes as well? Perhaps the model has learned the functional relationship between different sequences, and could extrapolate to new sequences based on that? And so what we wanted to showcase was that if we show the model progressively better RNAs in a series of steps with its score, right? So you have like low scores first and then you gradually move up the chain. Can the model continue that trajectory on i"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
+      "guid": "substack:post:216845528",
+      "url": "https://www.latent.space/p/john-platt",
+      "publishedAt": "2026-09-22T21:07:39.000Z",
+      "description": "How often do you get to talk to a guest who has both an Academy Award and who invented textbook machine learning algorithms? John Platt has an Oscar , two textbook algorithms , two named asteroids, and an Erdos-Bacon number of 6. This was easily the most fun bio of all the guests we’ve read to date. And the result was an epic and fun chat covering Google’s Empirical Research Assistance (ERA), how AI can help battle climate change, and tons of great stories about the co-evolution of science and AI. John’s colleague Dave Bacon likes to tease John that his career has been defined by being twenty years early to the next big thing. This may be convolutional neural networks (some credit him with coining the term), fusion research, quantum computing. John and Google have been working on solving some of humanity’s hardest problems with AI and computation for well over a decade now. Recently John and his team set their sights on using AI to solve any scientific problem that can be written down as a score. Google’s Empirical Research Assistance (ERA) John’s team has taken on many hard scientific problems over the years. In solving these, they noticed a pattern, many scientific problems can be reduced to what John calls a “scoreable task”. Once you have the score function, the goal is to find some code that maximizes the score. The hard part is in formulating the score, but once you have the score finding the maximizer can still be quite a lot of effort. John’s team set out to automate solutions to this general problem. This came out of the idea of an “auto-Kaggle” AI, which can solve any Kaggle problem you can throw at it. Kaggle is owned by Google, so all the data was ready and easily available to them! The result is Google’s Empirical Research Assistance or ERA ( paper , github , blog ). ERA is surprisingly simple conceptually. Gemini (or your LLM of choice) keeps a running tree of past experiments (notebooks) and where they’re going. It’s a close cousin of Monte Carlo Tree Search : at each iteration the <a target=\"_blank\" href=\"https://en.wikiped"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
+      "guid": "substack:post:216783460",
+      "url": "https://www.latent.space/p/jev",
+      "publishedAt": "2026-09-21T22:13:49.000Z",
+      "description": "Tickets for AIE NYC now open, and apply for the invite-only AIE CODE . Join us ! We have an unusual relationship with today’s guest: for years since coauthoring the InstructGPT paper , Diogo Almeida had been saying that API-available frontier models have been going down the wrong path, everything from the alignment to refusals to reliability perspectives, that we have dropped every mode other than autoregressive chat-tuned LLMs because of the overwhelming success of ChatGPT. In a launch video now viewed ~40M times (by comparison, GPT4o was 22M , Fable 5 was 15M , Navier Stokes was 74M , and 6 Astra was 137M ), Diogo introduced Jev and it immediately took over the AI timeline — we’ll skip full Jev explainers because your favorite AI influencer/educator has probably already done one. We also collected: * the official patterns and cookbooks you should see first, from Allie * Jev usecases * speed based - games and computer use * the voice + computer use example we discuss at 1h34 mins * voice + browser control * The must not miss Doom demo * Driving cars in games * Excalidraw * virtual try-ons * “Smart Games”/smart NPCs * <a target=\"_blank\" href=\"https://x.co"
+    },
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "Box's Aaron Levie: On Reinventing Yourself in the AI Age and Enterprise Diffusion",
+      "guid": "d2e9aa74-b080-11f1-8007-f31e2b6b4e53",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-09-15T09:00:00.000Z",
+      "description": "Starting a company is hard. Reinventing your company for AI as a public company with quarterly earnings results is even harder. Aaron Levie has pulled off the transition with Box and offers hard-won advice for founders. The cofounder and CEO of Box argues the value isn't only in the model; it's in the bridge from a model's raw capability to the actual workflow inside a bank, a law firm, or a pharma company. That's the case for the application layer, and Box is building it: an agent harness tuned so tightly to its own file system, permissions, and search that it beats handing the raw API to Claude or ChatGPT on both accuracy and latency. Aaron explains why token subsidies from the labs can't last, why you want a model-agnostic company routing your tokens rather than the one selling them, and why coding diffused fast while the rest of knowledge work won't. (There's no \"give us your GitHub\" for a sales rep.) His prediction: within five years, 90% of enterprise tokens go to work no human user ever initiated. Hosted by Sonya Huang, Sequoia Capital 0:00 – Introduction 1:55 – Are application companies the hottest neolabs? 6:56 – Will the labs move up the stack? 12:34 – Box and betting the company on AI 16:50 – Hero use cases: reading a million contracts and long-running agents 18:42 – Work slop: why AI code is embraced but AI content isn't 24:08 – Building Box's agentic harness and the evals that matter 27:23 – The state of the model race 29:25 – Open-weight model adoption in the enterprise 32:34 – Memory, continual learning, and what belongs in the weights 37:29 – Box Labs and systems of record in a world of agents 44:55 – Will chat be the dominant UI for enterprise AI? 48:00 – Why coding diffused fast and the rest of knowledge work hasn't 54:31 – Staying wired in, making a company AI-first, and what it takes to win ]]>"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Re-Founding Incumbents for the AI Era with Sequence Holdings Co-Founder and CEO Michael Lee",
+      "guid": "e2eb4b88-b7c1-11f1-a5c5-4b2557d321bc",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-09-24T10:00:00.000Z",
+      "description": "Can AI transform legacy incumbents rather than replacing them? Sequence Holdings co-founder and CEO Michael Lee joins Sarah Guo to discuss how holding company structures and engineering integrations are reshaping market leaders from the inside out. Michael details Sequence’s $7.7 billion take-private transaction of Baldwin alongside Dell Family Office (DFO), and shares his thesis on why traditional consulting models and software sales fall short for real enterprise AI transformations. They also talk about why permanent holding company structures are good for long-term compounding, real-world results from applying frontier engineering to BankSouth, and Michael’s lessons from his time in public investing, private equity, and operating at the intersection of market incumbents and AI. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @mjlee_2014 | @seqholdings Chapters: 00:34 – Michael Lee Introduction 01:03 – Sequence Holdings and Baldwin 01:54 – Idea for Sequence 04:36 – Incumbents in the AI Era 06:32 – Why a Holding Company 11:21 – Recruiting Top Engineers 13:08 – Investing in BankSouth 17:46 – Why an Insurance Brokerage 20:17 – Atlas Platform Explained 23:53 – Traditional Private Equity Limitations 27:23 – What Sequence Looks For in Management Teams 31:04 – Accomplishments at BankSouth 34:45 – Founder Lessons 36:08 – Story of Dell Partnership 37:10 – Career and Investment Approach 40:00 – Value of Exceptional People 42:23 – Conclusion ]]>"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 5
   }
 }
