@@ -1,22 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "51c4092c-b309-11f1-8603-fb8d30e1277f": 1789728864990,
-    "2ecd3b38-aca0-11f1-b6c4-13e4bbce7d30": 1789728864990,
-    "https://www.youtube.com/watch?v=4Hvkv_I8QDE": 1789728865885,
-    "https://www.youtube.com/shorts/7wR41pLPoy0": 1789728866324,
-    "https://www.youtube.com/shorts/IJtVsjFgtWI": 1789728866816,
-    "https://www.youtube.com/shorts/0eI-CffT6T4": 1789728866816,
-    "https://www.youtube.com/watch?v=VjaPWC4VPPU": 1789728867221,
-    "https://www.youtube.com/shorts/U00Aosfvr0Q": 1789728867528,
-    "https://www.youtube.com/shorts/9ZHsKaPJtlo": 1789728867528,
-    "https://www.youtube.com/shorts/NVzg0qVyYaY": 1789728867966,
-    "https://www.youtube.com/shorts/B0MDw3BPTGg": 1789728867966,
-    "https://www.youtube.com/shorts/wl7sdiVxhCw": 1789728868349,
-    "https://www.youtube.com/watch?v=Sf9GHvlcj-M": 1789728868727,
-    "https://www.youtube.com/watch?v=Ss6AFarVQQM": 1789728868727,
-    "https://www.youtube.com/shorts/WRQhmddvohc": 1789728869166,
-    "https://www.youtube.com/shorts/EYg7LcetHMY": 1789728869166,
     "https://www.youtube.com/shorts/F7twjMzw1p0": 1789814243140,
     "https://www.youtube.com/shorts/EHYd12VDWh8": 1789814243140,
     "https://www.youtube.com/shorts/pWinvBxv0QU": 1789814243689,
@@ -83,12 +67,29 @@
     "https://www.youtube.com/shorts/0mSJNMzQ_bo": 1790249157074,
     "https://www.youtube.com/shorts/dTW5pTzUf3A": 1790249157074,
     "https://www.youtube.com/shorts/hmK8kcvQGNk": 1790249157703,
-    "https://www.youtube.com/shorts/RQbIKWI5yTY": 1790249157703
+    "https://www.youtube.com/shorts/RQbIKWI5yTY": 1790249157703,
+    "substack:post:217289983": 1790335891611,
+    "substack:post:215893904": 1790335891611,
+    "substack:post:215289811": 1790335891611,
+    "09985d98-67c4-4c5e-a1be-6d201c56bc55": 1790335891926,
+    "https://www.youtube.com/shorts/GOSYouMEYmE": 1790335893429,
+    "https://www.youtube.com/watch?v=G79nJRV8lZA": 1790335894143,
+    "https://www.youtube.com/shorts/bOZQTe2f9OY": 1790335894448,
+    "https://www.youtube.com/shorts/5ObAFSzOOWg": 1790335894448,
+    "https://www.youtube.com/shorts/xmEnK-WWlUY": 1790335894756,
+    "https://www.youtube.com/watch?v=Gu04f6aFuBY": 1790335894756,
+    "https://www.youtube.com/shorts/gLw7yH2l30k": 1790335895061,
+    "https://www.youtube.com/shorts/3Lmxt38ROiE": 1790335895061,
+    "https://www.youtube.com/shorts/WEPe2tUXclQ": 1790335895375,
+    "https://www.youtube.com/shorts/_nhqxHZLpT0": 1790335895683,
+    "https://www.youtube.com/shorts/ACjimCt7-Tw": 1790335895683
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1790075799004,
     "https://www.anthropic.com/engineering/april-23-postmortem": 1790075799601,
     "https://www.anthropic.com/engineering/managed-agents": 1790075800192,
-    "https://claude.com/blog/claude-in-chrome-generally-available": 1790075800910
+    "https://claude.com/blog/claude-in-chrome-generally-available": 1790075800910,
+    "https://claude.com/blog/cowork-is-now-claude": 1790335892206,
+    "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs": 1790335892753
   }
 }
