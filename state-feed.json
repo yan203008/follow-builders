@@ -1,15 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "https://www.youtube.com/shorts/F7twjMzw1p0": 1789814243140,
-    "https://www.youtube.com/shorts/EHYd12VDWh8": 1789814243140,
-    "https://www.youtube.com/shorts/pWinvBxv0QU": 1789814243689,
-    "https://www.youtube.com/shorts/SO2PofNNzVM": 1789814243689,
-    "https://www.youtube.com/shorts/oTHAPnD14V4": 1789814244123,
-    "https://www.youtube.com/shorts/8MS1x-pkkdA": 1789814244123,
-    "https://www.youtube.com/shorts/F1-ljGZCABg": 1789814244545,
-    "https://www.youtube.com/watch?v=2f-H0QtvEGs": 1789814245079,
-    "https://www.youtube.com/watch?v=wy4XUCiyeX8": 1789814245079,
     "dc9ebcb5-ad83-4eae-a945-dd1af0de0aad": 1789902007054,
     "https://www.youtube.com/watch?v=hbsce4HNL7o": 1789902007809,
     "https://www.youtube.com/shorts/7j34m56ZD9g": 1789902008323,
@@ -82,7 +73,18 @@
     "https://www.youtube.com/shorts/3Lmxt38ROiE": 1790335895061,
     "https://www.youtube.com/shorts/WEPe2tUXclQ": 1790335895375,
     "https://www.youtube.com/shorts/_nhqxHZLpT0": 1790335895683,
-    "https://www.youtube.com/shorts/ACjimCt7-Tw": 1790335895683
+    "https://www.youtube.com/shorts/ACjimCt7-Tw": 1790335895683,
+    "substack:post:217456046": 1790420765182,
+    "51c4092c-b309-11f1-8603-fb8d30e1277f": 1790420765402,
+    "https://www.youtube.com/watch?v=q7GdLK1xwAo": 1790420765989,
+    "https://www.youtube.com/shorts/LE3Zx_8GPM8": 1790420766919,
+    "https://www.youtube.com/shorts/GmgtCwuLc9c": 1790420766919,
+    "https://www.youtube.com/shorts/nsUgn1rXAyk": 1790420767240,
+    "https://www.youtube.com/shorts/VWGWkfmJCq8": 1790420767240,
+    "https://www.youtube.com/shorts/_szHk3B0PLs": 1790420767798,
+    "https://www.youtube.com/watch?v=SBwbocJo0lE": 1790420768290,
+    "https://www.youtube.com/shorts/7tM_7Dsrtxs": 1790420768603,
+    "https://www.youtube.com/shorts/1l95fGSFjSY": 1790420768603
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1790075799004,
