@@ -1,15 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "https://www.youtube.com/watch?v=rAjMOfKSAks": 1789993600822,
-    "https://www.youtube.com/shorts/1X4fyncu83U": 1789993601440,
-    "https://www.youtube.com/shorts/rDW6Lh3Eq6o": 1789993601440,
-    "https://www.youtube.com/watch?v=ecjEM3NJ0lU": 1789993601761,
-    "https://www.youtube.com/shorts/srGCVmIg-ig": 1789993602078,
-    "https://www.youtube.com/watch?v=xJiGHnxpFNQ": 1789993602078,
-    "https://www.youtube.com/shorts/l9bng-6Upfc": 1789993602412,
-    "https://www.youtube.com/shorts/QFZxE8Sgb7s": 1789993603062,
-    "https://www.youtube.com/shorts/RM3hKzE_CUI": 1789993603062,
     "https://www.youtube.com/watch?v=J5U3t6-zVz0": 1790075802114,
     "https://www.youtube.com/watch?v=OMlZZO_Czns": 1790075802552,
     "https://www.youtube.com/shorts/mN2FJWtcm0o": 1790075803014,
@@ -83,7 +74,18 @@
     "https://www.youtube.com/shorts/qrr9wFUWM0U": 1790509484380,
     "https://www.youtube.com/watch?v=L-K6y6P7wLQ": 1790509484818,
     "https://www.youtube.com/shorts/E-DknDjfOcI": 1790509485123,
-    "https://www.youtube.com/shorts/G72udCvtCIw": 1790509485123
+    "https://www.youtube.com/shorts/G72udCvtCIw": 1790509485123,
+    "https://www.youtube.com/watch?v=oMtAfbNHfnw": 1790601877337,
+    "https://www.youtube.com/watch?v=ZD_ON2NLyPo": 1790601877969,
+    "https://www.youtube.com/watch?v=nk15CT41MFc": 1790601878368,
+    "https://www.youtube.com/shorts/eugbQ8eBOK8": 1790601878771,
+    "https://www.youtube.com/watch?v=5k-BbXf2lMo": 1790601878771,
+    "https://www.youtube.com/watch?v=-KIBgpGA_XI": 1790601879216,
+    "https://www.youtube.com/shorts/7E0xHirDOJk": 1790601879606,
+    "https://www.youtube.com/shorts/RE0KSTfZqq4": 1790601879606,
+    "https://www.youtube.com/watch?v=p5dLL15P8RY": 1790601880013,
+    "https://www.youtube.com/watch?v=quOXcBaDfKE": 1790601880013,
+    "https://www.youtube.com/watch?v=kMV3vvZPk6Q": 1790601880483
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1790075799004,
