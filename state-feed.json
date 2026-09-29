@@ -1,16 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "https://www.youtube.com/watch?v=J5U3t6-zVz0": 1790075802114,
-    "https://www.youtube.com/watch?v=OMlZZO_Czns": 1790075802552,
-    "https://www.youtube.com/shorts/mN2FJWtcm0o": 1790075803014,
-    "https://www.youtube.com/shorts/kPaccMVYIGI": 1790075803014,
-    "https://www.youtube.com/shorts/lpEtoU5vab4": 1790075803558,
-    "https://www.youtube.com/shorts/TaiF7HQunlQ": 1790075803558,
-    "https://www.youtube.com/shorts/WFCZQZml5JM": 1790075803982,
-    "https://www.youtube.com/shorts/NiVel-zo-i4": 1790075803982,
-    "https://www.youtube.com/shorts/iHzZZ9ncycU": 1790075804470,
-    "https://www.youtube.com/shorts/Tlwfb3cnkZk": 1790075804470,
     "https://www.youtube.com/shorts/LhHBU4Zq_2I": 1790161779292,
     "https://www.youtube.com/watch?v=31f8bo48d5M": 1790161779698,
     "https://www.youtube.com/shorts/Yq9_O7ZiPKI": 1790161780092,
@@ -85,13 +75,23 @@
     "https://www.youtube.com/shorts/RE0KSTfZqq4": 1790601879606,
     "https://www.youtube.com/watch?v=p5dLL15P8RY": 1790601880013,
     "https://www.youtube.com/watch?v=quOXcBaDfKE": 1790601880013,
-    "https://www.youtube.com/watch?v=kMV3vvZPk6Q": 1790601880483
+    "https://www.youtube.com/watch?v=kMV3vvZPk6Q": 1790601880483,
+    "substack:post:217893105": 1790684928175,
+    "https://www.youtube.com/watch?v=rPGJhrunbxo": 1790684929201,
+    "https://www.youtube.com/watch?v=idfU-WLBTyI": 1790684929892,
+    "https://www.youtube.com/watch?v=HZE-6q14irI": 1790684929892,
+    "https://www.youtube.com/shorts/mAnuIDtHUyw": 1790684930352,
+    "https://www.youtube.com/watch?v=cTmEOKVhl7s": 1790684930352,
+    "https://www.youtube.com/shorts/WmlCG7n2fxc": 1790684930666,
+    "https://www.youtube.com/shorts/lDtrzW1VnRU": 1790684930666,
+    "https://www.youtube.com/shorts/_Ml2Tu4W8I8": 1790684931090,
+    "https://www.youtube.com/shorts/np9VS2O6Zbc": 1790684931090,
+    "https://www.youtube.com/shorts/e6Zv3ZBGWIU": 1790684931496,
+    "https://www.youtube.com/watch?v=FqiRxOirFyY": 1790684931496,
+    "https://www.youtube.com/watch?v=I35m2xREylA": 1790684931894,
+    "https://www.youtube.com/watch?v=k7_gig_OdsM": 1790684931894
   },
   "seenArticles": {
-    "https://www.anthropic.com/engineering/how-we-contain-claude": 1790075799004,
-    "https://www.anthropic.com/engineering/april-23-postmortem": 1790075799601,
-    "https://www.anthropic.com/engineering/managed-agents": 1790075800192,
-    "https://claude.com/blog/claude-in-chrome-generally-available": 1790075800910,
     "https://claude.com/blog/cowork-is-now-claude": 1790335892206,
     "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs": 1790335892753
   }
