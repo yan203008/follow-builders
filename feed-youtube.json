@@ -1,36 +1,30 @@
 {
-  "generatedAt": "2026-09-29T12:28:52.490Z",
+  "generatedAt": "2026-09-30T12:14:08.599Z",
   "lookbackHours": 48,
   "youtube": [
+    {
+      "source": "youtube",
+      "name": "Jeff Su",
+      "channelId": "UCwAnu01qlnVg1Ai2AbtTMaA",
+      "videos": [
+        {
+          "title": "Stop Organizing Files Yourself.",
+          "url": "https://www.youtube.com/watch?v=peP_o66u-vM",
+          "publishedAt": "2026-09-29T13:00:30+00:00",
+          "description": "📦 Try Dropbox in ChatGPT with your team: https://bit.ly/jeffsudropbox \n\nEvery downloaded PDF becomes another file to rename and another folder to choose. In this video, I show you how to give #AI a file management rulebook so it can name and organize your files using the folder structure and preferences that make sense to you.\n\nSpecifically, you’ll see my exact setup in #ChatGPT Work (applicable to both Claude and Gemini Spark) and how to create a system that reorganizes your existing Google Drive files. Then we'll schedule a daily task that uses the same rulebook to help keep new files organized.\n\nThanks to Dropbox for sponsoring this video! For my YouTube production workflow, I use Dropbox in ChatGPT to organize new footage according to my handoff rules, review the proposed changes, and create one Dropbox folder link so my editor has everything ready to edit.\n\n*TIMESTAMPS*\n00:00 My Simple AI File Management System\n00:46 The File Management Problem\n01:35 Your AI File Management Rulebook\n03:56 AI File Management: A Simple Example\n06:40 Dropbox in ChatGPT for Video Production\n07:51 Organize Your Existing Cloud Files\n12:34 Automate Your File Management\n14:07 Recap: How to Organize Files using AI\n\n*RESOURCES MENTIONED*\nTemplates and prompts: https://www.jeffsu.org/ai-file-management-guide/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v211\nAI Essentials Newsletter: https://www.jeffsu.org/newsletter/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v211\nThe Cowork Academy - https://coworkacademy.ai/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v211\nGoogle Drive for desktop - https://support.google.com/a/users/answer/13022292?hl=en#drive_desktop_install\n\n*BUILD A POWERFUL WORKFLOW*\n✅ The Cowork Academy - https://coworkacademy.ai/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v211\nAI Memory guide - https://www.jeffsu.org/ai-memory-explained/?\n📈 The Workspace Academy - https://academy.jeffsu.org/workspace-academy?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v211\n✍️ My Notion Command Center - https://www.pressplay.cc/link/s/DE1C4C50\n\n*BE MY FRIEND:*\n📧 Subscribe to my newsletter - https://www.jeffsu.org/newsletter/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=description\n📸 Instagram - https://instagram.com/j.sushie\n🤝 LinkedIn - https://www.linkedin.com/in/jsu05/\n\n*MY FAVORITE GEAR*\n🎬 My YouTube Gear - https://www.jeffsu.org/yt-gear/\n🎒 Everyday Carry - https://www.jeffsu.org/my-edc/\n\n#filemanagement"
+        }
+      ]
+    },
     {
       "source": "youtube",
       "name": "Tina Huang",
       "channelId": "UC2UXDak6o7rBm23k3Vv5dww",
       "videos": [
         {
-          "title": "Every Size Local AI In 24 Minutes",
-          "url": "https://www.youtube.com/watch?v=rPGJhrunbxo",
-          "publishedAt": "2026-09-28T14:10:55+00:00",
-          "description": "Claim your free $5 on Crusoe Intelligence Foundry today 👉https://console.crusoecloud.com/request-foundry?utm_source=tinahuang&amp;utm_medium=influencer&amp;utm_campaign=mi-su-credits\n\nIn this video I run every size AI model using every size of hardware (that I could find). \n\n📚 Get the complete resource document/quick start guides: https://resource.lonelyoctopus.com/signup/local-ai-in-24-minutes/\n\n🐙 Free 28-Day AI Sprint Roadmap - pick your goal to get a clear, day-by-day path forward 👉 https://www.lonelyoctopus.com/ai-sprint-roadmap\n\n🤖 Want to get ahead in your career using AI? Join the waitlist for my AI Agent Bootcamp: https://www.lonelyoctopus.com/ai-agent-bootcamp\n\n🤝 Business Inquiries: https://tally.so/r/mRDV99\n\n🖱️Links mentioned in video\n========================\n\n🔗Affiliates\n========================\nMy SQL for data science interviews course (10 full interviews):\nhttps://365datascience.com/learn-sql-for-data-science-interviews/ \n\n365 Data Science: \nhttps://365datascience.pxf.io/WD0za3 (link for 57% discount for their complete data science training)\n\nCheck out StrataScratch for data science interview prep: \nhttps://stratascratch.com/?via=tina\n\n🎥 My filming setup \n========================\n📷 camera: https://amzn.to/3LHbi7N\n🎤 mic: https://amzn.to/3LqoFJb\n🔭 tripod: https://amzn.to/3DkjGHe\n💡 lights: https://amzn.to/3LmOhqk\n\n⏰Timestamps\n========================\n00:00 Intro \n00:16 Chips\n02:58 Mini Computers (Raspberry Pi, iPhone 16)\n07:50 Hardware Lesson\n11:53 Quiz 1\n13:18 Personal Computers \n16:07 Home Servers (Mac Studio, AMD Ryzen AI Halo)\n19:45 GPUs (RTX 4090, 8X W100, 8X H100)\n24:15 Quiz 2\n\n\n📲Socials \n========================\ninstagram: https://www.instagram.com/hellotinah/\nlinkedin: https://www.linkedin.com/in/tinaw-h/ \ntiktok: https://www.tiktok.com/@hellotinahuang \ndiscord: https://discord.gg/5mMAtprshX\n\n🎥Other videos you might be interested in\n========================\nHow I consistently study with a full time job:\nhttps://www.youtube.com/watch?v=INymz5VwLmk\n\nHow I would learn to code (if I could start over): \nhttps://www.youtube.com/watch?v=MHPGeQD8TvI&amp;t=84s\n\n🐈‍⬛🐈‍⬛About me \n========================\nHi, my name is Tina and I'm an ex-Meta data scientist turned internet person! \n\n📧Contact\n========================\nyoutube: youtube comments are by far the best way to get a response from me! \nlinkedin: https://www.linkedin.com/in/tinaw-h/ \nemail for business inquiries only: tina@smoothmedia.co\n\n========================\nSome links are affiliate links and I may receive a small portion of sales price at no cost to you. I really appreciate your support in helping improve this channel! :)"
-        }
-      ]
-    },
-    {
-      "source": "youtube",
-      "name": "FearNation 世界苦茶",
-      "channelId": "UCLKsaKMS_5RQuM0wHLp2vVg",
-      "videos": [
-        {
-          "title": "E264 台湾九合一懒人包：国民党地方优势为何今年失灵？ | 透明茶室 • 分析线 | 郑丽文 | 六都 | 蓝白合 | 公投",
-          "url": "https://www.youtube.com/watch?v=idfU-WLBTyI",
-          "publishedAt": "2026-09-29T12:19:12+00:00",
-          "description": "00:00 - 郑丽文体制期中大考：九合一懒人包\n09:52 - 六都选情逐一看：台北新北高雄五五开\n24:46 - 六都历史回顾与投票率密码\n38:10 - 公投绑大选：从反空污到废非核家园\n43:09 - 蓝白合破局与郑丽文整合失利\n49:58 - 四大看点与总结：国民党路线何去何从\n\n[ 欢迎在Patreon支持世界苦茶 ]\nPatreon：https://www.patreon.com/flipradio\n\n[ FR_FN全部服務 ]\nhttps://linktr.ee/fr_fn\n\nA：书籍\n-书籍：在Z-lib搜索“李厚辰”\n或者：请复制链接到浏览器打开：https://we.tl/t-wocLFJjafF\n\nB 视频：\nB1：YTB搜索“世界苦茶”\nB2：YTB搜索“三个水枪手”\n\nC 透明茶室\n「透明茶室」，是周一、四晚上的新闻评论节目，每期40分钟左右，涉及世界苦茶中一条新闻的话题。\n直播：上海时间8PM在Youtube頻道\n\nD 播客：\n在小宇宙、Apple Podcast、Youtube Music、Spotify等平台搜索“翻转电台”\n-翻电RSS：https://anchor.fm/s/141e652c/podcast/rss\n\nE 文本：\n-世界苦茶Newsletter：http://fearnation.club\n看理想专栏：https://shorturl.at/hWluS\n青年志专栏：https://shorturl.at/yea9Q\n歪脑专栏：https://www.wainao.me/wainao-reads/columns/prosperous-but-dusty/\n-文本文章集合Pub：https://flipradio.club/\n-X：https://x.com/Ansel_Flipradio\n\nF 其他：\n-活跃社区DISCORD：https://discord.gg/aQb8bgd5SK\n-Instagram: bitteradio\n\n© FlipRadio_FearNation Copyright 2026\n要记得敢于去相信，也敢于分享你的相信。"
-        },
-        {
-          "title": "E263互动部分: 暴力征税会让四季度急转直下吗? / 房产税会是下一个税源吗? / 财政见底后体制内先动哪里? / 中国收税为何不需要&quot;科目&quot;?",
-          "url": "https://www.youtube.com/watch?v=HZE-6q14irI",
-          "publishedAt": "2026-09-29T03:02:38+00:00",
-          "description": "00:00 - 暴力征税：一次加速触底\n02:59 - 房产税、境外所得税与县城欠薪\n15:56 - 德国留学与台海战争时间表\n20:23 - 财政临界点：体制收缩与上街的可能\n34:36 - 恐惧驱动的税收与&quot;退出&quot;机制\n42:45 - 海关抽查、AI模型心得与四季度预判"
+          "title": "AI Lifebot",
+          "url": "https://www.youtube.com/shorts/DcHKTtQlVNQ",
+          "publishedAt": "2026-09-29T15:00:24+00:00",
+          "description": "I don't take productivity advice from the internet anymore. I take it from LifeBot.\n\nIt's my personal productivity and health coach, built on Hermes. The difference is it runs on my own data: my sleep, my focus hours, my steps, not generic tips written for a brain I don't have.\n\nSo instead of &quot;wake up at 5am,&quot; I get things like: you've been at this four hours, your focus dropped forty minutes ago, stop.\n\nIt's the only tool I've ever used that tells me to do less."
         }
       ]
     },
@@ -40,16 +34,16 @@
       "channelId": "UCbk_QsfaFZG6PdQeCvaYXJQ",
       "videos": [
         {
-          "title": "Kendall Jenner: I had to start saying no #jayshetty #kendalljenner #shorts",
-          "url": "https://www.youtube.com/shorts/mAnuIDtHUyw",
-          "publishedAt": "2026-09-29T08:00:21+00:00",
-          "description": "Kendall Jenner on the boundaries she set at 23, and why saying no protected her happiness. Watch the FULL episode today on Netflix &amp; Spotify. #jayshetty #kendalljenner #shorts #onpurpose #podcast"
+          "title": "Selena Gomez: a wrong lyric became the hook #jayshetty #selenagomez #shorts",
+          "url": "https://www.youtube.com/shorts/LwYXqRK6rcg",
+          "publishedAt": "2026-09-30T08:00:38+00:00",
+          "description": "Selena Gomez on the studio mistakes that end up in the song. Watch the FULL episode today on Netflix &amp; Spotify. #jayshetty #selenagomez #shorts #onpurpose #podcast"
         },
         {
-          "title": "Weight Loss Doctor: The Fastest Way to Lose Belly Fat (Based on Science) | Dr. Vonda Wright",
-          "url": "https://www.youtube.com/watch?v=cTmEOKVhl7s",
-          "publishedAt": "2026-09-28T15:30:35+00:00",
-          "description": "Losing weight isn't the goal. You can look thin and still be mostly fat.\n\nIn this clip, orthopedic surgeon Dr. Vonda Wright and Jay Shetty talk about what really happens to your body between 35 and 45, the decade she calls critical.\n\nVonda explains why so many of us wake up at 3:37 a.m., the workout she gave up after years of getting hurt, and the &quot;frailty line&quot; that decides whether you can look after yourself at 80.\n\nLearn why feeling &quot;fine&quot; isn't the same as being healthy, and why the hardest part of getting strong has nothing to do with time or knowledge.\n\nJAY'S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\nJoin 900,000+ readers discovering how small daily shifts create big life change with my free newsletter. Subscribe https://news.jayshetty.me/subscribe\n\nChapters\n0:00 — At what age are we actually old?\n1:24 — What your 20s are really for\n3:42 — The first big biological hit\n4:47 — The critical decade: 35 to 45\n5:48 — Three non-negotiables for midlife\n7:23 — Why sleep falls apart in your 40s\n9:37 — Protecting your bedtime\n10:32 — The glass of wine nobody wants to give up\n14:16 — Looking thin but being mostly fat\n17:44 — The fastest way to recompose your body\n21:08 — Why HIIT isn't working\n22:25 — VO2 max and the frailty line\n26:04 — Stubborn belly fat vs. the fat you can't see\n28:18 — Fine is not the same as healthy\n30:42 — &quot;I only have 20 minutes a day&quot;\n33:26 — Why your bones are master communicators\n38:15 — What happens to your brain\n45:04 — Mobility, balance, and foot speed\n48:53 — Why we don't show up for ourselves\n55:54 — Final five\n\nWatch the FULL episode on Netflix &amp; Spotify 🎙️\nNetflix - https://dub.sh/QaUsKeD\nSpotify - https://dub.sh/axUXylv\n\nFull Episode With Dr. Vonda Wright:\nhttps://www.youtube.com/watch?v=yz1ck3Ijkns\n\nEpisode Resources:\nhttps://www.drvondawright.com/\nhttps://youtube.com/@vondawright?si=UTsXonmq8RS_BB18\nhttps://www.linkedin.com/in/vonda-wright-md-ms-2803374?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app\nhttps://www.instagram.com/drvondawright?igsh=MWlycWFmdmlha21rdA==\nhttps://www.facebook.com/share/18QqafWPDE/\nhttps://vm.tiktok.com/ZMksPd6Lg/"
+          "title": "Tom Holland: I was just watching the clock #jayshetty #tomholland #shorts",
+          "url": "https://www.youtube.com/shorts/r_b6_swFqw8",
+          "publishedAt": "2026-09-29T16:00:36+00:00",
+          "description": "Tom Holland on the dry January that made him realise something had to change. Watch the FULL episode today on Netflix &amp; Spotify. #jayshetty #tomholland #shorts #onpurpose #podcast"
         }
       ]
     },
@@ -59,16 +53,16 @@
       "channelId": "UCIaH-gZIVC432YRjNVvnyCA",
       "videos": [
         {
-          "title": "How Do GLPs Affect Alcoholism?",
-          "url": "https://www.youtube.com/shorts/WmlCG7n2fxc",
-          "publishedAt": "2026-09-28T22:18:13+00:00",
-          "description": "Watch the full episode here - https://youtu.be/bMkdGagFIy0?si=OjDdzwNSmwvD5Tg6\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spotify.modernwisdom.com or Apple Podcasts - https://apple.modernwisdom.com\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
+          "title": "Tom Selleck in the studio.",
+          "url": "https://www.youtube.com/shorts/wgO9wCUBaPA",
+          "publishedAt": "2026-09-29T22:00:07+00:00",
+          "description": "Get access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spotify.modernwisdom.com or Apple Podcasts - https://apple.modernwisdom.com\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
         },
         {
-          "title": "What To Do When You Are Scared",
-          "url": "https://www.youtube.com/shorts/lDtrzW1VnRU",
-          "publishedAt": "2026-09-28T16:54:53+00:00",
-          "description": "Watch the full episode here - https://youtu.be/4W64WGFy-Js?si=fy6-PA3DADHrj6Ke\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spotify.modernwisdom.com or Apple Podcasts - https://apple.modernwisdom.com\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
+          "title": "Why Are So Many People Cutting Off Parents?",
+          "url": "https://www.youtube.com/shorts/bHWJ-EZhDEs",
+          "publishedAt": "2026-09-29T17:13:10+00:00",
+          "description": "Watch the full episode here - https://youtu.be/bMkdGagFIy0?si=OjDdzwNSmwvD5Tg6\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spotify.modernwisdom.com or Apple Podcasts - https://apple.modernwisdom.com\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
         }
       ]
     },
@@ -78,16 +72,16 @@
       "channelId": "UCRYY7IEbkHLH_ScJCu9eWDQ",
       "videos": [
         {
-          "title": "Jev analyzed 1,700 PRs for 9 cents",
-          "url": "https://www.youtube.com/shorts/_Ml2Tu4W8I8",
-          "publishedAt": "2026-09-28T23:34:54+00:00",
-          "description": "Jev clustered my team's PRs into a product chart — so you can see where engineering effort actually went.\n\nFull episode on How I AI\n\n#jev #ai #shorts #productmanagement #howiai"
+          "title": "Jev: 8 real use cases this fast, cheap model",
+          "url": "https://www.youtube.com/watch?v=dAIIaepNhQM",
+          "publishedAt": "2026-09-30T12:00:24+00:00",
+          "description": "John Lindquist created egghead.io, a developer education platform used by hundreds of thousands of working engineers. These days he’s building mega.dev, a hands-on program specifically for developers who want to do real work with AI agents, not just prototype them.\n\n*What you’ll learn:*\n1. Why Jev is a decision engine, not a chatbot, and what that distinction actually changes about how you build\n2. How John built a real-time voice to-do app that classifies and executes commands with no visible pause\n3. The data deduplication pattern that merges messy records in milliseconds using confidence scores\n4. Why Jev works best as a router, and how a single text input can navigate users deep into an app\n5. What a chess match between Jev and a low-reasoning LLM reveals about speed, cost, and when to use which\n6. The multi-step classification pattern John reaches for when one Jev pass isn’t enough\n7. Where Jev falls short, and when you should still reach for a full generative model\n\n*Brought to you by:*\nVanta—Automate compliance and simplify security: https://www.vanta.com/howiai\n\n*In this episode, we cover:*\n(00:00) John Lindquist returns for Jev week\n(04:32) What Jev actually outputs\n(06:15) Demo: real-time voice to-do app\n(08:17) How sequential Jev calls chain together\n(10:38) Demo: plain English to function name (grocery cart)\n(11:50) Demo: data deduplication and record merging\n(13:45) Confidence scores and multi-model validation\n(15:06) Demo: Jev as a multi-level app router\n(18:23) Architecting around Jev\n(19:35) Demo: Jev vs. traditional LLM at chess (speed and cost benchmarks)\n(24:29) DOM interactions as a decision set, not an infinite canvas\n(28:21) Demo: Wikipedia “path to philosophy” route mapper\n(30:28) Demo: multi-agent coordination and collision avoidance\n(33:36) Demo: real-time presentation coach\n(36:56) Quick recap\n(39:54) Lightning round and final thoughts\n\n*Tools referenced:*\n• Jev (TypeSafe AI decision model): https://typesafe.ai/blog/introducing-system-one-models-and-jev\n• Vercel AI Gateway: https://vercel.com/docs/ai-gateway\n• OpenRouter: https://openrouter.ai\n• Opus 5.5 (mentioned in context of iterative demo building): https://www.anthropic.com/claude-opus-5-5\n\n*Where to find John Lindquist:*\nLinkedIn: linkedin.com/in/john-lindquist-84230766\nX: https://x.com/johnlindquist\nMega.dev: https://mega.dev/\nEgghead.io: https://egghead.io/\n\n*Where to find Claire Vo:*\nChatPRD: https://www.chatprd.ai/\nWebsite: https://clairevo.com/\nLinkedIn: https://www.linkedin.com/in/clairevo/\nX: https://x.com/clairevo\n\n_Production and marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email jordan@penname.co._"
         },
         {
-          "title": "Jev clusters your data for precise AI actions",
-          "url": "https://www.youtube.com/shorts/np9VS2O6Zbc",
-          "publishedAt": "2026-09-28T22:10:33+00:00",
-          "description": "Tag it, categorize it, cluster it, filter it — then apply precise AI actions to the right clusters.\n\nFull episode on How I AI\n\n#jev #ai #shorts #typesafe #howiai"
+          "title": "OpenAI DevDay 2026: Dots, Spaces, and ULTRAFAST",
+          "url": "https://www.youtube.com/watch?v=pJNM1z9l5mU",
+          "publishedAt": "2026-09-30T04:45:40+00:00",
+          "description": "I spent the day at OpenAI’s DevDay in San Francisco, and I have good news and bad news: OpenAI released a lot of stuff.\n\nIn this episode, I break down the announcements worth paying attention to - and show you what happened when I tested some of them early. We’ll meet my Dot, explore why Spaces and Sites could matter for how teams work, and get into the model and API updates I’m most excited about as a developer.\n\nI use the Decisions API to find podcast thumbnails where nobody looks awkward, build a collaborative sketchpad with Astra ultrafast, and let my kids redesign a 3D world in real time. That last experiment cost about $97. My wallet has thoughts.\n\nThese are my early impressions: what’s promising, what still feels rough, and what I think you should try first.\n\nWhat you’ll learn:\n\n1. What OpenAI’s Dots can do, how I’ve been using mine, and why I’m waiting to give a full verdict\n2. Why Spaces might be one of the most underhyped announcements for collaboration between humans and agents\n3. How Sites with connectors and plugins could help teams share internal tools with the right data permissions\n4. Where GPT-6.1 Sol fits in my model stack—and why speed and cost matter\n5. What vision adds to the Decisions API, including my thumbnail-selection and hot dog demos\n6. What Astra ultrafast makes possible for interactive AI apps, from collaborative drawing to a changing 3D game\n7. Where the speed feels magical, where the experience still needs work, and what it costs\n\nIn this episode, we cover:\n\n(00:00) OpenAI DevDay recap—and pressing the Codex reset button\n(00:58) Dots: early impressions and rough edges\n(06:57) Spaces: working with humans and agents\n(10:37) Sites, connectors, and sharing internal tools\n(13:06) Models and platform: GPT-6.1 Sol\n(14:36) Decisions API: fast decisions with vision\n(15:27) Finding better podcast thumbnails with AI\n(16:29) Hot dog or not hot dog?\n(17:17) Astra ultrafast: speed, pricing, and possibilities\n(18:50) The Other Pencil: drawing alongside AI\n(19:45) Little Starship: a 3D world you can change with a prompt\n(21:24) The $97 AI game—and what it makes possible\n(22:25) Agents API, computer use, plugins, and plan updates\n(23:03) What I’d try first\n\n—\n\nTools referenced:\n• ChatGPT — Dots, Spaces, and Sites: https://chatgpt.com/\n• Codex: https://openai.com/codex/\n• OpenAI API — GPT-6.1 Sol, Decisions API, and Astra ultrafast: https://platform.openai.com/\n• Jev: https://typesafe.ai/\n\n\nOther references:\n• OpenAI DevDay 2026: https://devday.openai.com/\n\nWhere to find Claire Vo:\nChatPRD: https://www.chatprd.ai/\nWebsite: https://clairevo.com/\nLinkedIn: https://www.linkedin.com/in/clairevo/\nX: https://x.com/clairevo\n\nProduction and marketing by https://penname.co/.\nFor inquiries about sponsoring the podcast, email jordan@penname.co."
         }
       ]
     },
@@ -97,34 +91,34 @@
       "channelId": "UC0TnW9acNxqeojxXDMbohcA",
       "videos": [
         {
-          "title": "The 4 Stages of Life",
-          "url": "https://www.youtube.com/shorts/e6Zv3ZBGWIU",
-          "publishedAt": "2026-09-28T17:00:14+00:00",
-          "description": "A good life changes shape as you do. At some point, growth stops being about trying everything and starts becoming about choosing what deserves your time, your energy, and eventually, what you want to leave behind."
+          "title": "Why the Your Best Life Should Feel Irrational",
+          "url": "https://www.youtube.com/watch?v=1A1c-QIh31Y",
+          "publishedAt": "2026-09-30T08:00:37+00:00",
+          "description": "Momentous: Head to https://manson.deals/momentous to try Momentous Signature Spec Creatine, and use code SOLVED for up to 35% off your entire first order. Waking Up: Get started at https://manson.deals/wakingup for a 14 day trial, no risk.\n\nKierkegaard spent the last years of his life arguing that rational commitment only gets you so far. There's a level of dedication so deep it breaks into irrationality, and the only word that does it justice is faith. We dig into his book Fear and Trembling (which is actually where the phrase &quot;leap of faith&quot; comes from), the concept of infinite resignation, and what separates a commitment you can explain to someone from one you can't. We talk about why the people who make it in music and entrepreneurship are never the ones sitting around asking if they'll make it. And Mark shares the moment he realized his career had stopped feeling like something he chose and started feeling like something that chose him.\n\nCHAPTERS\n00:00:00 Kierkegaard: The Philosopher for the 21st Century\n00:01:15 Abraham and Isaac: Understanding the Virtue of the Absurd\n00:03:53 The Three Stages: Aesthetic, Ethical, and Religious\n00:08:05 Music School and the Cost-Benefit Analysis of Dreams\n00:10:01 The People Who Can't Do Anything Else\n00:12:55 The Moment Mark Realized This Was His Life's Work\n00:14:12 It Chose Me: When Commitment Becomes Destiny\n00:23:45 Having a Calling vs Searching for One\n00:25:51 The HVAC Guy and the Cake Decorator\n00:33:32 Going Pro: Steven Pressfield's Framework for Commitment\n00:36:49 Inspiration Is for Amateurs: Chuck Close on Showing Up\n00:38:56 Marriage as a Leap of Faith\n00:43:03 Elon Musk and the 100 Percent Chance of Failure\n00:45:32 The Energy Nomad Trap\n00:46:50 The Dizziness of Freedom and the Intensity of Choosing\n\n⇨ Sign up for my newsletter, Your Next Breakthrough. It will help make you a less awful person: https://go.markmanson.net/cdi1xzha\n\n⇨ Get clarity on what actually matters. Try Purpose, Mark's AI mentor app that learns your patterns, challenges your blind spots, and helps you take action. Get started at https://go.markmanson.net/217i5ys5\n\nFOLLOW MARK\nMark's IG: ⁠https://www.instagram.com/markmanson⁠\nSolved IG: ⁠https://www.instagram.com/solvedpodcast/⁠\nTwitter: ⁠https://x.com/markmanson⁠\nLinkedIn: ⁠https://www.linkedin.com/in/markmanson/⁠\n\n#findyourcalling #leapoffaith #purpose #vocation #markmanson #solved"
         },
         {
-          "title": "33 Things Everyone Should Know How To Do",
-          "url": "https://www.youtube.com/watch?v=FqiRxOirFyY",
-          "publishedAt": "2026-09-27T15:15:14+00:00",
-          "description": "Head to https://betterhelp.com/markmanson to get 10% off your first month with our sponsor, BetterHelp. Better is personal. Therapy should be too.\n\nNobody gives you a manual for being an adult. You’re expected to work out money, emotions, relationships, and everything else through trial and a lot of error.\n\nSo here’s the manual. In this video, I go through 33 things every adult should have. Some are practical, some are social, and a few are the uncomfortable internal ones most of us avoid. How many can you already do?"
+          "title": "Mimetic Desire: Your Dreams Aren't Yours",
+          "url": "https://www.youtube.com/shorts/5G7v-Io5CyM",
+          "publishedAt": "2026-09-29T17:00:03+00:00",
+          "description": "It’s hard to know what you actually want when you’re constantly watching what everyone else wants. Confidence is partly learning to separate your own values and desires from the ones you absorbed from the crowd."
         }
       ]
     },
     {
       "source": "youtube",
-      "name": "立党 lidang",
-      "channelId": "UC4gzU_8MxRDiQrSFOiT79tQ",
+      "name": "Codie Sanchez",
+      "channelId": "UC5fI3kxC-ewZ6ZXEYgznM7g",
       "videos": [
         {
-          "title": "立党当场暴骂港校CS博士半小时！AI Agent到底是灌水方向，还是人类科技未来？AI Agent只是prompt engineering，不如训练大模型硬核？港校读博士选错方向直接自毁前途！",
-          "url": "https://www.youtube.com/watch?v=I35m2xREylA",
-          "publishedAt": "2026-09-28T16:48:19+00:00",
+          "title": "Forgiveness Isn't This",
+          "url": "https://www.youtube.com/shorts/fXutjC9OQr8",
+          "publishedAt": "2026-09-29T21:00:03+00:00",
           "description": ""
         },
         {
-          "title": "臭骂文科生系列！商科生：AI会替代所有程序员，只有商科生不会被替代掉！立党当场骂街！",
-          "url": "https://www.youtube.com/watch?v=k7_gig_OdsM",
-          "publishedAt": "2026-09-28T01:05:20+00:00",
+          "title": "Oxygen Vs Dessert Business",
+          "url": "https://www.youtube.com/shorts/E3BTRxoULZs",
+          "publishedAt": "2026-09-29T17:00:12+00:00",
           "description": ""
         }
       ]
@@ -132,7 +126,7 @@
   ],
   "stats": {
     "youtubeChannels": 7,
-    "totalVideos": 13
+    "totalVideos": 12
   },
   "errors": [
     "YouTube: Failed to fetch Mel Robbins: HTTP 404",

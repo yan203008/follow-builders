@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-09-29T12:28:48.615Z",
+  "generatedAt": "2026-09-30T12:14:01.890Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
-      "guid": "substack:post:217893105",
-      "url": "https://www.latent.space/p/thariq",
-      "publishedAt": "2026-09-29T01:48:18.000Z",
-      "description": "We are excited to have Anthropic share their latest AI x Finance work at AI Engineer New York , coming up in 2 weeks! In case you’ve been under a rock, here’s a non-exhaustive list of what Anthropic has been shipping since closing the largest fundraise of all time in May at $47B ARR: * June: Launched Claude Tag and Sonnet 5 and Fable 5 * July: Opus 5 , /checkup . crossed $65B ARR * Last month: Fable/Mythos 5.1 , and EFS (upcoming pod) * IPO target $2T , end 2026 ARR estimated $100B * Cowork/chat merged before did * Claude Mods * Dario endorses the same Pacing the Frontier message cosigned by all labs * Last week: Opus 5.5 , Plugins portal , Cloud Sessions/ Claude Projects * Today: Sonnet 5.5 ! Today’s episode should catch you up, with Thariq Shihipar , the explainer-king of Anthropic, who we last caught up on Fable launch day with The Field Guide to Fable : The Future of Mutable Software Pay special attention to Claude Mods (especially the cheatsheet ): In general this is also the inverse of the other vir"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   }
 }
