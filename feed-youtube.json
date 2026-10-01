@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T12:14:08.599Z",
+  "generatedAt": "2026-10-01T12:48:35.151Z",
   "lookbackHours": 48,
   "youtube": [
     {
@@ -8,23 +8,49 @@
       "channelId": "UCwAnu01qlnVg1Ai2AbtTMaA",
       "videos": [
         {
-          "title": "Stop Organizing Files Yourself.",
-          "url": "https://www.youtube.com/watch?v=peP_o66u-vM",
-          "publishedAt": "2026-09-29T13:00:30+00:00",
-          "description": "📦 Try Dropbox in ChatGPT with your team: https://bit.ly/jeffsudropbox \n\nEvery downloaded PDF becomes another file to rename and another folder to choose. In this video, I show you how to give #AI a file management rulebook so it can name and organize your files using the folder structure and preferences that make sense to you.\n\nSpecifically, you’ll see my exact setup in #ChatGPT Work (applicable to both Claude and Gemini Spark) and how to create a system that reorganizes your existing Google Drive files. Then we'll schedule a daily task that uses the same rulebook to help keep new files organized.\n\nThanks to Dropbox for sponsoring this video! For my YouTube production workflow, I use Dropbox in ChatGPT to organize new footage according to my handoff rules, review the proposed changes, and create one Dropbox folder link so my editor has everything ready to edit.\n\n*TIMESTAMPS*\n00:00 My Simple AI File Management System\n00:46 The File Management Problem\n01:35 Your AI File Management Rulebook\n03:56 AI File Management: A Simple Example\n06:40 Dropbox in ChatGPT for Video Production\n07:51 Organize Your Existing Cloud Files\n12:34 Automate Your File Management\n14:07 Recap: How to Organize Files using AI\n\n*RESOURCES MENTIONED*\nTemplates and prompts: https://www.jeffsu.org/ai-file-management-guide/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v211\nAI Essentials Newsletter: https://www.jeffsu.org/newsletter/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v211\nThe Cowork Academy - https://coworkacademy.ai/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v211\nGoogle Drive for desktop - https://support.google.com/a/users/answer/13022292?hl=en#drive_desktop_install\n\n*BUILD A POWERFUL WORKFLOW*\n✅ The Cowork Academy - https://coworkacademy.ai/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v211\nAI Memory guide - https://www.jeffsu.org/ai-memory-explained/?\n📈 The Workspace Academy - https://academy.jeffsu.org/workspace-academy?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=v211\n✍️ My Notion Command Center - https://www.pressplay.cc/link/s/DE1C4C50\n\n*BE MY FRIEND:*\n📧 Subscribe to my newsletter - https://www.jeffsu.org/newsletter/?utm_source=youtube&amp;utm_medium=video&amp;utm_campaign=description\n📸 Instagram - https://instagram.com/j.sushie\n🤝 LinkedIn - https://www.linkedin.com/in/jsu05/\n\n*MY FAVORITE GEAR*\n🎬 My YouTube Gear - https://www.jeffsu.org/yt-gear/\n🎒 Everyday Carry - https://www.jeffsu.org/my-edc/\n\n#filemanagement"
+          "title": "Microsoft’s plan to win the AI race, explained",
+          "url": "https://www.youtube.com/shorts/VXuN2iMwzqI",
+          "publishedAt": "2026-09-30T13:00:01+00:00",
+          "description": "Get my free Cowork Toolkit: https://coworkacademy.ai/toolkit?utm_source=youtube&amp;utm_medium=shortform&amp;utm_campaign=ig062\n\n#Microsoft’s strategy for the new #Copilot comes down to model choice and company context.\n\n1. Model choice: You can switch between models from different providers (or let Auto mode choose one for the task).\n2. Company context: A project update might be spread across 50 Word docs, 7 Teams channels, and dozens of emails. Work IQ helps Copilot find the relevant information, and it only uses what you’re allowed to see.\n\nThe goal is AI built for entire companies, with a model that fits the task and the company context needed to complete it.\n\nIf your company uses Copilot, let me know your actual experiences with the new app down below!"
         }
       ]
     },
     {
       "source": "youtube",
-      "name": "Tina Huang",
-      "channelId": "UC2UXDak6o7rBm23k3Vv5dww",
+      "name": "Dan Koe",
+      "channelId": "UCWXYDYv5STLk-zoxMP2I1Lw",
       "videos": [
         {
-          "title": "AI Lifebot",
-          "url": "https://www.youtube.com/shorts/DcHKTtQlVNQ",
-          "publishedAt": "2026-09-29T15:00:24+00:00",
-          "description": "I don't take productivity advice from the internet anymore. I take it from LifeBot.\n\nIt's my personal productivity and health coach, built on Hermes. The difference is it runs on my own data: my sleep, my focus hours, my steps, not generic tips written for a brain I don't have.\n\nSo instead of &quot;wake up at 5am,&quot; I get things like: you've been at this four hours, your focus dropped forty minutes ago, stop.\n\nIt's the only tool I've ever used that tells me to do less."
+          "title": "Average people don’t try to solve their problems",
+          "url": "https://www.youtube.com/shorts/EU8w96jYEr8",
+          "publishedAt": "2026-09-30T14:08:01+00:00",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "Ali Abdaal",
+      "channelId": "UCoOae5nYA7VqaXzerajD0lg",
+      "videos": [
+        {
+          "title": "My CEO Coach Destroys My Limiting Beliefs",
+          "url": "https://www.youtube.com/watch?v=6-ZxPvpV8ec",
+          "publishedAt": "2026-09-30T16:30:33+00:00",
+          "description": "Get access to all of the top AI models in one place with Perplexity Computer 👉 https://pplx.ai/ali-abdaal-youtube-1\n#PerplexityPartner\n\n📈 Get the free 10x Growth Guide: https://ericpartaker.com/how-to-10x-your-business?utm_source=ali_abdaal&amp;utm_medium=referral&amp;utm_campaign=10x_guide\n🚀 Book a call with my CEO Coach, Eric Partaker: https://ericpartaker.com/scaleos/?utm_source=ali_abdaal&amp;utm_medium=referral&amp;utm_campaign=scaleos\n\n💰 [Free 3-hour course] Turn your expertise into a $100k/year income stream →https://go.lifestylebusiness.com/ytd_10x\n🚀 Lifestyle Business Academy: Our MBA alternative to build a 6-figure online business → https://lifestylebusiness.com/academy?utm_source=youtube&amp;utm_medium=organic_social&amp;utm_campaign=ali_yt&amp;utm_term=video-desc&amp;utm_content=6-ZxPvpV8ec\n🧠 Superfocus: Our Ultimate Productivity System for People with More Ambition than Time → https://superfocus.me/?utm_source=youtube&amp;utm_medium=organic_social&amp;utm_campaign=ali_yt&amp;utm_term=video-desc&amp;utm_content=6-ZxPvpV8ec\n\nMY OTHER PRODUCTS\n🦄 My Productivity Course: LifeOS → https://go.aliabdaal.com/lifeos/ytd\n🤑 Grow / Monetise your YouTube Channel → https://go.aliabdaal.com/PTYA/yt\n👻 Voicepal: AI Writing App (iOS/Android) - Download for Free → https://go.aliabdaal.com/voicepal/ytd\n\nMY BOOK\n📕 My New York Times bestselling book Feel-Good Productivity (2,000+ 5-star reviews) → https://go.feelgoodproductivity.com/amazon/yt\n\nCONNECT WITH ME\n💌 Join LifeNotes, my weekly email where I share what I'm reading &amp; learning: https://go.aliabdaal.com/lifenotes/yt\n📸  Instagram: https://instagram.com/aliabdaal\n📱 TikTok: https://www.tiktok.com/@aliabdaal\n👨‍💻 Linkedin: https://www.linkedin.com/in/ali-abdaal/\n🐥 X/Twitter: https://x.com/aliabdaal\n🌍  My website / blog: https://www.aliabdaal.com/\n\n---\n\nHey friends, almost every big jump in my business happened right after I told someone &quot;that's not realistic&quot; and then did the thing anyway. So I sat down with my CEO coach Eric Partaker, who's helped over 500 founders scale, and let him walk me through what it would actually take to grow our business from $5 million a year to $50 million. The numbers were not what I expected, and the framework works for pretty much any goal you've been quietly writing off. Hope you enjoy xx\n\n\n🔗 LINKS MENTIONED IN THIS VIDEO \n\n- Eric Partaker: @EricPartaker1 \n📗 10x Is Easier Than 2x by Dan Sullivan and Benjamin Hardy: https://geni.us/10xeasier-ali\n📘 What Got You Here Won't Get You There by Marshall Goldsmith: https://geni.us/whatgotyouhere-ali\n- Astro Teller's Wired piece, &quot;10X Is Easier Than 10 Percent&quot;: https://www.wired.com/2013/02/moonshots-matter-heres-how-to-make-them-happen/\n- The step-by-step plan to a $1M business: https://youtu.be/rDrw3kkqKac\n\n⌚️ TIMESTAMPS \n0:00 Intro\n0:46 Step 1: That's Not Realistic\n5:10 Step 2: The 10x Question\n9:10 Step 3: Confronting the 10x Goal\n14:24 Step 4: Opening the Black Box\n17:41 Running the numbers\n23:05 The 3172 method\n27:32 Step 5: The Execution\n28:37 Business: Elevate\n30:28 Business: Eliminate\n33:17 Business: Execute\n36:10 Leadership\n41:11 Self: Elevate\n42:43 Self: Eliminate\n46:30 Self: Execute\n48:52 What to fix first\n\nPS: I donate 10% of my income to charity every year. Would you like to join me? Learn more about the 10% Pledge: https://aliabdaal.com/giving-what-we-can/"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "FearNation 世界苦茶",
+      "channelId": "UCLKsaKMS_5RQuM0wHLp2vVg",
+      "videos": [
+        {
+          "title": "[透明茶室 268] 救市政策這就來了！不過...這都是些什麼啊？",
+          "url": "https://www.youtube.com/watch?v=4DQw0q-wH8I",
+          "publishedAt": "2026-10-01T12:02:40+00:00",
+          "description": "怎麼救市？"
         }
       ]
     },
@@ -34,16 +60,29 @@
       "channelId": "UCbk_QsfaFZG6PdQeCvaYXJQ",
       "videos": [
         {
-          "title": "Selena Gomez: a wrong lyric became the hook #jayshetty #selenagomez #shorts",
-          "url": "https://www.youtube.com/shorts/LwYXqRK6rcg",
-          "publishedAt": "2026-09-30T08:00:38+00:00",
-          "description": "Selena Gomez on the studio mistakes that end up in the song. Watch the FULL episode today on Netflix &amp; Spotify. #jayshetty #selenagomez #shorts #onpurpose #podcast"
+          "title": "Tom Holland: why I deleted my Instagram #jayshetty #tomholland #shorts",
+          "url": "https://www.youtube.com/shorts/uwojXppwT34",
+          "publishedAt": "2026-10-01T08:00:19+00:00",
+          "description": "Tom Holland on deleting Instagram, the scroll he couldn't stop, and the moment it became a problem. Watch the FULL episode today on Netflix &amp; Spotify. #jayshetty #tomholland #shorts #onpurpose #podcast"
         },
         {
-          "title": "Tom Holland: I was just watching the clock #jayshetty #tomholland #shorts",
-          "url": "https://www.youtube.com/shorts/r_b6_swFqw8",
-          "publishedAt": "2026-09-29T16:00:36+00:00",
-          "description": "Tom Holland on the dry January that made him realise something had to change. Watch the FULL episode today on Netflix &amp; Spotify. #jayshetty #tomholland #shorts #onpurpose #podcast"
+          "title": "If You're in Your 20s, Watch This BEFORE It's Too Late",
+          "url": "https://www.youtube.com/watch?v=_Do899touE8",
+          "publishedAt": "2026-09-30T15:30:15+00:00",
+          "description": "In this episode, Jay Shetty shares the seven lessons he wishes he'd learned in his teens and 20s, the ones that change how you show up in relationships, at work, and in your own head.\n\nJay explains why the loudest person in the room usually has the least control, what a Zen student learned when he asked about wisdom and got one word back, and the simple story of two monks on a beach that shows what you're still carrying.\n\nLearn about why you don't get what you deserve, why some people miss the old version of you, and what &quot;I'm just bad at texting&quot; is really saying.\n\nJAY'S DAILY WISDOM DELIVERED STRAIGHT TO YOUR INBOX\nJoin 900,000+ readers discovering how small daily shifts create big life change with my free newsletter. Subscribe https://news.jayshetty.me/subscribe\n\nChapters\n0:00 — The skills school never taught\n1:16 — The less you say, the more your words matter\n3:07 — Being interested vs. being interesting\n4:13 — The question that makes people open up\n6:54 — The student who asked for the secret of wisdom\n8:40 — Let go or be dragged\n11:49 — Two monks and the woman in the ocean\n14:05 — Talk to your partner, not about them\n17:31 — Who someone is when they're stressed\n21:07 — What squeezing an orange reveals\n22:14 — You don't get what you deserve\n25:31 — Why a boundary isn't an attack\n26:02 — The people who miss the old you\n28:32 — Why you keep chasing the wrong people\n30:05 — Excuses are translations\n\nWatch the FULL episode on Netflix &amp; Spotify 🎙️\nNetflix - https://dub.sh/QaUsKeD\nSpotify - https://dub.sh/axUXylv"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "Andrew Huberman",
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "videos": [
+        {
+          "title": "Tools to Improve Your Focus &amp; Concentration | Huberman Lab Essentials",
+          "url": "https://www.youtube.com/watch?v=8e3RC1L5V_Y",
+          "publishedAt": "2026-10-01T12:00:35+00:00",
+          "description": "In this Huberman Lab Essentials episode, I explain how the neurochemicals epinephrine, acetylcholine and dopamine contribute to focus and concentration. I discuss tools for improving attention, including sleep, sound, structured work sessions, nutrition, caffeine and deliberate cold exposure. I also describe a brief daily meditation and visual focus exercises that train your ability to refocus when attention drifts. Additionally, I discuss the potential benefits and limitations of supplements, prescription treatments for ADHD, and why taking time to deliberately defocus supports concentrated work.\n\nShow notes: https://go.hubermanlab.com/GBU899b\n\nFollow Huberman Lab\nInstagram: https://www.instagram.com/hubermanlab \nThreads: https://www.threads.net/@hubermanlab\nX: https://x.com/hubermanlab \nFacebook: https://www.facebook.com/hubermanlab \nTikTok: https://www.tiktok.com/@hubermanlab \nLinkedIn: https://www.linkedin.com/in/andrew-huberman\nWebsite: https://www.hubermanlab.com \n\nTimestamps\n00:00:00 Focus &amp; Concentration\n00:02:00 Epinephrine, Acetylcholine &amp; Dopamine\n00:04:20 Sleep, White Noise &amp; Pink Noise\n00:07:35 Ultradian Cycles, 90-Minute Work Sessions\n00:09:15 Blood Glucose, Fasting &amp; Meal Size\n00:12:10 Caffeine, Focus &amp; Sleep\n00:13:25 Acute Stress &amp; Concentration\n00:15:25 Tool: Deliberate Cold Exposure\n00:18:10 Tool: 13-Minute Daily Meditation\n00:22:20 Tool: Visual Focus Exercises\n00:27:00 Omega-3 Fatty Acids &amp; Creatine\n00:29:00 Alpha-GPC, Acetylcholine &amp; Safety Considerations\n00:31:05 L-Tyrosine, Dopamine &amp; Combining Tools\n00:32:55 ADHD, Prescription Medications &amp; Neuroplasticity\n00:35:50 Deliberate Defocusing &amp; Recovery\n00:37:05 Acknowledgements\n\nDisclaimer &amp; Disclosures: https://www.hubermanlab.com/disclaimer"
         }
       ]
     },
@@ -53,16 +92,16 @@
       "channelId": "UCIaH-gZIVC432YRjNVvnyCA",
       "videos": [
         {
-          "title": "Tom Selleck in the studio.",
-          "url": "https://www.youtube.com/shorts/wgO9wCUBaPA",
-          "publishedAt": "2026-09-29T22:00:07+00:00",
-          "description": "Get access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spotify.modernwisdom.com or Apple Podcasts - https://apple.modernwisdom.com\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
+          "title": "What Is The Curse Of Strength?",
+          "url": "https://www.youtube.com/shorts/37ziD3T6ZLM",
+          "publishedAt": "2026-09-30T22:01:01+00:00",
+          "description": "Get access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spotify.modernwisdom.com or Apple Podcasts - https://apple.modernwisdom.com\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx"
         },
         {
-          "title": "Why Are So Many People Cutting Off Parents?",
-          "url": "https://www.youtube.com/shorts/bHWJ-EZhDEs",
-          "publishedAt": "2026-09-29T17:13:10+00:00",
-          "description": "Watch the full episode here - https://youtu.be/bMkdGagFIy0?si=OjDdzwNSmwvD5Tg6\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spotify.modernwisdom.com or Apple Podcasts - https://apple.modernwisdom.com\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
+          "title": "Are You Mocked For Your Healthy Habits?",
+          "url": "https://www.youtube.com/shorts/GHj_a8u0GxA",
+          "publishedAt": "2026-09-30T16:57:10+00:00",
+          "description": "Watch the full episode here - https://youtu.be/8son5OkbC90?si=ypHQ6qdt69EKm_Xl\n\nGet access to every episode 10 hours before YouTube by subscribing for free on Spotify - https://spotify.modernwisdom.com or Apple Podcasts - https://apple.modernwisdom.com\n\nGet my free Reading List of 100 life-changing books here - https://chriswillx.com/books/\n\nTry my productivity energy drink Neutonic here - https://neutonic.com/modernwisdom\n\n-\n\nGet in touch in the comments below or head to...\nInstagram: https://www.instagram.com/chriswillx \nTwitter: https://www.twitter.com/chriswillx\nEmail: https://chriswillx.com/contact/"
         }
       ]
     },
@@ -72,16 +111,16 @@
       "channelId": "UCRYY7IEbkHLH_ScJCu9eWDQ",
       "videos": [
         {
-          "title": "Jev: 8 real use cases this fast, cheap model",
-          "url": "https://www.youtube.com/watch?v=dAIIaepNhQM",
-          "publishedAt": "2026-09-30T12:00:24+00:00",
-          "description": "John Lindquist created egghead.io, a developer education platform used by hundreds of thousands of working engineers. These days he’s building mega.dev, a hands-on program specifically for developers who want to do real work with AI agents, not just prototype them.\n\n*What you’ll learn:*\n1. Why Jev is a decision engine, not a chatbot, and what that distinction actually changes about how you build\n2. How John built a real-time voice to-do app that classifies and executes commands with no visible pause\n3. The data deduplication pattern that merges messy records in milliseconds using confidence scores\n4. Why Jev works best as a router, and how a single text input can navigate users deep into an app\n5. What a chess match between Jev and a low-reasoning LLM reveals about speed, cost, and when to use which\n6. The multi-step classification pattern John reaches for when one Jev pass isn’t enough\n7. Where Jev falls short, and when you should still reach for a full generative model\n\n*Brought to you by:*\nVanta—Automate compliance and simplify security: https://www.vanta.com/howiai\n\n*In this episode, we cover:*\n(00:00) John Lindquist returns for Jev week\n(04:32) What Jev actually outputs\n(06:15) Demo: real-time voice to-do app\n(08:17) How sequential Jev calls chain together\n(10:38) Demo: plain English to function name (grocery cart)\n(11:50) Demo: data deduplication and record merging\n(13:45) Confidence scores and multi-model validation\n(15:06) Demo: Jev as a multi-level app router\n(18:23) Architecting around Jev\n(19:35) Demo: Jev vs. traditional LLM at chess (speed and cost benchmarks)\n(24:29) DOM interactions as a decision set, not an infinite canvas\n(28:21) Demo: Wikipedia “path to philosophy” route mapper\n(30:28) Demo: multi-agent coordination and collision avoidance\n(33:36) Demo: real-time presentation coach\n(36:56) Quick recap\n(39:54) Lightning round and final thoughts\n\n*Tools referenced:*\n• Jev (TypeSafe AI decision model): https://typesafe.ai/blog/introducing-system-one-models-and-jev\n• Vercel AI Gateway: https://vercel.com/docs/ai-gateway\n• OpenRouter: https://openrouter.ai\n• Opus 5.5 (mentioned in context of iterative demo building): https://www.anthropic.com/claude-opus-5-5\n\n*Where to find John Lindquist:*\nLinkedIn: linkedin.com/in/john-lindquist-84230766\nX: https://x.com/johnlindquist\nMega.dev: https://mega.dev/\nEgghead.io: https://egghead.io/\n\n*Where to find Claire Vo:*\nChatPRD: https://www.chatprd.ai/\nWebsite: https://clairevo.com/\nLinkedIn: https://www.linkedin.com/in/clairevo/\nX: https://x.com/clairevo\n\n_Production and marketing by https://penname.co/._\n_For inquiries about sponsoring the podcast, email jordan@penname.co._"
+          "title": "Jev merges messy data in milliseconds",
+          "url": "https://www.youtube.com/shorts/44xOTx47fNg",
+          "publishedAt": "2026-10-01T12:15:18+00:00",
+          "description": "Duplicate records full of typos? Jev matches and merges them, like Cedar Grove Office Products and Cedar Grove Office, in milliseconds.\n\nFull episode on How I AI.\n\n#HowIAI #Jev #AI"
         },
         {
-          "title": "OpenAI DevDay 2026: Dots, Spaces, and ULTRAFAST",
-          "url": "https://www.youtube.com/watch?v=pJNM1z9l5mU",
-          "publishedAt": "2026-09-30T04:45:40+00:00",
-          "description": "I spent the day at OpenAI’s DevDay in San Francisco, and I have good news and bad news: OpenAI released a lot of stuff.\n\nIn this episode, I break down the announcements worth paying attention to - and show you what happened when I tested some of them early. We’ll meet my Dot, explore why Spaces and Sites could matter for how teams work, and get into the model and API updates I’m most excited about as a developer.\n\nI use the Decisions API to find podcast thumbnails where nobody looks awkward, build a collaborative sketchpad with Astra ultrafast, and let my kids redesign a 3D world in real time. That last experiment cost about $97. My wallet has thoughts.\n\nThese are my early impressions: what’s promising, what still feels rough, and what I think you should try first.\n\nWhat you’ll learn:\n\n1. What OpenAI’s Dots can do, how I’ve been using mine, and why I’m waiting to give a full verdict\n2. Why Spaces might be one of the most underhyped announcements for collaboration between humans and agents\n3. How Sites with connectors and plugins could help teams share internal tools with the right data permissions\n4. Where GPT-6.1 Sol fits in my model stack—and why speed and cost matter\n5. What vision adds to the Decisions API, including my thumbnail-selection and hot dog demos\n6. What Astra ultrafast makes possible for interactive AI apps, from collaborative drawing to a changing 3D game\n7. Where the speed feels magical, where the experience still needs work, and what it costs\n\nIn this episode, we cover:\n\n(00:00) OpenAI DevDay recap—and pressing the Codex reset button\n(00:58) Dots: early impressions and rough edges\n(06:57) Spaces: working with humans and agents\n(10:37) Sites, connectors, and sharing internal tools\n(13:06) Models and platform: GPT-6.1 Sol\n(14:36) Decisions API: fast decisions with vision\n(15:27) Finding better podcast thumbnails with AI\n(16:29) Hot dog or not hot dog?\n(17:17) Astra ultrafast: speed, pricing, and possibilities\n(18:50) The Other Pencil: drawing alongside AI\n(19:45) Little Starship: a 3D world you can change with a prompt\n(21:24) The $97 AI game—and what it makes possible\n(22:25) Agents API, computer use, plugins, and plan updates\n(23:03) What I’d try first\n\n—\n\nTools referenced:\n• ChatGPT — Dots, Spaces, and Sites: https://chatgpt.com/\n• Codex: https://openai.com/codex/\n• OpenAI API — GPT-6.1 Sol, Decisions API, and Astra ultrafast: https://platform.openai.com/\n• Jev: https://typesafe.ai/\n\n\nOther references:\n• OpenAI DevDay 2026: https://devday.openai.com/\n\nWhere to find Claire Vo:\nChatPRD: https://www.chatprd.ai/\nWebsite: https://clairevo.com/\nLinkedIn: https://www.linkedin.com/in/clairevo/\nX: https://x.com/clairevo\n\nProduction and marketing by https://penname.co/.\nFor inquiries about sponsoring the podcast, email jordan@penname.co."
+          "title": "Jev runs my to-do list by voice",
+          "url": "https://www.youtube.com/shorts/S-seVCFqjE0",
+          "publishedAt": "2026-09-30T15:44:17+00:00",
+          "description": "I just talk, and Jev matches each task, picks the right action, and updates my to-do list instantly.\n\nFull episode on How I AI.\n\n#HowIAI #Jev #AI"
         }
       ]
     },
@@ -91,16 +130,16 @@
       "channelId": "UC0TnW9acNxqeojxXDMbohcA",
       "videos": [
         {
-          "title": "Why the Your Best Life Should Feel Irrational",
-          "url": "https://www.youtube.com/watch?v=1A1c-QIh31Y",
-          "publishedAt": "2026-09-30T08:00:37+00:00",
-          "description": "Momentous: Head to https://manson.deals/momentous to try Momentous Signature Spec Creatine, and use code SOLVED for up to 35% off your entire first order. Waking Up: Get started at https://manson.deals/wakingup for a 14 day trial, no risk.\n\nKierkegaard spent the last years of his life arguing that rational commitment only gets you so far. There's a level of dedication so deep it breaks into irrationality, and the only word that does it justice is faith. We dig into his book Fear and Trembling (which is actually where the phrase &quot;leap of faith&quot; comes from), the concept of infinite resignation, and what separates a commitment you can explain to someone from one you can't. We talk about why the people who make it in music and entrepreneurship are never the ones sitting around asking if they'll make it. And Mark shares the moment he realized his career had stopped feeling like something he chose and started feeling like something that chose him.\n\nCHAPTERS\n00:00:00 Kierkegaard: The Philosopher for the 21st Century\n00:01:15 Abraham and Isaac: Understanding the Virtue of the Absurd\n00:03:53 The Three Stages: Aesthetic, Ethical, and Religious\n00:08:05 Music School and the Cost-Benefit Analysis of Dreams\n00:10:01 The People Who Can't Do Anything Else\n00:12:55 The Moment Mark Realized This Was His Life's Work\n00:14:12 It Chose Me: When Commitment Becomes Destiny\n00:23:45 Having a Calling vs Searching for One\n00:25:51 The HVAC Guy and the Cake Decorator\n00:33:32 Going Pro: Steven Pressfield's Framework for Commitment\n00:36:49 Inspiration Is for Amateurs: Chuck Close on Showing Up\n00:38:56 Marriage as a Leap of Faith\n00:43:03 Elon Musk and the 100 Percent Chance of Failure\n00:45:32 The Energy Nomad Trap\n00:46:50 The Dizziness of Freedom and the Intensity of Choosing\n\n⇨ Sign up for my newsletter, Your Next Breakthrough. It will help make you a less awful person: https://go.markmanson.net/cdi1xzha\n\n⇨ Get clarity on what actually matters. Try Purpose, Mark's AI mentor app that learns your patterns, challenges your blind spots, and helps you take action. Get started at https://go.markmanson.net/217i5ys5\n\nFOLLOW MARK\nMark's IG: ⁠https://www.instagram.com/markmanson⁠\nSolved IG: ⁠https://www.instagram.com/solvedpodcast/⁠\nTwitter: ⁠https://x.com/markmanson⁠\nLinkedIn: ⁠https://www.linkedin.com/in/markmanson/⁠\n\n#findyourcalling #leapoffaith #purpose #vocation #markmanson #solved"
+          "title": "The Truth About &quot;Right Person, Wrong Time&quot;",
+          "url": "https://www.youtube.com/shorts/31vM_U8Yh3A",
+          "publishedAt": "2026-09-30T17:00:11+00:00",
+          "description": "“Right person, wrong time” can be a comforting story because it keeps hope alive. But sometimes timing isn’t the problem, the relationship just wasn’t right enough to survive reality."
         },
         {
-          "title": "Mimetic Desire: Your Dreams Aren't Yours",
-          "url": "https://www.youtube.com/shorts/5G7v-Io5CyM",
-          "publishedAt": "2026-09-29T17:00:03+00:00",
-          "description": "It’s hard to know what you actually want when you’re constantly watching what everyone else wants. Confidence is partly learning to separate your own values and desires from the ones you absorbed from the crowd."
+          "title": "Being Single vs. a Bad Relationship",
+          "url": "https://www.youtube.com/shorts/NqGggAWVbI8",
+          "publishedAt": "2026-09-30T13:00:05+00:00",
+          "description": "Being single might feel scary, but being in a toxic relationship is often worse. Relationships are amplifiers: a healthy one can make your life better, but a toxic one can make everything harder. Being alone is better than being with someone who makes you miserable."
         }
       ]
     },
@@ -110,23 +149,23 @@
       "channelId": "UC5fI3kxC-ewZ6ZXEYgznM7g",
       "videos": [
         {
-          "title": "Forgiveness Isn't This",
-          "url": "https://www.youtube.com/shorts/fXutjC9OQr8",
-          "publishedAt": "2026-09-29T21:00:03+00:00",
+          "title": "Stop Saying Yes",
+          "url": "https://www.youtube.com/shorts/F8_4iGHDNNc",
+          "publishedAt": "2026-09-30T21:00:33+00:00",
           "description": ""
         },
         {
-          "title": "Oxygen Vs Dessert Business",
-          "url": "https://www.youtube.com/shorts/E3BTRxoULZs",
-          "publishedAt": "2026-09-29T17:00:12+00:00",
+          "title": "Do You Want The Excuse Or The Life",
+          "url": "https://www.youtube.com/shorts/2psFYMRTKf4",
+          "publishedAt": "2026-09-30T17:14:37+00:00",
           "description": ""
         }
       ]
     }
   ],
   "stats": {
-    "youtubeChannels": 7,
-    "totalVideos": 12
+    "youtubeChannels": 10,
+    "totalVideos": 15
   },
   "errors": [
     "YouTube: Failed to fetch Mel Robbins: HTTP 404",
