@@ -1,17 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "substack:post:217456046": 1790420765182,
-    "51c4092c-b309-11f1-8603-fb8d30e1277f": 1790420765402,
-    "https://www.youtube.com/watch?v=q7GdLK1xwAo": 1790420765989,
-    "https://www.youtube.com/shorts/LE3Zx_8GPM8": 1790420766919,
-    "https://www.youtube.com/shorts/GmgtCwuLc9c": 1790420766919,
-    "https://www.youtube.com/shorts/nsUgn1rXAyk": 1790420767240,
-    "https://www.youtube.com/shorts/VWGWkfmJCq8": 1790420767240,
-    "https://www.youtube.com/shorts/_szHk3B0PLs": 1790420767798,
-    "https://www.youtube.com/watch?v=SBwbocJo0lE": 1790420768290,
-    "https://www.youtube.com/shorts/7tM_7Dsrtxs": 1790420768603,
-    "https://www.youtube.com/shorts/1l95fGSFjSY": 1790420768603,
     "https://www.youtube.com/shorts/VBSAFQ9gvOU": 1790509483627,
     "https://www.youtube.com/watch?v=8kAW1LyaAUI": 1790509483627,
     "https://www.youtube.com/shorts/k1iQI4GKfyo": 1790509483940,
@@ -89,12 +78,24 @@
     "https://www.youtube.com/shorts/SVrGK41ueh8": 1790943123673,
     "https://www.youtube.com/shorts/ApGYGUY0A_M": 1790943124136,
     "https://www.youtube.com/shorts/VLRC_mdmkgA": 1790943124760,
-    "https://www.youtube.com/shorts/ourpiaPUVbI": 1790943124760
+    "https://www.youtube.com/shorts/ourpiaPUVbI": 1790943124760,
+    "substack:post:217289983": 1791026581099,
+    "substack:post:216783460": 1791026581099,
+    "09985d98-67c4-4c5e-a1be-6d201c56bc55": 1791026581398,
+    "https://www.youtube.com/shorts/bwr0ch8OPcU": 1791026583474,
+    "https://www.youtube.com/shorts/5gboi0uVaas": 1791026583951,
+    "https://www.youtube.com/shorts/jaPEUFyz8ec": 1791026584384,
+    "https://www.youtube.com/shorts/oVblLn8NYr4": 1791026584384,
+    "https://www.youtube.com/shorts/7sDdVh5nhrs": 1791026584897,
+    "https://www.youtube.com/shorts/spuYTzCnn4Q": 1791026585299,
+    "https://www.youtube.com/shorts/jYz1mMYBa3k": 1791026585299
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1790770442165,
     "https://www.anthropic.com/engineering/april-23-postmortem": 1790770442780,
     "https://www.anthropic.com/engineering/managed-agents": 1790770443492,
-    "https://claude.com/blog/claude-in-chrome-generally-available": 1790770444208
+    "https://claude.com/blog/claude-in-chrome-generally-available": 1790770444208,
+    "https://claude.com/blog/cowork-is-now-claude": 1791026581987,
+    "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs": 1791026582527
   }
 }
