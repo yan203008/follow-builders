@@ -1,17 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "https://www.youtube.com/watch?v=oMtAfbNHfnw": 1790601877337,
-    "https://www.youtube.com/watch?v=ZD_ON2NLyPo": 1790601877969,
-    "https://www.youtube.com/watch?v=nk15CT41MFc": 1790601878368,
-    "https://www.youtube.com/shorts/eugbQ8eBOK8": 1790601878771,
-    "https://www.youtube.com/watch?v=5k-BbXf2lMo": 1790601878771,
-    "https://www.youtube.com/watch?v=-KIBgpGA_XI": 1790601879216,
-    "https://www.youtube.com/shorts/7E0xHirDOJk": 1790601879606,
-    "https://www.youtube.com/shorts/RE0KSTfZqq4": 1790601879606,
-    "https://www.youtube.com/watch?v=p5dLL15P8RY": 1790601880013,
-    "https://www.youtube.com/watch?v=quOXcBaDfKE": 1790601880013,
-    "https://www.youtube.com/watch?v=kMV3vvZPk6Q": 1790601880483,
     "substack:post:217893105": 1790684928175,
     "https://www.youtube.com/watch?v=rPGJhrunbxo": 1790684929201,
     "https://www.youtube.com/watch?v=idfU-WLBTyI": 1790684929892,
@@ -92,7 +81,17 @@
     "https://www.youtube.com/watch?v=GtF48Qb_vEw": 1791115440835,
     "https://www.youtube.com/watch?v=hkxz7LNJcwE": 1791115440835,
     "https://www.youtube.com/shorts/3CeVvT-Tgh0": 1791115441287,
-    "https://www.youtube.com/shorts/7occvA7ipRI": 1791115441287
+    "https://www.youtube.com/shorts/7occvA7ipRI": 1791115441287,
+    "https://www.youtube.com/watch?v=YyUl1QerHjA": 1791209258463,
+    "https://www.youtube.com/shorts/LCSqyC8q260": 1791209259327,
+    "https://www.youtube.com/shorts/NuiBLC2G4Fs": 1791209260218,
+    "https://www.youtube.com/watch?v=SFX8FIHFLE4": 1791209260528,
+    "https://www.youtube.com/shorts/xz2LRPRj6jU": 1791209260867,
+    "https://www.youtube.com/shorts/byLKKtKCE34": 1791209260867,
+    "https://www.youtube.com/watch?v=kz5Cpomk3HA": 1791209261227,
+    "https://www.youtube.com/shorts/vVSFVYbuxpQ": 1791209261540,
+    "https://www.youtube.com/shorts/VdKgiaqiSlo": 1791209261540,
+    "https://www.youtube.com/watch?v=Yn-3tVwy_l4": 1791209262066
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1790770442165,

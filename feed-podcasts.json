@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-10-04T12:03:58.184Z",
+  "generatedAt": "2026-10-05T14:07:38.113Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah &amp; AMP’s Anjney Midha",
-      "guid": "substack:post:217456046",
-      "url": "https://www.latent.space/p/openrouter",
-      "publishedAt": "2026-09-25T23:14:41.000Z",
-      "description": "From the earliest days of open-weight models to becoming the neutral routing layer for more than 10 million developers , OpenRouter is one of the clearest bets that the future of AI will be multi-model. In this episode, OpenRouter co-founder & CEO Alex Atallah, with AMP’s Anjney Midha returning with swyx to unpack how OpenRouter emerged from the first wave of Llama , Alpaca, Mistral, and Midjourney, why model diversity mattered before it was consensus, and how a company dismissed as “just a wrapper” became critical infrastructure for the AI ecosystem. We go deep on the product and distribution lessons behind OpenRoute r: why model labs can spend billions training a checkpoint and still struggle to get it into developers’ hands, how Mistral helped prove the value of a competitive inference marketplace, why OpenRouter chose focus over expanding into fine-tuning, memory, and other adjacent products, and how its rankings became a real-time map of how AI usage was changing. Alex also explains OpenRouter’s early experiments with model fusion , why they deleted the first version and brought it back years later, and how the platform grew to more than 10 trillion tokens per day. Finally, Anjney explains why Stripe and OpenRouter fit together , why token fraud may become one of the defining security problems of the AI economy , and why the next wave of fraud won’t just come from humans but from autonomous agents attacking increasingly valuable token flows . We discuss: * Why OpenRouter bet early that no single AI model would win everything * Alpaca, Llama, and open models becoming impossible to ignore * Why Discord’s early AI deployments exposed the limitations of closed models * Why model labs can spend billions on training and still fail at distribution * How OpenRouter became a neutral distribution layer for model developers * Why VCs dismissed OpenRouter as “just a marketplace” or “just a wrapper” * The Mistral price war and the first real proof of an inference marketplace * How Midjourney scaled through Discord and what it taught the AI ecosystem * Why crypto infrastructure became a dress rehearsal for generative AI * OpenRouter vs. LM Arena and why their missions are fundamentally different * Why focus became one of OpenRouter’s biggest strategic advantages * Anthropic’s early focus on AI pair programming and coding * The Ope"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   }
 }
