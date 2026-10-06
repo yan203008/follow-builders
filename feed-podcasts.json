@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-10-05T14:07:38.113Z",
+  "generatedAt": "2026-10-06T13:05:05.820Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "Google's AI Infrastructure Chief, Amin Vahdat, on the Physics &amp; Economics of Frontier AI",
+      "guid": "28c38604-c0da-11f1-8b1e-33a0102fe4b6",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-10-06T09:00:00.000Z",
+      "description": "At 100,000-accelerator scale, something fails multiple times an hour, which is why Google's Chief Technologist for AI Infrastructure Amin Vahdat thinks FLOPS is a vanity metric. The metric that matters is what he calls goodput: the useful work a workload actually delivers through real failures. Amin walks through the calculus that split the TPU line into 8i and 8t for the first time, why the TPU's core primitives haven't changed since v1, and how Google and DeepMind co-design in the same rooms, intercepting chip architectures mid-flight before tape-out. He explains why long-horizon agents are sending demand for CPUs and storage through the roof alongside accelerators, how optical circuit switches reroute light to a spare rack in milliseconds, and why Google would rather wait on a utility than build its own gigawatt. We also cover orbital data centers and the multi-megawatt rack of 2036. Hosted by Sonya Huang, Sequoia Capital 0:00 – Introduction 1:47 – What makes a data center an AI data center 5:30 – Goodput, not FLOPS: holding yourself accountable when something fails every hour 11:52 – Doubling token capacity every six months, and where the gains actually come from 15:32 – The TPU bet: from a contrarian call in 2013 to splitting 8i and 8t 23:30 – The case for and against co-design 26:11 – Shoulder to shoulder with DeepMind: intercepting chips mid-flight 34:16 – Long-horizon agents change the shape of the data center 37:50 – Optical circuit switching and the state of networking 42:35 – Power is the binding constraint: utilities, gigawatts, and sizing a data center 49:23 – Training vs. serving clusters, seven-year-old TPUs, and open standards 58:29 – Orbital data centers and the supercomputer of 2036 ]]>"
+    },
+    {
+      "source": "podcast",
+      "name": "Unsupervised Learning",
+      "title": "Ep 94: Applied Compute CEO on the Limits of RL, the New AI Hyperscaler &amp; Why Post-Training Wins Inference",
+      "guid": "77097e65-4ead-46c4-b497-36fa09bd0f11",
+      "url": "https://unsupervised-learning.simplecast.com/episodes/ep-94-applied-compute-ceo-on-the-limits-of-rl-the-new-ai-hyperscaler-why-post-training-wins-inference-pwvQaYdN",
+      "publishedAt": "2026-10-06T12:50:23.000Z",
+      "description": "Yash Patil, a former OpenAI researcher who worked on Codex and now runs Applied Compute, argues that post-training is the most overlooked part of the AI stack and the key to owning your intelligence. He explains when companies should optimize their harness and context first, and when it's worth updating the weights: the largest inference workloads, plus tasks that change over time or depend on judgment. That's the heart of why he believes post-training wins inference. The biggest workloads are both the most valuable to train and the most valuable to serve, and how a model is trained shapes how it should be served. Getting production serving running is the easier half; echoing Dylan Patel, he says GPUs plus vLLM plus OpenRouter \"kind of\" gets you there. Yash is candid about the limits of RL. It's a hill-climbing machine whose hardest part is defining the hill, which makes a company's private evals as worth protecting as its employees. It generalizes far less than pre-training. And continual learning remains blocked by the unsolved problem of extremely data-efficient training from sparse rewards. He lays out his bet on a new AI hyperscaler, built on GPUs the way AWS, GCP, and Azure were built on CPUs. He pictures it as an inverted pyramid with training at the bottom, where few can compete, and inference, routing, and harness stacked above. The conversation also covers whether every firm needs its own model, why Jevons paradox has made cost matter more than he expected, how models reward hack \"like water,\" and why the US needs American open-weight models even though \"blanket bans are not the answer.\" (0:00) Intro (1:42) The Case for Owning Your Intelligence (4:35) OpenAI x Baseten and the Multi-Model Future (7:19) Can Post-Training Beat Frontier Models? (9:03) What Data Stays Out of Distribution (11:51) Data Efficiency and Continual Learning (14:31) When Updating Model Weights Makes Sense (16:01) Online Training in Practice (18:16) Lowering the Cost of Post-Training (19:48) Does Every Company Need Its Own Model? (24:06) RL in Non-Verifiable Domains (26:59) How Applied Compute Picks Customers (28:46) Building an Inference Business (34:43) The Case for a New AI Hyperscaler (38:21) Building RL Environments (41:33) Quickfire Jacob is an AI investor at Redpoint Ventures. He's led Redpoint's investments in companies like Abridge, Physical Intelligence &amp; Legora. Follow Jacob on Twitter (@jacobeffron). On Unsupervised Learning we probe the sharpest minds in AI in search for the truth about what's real today, what will be real in the future and what it all means for businesses and the world. If you're a builder, researcher or investor navigating the AI world, this podcast will help you deconstruct and understand the most important breakthroughs and see a clearer picture of reality. Subscribe to this show to stay up to date on our latest episodes."
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 2
   }
 }
