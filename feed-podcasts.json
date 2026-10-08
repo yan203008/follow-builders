@@ -1,18 +1,27 @@
 {
-  "generatedAt": "2026-10-07T12:59:36.417Z",
+  "generatedAt": "2026-10-08T13:07:17.534Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Latent Space",
-      "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
-      "guid": "substack:post:217893105",
-      "url": "https://www.latent.space/p/thariq",
-      "publishedAt": "2026-09-29T01:48:18.000Z",
-      "description": "We are excited to have Anthropic share their latest AI x Finance work at AI Engineer New York , coming up in 2 weeks! In case you’ve been under a rock, here’s a non-exhaustive list of what Anthropic has been shipping since closing the largest fundraise of all time in May at $47B ARR: * June: Launched Claude Tag and Sonnet 5 and Fable 5 * July: Opus 5 , /checkup . crossed $65B ARR * Last month: Fable/Mythos 5.1 , and EFS (upcoming pod) * IPO target $2T , end 2026 ARR estimated $100B * Cowork/chat merged before did * Claude Mods * Dario endorses the same Pacing the Frontier message cosigned by all labs * Last week: Opus 5.5 , Plugins portal , Cloud Sessions/ Claude Projects * Today: Sonnet 5.5 ! Today’s episode should catch you up, with Thariq Shihipar , the explainer-king of Anthropic, who we last caught up on Fable launch day with The Field Guide to Fable : The Future of Mutable Software Pay special attention to Claude Mods (especially the cheatsheet ): In general this is also the inverse of the other vir"
+      "name": "The MAD Podcast with Matt Turck",
+      "title": "What Happens When Billions of AI Agents Hit Your Database? (Andy Pavlo)",
+      "guid": "8a1c6546-cdae-4bef-883d-56cb734967df",
+      "url": "https://podcasters.spotify.com/pod/show/firstmark/episodes/What-Happens-When-Billions-of-AI-Agents-Hit-Your-Database--Andy-Pavlo-e3q4qu7",
+      "publishedAt": "2026-10-08T11:30:00.000Z",
+      "description": "AI agents are becoming the biggest users of databases: creating them, querying them, and sometimes deleting them. Andy Pavlo, Carnegie Mellon's database professor and now VP of Database Research at ClickHouse, explains what changes when billions of agents hit the data layer, and why most of the AI world's mental model of databases stopped at vector databases and RAG. Andy's CMU courses taught a generation of engineers (and, it turns out, the AI models); he writes the year-in-review on databases the whole industry reads; and this summer he joined ClickHouse to found ClickHouse Labs. We cover why vector databases were \"just an index,\" what it means for an agent to create a database, why agents could mean 10 to 100x more queries, whether files or databases should hold an agent's memory, how text-to-SQL went from 60% to 99.5% accuracy, why 60% of open-source databases now have commits from coding agents, and what ten years of self-driving database research taught him. Plus ClickHouse, Postgres, the vector/graph/GPU database verdicts, Larry Ellison, and the Wu-Tang Clan. Disclosure: FirstMark, where Matt is a General Partner, is an investor in ClickHouse. (00:00) Cold open &amp; Intro (01:21) From vector databases and RAG to the age of agents (04:09) Neon's stat: agents create 80% of databases? (07:25) Why agents keep deleting production databases (08:19) Guardrails: the toddler-and-stairs rule (10:51) The four eras of database volume: 10–100x more queries (15:10) Agent memory: files vs. databases (\"everything is a database\") (18:24) Which database do AI models recommend? The new SEO (19:25) \"It cites me back to myself\" (23:14) MCP for databases, and text-to-SQL from 60% to 99.5% (27:09) Trust an agent the way you'd trust a junior developer (27:47) Can AI build an entire database? Opus 4 and the CMU projects (29:57) 60% of open-source databases now have AI commits (30:43) Ten years of self-driving databases, Peloton to today (33:52) What LLMs changed: 85% of the tuning in 15 minutes (35:42) Should anyone still study databases? (38:27) Free CMU courses, the DJ, and the Wu-Tang final exam (42:09) Why start a research lab inside ClickHouse? (45:53) Why ClickHouse looked like vaporware in 2016 (47:46) What makes ClickHouse fast: columns, vectors, Snowflake's lineage (52:22) Why Databricks, Snowflake and ClickHouse all added Postgres (58:15) Vector, graph and GPU databases: thumbs up or down? (1:08:34) Is the database market stagnant? \"A cheetah on cocaine in a Ferrari\" (1:10:14) The relational model is arithmetic; SQL as the new assembly (1:11:59) Larry Ellison, Linux, and why databases still matter"
+    },
+    {
+      "source": "podcast",
+      "name": "AI & I by Every",
+      "title": "Why Every Traded Personal Agents for One Company Agent",
+      "guid": "flightcast:01M4BDW19ZFPED9TQ4S5DP60PY",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-10-07T17:11:13.000Z",
+      "description": "Subscribe to Every (free for 14 days): every.to/podcast-every-offer?utm_source=podcast&amp;utm_medium=audio&amp;utm_campaign=companyagentepisode &nbsp; On this week's episode of The Every Podcast , Dan Shipper sits down with Willie Williams, Every's head of platform and one of the driving forces behind the Every Agent, which launched this week. They discuss how Every went from everyone running their own OpenClaw to relying on one shared company agent—and where they think personal agents belong in everyday life.&nbsp; Links to resources mentioned in the episode: Willie Williams on X: https://x.com/bigwilliestyle The Every Agent: https://every.to/agent?utm_source=podcast&amp;utm_campaign=podcast&amp;utm_content=1006companyagent OpenClaw: https://openclaw.ai Tend, Dan's open-source feed app: https://every.to/tend?utm_source=podcast&amp;utm_campaign=podcast&amp;utm_content=1006companyagent Every’s Vibe Check on Dots: https://every.to/vibe-check/vibe-check-dots-always-on-agents-in-chatgpt?utm_source=podcast&amp;utm_campaign=podcast&amp;utm_content=1006companyagent Dot from OpenAI: https://openai.com/index/introducing-dots/ 0:00 Introduction 5:58 How OpenClaw spread through Every&nbsp; 11:13 Why everyone's personal agents eventually died&nbsp; 14:51 The difference between building for builders and building for operators&nbsp; 16:20 Why work will run on company agents while personal agents will stay personal&nbsp; 19:56 How engineering management has changed in the age of AI&nbsp; 21:43 Using an AI-powered feed to see everything happening across a product launch&nbsp; 23:53 Why Willie's token usage fell off a cliff&nbsp; 29:05 The benefit of having separate AI coaches for each part of your life&nbsp; 31:45 How Every is building its agent to surface information unprompted"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 2
   }
 }
