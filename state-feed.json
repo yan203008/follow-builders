@@ -1,16 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "substack:post:217289983": 1791026581099,
-    "substack:post:216783460": 1791026581099,
-    "09985d98-67c4-4c5e-a1be-6d201c56bc55": 1791026581398,
-    "https://www.youtube.com/shorts/bwr0ch8OPcU": 1791026583474,
-    "https://www.youtube.com/shorts/5gboi0uVaas": 1791026583951,
-    "https://www.youtube.com/shorts/jaPEUFyz8ec": 1791026584384,
-    "https://www.youtube.com/shorts/oVblLn8NYr4": 1791026584384,
-    "https://www.youtube.com/shorts/7sDdVh5nhrs": 1791026584897,
-    "https://www.youtube.com/shorts/spuYTzCnn4Q": 1791026585299,
-    "https://www.youtube.com/shorts/jYz1mMYBa3k": 1791026585299,
     "substack:post:217456046": 1791115437581,
     "https://www.youtube.com/shorts/ekyJ76rQtSI": 1791115438730,
     "https://www.youtube.com/shorts/RHjvXDCDfIg": 1791115439216,
@@ -85,11 +75,20 @@
     "https://www.youtube.com/watch?v=wwn5GUgcq80": 1791550437195,
     "https://www.youtube.com/shorts/iTvsma_H7ss": 1791550437914,
     "https://www.youtube.com/shorts/Vb5p2wJS-WU": 1791550438440,
-    "https://www.youtube.com/shorts/1Al1wGTInAg": 1791550438440
+    "https://www.youtube.com/shorts/1Al1wGTInAg": 1791550438440,
+    "substack:post:219666029": 1791634318419,
+    "substack:post:218414422": 1791634318419,
+    "44fa0b1c-be0b-11f1-b00d-cb6a27141e9e": 1791634318697,
+    "https://www.youtube.com/shorts/dSZr8h0Kg78": 1791634320708,
+    "https://www.youtube.com/shorts/lqZp123ugKw": 1791634321149,
+    "https://www.youtube.com/shorts/H7Q2JEsuTig": 1791634321149,
+    "https://www.youtube.com/shorts/cj5mVvSyFFI": 1791634321620,
+    "https://www.youtube.com/watch?v=0bSPgeTBj1M": 1791634321620,
+    "https://www.youtube.com/shorts/_K64QiL44MY": 1791634321935,
+    "https://www.youtube.com/shorts/YqIkV1_ffTU": 1791634322385,
+    "https://www.youtube.com/shorts/_TBY1sxSCbM": 1791634322385
   },
   "seenArticles": {
-    "https://claude.com/blog/cowork-is-now-claude": 1791026581987,
-    "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs": 1791026582527,
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1791464837939,
     "https://www.anthropic.com/engineering/april-23-postmortem": 1791464838603,
     "https://www.anthropic.com/engineering/managed-agents": 1791464839251
