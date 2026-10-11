@@ -1,36 +1,8 @@
 {
-  "generatedAt": "2026-10-10T12:11:59.734Z",
+  "generatedAt": "2026-10-11T12:26:00.931Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind &amp; Sal Candido, Biohub",
-      "guid": "substack:post:219666029",
-      "url": "https://www.latent.space/p/biohub-deepmind",
-      "publishedAt": "2026-10-10T00:31:26.000Z",
-      "description": "From the Bitter Lesson of AI scaling to the unsolved mysteries of protein folding , Google DeepMind’s Pushmeet Kohli and Biohub’s Sal Candido are rethinking what it takes to build AI that truly understands biology. In this special panel moderated by Brandon Anderson , they explore why AlphaFold’s breakthrough was only the beginning , why scaling compute and data alone won’t solve biology, and how the next generation of AI models could transform our understanding of proteins, cells, and human disease. We go deep on the future of AI-driven biology : finding scaling laws in biological data, the tradeoffs between scientific intuition and general-purpose architectures, why protein structure prediction is far from solved, and what it would take to build predictive models of living systems. Pushmeet reflects on the lessons behind AlphaFold , the limits of human interpretability, and whether future frontier models could understand other AI systems better than we can. Sal explains why protein language models may already contain scientific knowledge we haven’t unlocked, how biological modeling must move beyond individual proteins, and why achieving Biohub’s mission to cure all disease requires thinking in terms of 10x breakthroughs rather than incremental improvements. We discuss: * The Bitter Lesson for biology : why scaling compute and data isn’t enough * Why finding the right scaling law matters more than blindly increasing model size * How low-quality metagenomic data can improve protein language models * Why AI researchers optimize for available data instead of the most important scientific problems * Lessons from DeepMind on balancing modeling, data generation, and scientific expertise * Why building a virtual cell requires fundamentally different datasets * AlphaFold’s handcrafted architecture and the role of scientific intuition * Why good data matters more than simply having more data * Inductive biases, scaling laws, and the future of specialized AI architectures * Why we aren’t in a post-Transformer world , but architectures are evolving * Why AlphaFold didn’t actually solve all of protein folding * Protein dynamics, disorder , and the limitations of static structure prediction * How cryo-EM micrographs could unlock richer biological representations * Moving from models of individual proteins to whole biological systems * Feynman’s famous principle and why AI can now create things we don’t understand * The hidden biological knowledge</s"
-    },
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "Academia is for Ambition — Alex Zhang, MIT",
-      "guid": "substack:post:218414422",
-      "url": "https://www.latent.space/p/rlm",
-      "publishedAt": "2026-10-02T00:28:04.000Z",
-      "description": "Last call for regular tickets for AI Engineer NYC ! As an exclusive for Latent Space subscribers, the first 30 of you can take a 30% off code if it helps - for new tickets only, no refunds! See you in 2 weeks! While we tend to cover industry on the pod, every so often we celebrate a clearly emerging superstar PhD. In 2024 we featured Shunyu Yao , who went on to build Operator at OpenAI and is now Chief AI Scientist of Tencent . In 2025 we featured Jack Morris , who went on to cofound Engram at $600m and is now a leading voice on continual learning . This year we are proud to feature the work of Alex Zhang of MIT. From GPU kernels and KernelBench to Recursive Language Models , Mismanaged Geniuses , and massive multi-agent swarms, Alex Zhang is exploring how much capability we’re leaving on the table by wrapping increasingly powerful models in primitive systems. RLMs took over the timeline early this year: and an RLM based harness was the first to ~solve ARC-AGI-3 before OpenAI’s Astra: and is even today, influencing new research that has more extreme implications than RLMs: We go deep on GPU Mode and AI-written kernels, research taste and why academics should take bets industry labs won’t, GEV and alternatives to the standard autoregressive language model, and the idea of harnesses as compositional generalizers. Alex explains RLMs, context offloading, programmatic subagent calling, Prime Agent, persistent subagents, and why the “language model” of the future may actually be an invisible swarm of agents underneath a simple interface. We also discuss OpenAI’s massive agent experiments, Kimi swarms, open-ended research"
-    },
-    {
-      "source": "podcast",
-      "name": "No Priors",
-      "title": "Frontier Chips for Frontier AI Labs, with Walter Goodwin, Founder/CEO of Fractile",
-      "guid": "44fa0b1c-be0b-11f1-b00d-cb6a27141e9e",
-      "url": "https://www.youtube.com/@NoPriorsPodcast",
-      "publishedAt": "2026-10-02T10:00:00.000Z",
-      "description": "Founder and CEO of full-stack AI chip company Fractile, Walter Goodwin, joins Sarah Guo to discuss the bets he’s made on the future of the chip market as other major players like Broadcom, NVIDIA, and AMD try to accelerate their workloads. They discuss the difference in Fractile’s newer approach on model architecture with a full-stack team in the current chip landscape and the technical bets they’re making in that direction. Walter also talks about compressing the gap between the chip design cycle and its payoff period, and making a generational leap in AI inference to realize the bet in volume against the value to be captured.&nbsp; Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @goodwin_ml | @fractile_ai Chapters: 00:46 – Walter Goodwin and Fractile Introduction&nbsp; 02:29 – The Chip Landscape Now 04:56 – Common Handoffs From Architecture-Focused Players 07:18 – Full Stack Approach and Team Setup 09:49 – Fractile’s Most Important Technical Bets&nbsp; 15:32 – Workload Predictions and Compressing the Chip Design Cycle 23:03 – Architect Intent to Output Bottlenecks and Accelerating Trials 28:16 – Workload Bets on Model Architectural Shifts 31:20 – The Future of AI Chip Players and Market Structure&nbsp;&nbsp; 35:14 – Conclusion ]]>"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 3
+    "podcastEpisodes": 0
   }
 }
