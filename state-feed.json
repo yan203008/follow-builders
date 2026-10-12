@@ -1,16 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "https://www.youtube.com/watch?v=YyUl1QerHjA": 1791209258463,
-    "https://www.youtube.com/shorts/LCSqyC8q260": 1791209259327,
-    "https://www.youtube.com/shorts/NuiBLC2G4Fs": 1791209260218,
-    "https://www.youtube.com/watch?v=SFX8FIHFLE4": 1791209260528,
-    "https://www.youtube.com/shorts/xz2LRPRj6jU": 1791209260867,
-    "https://www.youtube.com/shorts/byLKKtKCE34": 1791209260867,
-    "https://www.youtube.com/watch?v=kz5Cpomk3HA": 1791209261227,
-    "https://www.youtube.com/shorts/vVSFVYbuxpQ": 1791209261540,
-    "https://www.youtube.com/shorts/VdKgiaqiSlo": 1791209261540,
-    "https://www.youtube.com/watch?v=Yn-3tVwy_l4": 1791209262066,
     "28c38604-c0da-11f1-8b1e-33a0102fe4b6": 1791291904795,
     "77097e65-4ead-46c4-b497-36fa09bd0f11": 1791291904860,
     "https://www.youtube.com/shorts/tBfuTk_A1mI": 1791291906470,
@@ -86,7 +76,18 @@
     "https://www.youtube.com/watch?v=TxEbJ1DQaZk": 1791721563890,
     "https://www.youtube.com/watch?v=qK-Gw3mBeVE": 1791721563890,
     "https://www.youtube.com/shorts/1sDgRVO62_M": 1791721564201,
-    "https://www.youtube.com/shorts/oJrcJ_O-AH4": 1791721564201
+    "https://www.youtube.com/shorts/oJrcJ_O-AH4": 1791721564201,
+    "https://www.youtube.com/shorts/KFYfMgU82ZA": 1791816990805,
+    "https://www.youtube.com/shorts/Z_WedwgaN3E": 1791816991217,
+    "https://www.youtube.com/watch?v=PXHRYbr3mp4": 1791816991528,
+    "https://www.youtube.com/shorts/VKukVgZe8F4": 1791816991997,
+    "https://www.youtube.com/shorts/NObGcqpqSKs": 1791816991997,
+    "https://www.youtube.com/shorts/APS8Nvd2dkc": 1791816992309,
+    "https://www.youtube.com/watch?v=4TOLm1g-gCE": 1791816992309,
+    "https://www.youtube.com/shorts/-lKc1jd9zIo": 1791816992618,
+    "https://www.youtube.com/shorts/ajhX1ZnSR3g": 1791816992618,
+    "https://www.youtube.com/watch?v=_xgrhq8pVvg": 1791816993036,
+    "https://www.youtube.com/watch?v=cCOhT7oWIew": 1791816993514
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/how-we-contain-claude": 1791464837939,
