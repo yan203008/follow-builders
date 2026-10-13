@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-10-12T14:56:29.883Z",
+  "generatedAt": "2026-10-13T13:53:41.626Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "David Silver and Lasse Espeholt of Ineffable Intelligence: A Superlearner for the Age of Experience",
+      "guid": "d7ae4536-c437-11f1-9011-633961538ee5",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-10-13T09:00:00.000Z",
+      "description": "David Silver spent two years building AlphaGo on human data. When he removed human data altogether building AlphaGo Zero, the AI surpassed AlphaGo in under two days. He left DeepMind to run that same bet in pursuit of superintelligence. David and Lasse Espeholt, co-founders of Ineffable Intelligence, explain their plan to build a “superlearner”—an agent that starts knowing nothing and discovers science, mathematics, and language for itself by direct experience instead of through a pre-training run. Silver argues that human-language reasoning is a ceiling, not a foundation, that alignment via chain-of-thought monitoring is already reaching its limits, and that the science of how superintelligences coexist should be worked out in simulation before anything touches the real world. Espeholt describes the GPU cluster and the lineage from IMPALA and SEED RL that makes the experiment possible. Silver’s forecast: strong evidence within a year, superintelligence in three. Hosted by Sonya Huang, Sequoia Capital 0:00 – Introduction 1:09 – What held true from Go to today, and what the LLM era changed 3:35 – Why leave DeepMind to start a new lab 5:58 – Why \"Ineffable\" (and the secret second reason) 7:03 – Lasse's path: scaling RL at DeepMind and Google Brain 9:31 – Defining a super learner and first contact 12:35 – Super learners vs. LLMs that make discoveries 13:59 – Day to day: the RL stack, crucibles and human-journey milestones 16:13 – Don't breadcrumb the objective: simple rewards, emergent complexity 21:16 – What a crucible looks like 24:14 – Go: one agent is boring, two is infinite 25:41 – Will agents rediscover language? 27:22 – Removing human priors: AlphaGo to AlphaZero 32:05 – Keeping human bias out of the crucibles 33:35 – Confidence, timing and super forecasting 36:24 – Is compute the driver? 38:13 – The ceiling on simulation and Rich Sutton's objection 43:44 – Alignment and the science of superintelligence 47:45 – Monitoring agents that don't think in English 51:01 – Pacing the frontier 52:54 – The compute setup: Vera Rubin on GCP 55:18 – Training, inference, simulation and RL scaling laws 57:40 – IMPALA and SEED RL 1:00:58 – 20 people and the compute-per-person ratio 1:04:49 – A research-led culture 1:05:47 – Predictions ]]>"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
