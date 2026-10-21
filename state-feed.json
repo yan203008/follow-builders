@@ -1,19 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "d7ae4536-c437-11f1-9011-633961538ee5": 1791899620738,
-    "https://www.youtube.com/watch?v=HdI_aYzgJIg": 1791899622930,
-    "https://www.youtube.com/shorts/i7G3bxEKut4": 1791899623727,
-    "https://www.youtube.com/shorts/zswjwR-jD7k": 1791899624160,
-    "https://www.youtube.com/watch?v=sIKsI1qAZdQ": 1791899624160,
-    "https://www.youtube.com/shorts/AAxGqtP-v4k": 1791899624659,
-    "https://www.youtube.com/watch?v=TQHgk-qft-8": 1791899624659,
-    "https://www.youtube.com/shorts/YPVlOpvGRvU": 1791899625151,
-    "https://www.youtube.com/shorts/HSyLYp9TLzE": 1791899625151,
-    "https://www.youtube.com/shorts/aI_hahQsb3g": 1791899625581,
-    "https://www.youtube.com/shorts/t-rjXVjh6TM": 1791899625581,
-    "https://www.youtube.com/shorts/dDzuUqB0xx4": 1791899626010,
-    "https://www.youtube.com/shorts/gjBXIj_PVpQ": 1791899626010,
     "28c38604-c0da-11f1-8b1e-33a0102fe4b6": 1791977451752,
     "77097e65-4ead-46c4-b497-36fa09bd0f11": 1791977451870,
     "https://www.youtube.com/shorts/9_l_xMvI7YY": 1791977454647,
@@ -107,7 +94,17 @@
     "https://www.youtube.com/shorts/UEVfRpXsusg": 1792494737446,
     "https://www.youtube.com/shorts/K_xu7y4V7sg": 1792494737446,
     "https://www.youtube.com/watch?v=iZDz8H0LdyM": 1792494737863,
-    "https://www.youtube.com/shorts/5VmmuFPwGzI": 1792494738282
+    "https://www.youtube.com/shorts/5VmmuFPwGzI": 1792494738282,
+    "substack:post:221372257": 1792582108570,
+    "https://www.youtube.com/shorts/1Jwd2eVlVvo": 1792582110116,
+    "https://www.youtube.com/shorts/l9WGcTKQLj4": 1792582110620,
+    "https://www.youtube.com/shorts/7WuMWwGgyWg": 1792582110620,
+    "https://www.youtube.com/watch?v=iD-0Kbul_zE": 1792582110938,
+    "https://www.youtube.com/shorts/3IMXBgCMzuA": 1792582111330,
+    "https://www.youtube.com/shorts/zqR8TvaPyC4": 1792582111330,
+    "https://www.youtube.com/watch?v=As2WKQfdsyA": 1792582111800,
+    "https://www.youtube.com/shorts/9OGkE65NmEs": 1792582111800,
+    "https://www.youtube.com/shorts/iKYR9Gxo9Xg": 1792582112315
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/redesigning-source-control": 1791977453029,
