@@ -1,16 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "8a1c6546-cdae-4bef-883d-56cb734967df": 1792232619221,
-    "flightcast:01M4BDW19ZFPED9TQ4S5DP60PY": 1792232619824,
-    "https://www.youtube.com/shorts/PYS-Yul--Gg": 1792232622343,
-    "https://www.youtube.com/watch?v=BNRfzI6E1Es": 1792232622343,
-    "https://www.youtube.com/shorts/KOmoW4xdnbo": 1792232622852,
-    "https://www.youtube.com/shorts/tGRs9475FnM": 1792232622852,
-    "https://www.youtube.com/shorts/tSl0A82X1mQ": 1792232623389,
-    "https://www.youtube.com/watch?v=lxDNHLgWInU": 1792232623389,
-    "https://www.youtube.com/shorts/kXBRfy3CjLo": 1792232623792,
-    "https://www.youtube.com/shorts/_9ecXUakdvI": 1792232624220,
     "substack:post:219146438": 1792320107821,
     "994123ec-c395-11f1-b01e-fff03490a570": 1792320107978,
     "https://www.youtube.com/shorts/VSOpd7AsBC0": 1792320109102,
@@ -94,10 +84,18 @@
     "https://www.youtube.com/shorts/w9sRZuNlrms": 1792754286792,
     "https://www.youtube.com/watch?v=uVgCKm9VfSQ": 1792754287260,
     "https://www.youtube.com/watch?v=wEmS3LwdKkk": 1792754287260,
-    "https://www.youtube.com/shorts/Ngl_xpTI5w4": 1792754287678
+    "https://www.youtube.com/shorts/Ngl_xpTI5w4": 1792754287678,
+    "substack:post:220234130": 1792838272644,
+    "c1edee86-471f-4e57-848d-a45a5de1dc53": 1792838272939,
+    "https://www.youtube.com/shorts/TLkcnpqFZs0": 1792838273697,
+    "https://www.youtube.com/shorts/mDlOybu9GKQ": 1792838273697,
+    "https://www.youtube.com/shorts/6o8dbIFrmAE": 1792838274209,
+    "https://www.youtube.com/shorts/s9PfcBcFBM4": 1792838274209,
+    "https://www.youtube.com/shorts/gWtB3pmEkag": 1792838274514,
+    "https://www.youtube.com/shorts/DS6W1Ok6TsU": 1792838274514,
+    "https://www.youtube.com/watch?v=E3BAOkBaYOg": 1792838274819,
+    "https://www.youtube.com/shorts/9o1i4tJVpg8": 1792838275350,
+    "https://www.youtube.com/shorts/w84i69lbEu8": 1792838275870
   },
-  "seenArticles": {
-    "https://www.anthropic.com/engineering/how-we-contain-claude": 1792232620094,
-    "https://www.anthropic.com/engineering/april-23-postmortem": 1792232620678
-  }
+  "seenArticles": {}
 }
