@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-10-26T12:34:45.678Z",
+  "generatedAt": "2026-10-27T11:52:02.398Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "⚡ An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio",
+      "guid": "youtube:vhPCo-8K78U",
+      "url": "https://www.youtube.com/watch?v=vhPCo-8K78U",
+      "publishedAt": "2026-10-26T15:00:07.000Z",
+      "description": "Watch the full show on YouTube: https://www.youtube.com/watch?v=vhPCo-8K78U Full show notes and links"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
