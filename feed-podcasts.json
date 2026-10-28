@@ -1,18 +1,36 @@
 {
-  "generatedAt": "2026-10-27T11:52:02.398Z",
+  "generatedAt": "2026-10-28T12:26:54.351Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "⚡ An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio",
-      "guid": "youtube:vhPCo-8K78U",
-      "url": "https://www.youtube.com/watch?v=vhPCo-8K78U",
-      "publishedAt": "2026-10-26T15:00:07.000Z",
-      "description": "Watch the full show on YouTube: https://www.youtube.com/watch?v=vhPCo-8K78U Full show notes and links"
+      "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+      "guid": "01a17e24-16fc-7437-bdba-3b11fa5abbe6",
+      "url": "https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands",
+      "publishedAt": "2026-10-27T18:40:19.000Z",
+      "description": "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new introduction ... Full show notes and links"
+    },
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "European Defense Sovereignty Starts in the Factory: Stark’s Uwe Horstmann and Johannes Schaback",
+      "guid": "538a8146-d177-11f1-8079-5369dbb6e923",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-10-28T09:00:00.000Z",
+      "description": "Two years after its founding, Stark has roughly 700 employees and strike drones in the field in Ukraine. CEO Uwe Horstmann and CTO Johannes Schaback argue that the real lesson of that war is not any single weapon: the innovation ecosystem behind it is the wonder weapon. They explain why Stark designs every system for mass manufacturing from day one, runs 10 to 15 programs like a venture portfolio, and views the staff sergeant who operates a system as just as important as the general who buys it. Johannes recounts the publicly reported failed trial that became a forging moment, as engineers worked around the clock at a freezing test range until they landed three consecutive hits. They discuss NATO’s principles of responsible AI use and the hard-coded constraints in Stark’s autonomy stack. And Uwe lays out his next big idea: defense contracts structured like cloud contracts with surge capacity built in, so production itself becomes deterrence. Hosted by Pat Grady and Luciana Lixandru, Sequoia Capital Chapters 0:00 – Introduction 1:03 – Billions in contracts in 18 months: Stark's four-part playbook 2:28 – The staff sergeant matters as much as the general, and wood beats plastic 7:42 – Why Europe is ready for a neo prime, and why procurement reform will last 11:45 – Startup DNA, venture-style programs, and \"as complex as a washing machine\" 16:27 – Born out of fire: the failed trial and the round-the-clock comeback 21:13 – Where Stark finds talent, and why defense is no longer off-limits 23:48 – Anatomy of a strike, from the wooden crate to the kill zone 27:22 – Vertical integration, multiple domains, and shifting left on manufacturing 32:53 – After the Hugging Face hack: guardrails on autonomous weapons 35:56 – Matching the primes on R&amp;D and scaling to 700 people in two years 39:24 – Deterrence by contract, and Europe's next chapter with the US ]]>"
+    },
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "Inside the Robot Data Factory: Mecka's Josh Gao on Sensorizing Humans to Train Robots",
+      "guid": "6ee9a1f4-cbf7-11f1-bd53-0b2f603ad192",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-10-20T09:00:00.000Z",
+      "description": "Robotics never got the internet's gift of free training data, so someone has to manufacture it. Josh Gao, founder and CEO of Mecka AI, runs one of the largest robot data factories, and he explains what that actually involves: custom baseball caps and tactile gloves because nothing off the shelf captures force, 100-gigabit upload lines to move hundreds of petabytes, and custom quality gates. Josh lays out the training recipe the industry is converging on (roughly a million hours of egocentric human data, tens of thousands of hours of robot data, and a few hours of in-domain teleop ) and why tactile and simulation data still have to enter the \"data pot of soup.\" He argues the field is still orders of magnitude behind Tesla's FSD, which spent a decade on two degrees of freedom while a robot hand has dozens. His take: there won't be a single GPT-3 moment for robotics, but a steady unlock of commercial tasks, starting with constrained industrial work and ending, he hopes, with robots mining asteroids. Hosted by Sonya Huang, Sequoia Capital 0:00 – Introduction 1:46 – What Mecka is: pixels, actions and logic 2:45 – Is robot data economically feasible without the internet? 4:15 – Teaching robots about carbon life 5:27 – Cloud kitchens, stablecoins and the path to robotics 7:03 – Entering robotics with a fresh lens 8:45 – What egocentric data is and why Mecka bet on it 10:09 – The first pilot: aunties and uncles with a mobile app 10:42 – Force data and tactile gloves 11:55 – Inside the operations of a data factory 14:41 – Heat-mapping the taxonomy of human work 15:42 – Quality gates, fraud and the McDonald’s POV videos 17:44 – Earning a margin as a data intermediary 19:33 – Millions of hours vs. Tesla’s decade 20:55 – Why it isn’t binary: unlocking commercial tasks along the way 22:02 – Home data is plentiful; home robots are the hardest 23:24 – Useful robots can be deployed today 24:35 – When robotics gets an FSD-style flywheel 26:42 – Deployment diffusion and the modern systems integrator 28:21 – Favorite vertical robot categories; mining an asteroid 30:08 – The hardware slate: Waymo-fying people 30:55 – EgoVerse 32:04 – The data pot of soup: the converged training mix 33:54 – Move 37 for robotics: AlphaGo and Federer 36:02 – World models and the training mix 36:58 – Will scaling the current mix get us to the promised land? 39:05 – Will the AGI labs steamroll robotics? 40:50 – Sci-fi roots and the Kawasaki Corleo 42:44 – How many robots in a decade? ]]>"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 3
   }
 }
