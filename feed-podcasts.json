@@ -1,36 +1,54 @@
 {
-  "generatedAt": "2026-10-28T12:26:54.351Z",
+  "generatedAt": "2026-10-29T12:37:54.848Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
-      "guid": "01a17e24-16fc-7437-bdba-3b11fa5abbe6",
-      "url": "https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands",
-      "publishedAt": "2026-10-27T18:40:19.000Z",
-      "description": "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new introduction ... Full show notes and links"
+      "title": "Why Agents Love Supabase",
+      "guid": "01a1794a-94ec-7106-9f74-d300c3d89af2",
+      "url": "https://latent.space/p/supabase",
+      "publishedAt": "2026-10-26T17:53:59.000Z",
+      "description": "AI agents are creating more software—and that changes what a backend needs to do. Supabase co-founders Paul Copplestone and Ant Wilson join swyx to discuss running long-lived workloads alongside the database, making schemas easier for agents to underst... Full show notes and links"
     },
     {
       "source": "podcast",
-      "name": "Training Data",
-      "title": "European Defense Sovereignty Starts in the Factory: Stark’s Uwe Horstmann and Johannes Schaback",
-      "guid": "538a8146-d177-11f1-8079-5369dbb6e923",
-      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-10-28T09:00:00.000Z",
-      "description": "Two years after its founding, Stark has roughly 700 employees and strike drones in the field in Ukraine. CEO Uwe Horstmann and CTO Johannes Schaback argue that the real lesson of that war is not any single weapon: the innovation ecosystem behind it is the wonder weapon. They explain why Stark designs every system for mass manufacturing from day one, runs 10 to 15 programs like a venture portfolio, and views the staff sergeant who operates a system as just as important as the general who buys it. Johannes recounts the publicly reported failed trial that became a forging moment, as engineers worked around the clock at a freezing test range until they landed three consecutive hits. They discuss NATO’s principles of responsible AI use and the hard-coded constraints in Stark’s autonomy stack. And Uwe lays out his next big idea: defense contracts structured like cloud contracts with surge capacity built in, so production itself becomes deterrence. Hosted by Pat Grady and Luciana Lixandru, Sequoia Capital Chapters 0:00 – Introduction 1:03 – Billions in contracts in 18 months: Stark's four-part playbook 2:28 – The staff sergeant matters as much as the general, and wood beats plastic 7:42 – Why Europe is ready for a neo prime, and why procurement reform will last 11:45 – Startup DNA, venture-style programs, and \"as complex as a washing machine\" 16:27 – Born out of fire: the failed trial and the round-the-clock comeback 21:13 – Where Stark finds talent, and why defense is no longer off-limits 23:48 – Anatomy of a strike, from the wooden crate to the kill zone 27:22 – Vertical integration, multiple domains, and shifting left on manufacturing 32:53 – After the Hugging Face hack: guardrails on autonomous weapons 35:56 – Matching the primes on R&amp;D and scaling to 700 people in two years 39:24 – Deterrence by contract, and Europe's next chapter with the US ]]>"
+      "name": "Latent Space",
+      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
+      "guid": "substack:post:221372257",
+      "url": "https://www.latent.space/p/sfcompute2",
+      "publishedAt": "2026-10-20T19:31:57.000Z",
+      "description": "This was recorded on the sidelines of the new Compute Trading track at AIE NYC. Catch us next at AIE CODE, our last flagship for the top agentic engineers in the world. In the early days of cloud, former guest Martin Casado made something so disruptive... Full show notes and links"
     },
     {
       "source": "podcast",
-      "name": "Training Data",
-      "title": "Inside the Robot Data Factory: Mecka's Josh Gao on Sensorizing Humans to Train Robots",
-      "guid": "6ee9a1f4-cbf7-11f1-bd53-0b2f603ad192",
-      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
-      "publishedAt": "2026-10-20T09:00:00.000Z",
-      "description": "Robotics never got the internet's gift of free training data, so someone has to manufacture it. Josh Gao, founder and CEO of Mecka AI, runs one of the largest robot data factories, and he explains what that actually involves: custom baseball caps and tactile gloves because nothing off the shelf captures force, 100-gigabit upload lines to move hundreds of petabytes, and custom quality gates. Josh lays out the training recipe the industry is converging on (roughly a million hours of egocentric human data, tens of thousands of hours of robot data, and a few hours of in-domain teleop ) and why tactile and simulation data still have to enter the \"data pot of soup.\" He argues the field is still orders of magnitude behind Tesla's FSD, which spent a decade on two degrees of freedom while a robot hand has dozens. His take: there won't be a single GPT-3 moment for robotics, but a steady unlock of commercial tasks, starting with constrained industrial work and ending, he hopes, with robots mining asteroids. Hosted by Sonya Huang, Sequoia Capital 0:00 – Introduction 1:46 – What Mecka is: pixels, actions and logic 2:45 – Is robot data economically feasible without the internet? 4:15 – Teaching robots about carbon life 5:27 – Cloud kitchens, stablecoins and the path to robotics 7:03 – Entering robotics with a fresh lens 8:45 – What egocentric data is and why Mecka bet on it 10:09 – The first pilot: aunties and uncles with a mobile app 10:42 – Force data and tactile gloves 11:55 – Inside the operations of a data factory 14:41 – Heat-mapping the taxonomy of human work 15:42 – Quality gates, fraud and the McDonald’s POV videos 17:44 – Earning a margin as a data intermediary 19:33 – Millions of hours vs. Tesla’s decade 20:55 – Why it isn’t binary: unlocking commercial tasks along the way 22:02 – Home data is plentiful; home robots are the hardest 23:24 – Useful robots can be deployed today 24:35 – When robotics gets an FSD-style flywheel 26:42 – Deployment diffusion and the modern systems integrator 28:21 – Favorite vertical robot categories; mining an asteroid 30:08 – The hardware slate: Waymo-fying people 30:55 – EgoVerse 32:04 – The data pot of soup: the converged training mix 33:54 – Move 37 for robotics: AlphaGo and Federer 36:02 – World models and the training mix 36:58 – Will scaling the current mix get us to the promised land? 39:05 – Will the AGI labs steamroll robotics? 40:50 – Sci-fi roots and the Kawasaki Corleo 42:44 – How many robots in a decade? ]]>"
+      "name": "No Priors",
+      "title": "Taking on ServiceNow: Coding Agents the Rest of Us with Serval Co-Founder and CEO Jake Stauch",
+      "guid": "060e3c46-d339-11f1-a994-87ae12352fb9",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-10-29T10:00:00.000Z",
+      "description": "What happens when you put code-generation agents in the hands of enterprise IT teams? With Serval, you get a system where it's easy for everyone to be a builder. Sarah Guo and Elad Gil sit down with Serval co-founder and CEO Jake Stauch to analyze his company’s direct challenge to ServiceNow as the enterprise automation and service management system of record. Jake explains that by building an AI platform for enterprise IT departments with Serval, users can safely build while still safeguarding permissions by strict deterministic approvals and an audit trail. He also talks about ProServal, the company’s team that embeds automation engineers directly with customers in order to provide ongoing support and service. Jake also discusses how AI was the big unlock to taking on ServiceNow, why he’s betting on coding agents getting even better, why consumer is a window into what will happen next in enterprise and why the SaaS-pocalypse might look more like a consolidation, why background agents are still a moonshot in enterprise software, and the importance of hiring product-oriented engineers. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @jakeserval | @getserval Chapters: 00:47 – Jake Stauch Introduction and Serval’s Background&nbsp; 03:00 – Expanding Coding Agents Beyond Engineers 04:40 – Limitations with Personal Agents in Enterprise 06:29 – Deploying Serval Effectively in Large Orgs&nbsp; 07:55 – Day 1 Ambition and Attacking Enterprise Systems of Record 09:51 – Taking on ServiceNow with Workflow Automation Platform 11:01 – Betting on the Evolution of Coding Agents and Building Guardrails in Enterprise 13:48 – Big Risks, Big Rewards, and Big Predictions for Serval and Coding Agents 16:40 – Adopting Different Sets of Building Principles at an Enterprise Level 20:49 – Token Maxing, Long-Term Budget Impacts, and ROI 22:39 – The SaaS-pocalypse and SaaS vs. AI 24:39 – The Mental Model for Delivering Platform-Level Power to the IT User at Enterprise 26:43 – Building Automations with Catalyst and Raising Technical Competence 28:55 – The Next Wave: Background Agents and Autonomy in Enterprise 32:23 – Hiring Velocity and Unlimited Ambition at Serval 34:17 – Keeping Pace with Customers and Fundamental Shifts in Product Function 37:05 – Conclusion ]]>"
+    },
+    {
+      "source": "podcast",
+      "name": "Unsupervised Learning",
+      "title": "Ep 95: Modal CEO on the Future of Inference, the Chaos of the GPU Market &amp; Origins of the Sandbox Bet",
+      "guid": "899611ab-5215-4e00-b177-4be18b8bdb5f",
+      "url": "https://unsupervised-learning.simplecast.com/episodes/ep-95-modal-ceo-on-the-future-of-inference-the-chaos-of-the-gpu-market-origins-of-the-sandbox-bet-7BVMndlI",
+      "publishedAt": "2026-10-28T13:03:16.000Z",
+      "description": "Jacob Effron and Pat Chase sit down with Erik Bernhardsson, co-founder and CEO of Modal, for his second appearance on Unsupervised Learning, now with the company past a $1B run rate. They dig into how the AI compute market actually works behind the scenes, why Modal’s early bets on sandboxes and low-level infrastructure paid off, and Erik’s takes on NeoClouds, NeoLabs, and where GPU prices are headed next. &nbsp; (0:00) Intro (1:26) The Compute Market Today (5:16) Modal’s Path to LLM Inference (10:02) Building the Hard Infrastructure (12:32) Unsolved Problems in Inference (16:07) Chips &amp; Model Sizes (21:21) What Wins in Inference (24:56) Prioritizing a Multi-Product Roadmap (30:20) Agents as Modal’s Users (33:19) The Next Big Bet After Sandboxes (38:58) Robotics &amp; Multimodal Inference (41:04) Scaling From $2M to $1B (42:51) NeoClouds &amp; NeoLabs (48:15) RL as a Service (51:40) Quickfire &nbsp; Pat is an AI investor at Redpoint Ventures. He’s led Redpoint’s investments in companies like Modal, Serval &amp; Hex. Follow Pat on Twitter: https://x.com/patrickachase Jacob is an AI investor at Redpoint Ventures. He's led Redpoint's investments in companies like Abridge, Physical Intelligence &amp; Legora. Follow Jacob on Twitter (@jacobeffron). On Unsupervised Learning we probe the sharpest minds in AI in search for the truth about what's real today, what will be real in the future and what it all means for businesses and the world. If you're a builder, researcher or investor navigating the AI world, this podcast will help you deconstruct and understand the most important breakthroughs and see a clearer picture of reality. Subscribe to this show to stay up to date on our latest episodes."
+    },
+    {
+      "source": "podcast",
+      "name": "AI & I by Every",
+      "title": "Can You Use AI To Make Good Art? — With Fred Graver",
+      "guid": "flightcast:01M5ZMA6CQA7GRSPWFZ1E7JB59",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-10-28T20:23:44.000Z",
+      "description": "Subscribe to Every (free for 14 days): https://every.to/youtube-every-offer Can AI create good art?&nbsp; Fred Graver thinks the answer depends on you. The Emmy Award–winning writer, producer, and founder of AI Writer’s Studio says AI can help with many parts of the creative process—but it can’t give you something to say. Without your own point of view, AI will only make your work more average. On this week’s episode of The Every Podcast, Natalia Quintero sits down with Graver. They discuss why every writer should have a ‘who I am as a writer’ document, the cast of AI collaborators he’s built into his own writers’ room, and the human quirks that make characters endearing—the part he insists AI can’t supply. Get Fred’s Skill: https://every.to/context-window/every-model-has-a-six-month-shelf-life-now Links to resources mentioned in the episode:&nbsp; • Follow Every: https://x.com/every &nbsp; • Follow Natalia Quintero: https://x.com/NataliaZarina &nbsp; • Follow Fred Graver: https://x.com/fredgraver • AI Writers Studio: https://aiwritersstudio.substack.com/ • Compound Writing plugin: https://every.to/guides/compound-writing &nbsp; • Compound Engineering plugin: https://every.to/guides/compound-engineering • Thesis conference: https://every.to/thesis-2027 • Follow Katie Parrott: https://x.com/kplikethebird &nbsp; • Follow Kieran Klaassen: https://x.com/kieranklaassen • Follow Dan Shipper: https://x.com/danshipper Timestamps: 0:00 Introduction 2:22 Fred’s path from National Lampoon and Letterman to Twitter and Microsoft 7:47 The “I want in” instinct behind every career pivot 12:19 How Best Week Ever taught Fred to build with the audience 13:26 Using AI as a virtual writers’ room, not a ghostwriter 16:07 Codifying industry expertise and studio culture into an AI core 20:32 The three phases of making entertainment with AI 26:27 Why you should brain-dump your idea before opening AI 38:47 Fred’s thesis: Success is knowing what the audience wants before it does 43:44 Fred’s day-to-day workflow across Claude, ChatGPT, and NotebookLM"
     }
   ],
   "stats": {
-    "podcastEpisodes": 3
+    "podcastEpisodes": 5
   }
 }
