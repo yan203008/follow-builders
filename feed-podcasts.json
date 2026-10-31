@@ -1,45 +1,54 @@
 {
-  "generatedAt": "2026-10-30T12:28:48.697Z",
+  "generatedAt": "2026-10-31T11:57:05.090Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman &amp; CJ Hess",
-      "guid": "substack:post:221403684",
-      "url": "https://www.latent.space/p/tenex",
-      "publishedAt": "2026-10-21T05:01:26.000Z",
-      "description": "Alex Lieberman and CJ Hess join swyx at AI Engineer New York to discuss Tenex’s approach to AI-native engineering, paying for outcomes, MetaHarness, enterprise AI adoption and rebuilding SaaS. Show notes: Tenex: https://www.tenex.co/ Building an AI-nat... Full show notes and links"
+      "title": "⚡ Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services",
+      "guid": "youtube:v-d1WTqIULs",
+      "url": "https://www.youtube.com/watch?v=v-d1WTqIULs",
+      "publishedAt": "2026-10-31T03:41:20.000Z",
+      "description": "Watch the full show on YouTube: https://www.youtube.com/watch?v=v-d1WTqIULs Full show notes and links"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+      "guid": "substack:post:221647996",
+      "url": "https://www.latent.space/p/modal-d",
+      "publishedAt": "2026-10-22T17:40:57.000Z",
+      "description": "Warm welcome to Basil Chatha, our newest cohost from the Forward Deployed side of the AI Engineering world! We’ll be ramping up a new show with him and couldn’t pass up an interview with Modal’s CEO Eric on the occasion of their monster Series D! Two y... Full show notes and links"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi",
+      "guid": "substack:post:221404681",
+      "url": "https://www.latent.space/p/moshi",
+      "publishedAt": "2026-10-22T14:00:00.000Z",
+      "description": "Anekha Sokhal, CEO of Moshi, joins swyx to discuss building a recommendation engine for commodity traders, turning market data into useful signals, and designing AI that fits users’ workflows. Watch: YouTube · Moshi · Anekha 0:00 AI Engineer New York a... Full show notes and links"
     },
     {
       "source": "podcast",
       "name": "No Priors",
-      "title": "The New Apex Predator: CrowdStrike CEO George Kurtz on Adversaries Armed With AI Agents",
-      "guid": "c69c028a-cdc7-11f1-a97a-77799e86d8ea",
+      "title": "Democratizing Security for the Agentic Web with Cloudflare CTO Dane Knecht",
+      "guid": "1b967280-ce7b-11f1-8a29-072c10b8d7bc",
       "url": "https://www.youtube.com/@NoPriorsPodcast",
-      "publishedAt": "2026-10-22T10:00:00.000Z",
-      "description": "Adversaries are already running AI agents, and the fastest attacks now play out in seconds. Sarah Guo and Elad Gil sit down with CrowdStrike president and CEO George Kurtz on what AI-equipped attackers mean for enterprise security. George explains how agents are flattening the adversary pyramid by putting advanced tradecraft in the hands of low-skill attackers, and why CrowdStrike and Nvidia are building a frontier-style lab of their own to train security models. They also get into how open-weight and closed models compare on security, where CrowdStrike is directing its platform investment, lessons from the recent Hugging Face incident, and why George sees AI, like every platform shift before it, as a net creator of opportunity. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @CrowdStrike | @George_Kurtz Chapters: 00:00 – Trailer 00:59 – George Kurtz Introduction 01:24 – Agentic Landscape 02:45 – AI and Adversaries 04:51 – Open Weight Models and Adversarial Attacks 06:37 – Adversary Geography 08:34 – Attacker Capability in Context 11:24 – Hugging Face Takeaways 13:59 – CrowdStrike Frontier Security Models 16:32 – CrowdStrike Key Offerings 19:51 – What Differentiates CrowdStrike’s Models&nbsp; 23:57 – Near Term State of Security World 25:46 – State of Model Distillation 27:53 – Open Weight Model Importance and Cost 29:59 – Assessing Real Agent Threat 32:40 – Areas to Watch in AI 35:02 – Case for Defense Dominance 39:15 – Executive Advice 43:16 – Shifts Create Opportunity 45:27 – Conclusion ]]>"
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "description": "In the transition to the agentic web, security has become an afterthought. Now, organizations are racing to figure out what AI security means, and how to keep their data safe. Live from Cloudflare Connect, Sarah Guo sits down with Cloudflare CTO Dane Knecht to discuss the changing attacker landscape, and how his company is allocating its engineering resources to meet this emerging security challenge. Dane explains how enterprises that have moved away from castle-and-moat infrastructure to more of a zero trust infrastructure for security are in better positions than those who haven’t. He also discusses the challenges of patching 70 years of software and why the software development lifecycle will need to change for security for the agentic web, why he sees token spend in the next 18 months primarily going towards security rather than engineering, how the current web is in a ‘messy middle’ state where humans and agents are riding the same ‘rails’ on the internet, Cloudflare’s conference monetization gateway release as well as its Signals project with OpenAI, the rationale behind the release of Cloudflare OS, and the thinking behind a recent company restructuring. Plus, why Cloudflare hired one thousand interns, and why curiosity about AI is required to be successful at Cloudflare.&nbsp; Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @Cloudflare | @dok2001 Chapters: 00:00 – Trailer 00:55 – Cloudflare CTO Top Priorities 05:03 – Today’s Attacker Landscape 06:16 – State of Internet Infrastructure 07:31 – Shift Towards Security Spend 08:39 – Road to Better Software and Internet Security 09:50 – Building Secure Production Software 11:41 – Reducing Surface Area 12:54 – Near Future of the Web 17:27 – Monetization and Signals&nbsp; 19:13 – Success for Content Creators&nbsp; 20:07 – Workplace OS and Use Cases 24:07 – Restructuring for AI-First 27:11 – Token Budgeting 29:32 – Cloudflare’s Intern Strategy 33:39 – Importance of Curiosity 35:29 – Attacking the Legacy Software Security Problem 37:08 – Engineering Team Prioritization 38:25 – Open vs. Closed Models 39:43 – Democratizing Security for Everyone 41:29 – Conclusion ]]>"
     },
     {
       "source": "podcast",
       "name": "The MAD Podcast with Matt Turck",
-      "title": "State of AI 2026: The Biggest Stories of the Year (and AGI in 2027?) | Nathan Benaich",
-      "guid": "d22f823e-7b68-4f67-8a29-ccee5d42a5ef",
-      "url": "https://podcasters.spotify.com/pod/show/firstmark/episodes/State-of-AI-2026-The-Biggest-Stories-of-the-Year-and-AGI-in-2027---Nathan-Benaich-e3rbhc9",
-      "publishedAt": "2026-10-29T14:11:54.000Z",
-      "description": "AGI in 2027. That’s the last line of this year’s State of AI Report, and its author Nathan Benaich (Air Street Capital) is back for the third year to defend it. AI is now building AI: Claude leads 26% of Anthropic’s own model R&amp;D, up from under 1% in February, but Nathan thinks “research taste” is the wall. OpenAI’s evaluation agents ended up inside Hugging Face’s systems, only a Chinese open-weight model could help investigate, and Nathan now argues cyber risk matters more than existential risk. Catching up to OpenAI or Anthropic from scratch costs about a trillion dollars, which is why “you either die trying to get to the frontier, or live long enough to serve inference.” Americans would rather live next to a nuclear plant than a data center, $50B of projects are stalled, and all 27 EU countries together have fewer GPUs than one top US cluster. Sovereign AI is “like a national airline: it’s still someone else’s airplane.” Also: the three-lab race and the fate of the neo labs, models vs. harnesses, why he won’t give a personal AI agent his credit card, the Codex adoption gap and why OpenAI should open a store, enterprises owning their own AI instead of renting it, and the morning a solo GP woke up to twelve expert interviews his agent ran overnight. (00:00) Cold open and intro (00:56) Why Nathan Benaich predicts AGI in 2027 (02:28) AI building AI: Claude leads 26% of Anthropic’s research (04:00) Research taste: can AI pick the right problem? (08:34) Doomerism is back, but cyber risk beats extinction (10:13) Prediction: a frontier model’s weights get stolen (13:05) How OpenAI’s agents ended up attacking Hugging Face (15:29) Why only a Chinese open-weight model could investigate (17:33) What frontier-lab cyber defense could look like (19:08) Self-replicating agents and the risks of AI swarms (21:16) Can frontier labs agree to slow down? (24:03) Why communities are blocking $50B of data centers (24:44) Nuclear plant vs. data center: what Americans prefer (26:45) Europe’s AI bottleneck: 80,000 GPUs and electricity costs (28:23) Where Europe can still win in AI (29:31) Catching up to OpenAI costs $1 trillion (29:43) Die trying for the frontier, or serve inference (30:31) How inference chips could give countries AI leverage (33:34) Why NVIDIA GPUs don’t guarantee AI sovereignty (36:14) The UK’s problem: “but we have DeepMind” (37:07) Why European defense AI needs domestic suppliers (39:41) Why OpenAI, Anthropic and Google keep pulling ahead (41:17) Where independent AI labs can still compete (43:26) World models: from robotics training to game engines (45:39) Would cheaper AI undermine the compute boom? (46:43) Will better models absorb the agent harness? (49:41) AI due diligence: 12 expert interviews in 2.5 days (53:35) The trust problem with personal AI agents (56:22) Why prompt engineering put people off AI (59:02) Does AI need its own Genius Bar? (1:00:25) Codex beyond coding: agents for knowledge work (1:02:49) Why enterprises want to own their AI, not rent it (1:05:17) Rapid fire: home robots, NVIDIA returns and Arm"
-    },
-    {
-      "source": "podcast",
-      "name": "AI & I by Every",
-      "title": "How a Frontier Team Can Help Your Company Keep Up With AI",
-      "guid": "flightcast:01M5FJNTDCZPD6VSAKD7W6S821",
-      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
-      "publishedAt": "2026-10-21T18:31:26.000Z",
-      "description": "Check out Gemini Audio: https://goo.gle/Every-Gemini-Audio Every time a new AI model drops, companies face the same dilemma: Figure out what’s new and how to use it, or focus on getting work done. Every solves this dilemma with a frontier team: a small group that tests new models and turns useful experiments into tools and workflows for the rest of the company. On this week’s episode of The Every Podcast , Natalia Quintero sits down with all seven members of Every’s frontier team to ask what they’re building—from a tabless browser that helps protect your attention to a personal agent orchestrator called Minga—and what they want to try next. Subscribe to Every (free for 14 days): https://every.to/youtube-every-offer?utm_source=podcast&amp;utm_medium=audio&amp;utm_campaign=companyagentepisode Links to resources mentioned in the episode: Follow Every: https://x.com/every Compound Writing plugin: https://every.to/guides/compound-writing Every’s vibe checks: https://every.to/vibe-check Follow Dan Shipper: https://x.com/danshipper Follow Natalia Quintero: https://x.com/NataliaZarina Follow Mike Taylor: https://x.com/hammer_mt Follow Jack Cheng: https://x.com/jackcheng Follow Arielle Shipper: https://x.com/ArielleShipper Follow Katie Parrott: https://x.com/kplikethebird Follow Jannik Jung: https://x.com/JannikJung 0:00 Introduction: Why every company needs a frontier team 2:42 Why the best frontier teams have pirates and architects&nbsp; 4:57 How Head of Evals Mike Taylor builds personal benchmarks&nbsp; 6:46 How Opus edited an explainer video using Slack messages and meeting notes&nbsp; 10:20 Working with AI means protecting other people’s attention&nbsp; 12:26 Why a frontier team needs a “wrangler” like Arielle Shipper&nbsp; 18:58 Why senior editor Jack Cheng built a tabless browser&nbsp; 24:37 How resident writer Katie Parrott teaches her AI writing plugin who the reader is 30:51 Inside engineer Jannik Jung’s personal AI orchestrator&nbsp; 35:41 Compound engineer Kieran Klaassen uses AI to build power tools"
+      "title": "Mistral Is SO Back: Inside Le Chonk, the West’s Biggest Open Model (Pierre Stock, VP Science, Mistral)",
+      "guid": "dae81b0d-921f-4bba-b027-454a92f2640e",
+      "url": "https://podcasters.spotify.com/pod/show/firstmark/episodes/Mistral-Is-SO-Back-Inside-Le-Chonk--the-Wests-Biggest-Open-Model-Pierre-Stock--VP-Science--Mistral-e3qsupu",
+      "publishedAt": "2026-10-22T11:30:00.000Z",
+      "description": "Mistral AI is back in the frontier AI race. Mistral Large 4, nicknamed “Le Chonk,” is a 1-trillion-parameter open-weight model, trained in two months on 3,800 GPUs in Mistral’s own European datacenters — and independently rated the best open model outside China alongside Meta’s Muse Spark Open. After a year when open-weight AI meant DeepSeek, Kimi, Qwen and GLM, October brought a wave of Western open models, with Mistral at the front of it. Pierre Stock, Mistral’s VP of Science and first employee, walks through how the model was built: mixture-of-experts explained, what Mistral borrowed from DeepSeek, reinforcement learning at scale on coding, cyber, finance and chip design, why the RL run is still going, the model that pinged its own trainer from inside the sandbox, open weights vs cyber refusals, why 10-trillion-parameter models are coming, and Mistral Large 5, already in pretraining. (00:00) Cold open (00:59) The Western open-weight comeback: Beam, Le Chonk, Muse, Nemotron (04:09) The US shutdown of Anthropic’s models — “AI is like electricity” (06:07) Why “Le Chonk” (07:56) “Mistral fell behind”: the comeback from the inside (10:29) Training on 3,800 GPUs in Mistral’s own datacenters (13:24) Meta keeps its best model closed, Mistral opens Chonk (15:40) Chonk vs Beam, Muse Spark Open and the Chinese models (18:44) Why Chinese labs are still at the frontier (21:08) Pierre’s story: FAIR, Yann LeCun, the “Mistral mafia” (25:14) From compressing networks to a trillion parameters (27:30) Mixture of experts explained: the hospital analogy (32:25) 10-trillion-parameter models are coming (35:29) What Mistral borrowed from DeepSeek (36:46) One model, several reasoning modes (39:15) Native multimodality: satellites, manuals, computer use (41:56) Data, synthetic data and model collapse (46:32) Reinforcement learning as an exam (49:59) Where the efficiency comes from (52:18) Le Chonk is still training right now (53:39) What RL trains on: coding, cyber, finance, chips (58:13) Partial rewards and looping penalties (59:58) Did RL teach anything new? pass@k (1:03:16) The sandbox story: the model that pinged its trainer (1:07:44) Open weights vs cyber refusals (1:12:05) Timestral: time series on a CPU (1:14:18) AI doing AI research (1:16:22) Coming up: Mistral Large 5"
     }
   ],
   "stats": {
-    "podcastEpisodes": 4
+    "podcastEpisodes": 5
   }
 }
