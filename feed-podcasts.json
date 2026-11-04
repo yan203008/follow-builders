@@ -1,18 +1,27 @@
 {
-  "generatedAt": "2026-11-03T13:54:28.094Z",
+  "generatedAt": "2026-11-04T14:03:48.828Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
-      "guid": "youtube:bJBEFzlKPoQ",
-      "url": "https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora",
-      "publishedAt": "2026-11-02T20:50:24.000Z",
-      "description": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies... Full show notes and links"
+      "title": "⚡️ The 2026 Software Factory Standard — Zach Lloyd, Warp.dev",
+      "guid": "youtube:LL0YmIyBKSU",
+      "url": "https://www.youtube.com/watch?v=LL0YmIyBKSU",
+      "publishedAt": "2026-11-03T20:16:25.000Z",
+      "description": "Watch the full show on YouTube: https://www.youtube.com/watch?v=LL0YmIyBKSU Full show notes and links"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "⚡ An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio",
+      "guid": "youtube:vhPCo-8K78U",
+      "url": "https://www.youtube.com/watch?v=vhPCo-8K78U",
+      "publishedAt": "2026-10-26T15:00:07.000Z",
+      "description": "Watch the full show on YouTube: https://www.youtube.com/watch?v=vhPCo-8K78U Full show notes and links"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 2
   }
 }
