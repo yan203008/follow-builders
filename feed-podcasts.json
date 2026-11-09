@@ -1,18 +1,27 @@
 {
-  "generatedAt": "2026-11-08T13:00:53.288Z",
+  "generatedAt": "2026-11-09T15:43:59.411Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "⚡ Building ChatGPT for Finance — Joseph Kim, OpenAI's Head of Financial Services",
-      "guid": "youtube:v-d1WTqIULs",
-      "url": "https://www.youtube.com/watch?v=v-d1WTqIULs",
-      "publishedAt": "2026-10-31T03:41:20.000Z",
-      "description": "Watch the full show on YouTube: https://www.youtube.com/watch?v=v-d1WTqIULs Full show notes and links"
+      "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "guid": "01a1bcf7-771f-7da1-affb-a7ead0a1434c",
+      "url": "https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco",
+      "publishedAt": "2026-11-08T21:23:29.000Z",
+      "description": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ... Full show notes and links"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "Using Agents for Long-Horizon Financial Work — Aman Singh, Arca",
+      "guid": "01a18ea6-94fa-7850-937b-c5c57b469b6a",
+      "url": "https://latent.space/p/arca",
+      "publishedAt": "2026-10-31T16:00:00.000Z",
+      "description": "Arca head of AI Aman Singh joins Latent Space head of editorial Richard MacManus at AI Engineer New York, to discuss how Arca is building an AI-native wealth management firm. Singh explains Arca's architecture, which includes a custom harness and persi... Full show notes and links"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 2
   }
 }
