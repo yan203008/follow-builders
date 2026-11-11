@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-11-10T14:37:12.780Z",
+  "generatedAt": "2026-11-11T13:52:32.356Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord &amp; Team",
-      "guid": "01a1c0f3-0e12-72e9-b44b-8ca8a4fe611d",
-      "url": "https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/what_frontier_labs_buy_a_data_deep_dive_with_handshake_ai_garrett_lord_team",
-      "publishedAt": "2026-11-09T16:41:48.000Z",
-      "description": "Our first deep dive with an AI data company. In roughly a year, Handshake built an AI training business doing nearly $1 billion in gross annualized revenue. What are frontier labs buying? Garrett Lord joins us with the people building reinforcement lea... Full show notes and links"
+      "title": "Designing for Agents — Zeno Rocha, Resend",
+      "guid": "01a1c6f7-44d3-7eaf-95ea-cb9de51baff2",
+      "url": "https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/designing_for_agents_zeno_rocha_resend",
+      "publishedAt": "2026-11-10T20:06:15.000Z",
+      "description": "swyx had already connected Cloudflare email. Then a coding agent opened a pull request that quietly chose Resend for him. Zeno Rocha, Resend’s founder and CEO, explains what answer engine optimization (AEO) looks like from the receiving end of that rec... Full show notes and links"
     },
     {
       "source": "podcast",
-      "name": "Unsupervised Learning",
-      "title": "Ep 96: Nebius CTO on Racing the Hyperscalers Before AWS Wakes Up",
-      "guid": "4248d1df-1156-4e68-b67a-5f3cfd063aea",
-      "url": "https://unsupervised-learning.simplecast.com/episodes/ep-96-nebius-cto-on-racing-the-hyperscalers-before-aws-wakes-up-AZ_eCjjr",
-      "publishedAt": "2026-11-02T13:54:35.000Z",
-      "description": "Nebius CTO Danila Shtan joins Jacob Effron to talk about what it takes to run an AI cloud at the frontier, and why he thinks the hyperscalers haven’t won this market yet. Today Nebius is a Nasdaq-listed AI cloud with infrastructure deals with Microsoft and Meta. Danila and Jacob discuss why open-model inference is still far from optimized, why 95% of Nebius customers run modified models instead of vanilla ones, and why prefill/decode disaggregation is more talk than practice. They also cover what’s actually constraining the AI buildout, why chip scarcity has kept AWS and Google from winning AI cloud, whether we’re overbuilding infrastructure, and how Nebius runs a large engineering org with no limits on AI token usage. &nbsp; (0:00) Intro (1:25) What Differentiates AI Clouds (6:16) Nebius’ Origin Story (10:15) Bringing New Nvidia Chips Online (14:55) What Different Customers Want (19:58) Latency vs. Cost (21:53) Disaggregated Prefill &amp; Decode (24:59) Inference’s Low-Hanging Fruit (28:31) What Nebius Should Productize (30:11) The Tavily Acquisition (31:56) How Data Centers Differ (34:29) Bottlenecks in the AI Buildout (37:03) How New Workloads Shape Clusters (39:17) Why Hyperscalers Didn’t Win This Market (43:39) The Future of Neoclouds (45:42) What Gets Absorbed by AI Hyperscalers (49:43) OpenAI x Baseten (52:07) Quickfire &nbsp; Jacob is an AI investor at Redpoint Ventures. He's led Redpoint's investments in companies like Abridge, Physical Intelligence &amp; Legora. Follow Jacob on Twitter (@jacobeffron). On Unsupervised Learning we probe the sharpest minds in AI in search for the truth about what's real today, what will be real in the future and what it all means for businesses and the world. If you're a builder, researcher or investor navigating the AI world, this podcast will help you deconstruct and understand the most important breakthroughs and see a clearer picture of reality. Subscribe to this show to stay up to date on our latest episodes."
+      "name": "Latent Space",
+      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+      "guid": "youtube:bJBEFzlKPoQ",
+      "url": "https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora",
+      "publishedAt": "2026-11-02T20:50:24.000Z",
+      "description": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies... Full show notes and links"
     }
   ],
   "stats": {
