@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-11-11T13:52:32.356Z",
+  "generatedAt": "2026-11-12T14:54:05.394Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
-      "name": "Latent Space",
-      "title": "Designing for Agents — Zeno Rocha, Resend",
-      "guid": "01a1c6f7-44d3-7eaf-95ea-cb9de51baff2",
-      "url": "https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/designing_for_agents_zeno_rocha_resend",
-      "publishedAt": "2026-11-10T20:06:15.000Z",
-      "description": "swyx had already connected Cloudflare email. Then a coding agent opened a pull request that quietly chose Resend for him. Zeno Rocha, Resend’s founder and CEO, explains what answer engine optimization (AEO) looks like from the receiving end of that rec... Full show notes and links"
+      "name": "No Priors",
+      "title": "Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg",
+      "guid": "c9a0c39e-de2a-11f1-9237-d39059052d4c",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-11-12T11:00:00.000Z",
+      "description": "Drug discovery and development has long relied on expensive, time-consuming empirical trial and error. By shifting the discovery process onto computers, Isomorphic Labs wants to fundamentally change medicine from a process of discovery to one of precision engineering. Elad Gil sits down with Isomorphic’s president Max Jaderberg to discuss his vision for using predictive AI models to achieve experimental accuracy. Max details how the success of AlphaFold provided the first proof of concept that a deep learning model could generalize in the field of biology, and how an AI model’s compounding of learnings allows it to achieve generalizability with scale, thus greatly increasing the probability of success as well as speed in real world clinical trials. He also talks about evolving past the need for animal testing through in-silico models, Isomorphic’s focus on developing drug design engines that are agnostic of disease area, target class, and modality, why accurate molecule engineering unlocks the potential for multidrug cocktails that span complex biological pathways, and how he believes AI molecule optimization will improve both human lifespan and healthspan. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @MaxJaderberg | @IsomorphicLabs Chapters: 00:00 – Trailer 00:45 – Max Jaderberg Introduction 01:24 – Isomorphic Origins 05:23 – Drug Discovery Stagnation 11:49 – Hiring at Isomorphic 14:35 – Bringing Drug Discovery Onto Computers 19:31 – Isomorphic’s Datasets 20:30 – Rethinking Endpoints 22:50 – External vs. Internal Dependences 23:57 – Automating Biologic Labs 26:22 – Internal Development vs. Partnerships 27:19 – Areas of Human Health Focus&nbsp; 29:21 – Multidrug Approaches 32:17 – Risk Appetite Variation 34:26 – Disease Treatment Outlook 35:42 – Human Longevity and Drug Development 39:16 – Conclusion ]]>"
     },
     {
       "source": "podcast",
-      "name": "Latent Space",
-      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
-      "guid": "youtube:bJBEFzlKPoQ",
-      "url": "https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora",
-      "publishedAt": "2026-11-02T20:50:24.000Z",
-      "description": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies... Full show notes and links"
+      "name": "AI & I by Every",
+      "title": "A New Vision for Human Work After Automation",
+      "guid": "flightcast:01M717KBM0K828PAMMP3ZPWV8P",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-11-11T15:30:00.000Z",
+      "description": "Thesis: 2027 is made possible by our founding partners, Lovable and Notion. Lovable is the fastest way to turn ideas into software people love: https://link.lovable.dev/every Notion is the collaborative AI workspace where teams and agents work side by side: https://www.notion.com/?utm_source=youtube&amp;utm_campaign=thesis-2027&amp;utm_content=every-261111-video What does great human work look like after automation? It’s a question we try to answer every day at Every, and the one we built our conference, Thesis, around. In his closing keynote, Dan Shipper argues that as AI makes intelligence cheap and widely available, what matters most is human perspective. It’s your “non-consensus” point of view, plus your responsibility for a particular corner of the world, that helps you spot the insight no one else would. On this week’s episode of The Every Podcast, we’re sharing Dan’s full talk at Thesis: 2027. Dan explains why benchmark charts make the future of work look bleaker than it is, why picking the right idea still takes a human, and how we should really measure AI models. Subscribe to Every (free for 14 days): https://every.to/youtube-every-offer?utm_source=podcast&amp;utm_medium=audio&amp;utm_campaign= ( https://every.to/youtube-every-offer?utm_source=podcast&amp;utm_medium=audio&amp;utm_campaign=companyagentepisode )thesistalkepisode Links to resources mentioned in the episode: Thesis: https://every.to/thesis-2027 Dan Shipper: https://x.com/danshipper OpenAI’s GDPval benchmark: https://openai.com/index/gdpval/ Timestamps: 0:00 Introduction 1:51 Work after automation 5:00 1 person vs 5 jobs 10:18 Why perspective matters 17:55 Better AI, more valuable humans"
     }
   ],
   "stats": {
