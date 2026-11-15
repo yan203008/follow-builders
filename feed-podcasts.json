@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-11-14T13:15:11.233Z",
+  "generatedAt": "2026-11-15T13:43:23.207Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter",
+      "guid": "youtube:P735f1xlpL0",
+      "url": "https://www.youtube.com/watch?v=P735f1xlpL0",
+      "publishedAt": "2026-11-07T02:49:28.000Z",
+      "description": "Watch the full show on YouTube: https://www.youtube.com/watch?v=P735f1xlpL0 Full show notes and links"
+    },
+    {
+      "source": "podcast",
+      "name": "Latent Space",
+      "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+      "guid": "01a1a3f4-4773-7ef4-9673-59b03a12c34b",
+      "url": "https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/controlling_biology_-_fabian_theis_helmholtz_munich_1",
+      "publishedAt": "2026-11-06T14:48:24.000Z",
+      "description": "Fabian Theis has been one of the key players in the various iterations of the Virtual Cell concept and initiatives. It is not hyperbole at all to say that his lab has been pushing the frontier of algorithms to understand multi-scale, multi-modal (”mult... Full show notes and links"
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 2
   }
 }
