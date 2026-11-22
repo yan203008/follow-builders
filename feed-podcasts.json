@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-11-21T14:26:40.588Z",
+  "generatedAt": "2026-11-22T14:21:23.296Z",
   "lookbackHours": 336,
-  "podcasts": [
-    {
-      "source": "podcast",
-      "name": "Latent Space",
-      "title": "⚡️Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC",
-      "guid": "youtube:wX8nDtGIfYA",
-      "url": "https://www.youtube.com/watch?v=wX8nDtGIfYA",
-      "publishedAt": "2026-11-18T20:00:20.000Z",
-      "description": "Watch the full show on YouTube: https://www.youtube.com/watch?v=wX8nDtGIfYA Full show notes and links"
-    }
-  ],
+  "podcasts": [],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 0
   }
 }
