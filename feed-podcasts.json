@@ -1,8 +1,27 @@
 {
-  "generatedAt": "2026-11-23T17:45:30.969Z",
+  "generatedAt": "2026-11-24T17:17:21.304Z",
   "lookbackHours": 336,
-  "podcasts": [],
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "Training Data",
+      "title": "OpenAI’s Noam Brown: Why Game Theory Didn’t Lead to General Intelligence (Live at No Limit Finals)",
+      "guid": "fa4bc7f0-e514-11f1-8a20-23a2aece5414",
+      "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMm5tdW61JpnyxeYH5NDDx8",
+      "publishedAt": "2026-11-24T10:00:00.000Z",
+      "description": "Noam Brown built the first AIs to beat top poker professionals, then concluded that game theory, the field his career was built on, was not the path to general intelligence. Recorded live at the Finals of No Limit, Sequoia’s pokerbot tournament, the OpenAI researcher describes his “crisis of faith”: game theory assumes everyone is rational, and the Diplomacy bots that won were the ones trained on human data to model how people actually behave in the messy real world. That sent him to OpenAI and the work that became o1, at a time when much of the field believed a bigger pre-trained model would solve everything. Noam explains why he asks every new model to build a pokerbot, where GPT-6 Astra still falls short, and why this is the “centaur period” of human plus AI. He argues that human progress has always been one giant recursive self-improvement loop, and shares his most controversial take: promising students should drop out and join the labs now. Hosted by Alfred Lin, Sequoia CapitalChapters: 0:00 – Introduction 0:09 – Why poker: a perfect strategy nobody knew 2:12 – How Noam would build a pokerbot in 60 minutes 4:37 – From poker to Diplomacy: where game theory breaks on irrational humans 9:39 – A crisis of faith and the bet on reasoning over bigger pre-training 13:01 – The unlock: models that think before acting 14:59 – The centaur period, and what gamers and AI researchers share 18:13 – Audience Q&amp;A: why models still can't build a great pokerbot alone 22:02 – Is chain of thought the right way to scale test-time compute? 23:42 – RSI and the case for dropping out to join the labs 27:54 – Lightning round: unsolved games and AI at the World Series of Poker ]]>"
+    },
+    {
+      "source": "podcast",
+      "name": "Unsupervised Learning",
+      "title": "Ep 98: China Expert on Jensen’s Return",
+      "guid": "36adfe0a-61bd-45ea-8069-54304171e5dd",
+      "url": "https://unsupervised-learning.simplecast.com/episodes/ep-98-china-expert-on-jensens-return-hq9diKMj",
+      "publishedAt": "2026-11-24T13:05:03.000Z",
+      "description": "ChinaTalk host Jordan Schneider joins Jacob Effron on the day Jensen Huang returned as NVIDIA's CEO to talk about what the comeback means for the AI ecosystem and US-China competition, and why he thinks the political fight over AI is only getting started. Jordan has run ChinaTalk, the newsletter and podcast on technology, China, and US policy, for the past ten years, and this is his fifth emergency episode in a week and a half. Jordan and Jacob discuss the fact pattern behind Jensen's ouster, why Jordan sees NVIDIA's blind eye to chip smuggling as the real scandal rather than the spy allegations, why he thinks a falling stock market moved Trump more than Chinese access to chips, and whether NVIDIA and America's AI build-out are stronger with Jensen back at the helm. They also cover the new Commerce rule cutting off Chinese remote access through Malaysian data centers, why Jordan believes Mythos ended the argument that AI is a normal technology, what founders should expect as China starts putting export controls on its own data and models, why humanoid robots can still barely pick up a muffin and how much of robotics runs on Chinese rare earths, and why he thinks money can't solve the coming political backlash against AI. (0:00) Intro (0:41) Jordan's Emergency Pod Streak (3:14) What Actually Happened at Nvidia (9:00) The Truth of the Spy Story (11:38) How China Is Reacting (13:38) The New Chip Export Rule (16:27) Why Trump Helped Bring Jensen Back (22:52) AI's Popularity Problem (26:20) Should We Sell Chips to China? (31:23) Advice for AI Founders (34:40) Robotics (36:48) Rare Earths and Magnets (38:16) The Next Emergency Pod Jacob is an AI investor at Redpoint Ventures. He's led Redpoint's investments in companies like Abridge, Physical Intelligence &#38; Legora. Follow Jacob on Twitter (@jacobeffron). On Unsupervised Learning we probe the sharpest minds in AI in search for the truth about what's real today, what will be real in the future and what it all means for businesses and the world. If you're a builder, researcher or investor navigating the AI world, this podcast will help you deconstruct and understand the most important breakthroughs and see a clearer picture of reality. Subscribe to this show to stay up to date on our latest episodes."
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 2
   }
 }
