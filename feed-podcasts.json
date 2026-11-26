@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-25T16:58:44.646Z",
+  "generatedAt": "2026-11-26T16:39:13.296Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs",
-      "guid": "01a1e632-c02d-713d-a840-cae7f745d45e",
-      "url": "https://latent.space/p/bfl",
-      "publishedAt": "2026-11-16T21:27:06.000Z",
-      "description": "What can a model learn about the world by watching video and listening to it? Black Forest Labs trained FLUX 3 on images, video and audio together. Andreas Blattmann and Dustin Podell join swyx to explain why. A moving camera reveals the far side of an... Full show notes and links"
+      "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+      "guid": "01a214b9-5541-7a74-8098-e2b949bce219",
+      "url": "https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/the_revolution_vs_the_renaissance_thariq_shihipar_openai",
+      "publishedAt": "2026-11-25T22:28:01.000Z",
+      "description": "AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel right. At AI Engineer CODE, Thariq Shihipar shows how those two futures can coexist. In his fighting game, he edits the size of a rock in t... Full show notes and links"
     }
   ],
   "stats": {
