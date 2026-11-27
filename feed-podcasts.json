@@ -1,18 +1,36 @@
 {
-  "generatedAt": "2026-11-26T16:39:13.296Z",
+  "generatedAt": "2026-11-27T16:24:21.085Z",
   "lookbackHours": 336,
   "podcasts": [
     {
       "source": "podcast",
       "name": "Latent Space",
-      "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
-      "guid": "01a214b9-5541-7a74-8098-e2b949bce219",
-      "url": "https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/the_revolution_vs_the_renaissance_thariq_shihipar_openai",
-      "publishedAt": "2026-11-25T22:28:01.000Z",
-      "description": "AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel right. At AI Engineer CODE, Thariq Shihipar shows how those two futures can coexist. In his fighting game, he edits the size of a rock in t... Full show notes and links"
+      "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+      "guid": "01a21990-d1c6-7354-bf88-7bee4614656f",
+      "url": "https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_clay_builds_gtm_agents_jeff_barg_head_of_ai",
+      "publishedAt": "2026-11-26T22:44:44.000Z",
+      "description": "Clay ( https://www.clay.com/ ) wants you to get about the same results whether you use its own agent or point Claude Code at Clay. Usage is already split close to 50/50 between Clay’s agent and outside harnesses. In this episode, we chat with Jeff Barg... Full show notes and links"
+    },
+    {
+      "source": "podcast",
+      "name": "No Priors",
+      "title": "Superintelligence Needs the Physical World with CEO and Co-Founder of Arda Bob McGrew",
+      "guid": "8fd14988-e40e-11f1-99ee-ebfb28833f04",
+      "url": "https://www.youtube.com/@NoPriorsPodcast",
+      "publishedAt": "2026-11-19T11:44:00.000Z",
+      "description": "Is the AI singularity actually coming? Bob McGrew, former Chief Research Officer at OpenAI, argues that superintelligence won’t arrive without changes in the physical world, and that the “hard takeoff” argument is wrong. Sarah Guo and Elad Gil sit down with Bob, an early key executive at Palantir who later led research at OpenAI. He is now CEO and co-founder of Arda, which is leveraging AI to make American manufacturing competitive. Bob explains why automating AI researchers is a one-time boost rather than a runaway loop, and why GPUs, compute, wet labs, and factories are the real bottlenecks.&nbsp; They cover Arda’s work with Anduril on everything from actuators to missiles to the Fury combat aircraft, why Arda is building “Cursor for manufacturing engineers”, and how the forward deployed engineering model really works. Plus, the big-picture future view: machines that make machines, self-replicating factories, and Bob’s answer to the Fermi paradox. Sign up for new podcasts every week. Email feedback to show@no-priors.com Follow us on Twitter: @NoPriorsPod | @Saranormous | @EladGil | @bobmcgrewai | @Arda_Industries Chapters: 00:00 – Trailer 00:05 – Bob McGrew Introduction 01:05 – Why work on the physical world during the AI revolution? 02:27 – Why the hard takeoff argument is wrong 05:48 – Labs or startups – who will win in robotics and biology? 13:00 – Why America designs products but doesn’t build them 16:33 – Who needs flexible automation: defense, consumer electronics, data centers 18:19 – Humanoid robots vs. robotic work cells 21:07 – Open-world vs. closed-world robotics 25:20 – Building with Anduril: from days to 90 minutes 28:59 – Palantir’s problem-first approach vs. OpenAI’s technology-first approach 33:15 – From dropping out of Stanford to joining OpenAI 37:13 – Why general robotics models suddenly work 40:28 – Implications for the robotics ecosystem 42:46 – On-device models, speed, and safety 44:18 – How forward deployed engineering really works 50:57 – Superintelligence out of the data center 53:41 – Self-replicating factories and Von Neumann probes 56:46 – Bob’s answer to the Fermi paradox 59:33 – Conclusion ]]>"
+    },
+    {
+      "source": "podcast",
+      "name": "AI & I by Every",
+      "title": "Notion’s Founder on the One Thing Your AI Is Missing",
+      "guid": "flightcast:01M7N6THM33K8YFWM1YCX4ZFKV",
+      "url": "https://www.youtube.com/playlist?list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL",
+      "publishedAt": "2026-11-18T18:19:30.000Z",
+      "description": "Lovable is the fastest way to turn ideas into software people love: https://lovable.dev/grow?utm_source=every&amp;utm_medium=podcast&amp;utm_campaign=2026-11-flagship-sponsorship&amp;utm_content=primary Now that AI enables anyone to build their own software, should you build everything yourself? At Thesis, Notion cofounder and CEO Ivan Zhao joins Every’s Dan Shipper to discuss which tools should and should not be vibe coded—and why you should understand how your systems work, even as agents do the building. Subscribe to Every (free for 14 days): https://every.to/youtube-every-offer?utm_source=youtube&amp;utm_campaign=thesis2027&amp;utm_content=thesistalktoolsforthought Links to resources mentioned in the episode: Ivan Zhao: https://x.com/ivanhzhao Ivan’s post on his 13th year at Notion, “The Next Era of Notion”: https://www.notion.com/blog/the-next-era-of-notion Notion Calendar: https://www.notion.com/product/calendar The IBM System/360, the room-sized computer Ivan references: https://www.ibm.com/history/system-360 Claude Code: https://claude.com/product/claude-code Claude: https://claude.ai ChatGPT: https://chatgpt.com Andrew Ambrosino, who leads the Codex app at OpenAI: https://ambrosino.io Timestamps: 0:00 Introduction&nbsp; 1:18 Why vibe coding revives the 1960s vision of software 4:40 When people should build their own tools—and when they shouldn't&nbsp; 7:47 Why data and context outlast UI and procedural logic&nbsp; 9:46 The history game Ivan is vibe coding with his wife&nbsp; 12:23 Bringing a 13-year-old company from pre-AI to post-AI&nbsp; 16:00 The TikTokification of AI and its second-order effects&nbsp; 19:46 Don't surrender your understanding to agents&nbsp; 22:01 Why builders need Lego-like blocks to vibe code 28:04 Why the next billion knowledge workers will be agents"
     }
   ],
   "stats": {
-    "podcastEpisodes": 1
+    "podcastEpisodes": 3
   }
 }
